@@ -6,3 +6,7 @@ body {font-family: Raleway,Tahoma,"Helvetica Neue", Helvetica, Arial, sans-serif
   height: 54px;
   line-height: 1;
   }
+h1 {
+  font-family: "Raleway Thin",Tahoma,"Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  }
