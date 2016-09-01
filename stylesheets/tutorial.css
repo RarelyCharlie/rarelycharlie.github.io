@@ -4,4 +4,5 @@ body {font-family: Raleway,Tahoma,"Helvetica Neue", Helvetica, Arial, sans-serif
   background: #159957 linear-gradient(to right, #1e90fe 0%, #73ccde 100%);
   padding: 0 80px;
   height: 54px;
+  line-height: 1;
   }
