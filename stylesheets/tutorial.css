@@ -1,2 +1,3 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 body {font-family: Raleway,Tahoma,"Helvetica Neue", Helvetica, Arial, sans-serif;}
+.page-header {background: #159957 linear-gradient(to right, #1e90fe 0%, #73ccde 100%);}
