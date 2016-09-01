@@ -14,6 +14,6 @@ h1 {
   font-weight: normal;
   }
 footer {
-  height: 54px;
+  height: 54px; width: 100%;
   background: #2f4e7a linear-gradient(top, #2f4e7a 0%, #181a30 100%);
   }
