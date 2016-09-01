@@ -10,12 +10,12 @@ Blah-de-blah...
 Now here's a quiz:
 
 <div class="quiz" data-show="1,3" />
--T The Earth is round
--T The Moon is round
--T The Sun is round
--T A circle is round
--F The Earth is flat
--F The Moon is flat
--F The Sun is flat
--F A circle is square
+- T The Earth is round
+- T The Moon is round
+- T The Sun is round
+- T A circle is round
+- F The Earth is flat
+- F The Moon is flat
+- F The Sun is flat
+- F A circle is square
 
