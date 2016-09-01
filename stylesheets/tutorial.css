@@ -16,4 +16,5 @@ h1 {
 footer {
   height: 54px; width: 100%;
   background: #2f4e7a linear-gradient(#2f4e7a, #181a30);
+  position: fixed; bottom: 0;
   }
