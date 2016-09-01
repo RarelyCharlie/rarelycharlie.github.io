@@ -13,3 +13,7 @@ h1 {
   font-family: "Raleway Thin",Tahoma,"Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   }
+footer {
+  height: 54px;
+  background: #2f4e7a linear-gradient(top, #2f4e7a 0%, #181a30 100%);
+  }
