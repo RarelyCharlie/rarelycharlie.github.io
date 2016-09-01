@@ -18,4 +18,4 @@ Now here's a quiz:
 - F The Moon is flat
 - F The Sun is flat
 - F A circle is square
-
+{: .haddock}
