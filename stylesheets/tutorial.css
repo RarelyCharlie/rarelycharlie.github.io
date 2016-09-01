@@ -5,8 +5,10 @@ body {font-family: Raleway,Tahoma,"Helvetica Neue", Helvetica, Arial, sans-serif
   padding: 0 80px;
   height: 54px;
   line-height: 50px;
+  position: relative;
   }
-.moon {width: 32px; height: 32px;}
+.moon {display: block; position: absolute; top: 11px; right: 12px;}
+.moon img {width: 32px; height: 32px;}
 h1 {
   font-family: "Raleway Thin",Tahoma,"Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
