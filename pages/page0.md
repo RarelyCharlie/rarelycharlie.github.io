@@ -17,4 +17,5 @@ Now here's a quiz:
 - F The Moon is flat
 - F The Sun is flat
 - F A circle is square
+
 {: .quiz data-show="1,3"}
