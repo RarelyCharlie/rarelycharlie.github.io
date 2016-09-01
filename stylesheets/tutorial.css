@@ -7,8 +7,8 @@ body {font-family: Raleway,Tahoma,"Helvetica Neue", Helvetica, Arial, sans-serif
   line-height: 50px;
   position: relative;
   }
-.moon {display: block; position: absolute; top: 11px; right: 12px; border-radius: 2px;}
-.moon img {width: 32px; height: 32px;}
+.moon {display: block; position: absolute; top: 11px; right: 12px;}
+.moon img {width: 32px; height: 32px; border-radius: 2px;}
 h1 {
   font-family: "Raleway Thin",Tahoma,"Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
