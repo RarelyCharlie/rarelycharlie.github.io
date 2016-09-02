@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,400,700);
 body {font-family: Raleway,Tahoma,"Helvetica Neue", Helvetica, Arial, sans-serif;}
 .page-header {
   background: #159957 linear-gradient(to right, #1e90fe 0%, #73ccde 100%);
@@ -10,8 +10,7 @@ body {font-family: Raleway,Tahoma,"Helvetica Neue", Helvetica, Arial, sans-serif
 .moon {display: block; position: absolute; top: 11px; right: 12px;}
 .moon img {width: 32px; height: 32px; border-radius: 2px;}
 h1 {
-  font-family: "Raleway Thin",Tahoma,"Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: normal;
+  font-weight: 100;
   }
 footer {
   height: 54px; width: 100%;
