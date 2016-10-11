@@ -4,10 +4,12 @@ layout: default
 ---
 # 1-to-1 chat
 {#1-to-1-chat}
+
 A private ~~chat~~. At least one of the people in a 1-to-1 chat must be a ~~listener~~ or ~~therapist~~, because ~~guests|guest~~ and ~~members|member~~ cannot chat 1-to-1 with guests or members.
 
 # 7 Cups
 {#7-cups}
+
 A business enterprise based in the United States of America and operating online worldwide to develop and deliver an innovative model of healthcare known as ~~weCare~~. Also, the online service provided by 7 Cups on its ~~website~~ and by means of its ~~app~~. _See also:_ ~~mission~~, ~~values~~
 
 # 7 Cups for the Searching Soul
@@ -18,12 +20,14 @@ The original full name of ~~7 Cups~~. The Internet domain 7cupsoftea.com redirec
 
 # @-sign
 {#at-sign}
+
 In a ~~feed~~ ~~post~~ or ~~forum~~ post, a prefix that turns the ~~name~~ of a ~~member~~, ~~listener~~ or ~~therapist~~ into a ~~tag~~. For example, @Boris tags the ~~account~~ named Boris.
 
 The account tagged will receive a ~~notification~~ containing a link to the feed or ~~thread~~. Logically, the notification should link to the post but this is not implemented.
 
 # \#-sign
 {#hash-sign}
+
 In a ~~feed~~ ~~post~~, a prefix that turns a word into a ~~hashtag~~.
 
 
