@@ -1,0 +1,111 @@
+---
+---
+<!DOCTYPE html>
+<html>
+<head>
+<title>7 Cups Glossary</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,200,400,500);
+html {padding-top: 80px;}
+body {font-size: 16px; font-family: Raleway; margin: 0;}
+#content h1 {font-size: 20px; font-weight: 500; margin-bottom: 0; z-index: 1; line-height: 26px; cursor: default;}
+#content h2 {font-size: 40px; font-weight: 200; border-bottom: 1px solid #ccc; margin-bottom: .5ex;}
+#header {position: relative; height: 80px; width: 100%; background: #159957 linear-gradient(to right, #1e90fe 0%, #73ccde 100%);}
+#footer {position: fixed; bottom: 0; height: 80px; width: 100%; background: #2f4e7a linear-gradient(#2f4e7a, #181a30);}
+#nav {height: 80px; padding-right: 24px; position: absolute; top: 0; right: 0; background: transparent;
+	text-align: left; line-height: 32px; color: black;}
+@media (max-width: 900px) {
+	html {padding-top: 160px;}
+	#header {height: 160px;}
+	#nav {position: relative; margin: 0 auto; width: 320px; text-align: center; padding: 1ex 0 0 0;}
+	}
+#nav p {margin-top: 8px;}
+#header {position: fixed; top: 0; text-align: center;}
+#header {font-weight: 400; margin: 0; font-size: 16px; line-height: 24px; color: white;}
+#header h2 {font-weight: 100; margin: 0; font-size: 40px; line-height: 40px;}
+#header span {letter-spacing: 1px; position: relative; top: 4px;}
+#content {max-width: 640px; margin: 0 auto; padding: 0 1ex 60em 1ex;}
+#content p {margin-top: 0; margin-left: 4em;}
+input {font-size: inherit; margin-left: 1ex; padding: 0 2px;}
+del {text-decoration: none; display: inline-block; color: #070; cursor: pointer;}
+del:hover {background: #afa; color: #00a;}
+#nohash {padding: 8px; border: 2px solid #a00; margin: 0 0 12px 0; box-shadow: 2px 2px 12px #a00; text-align: center;}
+.hidden {display: none;}
+.warning {color: #a00;}
+.faded {opacity: 0; transition: opacity 3s;}
+</style>
+<script>
+wait = null
+cleanup = null
+keypress = function () {
+	if (wait) clearTimeout(wait)
+	wait = setTimeout(gloss, 600)
+	if (cleanup) {
+		clearTimeout(cleanup)
+		cleanup = null
+		}
+	}
+gloss = function (term) {
+	var inp = document.getElementById("find")
+	var f = term? term : normalize(inp.value)
+	if (f == '') return
+	var h = f.length == 1? 'h2' : 'h1'
+	var tt = document.getElementsByTagName(h)
+	for (let i = 0; i < tt.length; ++i) {
+		let t = tt.item(i)
+		let c = t.id || normalize(t.innerHTML)
+		if (c.substr(0, f.length) != f) continue
+		document.body.scrollTop = t.offsetTop - document.getElementById('header').offsetHeight - 12
+		if (cleanup) clearTimeout(cleanup)
+		cleanup = setTimeout(function () {inp.value = ''}, 4000)
+		inp.focus()
+		return true
+		}
+	return false
+	}
+normalize = function (v) {
+	return v.toLowerCase().replace(/@/, 'at').replace(/\#/, 'hash').replace(/[^0-9a-z]/, '-')
+	}
+document.addEventListener('DOMContentLoaded', function () {
+	var dd = document.getElementsByTagName('DEL')
+	for (let i = 0; i < dd.length; ++i) {
+		let d = dd.item(i)
+		let t = d.innerHTML.split('|')
+		if (!t[1]) t[1] = t[0]
+		else d.innerHTML = t[0]
+		d.setAttribute('title', 'Find ' + t[1])
+		d.setAttribute('onclick', 'gloss(\'' + normalize(t[1]) + '\')')
+		}
+
+	dd = document.getElementsByTagName('H1')
+	for (let i = 0; i < dd.length; ++i) {
+		let d = dd.item(i)
+		if (!d.id) d.id = normalize(d.innerHTML)
+		d.setAttribute('title', '#' + d.id)
+		}
+
+	var s = location.hash.substr(1)
+	var ok = s? gloss(normalize(s)) : true
+	if (ok) return
+	document.getElementById('nohash').className = 'warning'
+	document.getElementById('badhash').innerHTML = '#' + s
+	setTimeout(function () {
+		document.getElementById('nohash').className = 'warning faded'
+		}, 4000)
+	})
+</script>
+</head>
+<body>
+<div id="header"><span>An unofficial</span><h2>7 Cups Glossary</h2>
+<div id="nav">
+<p>Find:<input id="find" size="24" onkeypress="keypress()" autofocus><br/>
+Please <a href="#" title="7 Cups forum thread">report</a> errors and omissions.</p>
+</div></div>
+<div id="content">
+<p id="nohash" class="hidden">The hashtag <span id="badhash"></span> cannot be found.</p>
+{{ content }}
+</div>
+<div id="footer"></div>
+</body>
+</html>
