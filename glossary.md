@@ -1,6 +1,6 @@
 ---
 title: 7 Cups Glossary
-layout: default
+layout: glossary
 ---
 
 # 1-to-1 chat
