@@ -2,14 +2,11 @@
 title: 7 Cups Glossary
 layout: default
 ---
-# 1-to-1 chat
-{#1-to-1-chat}
 
+<h1 id="1-to-1-chat">1-to-1 chat</h1>
 A private ~~chat~~. At least one of the people in a 1-to-1 chat must be a ~~listener~~ or ~~therapist~~, because ~~guests|guest~~ and ~~members|member~~ cannot chat 1-to-1 with guests or members.
 
-# 7 Cups
-{#7-cups}
-
+<h1 id="7-cups">7 Cups</h1>
 A business enterprise based in the United States of America and operating online worldwide to develop and deliver an innovative model of healthcare known as ~~weCare~~. Also, the online service provided by 7 Cups on its ~~website~~ and by means of its ~~app~~. _See also:_ ~~mission~~, ~~values~~
 
 # 7 Cups for the Searching Soul
