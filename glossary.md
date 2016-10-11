@@ -3,29 +3,24 @@ title: 7 Cups Glossary
 layout: glossary
 ---
 
-# 1-to-1 chat
-{:#1-to-1-chat}
+<h1 id="1-to-1-chat"> 1-to-1-chat</h1>
 A private ~~chat~~. At least one of the people in a 1-to-1 chat must be a ~~listener~~ or ~~therapist~~, because ~~guests|guest~~ and ~~members|member~~ cannot chat 1-to-1 with guests or members.
 
 <h1 id="7-cups">7 Cups</h1>
 A business enterprise based in the United States of America and operating online worldwide to develop and deliver an innovative model of healthcare known as ~~weCare~~. Also, the online service provided by 7 Cups on its ~~website~~ and by means of its ~~app~~. _See also:_ ~~mission~~, ~~values~~
 
-# 7 Cups for the Searching Soul
+<h1 id="7-cups-for-the-searching-soul">7 Cups for the Searching Soul</h1>
 A book that explains the philosophy underlying ~~7 Cups~~. Also published as a ~~self-help guide~~.
 
-# 7 Cups of Tea
+<h1 id="7-cups-of-tea">7 Cups of Tea</h1>
 The original full name of ~~7 Cups~~. The Internet domain 7cupsoftea.com redirects to 7cups.com. Also the title of a Chinese poem, part of which is quoted at the start of the book ~~7 Cups for the Searching Soul~~.
 
-# @-sign
-{#at-sign}
-
+<h1 id="at-sign">@-sign</h1>
 In a ~~feed~~ ~~post~~ or ~~forum~~ post, a prefix that turns the ~~name~~ of a ~~member~~, ~~listener~~ or ~~therapist~~ into a ~~tag~~. For example, @Boris tags the ~~account~~ named Boris.
 
 The account tagged will receive a ~~notification~~ containing a link to the feed or ~~thread~~. Logically, the notification should link to the post but this is not implemented.
 
-# \#-sign
-{#hash-sign}
-
+<h1 id="hash-sign">#-sign</h1>
 In a ~~feed~~ ~~post~~, a prefix that turns a word into a ~~hashtag~~.
 
 
@@ -63,7 +58,7 @@ Information or suggestions intended to solve or alleviate a problem. Whether or 
 The highest level of leadership role in the ~~community~~.
 
 # Amelia
-~~Listener|listener~~ ~~name~~ of ~~7 Cups'|7 Cups~~ ~~staff~~ member and assistant ~~community~~ manager Amelia Winsby.
+~~Listener|listener~~ ~~name~~ of ~~7 Cups'|7 Cups~~ ~~staff~~ member and assistant ~~community~~ manager Amelia Winsby. _See:_ [@Amelia](http://7cups.com/@Amelia)
 
 # announcement
 A ~~notification~~ sent manually to the ~~community~~ or to part of the community (as opposed to an automatic notification).
@@ -87,6 +82,10 @@ A token awarded to a ~~member~~ or ~~listener~~. Each type of badge is awarded f
 
 Each type of badge is color-coded bronze, silver, gold, platinum or diamond, but this has little real significance.
 
+# badge lock
+A restriction imposed on a ~~chatroom~~ so as to exclude anyone who does not have a certain ~~badge~~
+or one of a certain set of badges.
+
 # ban
 A setting that prevents an ~~account~~ from using ~~7 Cups~~. Used to protect the ~~community~~ after some ~~rule~~ has been broken.
 
@@ -109,7 +108,7 @@ A setting that prevents a pair of ~~accounts|account~~ from having any contact w
 A series of ~~posts|post~~ published by 7 Cups, similar to a ~~feed~~ but intended for public readership.
 
 # bot
-Originally short for robot. A computer program that behaves in some way like a person. The only bots on 7 Cups, as far as we know, are ~~Noni~~ and ~~Sofia~~.
+Originally short for robot. A computer program that behaves in some way like a person. The only bots on 7 Cups, as far as we know, are ~~Noni~~ and ~~Sophia~~.
 
 # boundary
 A personal rule (as opposed to a ~~community rule|rule~~).
@@ -134,6 +133,9 @@ A system that people can use to send ~~messages|message~~ to each other with ver
 
 # chatroom
 A system designed to allow many people to ~~chat~~ to each other at the same time. 7 Cups contains many chatrooms, each of them intended for particular topics or groups of participants.
+
+# check in
+A ~~forum~~ ~~thread~~ intended for people who have some common interest (for example, people coping with anxiety) to keep in touch regularly.
 
 # cheer
 A point awarded for activity on ~~7 Cups~~. Cheers accumulate and form part of the system of ~~reputation~~. Some people have accumulated more than a million cheers. _See also:_ ~~compassion heart~~
@@ -310,7 +312,7 @@ Third of the twenty groups of ~~member~~ ~~levels|level.~~
 ## I
 
 # Iara
-~~Listener|listener~~ ~~name~~ of ~~7 Cups'|7 Cups~~ ~~staff~~ member and ~~teen~~ ~~community~~ manager Sheenarai Oquendo. Not to be confused with ~~LaraG~~.
+~~Listener|listener~~ ~~name~~ of ~~7 Cups'|7 Cups~~ ~~staff~~ member and ~~teen~~ ~~community~~ manager Sheenarai Oquendo. Not to be confused with ~~LaraG~~. _See:_ [@Iara](http://7cups.com/@Iara)
 
 # impact
 A private page giving information about a ~~listener's|listener~~ activity on ~~7 Cups~~ (as opposed to the public information in the listener's ~~profile~~).
@@ -327,16 +329,16 @@ A ~~listener~~ at ~~7 Cups~~ for a limited period of time as a student placement
 ## K
 
 # Krink
-Short for KrinkTheMellowUnicorn, the ~~listener~~ name of ~~7 Cups~~ ~~staff~~ member Christian (or Xian) Crumlish.
+Short for KrinkTheMellowUnicorn, the ~~listener~~ name of ~~7 Cups~~ ~~staff~~ member Christian (or Xian) Crumlish.  _See:_ [@KrinkTheMellowUnicorn](http://7cups.com/@KrinkTheMellowUnicorn)
 
 
 ## L
 
 # LaraG
-~~Listener|listener~~ ~~name~~ of ~~7 Cups'|7 Cups~~ ~~staff~~ member and ~~therapist~~ ~~community~~ manager Lara Gregorio, who also has a ~~therapist~~ ~~account~~ named LaraGregorio. Not to be confused with ~~Iara~~.
+~~Listener|listener~~ ~~name~~ of ~~7 Cups'|7 Cups~~ ~~staff~~ member and ~~therapist~~ ~~community~~ manager Lara Gregorio, who also has a ~~therapist~~ ~~account~~ named LaraGregorio. Not to be confused with ~~Iara~~.  _See:_ [@LaraG](http://7cups.com/@LaraG), [@LaraGregorio](http://7cups.com/@LaraGregorio)
 
 # Laura
-~~Listener|listener~~ ~~name~~ of ~~7 Cups'|7 Cups~~ ~~staff~~ member Laura Small.
+~~Listener|listener~~ ~~name~~ of ~~7 Cups'|7 Cups~~ ~~staff~~ member Laura Small. _See:_ [@Laura](http://7cups.com/@Laura)
 
 # Leader
 A leadership role in the ~~community~~, below ~~Ambassador~~.
@@ -591,7 +593,7 @@ A symbol expressing emotion in a ~~message~~ or ~~post~~, so called because the 
 # Soaring Heights
 15th of the twenty groups of ~~member~~ ~~levels|level.~~
 
-# Sofia
+# Sophia
 A bot that engages in a limited ~~conversation~~ with ~~members|member~~ who sign up for ~~therapy~~ and that helps to identify a suitable ~~therapist~~.
 
 # Specialist
