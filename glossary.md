@@ -3,7 +3,7 @@ title: 7 Cups Glossary
 layout: default
 ---
 
-<h1 id="1-to-1-chat">1-to-1 chat</h1>
+# 1-to-1 chat # {#1-to-1-chat}
 A private ~~chat~~. At least one of the people in a 1-to-1 chat must be a ~~listener~~ or ~~therapist~~, because ~~guests|guest~~ and ~~members|member~~ cannot chat 1-to-1 with guests or members.
 
 <h1 id="7-cups">7 Cups</h1>
