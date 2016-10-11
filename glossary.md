@@ -64,9 +64,9 @@ The highest level of leadership role in the ~~community~~.
 A ~~notification~~ sent manually to the ~~community~~ or to part of the community (as opposed to an automatic notification).
 
 # anonymity
-Used within ~~7 Cups~~ to mean that there is no public connection between the ~~name~~ of a 7 Cups ~~guest~~, ~~member~~ or ~~listener~~ ~~account~~ and the real-life owner of the account. (Member and listener accounts have associated e-mail addresses, but they are not known to the ~~community~~ as a whole, only to ~~admins|admin~~.)
+Used within ~~7 Cups~~ to mean that there is no public connection between the ~~name~~ of a 7 Cups ~~guest~~, ~~member~~ or ~~listener~~ ~~account~~ and the real-life owner of the account. (Member and listener accounts have associated e-mail addresses, but they are not known to the ~~community~~ as a whole, only to ~~admins|admin~~.) 
 
-No accounts are truly anonymous. ~~Deactivated|deactivate~~ accounts all have the name ~~Unknown~~.
+<p>No accounts are truly anonymous. ~~Deactivated|deactivate~~ accounts all have the name ~~Unknown~~.</p>
 
 # app
 The ~~7 Cups~~ application for iOS and Android devices (as opposed to the ~~website~~).
@@ -361,7 +361,7 @@ A listener who has a mutually supportive association with another listener.
 Second of the twenty groups of ~~member~~ ~~levels|level.~~
 
 # log in
-To activate an ~~account~~ in the ~~website~~ or ~~app~~ by specifying a ~~name~~ and password, except for ~~guest~~ accounts, which are logged in automatically with a name set by the system and no password. The account's ~~status~~ is set to ~~online~~, except for ~~listener~~ accounts, whose the status is set manually by the listener.
+To activate an ~~account~~ in the ~~website~~ or ~~app~~ by specifying a ~~name~~ and password, except for ~~guest~~ accounts, which are logged in automatically with a name set by the system and no password. The account's ~~status~~ is set to ~~online~~, except for ~~listener~~ accounts, whose status is set manually by the listener.
 
 # log out
 To temporarily deactivate an ~~account~~. The account continues to receive ~~messages|message~~ and ~~notifications|notification~~. Its ~~status~~ is set to ~~offline~~. 
