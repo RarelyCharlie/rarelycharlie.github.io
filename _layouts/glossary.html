@@ -59,7 +59,6 @@ gloss = function (term) {
 		document.body.scrollTop = t.offsetTop - document.getElementById('header').offsetHeight - 12
 		if (cleanup) clearTimeout(cleanup)
 		cleanup = setTimeout(function () {inp.value = ''}, 4000)
-		inp.focus()
 		return true
 		}
 	return false
@@ -71,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	var dd = document.getElementsByTagName('DEL')
 	for (let i = 0; i < dd.length; ++i) {
 		let d = dd.item(i)
-		let t = d.innerHTML.split('|')
+		let t = d.innerHTML.split('/')
 		if (!t[1]) t[1] = t[0]
 		else d.innerHTML = t[0]
 		d.setAttribute('title', 'Find ' + t[1])
