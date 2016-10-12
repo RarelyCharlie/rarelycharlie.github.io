@@ -56,7 +56,9 @@ gloss = function (term) {
 		let t = tt.item(i)
 		let c = t.id || normalize(t.innerHTML)
 		if (c.substr(0, f.length) != f) continue
-		document.body.scrollTop = t.offsetTop - document.getElementById('header').offsetHeight - 12
+		setTimeout(function () {
+			document.body.scrollTop = t.offsetTop - document.getElementById('header').offsetHeight - 12
+			}, 100)
 		if (cleanup) clearTimeout(cleanup)
 		cleanup = setTimeout(function () {inp.value = ''}, 4000)
 		return true
