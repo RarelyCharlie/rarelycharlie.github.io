@@ -66,7 +66,7 @@ gloss = function (term) {
 	return false
 	}
 normalize = function (v) {
-	return v.toLowerCase().replace(/@/, 'at').replace(/\#/, 'hash').replace(/[^0-9a-z]/, '-')
+	return v.toLowerCase().replace(/@/, 'at').replace(/\#/, 'hash').replace(/\s/, '-').replace(/[^0-9a-z-]/, '-')
 	}
 document.addEventListener('DOMContentLoaded', function () {
 	var dd = document.getElementsByTagName('DEL')
