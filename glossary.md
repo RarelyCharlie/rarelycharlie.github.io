@@ -4,10 +4,10 @@ layout: glossary
 ---
 
 <h1 id="1-to-1-chat"> 1-to-1-chat</h1>
-A private ~~chat~~. At least one of the people in a 1-to-1 chat must be a ~~listener~~ or ~~therapist~~, because ~~guests/guest~~ and ~~members/member~~ cannot chat 1-to-1 with guests or members.
+A private ~~chat~~. At least one of the people in a 1-to-1 chat must be a ~~listener~~ or ~~therapist,/therapist~~ because ~~guests/guest~~ and ~~members/member~~ cannot chat 1-to-1 with guests or members.
 
 <h1 id="7-cups">7 Cups</h1>
-A business enterprise based in the United States of America and operating online worldwide to develop and deliver an innovative model of healthcare known as ~~weCare~~. Also, the online service provided by 7 Cups on its ~~website~~ and by means of its ~~app~~. _See also:_ ~~mission~~, ~~values~~
+A business enterprise based in the United States of America and operating online worldwide to develop and deliver an innovative model of healthcare known as ~~weCare~~. Also, the online service provided by 7 Cups on its ~~website~~ and by means of its ~~app~~. _See also:_ ~~mission,/mission~~ ~~values~~
 
 <h1 id="7-cups-for-the-searching-soul">7 Cups for the Searching Soul</h1>
 A book that explains the philosophy underlying ~~7 Cups~~. Also published as a ~~self-help guide~~.
@@ -16,12 +16,12 @@ A book that explains the philosophy underlying ~~7 Cups~~. Also published as a ~
 The original full name of ~~7 Cups~~. The Internet domain 7cupsoftea.com redirects to 7cups.com. Also the title of a Chinese poem, part of which is quoted at the start of the book ~~7 Cups for the Searching Soul~~.
 
 <h1 id="at-sign">@-sign</h1>
-In a ~~feed~~ ~~post~~ or ~~forum~~ post, a prefix that turns the ~~name~~ of a ~~member~~, ~~listener~~ or ~~therapist~~ into a ~~tag~~. For example, @Boris tags the ~~account~~ named Boris.
+In a ~~feed~~ ~~post~~ or ~~forum~~ post, a prefix that turns the ~~name~~ of a ~~member,/member~~ ~~listener~~ or ~~therapist~~ into a ~~tag~~. For example, @Boris tags the ~~account~~ named Boris.
 
 The account tagged will receive a ~~notification~~ containing a link to the feed or ~~thread~~. Logically, the notification should link to the post but this is not implemented.
 
 <h1 id="hash-sign">#-sign</h1>
-In a ~~feed~~ ~~post~~, a prefix that turns a word into a ~~hashtag~~.
+In a ~~feed~~ ~~post,/post~~ a prefix that turns a word into a ~~hashtag~~.
 
 
 ## A
@@ -29,7 +29,7 @@ In a ~~feed~~ ~~post~~, a prefix that turns a word into a ~~hashtag~~.
 # account
 A persistent Internet identity and ~~name~~ used to access 7 Cups.
 
-There are four types of account. A ~~member~~, ~~listener~~ or ~~therapist~~ account is password-protected and persists across devices and browser profiles. A ~~guest~~ account has no password, and it persists only on one device and browser profile.
+There are four types of account. A ~~member,/member~~ ~~listener~~ or ~~therapist~~ account is password-protected and persists across devices and browser profiles. A ~~guest~~ account has no password, and it persists only on one device and browser profile.
 
 Each person who uses 7 Cups can have one of each type of account, in practice, but should not have more than one of any type. The ~~rule~~ about this is unclear.
 
@@ -37,13 +37,13 @@ Each person who uses 7 Cups can have one of each type of account, in practice, b
 17th of the twenty groups of ~~member~~ ~~levels/level.~~
 
 # active listening
-A method of listening involving active feedback, principally through ~~reflection~~. The method used by ~~listeners/listener~~ to provide emotional support to ~~members/member~~ and ~~guests/guest~~.
+A method of listening involving active feedback, principally through ~~reflection~~. The method used by ~~listeners/listener~~ to provide ~~emotional support~~ to ~~members/member~~ and ~~guests/guest~~.
 
 # admin
 An administrator. Admins are paid ~~staff~~ of ~~7 Cups~~.
 
 # adult
-An ~~account~~ whose owner has registered as being 18 years old or older. Adult ~~listeners/listener~~ can only take ~~1-to-1 chats/1-to-1 chat~~ with adult ~~guests/guest~~ and ~~members/member~~, but ~~teen and adult~~ listeners do not have this restriction.  _See also:_ ~~teen~~
+An ~~account~~ whose owner has registered as being 18 years old or older. Adult ~~listeners/listener~~ can only take ~~1-to-1 chats/1-to-1 chat~~ with adult ~~guests/guest~~ and ~~members,/member~~ but ~~teen and adult~~ listeners do not have this restriction.  _See also:_ ~~teen~~
 
 # Advanced
 10th of the 27 groups of ~~listener~~ ~~levels/level.~~
@@ -64,7 +64,7 @@ The highest level of leadership role in the ~~community~~.
 A ~~notification~~ sent manually to the ~~community~~ or to part of the community (as opposed to an automatic notification).
 
 # anonymity
-Used within ~~7 Cups~~ to mean that there is no public connection between the ~~name~~ of a 7 Cups ~~guest~~, ~~member~~ or ~~listener~~ ~~account~~ and the real-life owner of the account. (Member and listener accounts have associated e-mail addresses, but they are not known to the ~~community~~ as a whole, only to ~~admins/admin~~.)
+Used within ~~7 Cups~~ to mean that there is no public connection between the ~~name~~ of a 7 Cups ~~guest,/guest~~ ~~member~~ or ~~listener~~ ~~account~~ and the real-life owner of the account. (Member and listener accounts have associated e-mail addresses, but they are not known to the ~~community~~ as a whole, only to ~~admins/admin~~.)
 
 No accounts are truly anonymous. ~~Deactivated/deactivate~~ accounts all have the name ~~Unknown~~.
 
@@ -99,7 +99,7 @@ Third of the 27 groups of ~~listener~~ ~~levels/level.~~
 12th of the twenty groups of ~~member~~ ~~levels/level.~~
 
 # bio design
-The design of the owner-supplied part of the information in a ~~profile~~. Also a team of people who help others in the ~~community~~, especially ~~listeners/listener~~, to create fancy designs for their profiles. (The term “bio” comes from “biography”.)
+The design of the owner-supplied part of the information in a ~~profile~~. Also a team of people who help others in the ~~community,/community~~ especially ~~listeners/listener~~, to create fancy designs for their profiles. (The term “bio” comes from “biography”.)
 
 # block
 A setting that prevents a pair of ~~accounts/account~~ from having any contact with each other. Used to protect people from unwanted ~~chats/chat~~ or ~~messages/message~~.
@@ -150,6 +150,9 @@ All the people involved in ~~7 Cups~~.
 ~~Rules/rule~~ and guidance that apply to behavior in the ~~community~~. There is a separate version for ~~listeners/listener~~.
 
 _See:_ [Community Guidelines](https://docs.google.com/document/d/18gttZ4jy6oDFEtOlQkcYdel29OsJkolwEu46II5GfLE/edit), [Listener Community Guidelines](http://www.7cups.com/listener/communityGuidelinesForListeners.php)
+
+# Community Liaison
+A special ~~account~~ for answering questions about ~~7 Cups~~ that any ~~member~~ or ~~listener~~ may need to ask. The account is configured to look like a ~~listener~~ but it does not normally take chats and the questions are answered by a team of listeners. _See:_ [Community Liaison](https://www.7cups.com/@CommunityLiaison)
 
 # community manager
 The member of staff responsible for the community, ??? 
@@ -282,7 +285,7 @@ A ~~cheer~~.
 Guest Support. A ~~chatroom~~. The only chatroom that ~~guests/guest~~ can use.
 
 # guest
-An ~~account~~ created automatically that can be used without a password, or a person using such an account. Guest accounts have restricted access to ~~7 Cups'/7 Cups~~ features. Intended only for people needing emotional support who do not have a member account.
+An ~~account~~ created automatically that can be used without a password, or a person using such an account. Guest accounts have restricted access to ~~7 Cups'/7 Cups~~ features. Intended only for people needing ~~emotional support~~ who do not have a member account.
 
 # Guest Support
 A ~~chatroom~~. The only chatroom that ~~guests/guest~~ can use.
@@ -292,7 +295,7 @@ A ~~self-help guide~~, or some other guidance published in a ~~forum~~.
 
 
 # Guru
-18th of the 27 groups of ~~listener~~ ~~levels/level.~~
+18th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 ## H
 
@@ -307,6 +310,9 @@ A ~~compassion heart~~, or a sign of approval for a ~~message~~ in a ~~1-to-1 ch
 
 # helpfulness
 One of the qualities used to rate ~~listeners/listener~~ during or after a ~~chat~~. Not further defined. In particular, opinions may differ on whether it is helpful or not for listeners to give ~~advice~~.
+
+# Hope Newsletter
+A proposed source of information for everyone in the ~~community~~ due to be published for the first time in November 2016 and monthly after that. _See:_ [Hope Newsletter](https://www.7cups.com/forum/Welcome_27/HopeNewsletter_923/)
 
 # Hopeful Heart
 Third of the twenty groups of ~~member~~ ~~levels/level.~~
@@ -327,7 +333,7 @@ A cloud-based system used to provide faster response times and better security f
 7th of the 27 groups of ~~listener~~ ~~levels/level.~~
 
 # intern
-A ~~listener~~ at ~~7 Cups~~ for a limited period of time as a student placement.
+A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed for student placements (although people who are not students can also join the program). _See:_ [General FAQ Internship](http://www.7cups.com/forum/ListenerProjectsampTeams_148/InternshipsandPracticals_92/GeneralFAQ7CupsInternship_49111/)
 
 ## K
 
@@ -350,6 +356,9 @@ A leadership role in the ~~community~~, below ~~Ambassador~~.
 A title awarded automatically to a ~~member~~ or ~~listener~~ according to the number of ~~cheers/cheer~~ they have. Levels are arranged in groups and numbered within a group. A level with just a group name and no number is effectively level zero in that group. _For example:_ ~~Epitome 5/Epitome~~
 
 Progress from each level to the next level requires a generally increasing number of cheers, but the rate of increase is erratic.
+
+# liaison
+~~Community Liaison~~
 
 # listener
 A password-protected ~~account~~ that persists across devices and browser sessions, and used by someone who has completed the training in ~~active listening~~, or a person using such an account.
@@ -397,7 +406,7 @@ An exercise designed to create a feeling of peace and calm.
 A ~~member~~ designated as having an important role in the ~~community~~. Also a ~~badge~~ denoting such a member.
 
 # member
-A password-protected ~~account~~ that persists across devices and browser sessions, or a person using such an account. Intended for anyone needing emotional support, even for people who also have ~~listener~~ or ~~therapist~~ accounts.
+A password-protected ~~account~~ that persists across devices and browser sessions, or a person using such an account. Intended for anyone needing ~~emotional support~~, even for people who also have ~~listener~~ or ~~therapist~~ accounts.
 
 # Mentor
 A ~~listener~~ designated as having a leadership role in the ~~community~~. Also a ~~badge~~ denoting a mentor.
@@ -434,6 +443,9 @@ A screen name associated with an ~~account~~. Not usually the owner of the accou
 
 # Newbie
 First of the 27 groups of ~~listener~~ ~~levels/level.~~ Also a ~~badge~~ that identifies listeners in their first month.
+
+# newsletter
+_See:_ ~~Hope Newsletter~~
 
 # Noni
 A ~~bot~~ that engages in limited ~~conversation~~ with ~~guests/guest~~ and ~~members/member~~ who are waiting in the ~~general request queue~~.
@@ -501,7 +513,7 @@ One of the qualities used to rate ~~listeners/listener~~ during or after a ~~cha
 17th of the 27 groups of ~~listener~~ ~~levels/level.~~
 
 # profile
-A public page containing information about a ~~member~~, ~~listener~~ or ~~therapist~~ ~~account~~, or the owner-supplied part of the information on that page. ~~Guest/guest~~ accounts do not have profiles. Some of the information is supplied by the owner of the account and some by the system.
+A public page containing information about a ~~member,/member~~ ~~listener~~ or ~~therapist~~ ~~account~~, or the owner-supplied part of the information on that page. ~~Guest/guest~~ accounts do not have profiles. Some of the information is supplied by the owner of the account and some by the system.
 
 If you know the ~~name~~ of an account, and it has not been ~~deactivated/deactivate~~ you can see its profile at 7cups.com/@whatever-the-name-is
 
