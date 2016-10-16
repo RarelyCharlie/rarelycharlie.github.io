@@ -34,7 +34,7 @@ There are four types of account. A ~~member,/member~~ ~~listener~~ or ~~therapis
 Each person who uses 7 Cups can have one of each type of account, in practice, but should not have more than one of any type. The ~~rule~~ about this is unclear.
 
 # Achieving Goals
-17th of the twenty groups of ~~member~~ ~~levels/level.~~
+17th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # active listening
 A method of listening involving active feedback, principally through ~~reflection~~. The method used by ~~listeners/listener~~ to provide ~~emotional support~~ to ~~members/member~~ and ~~guests/guest~~.
@@ -46,13 +46,13 @@ An administrator. Admins are paid ~~staff~~ of ~~7 Cups~~.
 An ~~account~~ whose owner has registered as being 18 years old or older. Adult ~~listeners/listener~~ can only take ~~1-to-1 chats/1-to-1 chat~~ with adult ~~guests/guest~~ and ~~members,/member~~ but ~~teen and adult~~ listeners do not have this restriction.  _See also:_ ~~teen~~
 
 # Advanced
-10th of the 27 groups of ~~listener~~ ~~levels/level.~~
+10th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # advice
 Information or suggestions intended to solve or alleviate a problem. Whether or not ~~listeners/listener~~ should give advice is controversial.
 
 # Aiming High
-8th of the twenty groups of ~~member~~ ~~levels/level.~~
+8th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # Ambassador
 The highest level of leadership role in the ~~community~~.
@@ -73,7 +73,7 @@ The ~~7 Cups~~ application for iOS and Android devices (as opposed to the ~~webs
 
 
 # Apprentice
-5th of the 27 groups of ~~listener~~ ~~levels/level.~~
+5th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 ## B
 
@@ -93,10 +93,10 @@ A setting that prevents an ~~account~~ from using ~~7 Cups~~. Used to protect th
 An e-mail alert sent to designated ~~listeners/listener~~ when there are many ~~general requests/general request~~ waiting to be taken
 
 # Beginner
-Third of the 27 groups of ~~listener~~ ~~levels/level.~~
+Third of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # Big Steps
-12th of the twenty groups of ~~member~~ ~~levels/level.~~
+12th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # bio design
 The design of the owner-supplied part of the information in a ~~profile~~. Also a team of people who help others in the ~~community,/community~~ especially ~~listeners/listener~~, to create fancy designs for their profiles. (The term “bio” comes from “biography”.)
@@ -164,10 +164,10 @@ The ongoing campaign to obtain financial contributions to ~~7 Cups~~ through pai
 A point awarded for certain activities on ~~7 Cups~~. Compassion hearts accumulate. _See also:_ ~~cheer~~
 
 # Confident Walk
-11th of the twenty groups of ~~member~~ ~~levels/level.~~
+11th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # Connoisseur
-14th of the 27 groups of ~~listener~~ ~~levels/level.~~
+14th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # conversation
 A ~~chat~~. Occasionally used informally to mean a ~~thread~~ or part of a thread in a forum. Used internally by the system to mean a chat or ~~chatroom~~.
@@ -186,7 +186,7 @@ A ~~member~~ or ~~listener~~ designated as having a special role in the ~~commun
 
 
 # Crossing Mileposts
-10th of the twenty groups of ~~member~~ ~~levels/level.~~
+10th of the twenty groups of ~~member~~ ~~levels./level~~
 
 ## D
 
@@ -194,10 +194,10 @@ A ~~member~~ or ~~listener~~ designated as having a special role in the ~~commun
 To turn an ~~account~~ off temporarily so that its ~~name~~ becomes ~~Unknown~~, its ~~profile~~ is not visible, and it cannot access ~~7 Cups~~ (except to reactivate the account).
 
 # Determined Treads
-9th of the twenty groups of ~~member~~ ~~levels/level.~~
+9th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # Discoverer
-9th of the 27 groups of ~~listener~~ ~~levels/level.~~
+9th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # discussion
 A scheduled and often somewhat formal session in a ~~chatroom~~, led by one or more designated people and with a focus on a particular topic. Also, a discussion in a ~~forum~~.
@@ -209,7 +209,7 @@ A scheduled and often somewhat formal session in a ~~chatroom~~, led by one or m
 _See:_ ~~EST~~
 
 # Embraced
-First of the twenty groups of ~~member~~ ~~levels/level.~~
+First of the twenty groups of ~~member~~ ~~levels./level~~
 
 # emotional support
 Help with the emotional aspects of life's problems, both the ordinary difficulties of life and medical conditions, including mental illness. The purpose of ~~listeners/listener~~ at ~~7 Cups~~.
@@ -218,19 +218,19 @@ Help with the emotional aspects of life's problems, both the ordinary difficulti
 Understanding or sharing another person's emotions, or a general ability to understand or to share other people's emotions. One of the qualities used to ~~rate/rating~~ ~~listeners/listener~~ during or after a ~~chat~~.
 
 # Epitome 
-Last of the 27 groups of ~~listener~~ ~~levels/level.~~
+Last of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # EST
 Eastern Standard Time, the local time on the Eastern coast of the United States, in New York for example, when daylight saving is not in effect. Often used loosely even if daylight saving is in effect. Times in ~~7 Cups~~ are normally given in EST (or EDT when daylight saving time is in effect) to make it easier for people around the world to convert them to their own time zone.
 
 # Exemplar
-25th of the 27 groups of ~~listener~~ ~~levels/level.~~
+25th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # Expert
-13th of the 27 groups of ~~listener~~ ~~levels/level.~~
+13th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # Explorer
-8th of the 27 groups of ~~listener~~ ~~levels/level.~~
+8th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 
 ## F
@@ -262,7 +262,7 @@ A request for a ~~1-to-1 chat~~ made by a ~~guest~~ or ~~member~~. Any ~~listene
 The queue of all ~~general requests/general request~~ waiting for a response.
 
 # Genius
-22nd of the 27 groups of ~~listener~~ ~~levels/level.~~
+22nd of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # ghost
 A ~~guest~~ or member who requests a ~~1-to-1 chat~~ but who does not respond when a ~~listener~~ starts the ~~chat~~.
@@ -306,7 +306,7 @@ A ~~tag~~ beginning with a hash symbol, ~~\#/\#-sign~~. Used in ~~feed~~ ~~posts
 A ~~compassion heart~~, or a sign of approval for a ~~message~~ in a ~~1-to-1 chat~~ or ~~chatroom~~, or in a ~~feed~~ ~~post~~. Also a heart-shaped ~~smiley~~.
 
 # Helper
-4th of the 27 groups of ~~listener~~ ~~levels/level.~~
+4th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # helpfulness
 One of the qualities used to rate ~~listeners/listener~~ during or after a ~~chat~~. Not further defined. In particular, opinions may differ on whether it is helpful or not for listeners to give ~~advice~~.
@@ -315,7 +315,7 @@ One of the qualities used to rate ~~listeners/listener~~ during or after a ~~cha
 A proposed source of information for everyone in the ~~community~~ due to be published for the first time in November 2016 and monthly after that. _See:_ [Hope Newsletter](https://www.7cups.com/forum/Welcome_27/HopeNewsletter_923/)
 
 # Hopeful Heart
-Third of the twenty groups of ~~member~~ ~~levels/level.~~
+Third of the twenty groups of ~~member~~ ~~levels./level~~
 
 
 ## I
@@ -330,7 +330,7 @@ A private page giving information about a ~~listener's/listener~~ activity on ~~
 A cloud-based system used to provide faster response times and better security for ~~7 Cups~~. Only visible when something goes wrong and the name Incapsula can be seen in the error message.
 
 # Intermediate
-7th of the 27 groups of ~~listener~~ ~~levels/level.~~
+7th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # intern
 A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed for student placements (although people who are not students can also join the program). _See:_ [General FAQ Internship](http://www.7cups.com/forum/ListenerProjectsampTeams_148/InternshipsandPracticals_92/GeneralFAQ7CupsInternship_49111/)
@@ -370,7 +370,7 @@ The overall rating of ~~listeners/listener~~, calculated from individual ratings
 A listener who has a mutually supportive association with another listener.
 
 # Little Steps
-Second of the twenty groups of ~~member~~ ~~levels/level.~~
+Second of the twenty groups of ~~member~~ ~~levels./level~~
 
 # log in
 To activate an ~~account~~ in the ~~website~~ or ~~app~~ by specifying a ~~name~~ and password, except for ~~guest~~ accounts, which are logged in automatically with a name set by the system and no password. The account's ~~status~~ is set to ~~online~~, except for ~~listener~~ accounts, whose status is set manually by the listener.
@@ -385,19 +385,19 @@ Listener support room. A ~~room~~ where ~~listeners/listener~~ can go to get sup
 ## M
 
 # Marching Ahead
-13th of the twenty groups of ~~member~~ ~~levels/level.~~
+13th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # Marvel
-23rd of the 27 groups of ~~listener~~ ~~levels/level.~~
+23rd of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # Master
-15th of the 27 groups of ~~listener~~ ~~levels/level.~~
+15th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # Maven
-16th of the 27 groups of ~~listener~~ ~~levels/level.~~
+16th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # Meaningful Journey
-Last of the twenty groups of ~~member~~ ~~levels/level.~~
+Last of the twenty groups of ~~member~~ ~~levels./level~~
 
 # meditation
 An exercise designed to create a feeling of peace and calm.
@@ -424,10 +424,10 @@ A ~~1-to-1 chat~~ between ~~listeners/listener~~ in which one listener plays the
 Short for moderator. A ~~member~~ or ~~listener~~ designated as having a special role in supporting the ~~community~~, and having powers to enforce ~~rules/rule~~.
 
 # Moving Along
-5th of the twenty groups of ~~member~~ ~~levels/level.~~
+5th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # Moving Swiftly
-14th of the twenty groups of ~~member~~ ~~levels/level.~~
+14th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # mute
 A setting that prevents someone from participating in a ~~chatroom~~. Used to protect the room after some ~~rule~~ has been broken.
@@ -439,10 +439,10 @@ A setting that prevents someone from participating in a ~~chatroom~~. Used to pr
 A screen name associated with an ~~account~~. Not usually the owner of the account's real name, so as to provide so-called ~~anonymity~~, except in the case of ~~therapist~~ accounts.
 
 # New Horizon
-16th of the twenty groups of ~~member~~ ~~levels/level.~~
+16th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # Newbie
-First of the 27 groups of ~~listener~~ ~~levels/level.~~ Also a ~~badge~~ that identifies listeners in their first month.
+First of the 27 groups of ~~listener~~ ~~levels./level~~ Also a ~~badge~~ that identifies listeners in their first month.
 
 # newsletter
 _See:_ ~~Hope Newsletter~~
@@ -457,7 +457,7 @@ A system that ~~listeners/listener~~ use for recording information about ~~guest
 An online alert, which may be an ~~announcement~~ or an automatic notification.
 
 # Novice
-Second of the 27 groups of ~~listener~~ ~~levels/level.~~
+Second of the 27 groups of ~~listener~~ ~~levels./level~~
 
 ## O
 
@@ -474,10 +474,10 @@ A ~~status~~ setting indicating that a ~~listener~~ is active on ~~7 Cups~~ and 
 ## P
 
 # Pacing Forward
-6th of the twenty groups of ~~member~~ ~~levels/level.~~
+6th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # Paragon
-24th of the 27 groups of ~~listener~~ ~~levels/level.~~
+24th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # partner
 An organization that collaborates with ~~7 Cups~~.
@@ -498,7 +498,7 @@ A ~~referral link~~.
 A request for a ~~1-to-1 chat~~ made to one particular ~~listener~~. Listeners should normally respond to personal requests, but they are not forced to.
 
 # Pinnacle
-26th of the 27 groups of ~~listener~~ ~~levels/level.~~
+26th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # PM
 Personal Message. A ~~message~~, particularly a message that is not sent in the course of a ~~chat~~ (for example, a message sent to a ~~listener~~ who is ~~offline~~).
@@ -510,7 +510,7 @@ A statement made in a personal ~~feed~~ or in a ~~thread~~ in a ~~forum~~.
 One of the qualities used to rate ~~listeners/listener~~ during or after a ~~chat~~. Not further defined. In particular, opinions may differ on whether it is professional or not for a listener to appear warm and human.
 
 # Proficient
-17th of the 27 groups of ~~listener~~ ~~levels/level.~~
+17th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # profile
 A public page containing information about a ~~member,/member~~ ~~listener~~ or ~~therapist~~ ~~account~~, or the owner-supplied part of the information on that page. ~~Guest/guest~~ accounts do not have profiles. Some of the information is supplied by the owner of the account and some by the system.
@@ -521,7 +521,7 @@ If you know the ~~name~~ of an account, and it has not been ~~deactivated/deacti
 The accumulation of ~~cheers/cheer~~ or of ~~steps/step~~ on a ~~growth path~~.
 
 # Progress Road
-7th of the twenty groups of ~~member~~ ~~levels/level.~~
+7th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # project agent
 A ~~listener~~ designated as having a special role in the ~~community~~ as a member of a team that undertakes some activity.
@@ -575,25 +575,25 @@ One of the rules in the ~~Community Guidelines~~, or in the ~~terms of service~~
 ## S
 
 # Sage
-20th of the 27 groups of ~~listener~~ ~~levels/level.~~
+20th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # Scaling Summit
-18th of the twenty groups of ~~member~~ ~~levels/level.~~
+18th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # scheduled chat
 A 1-to-1 ~~chat~~ that starts at a pre-arranged time.
 
 # Scholar
-11th of the 27 groups of ~~listener~~ ~~levels/level.~~
+11th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # scrum
 The system development methodology used by ~~7 Cups~~. Also a type of regular progress meeting held as part of the methodology. Also a ~~hashtag~~ that identifies ~~feed~~ ~~posts/post~~ resulting from such meetings.
 
 # Seeking Light
-4th of the twenty groups of ~~member~~ ~~levels/level.~~
+4th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # Seeking Peace
-19th of the twenty groups of ~~member~~ ~~levels/level.~~
+19th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # self care
 Taking care of one's own needs, particularly used to remind ~~listeners/listener~~ to take care of their own needs and avoid ~~burnout~~.
@@ -608,13 +608,13 @@ A page in the ~~website~~ or ~~app~~ where you can specify details about your ~~
 A symbol expressing emotion in a ~~message~~ or ~~post~~, so called because the most common symbol is a smiling face. Different parts of ~~7 Cups~~ support different sets of smileys.
 
 # Soaring Heights
-15th of the twenty groups of ~~member~~ ~~levels/level.~~
+15th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # Sophia
 A ~~bot~~ that engages in a limited ~~conversation~~ with ~~members/member~~ who sign up for ~~therapy~~ and that helps to identify a suitable ~~therapist~~.
 
 # Specialist
-12th of the 27 groups of ~~listener~~ ~~levels/level.~~
+12th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # staff
 Paid employees of ~~7 Cups~~. _See:_ [Our Team](http://www.7cups.com/about/ourteam.php)
@@ -714,10 +714,10 @@ A ~~badge~~ awarded to ~~listeners/listener~~ who have a minimum level of experi
 
 
 # Veteran
-19th of the 27 groups of ~~listener~~ ~~levels/level.~~
+19th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # Virtuoso
-21st of the 27 groups of ~~listener~~ ~~levels/level.~~
+21st of the 27 groups of ~~listener~~ ~~levels./level~~
 
 ## W
 
