@@ -4,7 +4,7 @@ layout: glossary
 feedback: https://www.example.com/
 ---
 
-This is an unofficial and experimental glossary of the terminology and abbreviations used at [7 Cups](http://7cups.com/). It was first compiled in October 2016 by [@RarelyCharlie](https://7cups.com/@RarelyCharlie), who continues to maintain it. For more information, see the announcement in 7 Cups forums: [A 7 Cups Glossary](https://www.example.com/)
+This is an unofficial and experimental glossary of the terminology and abbreviations used at [7 Cups](http://7cups.com/). It was first compiled in October 2016 by [@RarelyCharlie](https://7cups.com/@RarelyCharlie), who continues to maintain it. For more information, see the announcement in 7 Cups forums: [A 7 Cups Glossary]({{ page.feedback }})
 {: .preface}
 
 <h1 id="1-to-1-chat"> 1-to-1-chat</h1>
