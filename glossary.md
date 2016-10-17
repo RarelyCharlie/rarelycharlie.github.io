@@ -14,7 +14,11 @@ A private ~~chat~~. At least one of the people in a 1-to-1 chat must be a ~~list
 A business enterprise based in the United States of America and operating online worldwide to develop and deliver an innovative model of healthcare known as ~~weCare~~. Also, the online service provided by 7 Cups on its ~~website~~ and by means of its ~~app~~. _See also:_ ~~mission,/mission~~ ~~values~~
 
 <h1 id="7-cups-for-the-searching-soul">7 Cups for the Searching Soul</h1>
-A book that explains the philosophy underlying ~~7 Cups~~. Also published as a ~~self-help guide~~. _See:_ [7 Cups for the Searching Soul (e-book)](https://www.amazon.com/7-Cups-Searching-Soul-7Cups-ebook/dp/B01BFWMCXY/), [7 Cups for the Searching Soul (self-help guide)](http://www.7cups.com/7cups-for-the-searching-soul/)
+A book that explains the philosophy underlying ~~7 Cups~~. Also published as a ~~self-help guide~~.
+_See:_
+- [7 Cups for the Searching Soul (Kindle)](https://www.amazon.com/7-Cups-Searching-Soul-7Cups-ebook/dp/B01BFWMCXY/)
+- [7 Cups for the Searching Soul (e-book formats)](https://www.smashwords.com/books/view/611898)
+- [7 Cups for the Searching Soul (self-help guide)](http://www.7cups.com/7cups-for-the-searching-soul/)
 
 <h1 id="7-cups-of-tea">7 Cups of Tea</h1>
 The original full name of ~~7 Cups~~. The Internet domain 7cupsoftea.com redirects to 7cups.com. Also the title of a Chinese poem, part of which is quoted at the start of the book ~~7 Cups for the Searching Soul~~.
@@ -161,7 +165,7 @@ _See:_ [Community Guidelines](https://docs.google.com/document/d/18gttZ4jy6oDFEt
 A special ~~account~~ for answering questions about ~~7 Cups~~ that any ~~member~~ or ~~listener~~ may need to ask. The account is configured to look like a ~~listener~~ but it does not normally take chats and the questions are answered by a team of listeners. _See:_ [Community Liaison](https://www.7cups.com/@CommunityLiaison)
 
 # community manager
-The member of staff responsible for the community, ??? 
+One of several members of ~~staff~~ responsible for the ~~community.~~ 
 
 # compassion campaign
 The ongoing campaign to obtain financial contributions to ~~7 Cups~~ through paid membership and donations. Part of the approach to ~~sustainability~~..
@@ -362,6 +366,9 @@ A leadership role in the ~~community~~, below ~~Ambassador~~.
 A title awarded automatically to a ~~member~~ or ~~listener~~ according to the number of ~~cheers/cheer~~ they have. Levels are arranged in groups and numbered within a group. A level with just a group name and no number is effectively level zero in that group. _For example:_ ~~Epitome 5/Epitome~~
 
 Progress from each level to the next level requires a generally increasing number of cheers, but the rate of increase is erratic.
+
+# LHR
+Listener Hangout Room. A ~~room~~ where ~~listeners/listener~~ can go to meet other listeners and hang out together.
 
 # liaison
 ~~Community Liaison~~
@@ -581,7 +588,7 @@ A comment made as part of a ~~rating~~ during or after a ~~1-to-1 chat~~. Those 
 A chatroom.
 
 # rule
-One of the rules in the ~~Community Guidelines~~, or in the ~~terms of service~~.
+One of the rules in the ~~Community Guidelines~~, or one of the rules in the ~~terms of service~~.
 
 
 ## S
