@@ -16,6 +16,7 @@ A business enterprise based in the United States of America and operating online
 <h1 id="7-cups-for-the-searching-soul">7 Cups for the Searching Soul</h1>
 A book that explains the philosophy underlying ~~7 Cups~~. Also published as a ~~self-help guide~~.
 _See:_
+
 - [7 Cups for the Searching Soul (Kindle)](https://www.amazon.com/7-Cups-Searching-Soul-7Cups-ebook/dp/B01BFWMCXY/)
 - [7 Cups for the Searching Soul (e-book formats)](https://www.smashwords.com/books/view/611898)
 - [7 Cups for the Searching Soul (self-help guide)](http://www.7cups.com/7cups-for-the-searching-soul/)
