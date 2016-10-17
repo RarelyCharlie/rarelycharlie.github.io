@@ -563,6 +563,9 @@ A ~~post~~ in a ~~forum~~ ~~thread~~ that is made in response to a previous post
 # report
 A complaint about someone.
 
+# repost
+To copy a ~~post~~ from a ~~feed~~ into your own feed, which brings it to the attention of people who ~~follow~~ your feed.
+
 # reputation
 A cumulative record of an ~~account's/account~~ activity at ~~7 Cups~~, particularly the number of ~~cheers/cheer~~, which the system represents as a ~~level~~.
 
