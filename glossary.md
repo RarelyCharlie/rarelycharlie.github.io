@@ -498,6 +498,9 @@ One of the measures that appears in a ~~listener~~ ~~profile~~. The number of di
 # personal link
 A ~~referral link~~.
 
+# personal message
+_See:_ ~~PM./pm~~
+
 # personal request
 A request for a ~~1-to-1 chat~~ made to one particular ~~listener~~. Listeners should normally respond to personal requests, but they are not forced to.
 
