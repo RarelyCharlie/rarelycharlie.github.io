@@ -14,7 +14,7 @@ A private ~~chat~~. At least one of the people in a 1-to-1 chat must be a ~~list
 A business enterprise based in the United States of America and operating online worldwide to develop and deliver an innovative model of healthcare known as ~~weCare~~. Also, the online service provided by 7 Cups on its ~~website~~ and by means of its ~~app~~. _See also:_ ~~mission,/mission~~ ~~values~~
 
 <h1 id="7-cups-for-the-searching-soul">7 Cups for the Searching Soul</h1>
-A book that explains the philosophy underlying ~~7 Cups~~. Also published as a ~~self-help guide~~.
+A book that explains the philosophy underlying ~~7 Cups~~. Also published as a ~~self-help guide~~. _See:_ [7 Cups for the Searching Soul (e-book)](https://www.amazon.com/7-Cups-Searching-Soul-7Cups-ebook/dp/B01BFWMCXY/) [7 Cups for the Searching Soul (self-help guide)](http://www.7cups.com/7cups-for-the-searching-soul/)
 
 <h1 id="7-cups-of-tea">7 Cups of Tea</h1>
 The original full name of ~~7 Cups~~. The Internet domain 7cupsoftea.com redirects to 7cups.com. Also the title of a Chinese poem, part of which is quoted at the start of the book ~~7 Cups for the Searching Soul~~.
