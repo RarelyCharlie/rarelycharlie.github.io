@@ -75,7 +75,6 @@ No accounts are truly anonymous. ~~Deactivated/deactivate~~ accounts all have th
 # app
 The ~~7 Cups~~ application for iOS and Android devices (as opposed to the ~~website)./website~~
 
-
 # Apprentice
 5th of the 27 groups of ~~listener~~ ~~levels./level~~
 
@@ -131,6 +130,9 @@ A ~~status~~ setting indicating that a ~~listener~~ is active on 7 Cups but not 
 
 
 ## C
+
+# category
+One of 32 topics that a ~~listener~~ can specialize in and that ~~Noni~~ asks about.
 
 # censor
 An automatic system intended to prevent the use of certain words or phrases. Also, to edit certain words and phrases after they have been used to make it look as if they were not used, or to delete information after it has been published to make it look as if it was not published. 
