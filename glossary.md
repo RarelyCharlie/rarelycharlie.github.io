@@ -74,7 +74,7 @@ Used within ~~7 Cups~~ to mean that there is no public connection between the ~~
 No accounts are truly anonymous. ~~Deactivated/deactivate~~ accounts all have the name ~~Unknown~~.
 
 # app
-The ~~7 Cups~~ application for iOS and Android devices (as opposed to the ~~website)./website~~
+The ~~7 Cups~~ application for iOS and Android devices (as opposed to the ~~website).~~
 
 # Apprentice
 5th of the 27 groups of ~~listener~~ ~~levels./level~~
