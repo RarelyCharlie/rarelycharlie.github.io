@@ -256,6 +256,12 @@ A discussion system with a focus on a particular subject. ~~7 Cups~~ has forums 
 
 Forums at 7 Cups are also used to store reference information and to coordinate the work of teams.
 
+# Forum Friend
+Former term for a ~~forum~~ ~~supporter.~~
+
+# Forum Key
+A ~~listener~~ with a special role in a ~~forum~~ in connection with some project. Also a ~~badge~~ awarded to listeners in that role.
+
 # Forum Member Leader
 A ~~member~~ who is a forum ~~mod~~.
 
@@ -343,6 +349,9 @@ A cloud-based system used to provide faster response times and better security f
 A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed for student placements (although people who are not students can also join the program). _See:_ [General FAQ Internship](http://www.7cups.com/forum/ListenerProjectsampTeams_148/InternshipsandPracticals_92/GeneralFAQ7CupsInternship_49111/)
 
 ## K
+
+# key
+_See:_ ~~Forum Key~~
 
 # Krink
 Short for KrinkTheMellowUnicorn, the ~~listener~~ name of ~~7 Cups~~ ~~staff~~ member Christian (or Xian) Crumlish.  _See:_ [@KrinkTheMellowUnicorn](http://7cups.com/@KrinkTheMellowUnicorn), [Krink's Studio](https://www.7cups.com/forum/Welcome_27/KrinksStudio_542/)
