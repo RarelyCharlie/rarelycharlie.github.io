@@ -70,11 +70,9 @@ gloss = function (term) {
 	return false
 	}
 normalize = function (v) {
-	return v.toLowerCase().replace(/@/, 'at').replace(/\#/, 'hash').replace(/\W/g, '') + '?'
+	return v.toLowerCase().replace(/@/, 'at').replace(/\#/, 'hash').replace(/\W/g, '-').replace(/-*$/, '')
 	}
 document.addEventListener('DOMContentLoaded', function () {
-	alert(normalize('Foo Bar'))
-	
 	var dd = document.getElementsByTagName('DEL')
 	for (let i = 0; i < dd.length; ++i) {
 		let d = dd.item(i)
@@ -88,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	dd = document.getElementsByTagName('H1')
 	for (let i = 0; i < dd.length; ++i) {
 		let d = dd.item(i)
-		if (!d.id) d.id = normalize(d.innerHTML)
+		d.id = normalize(d.innerHTML)
 		d.setAttribute('title', '#' + d.id)
 		}
 
