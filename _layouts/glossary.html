@@ -4,6 +4,7 @@
 <html>
 <head>
 <title>7 Cups Glossary</title>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,200,400,500">
 <style>
@@ -61,8 +62,9 @@ gloss = function (term) {
 		let c = t.id || normalize(t.innerHTML)
 		if (c.substr(0, f.length) != f) continue
 		setTimeout(function () {
-			document.body.scrollTop = t.offsetTop - document.getElementById('header').offsetHeight - 12
-			}, 100)
+			document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset =
+				t.offsetTop - document.getElementById('header').offsetHeight - 12
+			}, 0)
 		if (cleanup) clearTimeout(cleanup)
 		cleanup = setTimeout(function () {inp.value = ''}, 4000)
 		return true
