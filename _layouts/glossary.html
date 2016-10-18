@@ -70,7 +70,7 @@ gloss = function (term) {
 	return false
 	}
 normalize = function (v) {
-	return v.toLowerCase().replace(/@/, 'at').replace(/\#/, 'hash').replace(/\W/g, '')
+	return v.toLowerCase().replace(/@/, 'at').replace(/\#/, 'hash').replace(/\W/g, '') + '?'
 	}
 document.addEventListener('DOMContentLoaded', function () {
 	var dd = document.getElementsByTagName('DEL')
