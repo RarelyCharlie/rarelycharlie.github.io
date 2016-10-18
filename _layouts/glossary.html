@@ -73,6 +73,8 @@ normalize = function (v) {
 	return v.toLowerCase().replace(/@/, 'at').replace(/\#/, 'hash').replace(/\W/g, '') + '?'
 	}
 document.addEventListener('DOMContentLoaded', function () {
+	alert(normalize('Foo Bar'))
+	
 	var dd = document.getElementsByTagName('DEL')
 	for (let i = 0; i < dd.length; ++i) {
 		let d = dd.item(i)
