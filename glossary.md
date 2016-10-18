@@ -710,6 +710,9 @@ The most commonly occurring ~~hashtags/hashtag~~ in recent ~~feed~~ ~~posts~~.
 # troll
 Informal and sometimes deprecated term for someone who communicates in a way that causes bad feeing, used to suggest that the person's way of communicating is deliberate (as opposed to being the result of hidden distress or mental illness).
 
+# troubled teen service
+A service provided by selected ~~adult~~ ~~listeners/listener~~ for ~~teens/teen~~ who need extra support because of their circumstances.
+
 # TS
 Thinking Space. A ~~chatroom~~ where certain topics that are not allowed in other chatrooms can be discussed. 
 
