@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		let t = d.innerHTML.split('/')
 		if (!t[1]) t[1] = t[0]
 		else d.innerHTML = t[0]
-		d.setAttribute('title', 'Find ' + t[1])
+		d.setAttribute('title', 'Find ' + t[1].replace(/\W*$/, ''))
 		d.setAttribute('onclick', 'gloss(\'' + normalize(t[1]) + '\')')
 		}
 
