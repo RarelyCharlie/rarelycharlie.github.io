@@ -1,7 +1,7 @@
 ---
 title: 7 Cups Glossary
 layout: glossary
-feedback: https://www.example.com/
+feedback: https://www.7cups.com/@RarelyCharlie
 ---
 
 This is an unofficial and experimental glossary of the terminology and abbreviations used at [7 Cups](http://7cups.com/), compiled and maintained by [@RarelyCharlie](https://7cups.com/@RarelyCharlie). For more information, and to report errors and omissions, see the announcement in the 7 Cups forums: [A 7 Cups Glossary]({{ page.feedback }})
