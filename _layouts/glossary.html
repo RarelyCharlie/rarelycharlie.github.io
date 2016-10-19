@@ -39,6 +39,7 @@ del:hover {background: #afa; color: #00a;}
 a[href] {color: #29f; text-decoration: none;}
 a[href]:hover {text-decoration: underline;}
 #nav a[href] {color: #00e; text-decoration: underline;}
+.keyboard {overflow: hidden;}
 </style>
 <script>
 wait = null
@@ -100,6 +101,11 @@ document.addEventListener('DOMContentLoaded', function () {
 	setTimeout(function () {
 		document.getElementById('nohash').className = 'warning faded'
 		}, 4000)
+	
+	var inp = document.getElementById('find')
+	inp.addEventListener('focus', function () {
+		alert('focus')
+		})
 	})
 </script>
 </head>
