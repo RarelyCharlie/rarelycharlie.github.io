@@ -46,7 +46,7 @@ wait = null
 cleanup = null
 keypress = function () {
 	if (wait) clearTimeout(wait)
-	wait = setTimeout(gloss, 600)
+	wait = setTimeout(gloss, 850)
 	if (cleanup) {
 		clearTimeout(cleanup)
 		cleanup = null
@@ -54,6 +54,7 @@ keypress = function () {
 	}
 gloss = function (term) {
 	var inp = document.getElementById("find")
+	if ('ontouchstart' in window) inp.blur()
 	var f = term? term : normalize(inp.value)
 	if (f == '') return
 	var h = f.length == 1? 'h2' : 'h1'
