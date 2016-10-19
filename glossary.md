@@ -4,10 +4,10 @@ layout: glossary
 feedback: https://www.example.com/
 ---
 
-This is an unofficial and experimental glossary of the terminology and abbreviations used at [7 Cups](http://7cups.com/). It was first compiled in October 2016 by [@RarelyCharlie](https://7cups.com/@RarelyCharlie), who continues to maintain it. For more information, see the announcement in 7 Cups forums: [A 7 Cups Glossary]({{ page.feedback }})
+This is an unofficial and experimental glossary of the terminology and abbreviations used at [7 Cups](http://7cups.com/), compiled and maintained by [@RarelyCharlie](https://7cups.com/@RarelyCharlie). For more information, and to report errors and omissions, see the announcement in the 7 Cups forums: [A 7 Cups Glossary]({{ page.feedback }})
 {: .preface}
 
-<h1 id="1-to-1-chat"> 1-to-1-chat</h1>
+<h1 id="1-to-1-chat">1-to-1-chat</h1>
 A private ~~chat~~. At least one of the people in a 1-to-1 chat must be a ~~listener~~ or ~~therapist,/therapist~~ because ~~guests/guest~~ and ~~members/member~~ cannot chat 1-to-1 with guests or members.
 
 <h1 id="7-cups">7 Cups</h1>
