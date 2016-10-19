@@ -203,6 +203,9 @@ To turn an ~~account~~ off temporarily so that its ~~name~~ becomes ~~Unknown~~,
 # Determined Treads
 9th of the twenty groups of ~~member~~ ~~levels./level~~
 
+# DevTeam
+A ~~listener~~ ~~name~~ reserved for use by ~~7 Cups'~~ development team.
+
 # Discoverer
 9th of the 27 groups of ~~listener~~ ~~levels./level~~
 
@@ -238,6 +241,9 @@ Eastern Standard Time, the local time on the Eastern coast of the United States,
 
 # Explorer
 8th of the 27 groups of ~~listener~~ ~~levels./level~~
+
+# Ezra
+Ezra Morse, ~~7 Cups'/7 Cups~~ ~~staff~~ member and software engineeer. _See also:_ [ezraBC](http://www.7cups.com/@EzraBC)
 
 
 ## F
@@ -281,7 +287,7 @@ The queue of all ~~general requests/general request~~ waiting for a response.
 A ~~guest~~ or member who requests a ~~1-to-1 chat~~ but who does not respond when a ~~listener~~ starts the ~~chat~~.
 
 # GlenM
-~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ founder Glen Moriarty. _See:_ [@GlenM](http://7cups.com/@GlenM), [Glen's Nook](http://www.7cups.com/forum/GlensNook_84)
+~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ founder and CEO Glen Moriarty. _See:_ [@GlenM](http://7cups.com/@GlenM), [Glen's Nook](http://www.7cups.com/forum/GlensNook_84)
 
 # group chat
 A ~~chat~~ in a ~~chatroom~~.
@@ -720,7 +726,7 @@ Thinking Space. A ~~chatroom~~ where certain topics that are not allowed in othe
 ~~Listener twin/listener twin~~.
 
 # Twisha
-~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member Twisha Anand. _See:_ [@Twisha](http://7cups.com/@Twisha)
+~~Member~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member and director of operations, Twisha Anand. _See:_ [@Twisha](http://7cups.com/@Twisha)
 
 
 ## U
