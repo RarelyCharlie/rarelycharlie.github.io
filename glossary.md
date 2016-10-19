@@ -591,7 +591,7 @@ One of the qualities used to rate ~~listeners/listener~~ during or after a ~~cha
 A comment made as part of a ~~rating~~ during or after a ~~1-to-1 chat~~. Those comments that are thought to be positive are published in the ~~listener's/listener~~ ~~profile~~.
 
 # room
-A chatroom.
+A ~~chatroom.~~
 
 # rule
 One of the rules in the ~~Community Guidelines~~, or one of the rules in the ~~terms of service~~.
