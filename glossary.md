@@ -1,7 +1,7 @@
 ---
 title: 7 Cups Glossary
 layout: glossary
-feedback: https://www.7cups.com/forum/Welcome_27/Thingstohelpyougetstarted_792/A7CupsGlossary_52071/
+feedback: http://bit.ly/2dt3pXT
 ---
 
 This is an unofficial and experimental glossary of the terminology used at [7 Cups](http://7cups.com/), compiled and maintained by [@RarelyCharlie](https://7cups.com/@RarelyCharlie). For more information, and to report errors and omissions, see the forum thread: [A 7 Cups Glossary]({{ page.feedback }})
