@@ -292,6 +292,9 @@ A ~~guest~~ or member who requests a ~~1-to-1 chat~~ but who does not respond wh
 # group chat
 A ~~chat~~ in a ~~chatroom~~.
 
+# group support
+The ~~chatrooms/chatroom~~ as a whole.
+
 # growth path
 A sequence of ~~steps/step~~, in which each step has an associated activity. ~~Members/member~~ can choose between various growth paths. ~~Listeners/listener~~ have a different growth path.
 
