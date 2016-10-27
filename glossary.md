@@ -476,7 +476,7 @@ First of the 27 groups of ~~listener~~ ~~levels./level~~ Also a ~~badge~~ that i
 _See:_ ~~Hope Newsletter~~
 
 # Noni
-A ~~bot~~ that engages in limited ~~conversation~~ with ~~guests/guest~~ and ~~members/member~~ who are waiting in the ~~general request queue~~.
+A ~~bot~~ that engages in limited ~~conversation~~ with ~~guests/guest~~ and ~~members/member~~ who are waiting in the ~~general request queue~~, and that can also lead a ~~chatroom~~ ~~discussion~~. Noni is sometimes referred to as she or her, as if female.
 
 # notes
 A system that ~~listeners/listener~~ use for recording information about ~~guests/guest~~ and ~~members/member~~ confidentially within ~~7 Cups~~. Used to provide continuity between ~~chats/chat~~.
