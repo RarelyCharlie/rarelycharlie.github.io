@@ -734,6 +734,9 @@ Thinking Space. A ~~chatroom~~ where certain topics that are not allowed in othe
 # Unknown
 The ~~name~~ assigned to all ~~deactivated/deactivate~~ ~~accounts/account~~.
 
+# upload
+To copy something between computers or devices. For example, to copy an image from a personal device to a web site. 7 Cups does not permit uploads, except for the image in a ~~profile~~. To use an image in a ~~forum~~ or ~~feed~~ it must first be uploaded to some other website.
+
 # upvote
 A sign of approval for a ~~post~~ in a ~~forum~~ ~~thread~~.
 
