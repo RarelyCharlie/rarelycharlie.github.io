@@ -251,6 +251,9 @@ Ezra Morse, ~~7 Cups'/7 Cups~~ ~~staff~~ member and software engineeer. _See als
 # feed
 A sequence of ~~posts/post~~, which are personal statements by the owner of the feed. ~~Members/member~~, ~~listeners/listener~~ and ~~therapists/therapist~~ can have feeds, but not all use them. Also, the ~~7 Cups~~ site feed.
 
+# FJB
+"Feeling judged because" Sometimes used as a ~~hashtag~~ #FJB.
+
 # flag
 A reporting system for inappropriate content in ~~forum~~ ~~posts/post~~.
 
@@ -556,6 +559,9 @@ The accumulation of ~~cheers/cheer~~ or of ~~steps/step~~ on a ~~growth path~~.
 
 # project agent
 A ~~listener~~ designated as having a special role in the ~~community~~ as a member of a team that undertakes some activity.
+
+# PS
+~~Peer support.~~
 
 # psychologist
 A category of ~~therapist~~, usually but not exclusively tending to have specialist knowledge of the way people perceive, think, feel and behave. 
