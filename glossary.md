@@ -243,7 +243,7 @@ Eastern Standard Time, the local time on the Eastern coast of the United States,
 8th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # Ezra
-Ezra Morse, ~~7 Cups'/7 Cups~~ ~~staff~~ member and software engineeer. _See also:_ [ezraBC](http://www.7cups.com/@EzraBC)
+Ezra Morse, ~~7 Cups'/7 Cups~~ ~~staff~~ member and software engineeer. _See also:_ [@ezraBC](http://www.7cups.com/@EzraBC)
 
 
 ## F
