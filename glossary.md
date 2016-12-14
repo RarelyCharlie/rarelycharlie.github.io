@@ -59,6 +59,9 @@ Information or suggestions intended to solve or alleviate a problem. Whether or 
 # Aiming High
 8th of the twenty groups of ~~member~~ ~~levels./level~~
 
+# AMA
+"Ask Me Anything" A ~~forum~~ ~~thread~~ in which someone invites questions and answers them.
+
 # Ambassador
 The highest level of leadership role in the ~~community~~.
 
@@ -500,6 +503,9 @@ Contact on other websites or in real life between people in the ~~7 Cups~~ ~~com
 
 # online
 A ~~status~~ setting indicating that a ~~listener~~ is active on ~~7 Cups~~ and available for new ~~chats/chat~~. For ~~guests/guest~~, ~~members/member~~ and therapists it indicates that the account is ~~logged in/log in~~.
+
+# OP
+Original Poster. In a ~~forum~~ ~~thread,~~ the person who started the thread.
 
 
 ## P
