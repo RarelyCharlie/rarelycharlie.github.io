@@ -541,7 +541,7 @@ A request for a ~~1-to-1 chat~~ made to one particular ~~listener~~. Listeners s
 26th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # PM
-Personal Message. A ~~message~~, particularly a message that is not sent in the course of a ~~chat~~ (for example, a message sent to a ~~listener~~ who is ~~offline~~).
+Personal Message. A ~~message~~, particularly a message that is not sent in the course of a ~~chat~~ (for example, a message sent to a ~~listener~~ who is ~~offline~~). 7 Cups does not have a separate system for personal messages. The chat system is used for all messages.
 
 # post
 A statement made in a personal ~~feed~~ or in a ~~thread~~ in a ~~forum~~.
