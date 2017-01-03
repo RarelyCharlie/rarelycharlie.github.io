@@ -147,6 +147,9 @@ A system that people can use to send ~~messages/message~~ to each other with ver
 # chatroom
 A system designed to allow many people to ~~chat~~ to each other at the same time. 7 Cups contains many chatrooms, each of them intended for particular topics or groups of participants.
 
+# chatter
+Informal term for a ~~member~~ or ~~guest~~ who takes part in ~~chats~~ for support, as opposed to a ~~listener.~~
+
 # check in
 A ~~forum~~ ~~thread~~ intended for people who have some common interest (for example, people coping with anxiety) to keep in touch regularly.
 
