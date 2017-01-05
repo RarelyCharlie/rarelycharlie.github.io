@@ -684,7 +684,7 @@ A system for receiving automatic ~~notification~~ whenever a particular ~~forum~
 6th of the 27 groups of ~~listener~~ ~~levels/level~~. Also a ~~member~~ or listener with a special role in supporting the ~~community~~.
 
 # sustainability
-The goal of sufficient income to make ~~7 Cups~~ financially sustainable in the long term.
+The goal (reached by the beginning of 2017) of sufficient income to make ~~7 Cups~~ financially sustainable in the long term.
 
 
 ## T
