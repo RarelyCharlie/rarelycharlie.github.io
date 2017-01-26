@@ -726,7 +726,7 @@ A ~~discussion~~ about a particular topic in a ~~forum~~.
 The system for managing the way clocks around the world reflect local time. The time zone of ~~7 Cups~~ is standardized as local time on the East coast of the US, for example in New York.
 
 # track
-An area of specialization encompassing various more specific roles in the ~~community,~~ a ~~sub-community,~~ or a team. For example, someone in a team might specialize in ~~posting/post~~ in the ~~forums/forum~~ where their specific role is to find resources on other websites and link to them. All of the forum-related roles in that team might be described as a forum track.
+An area of specialization encompassing more than one specific role in the ~~community,~~ a ~~sub-community,~~ or a team. For example, someone in a team might specialize in ~~posting/post~~ in the ~~forums/forum~~ where their specific role is to find resources on other websites and link to them. All of the forum-related roles in that team might be described as a track.
 
 # training module
 One of a collection of topic-based guides for ~~listeners/listener~~ published by ~~7 Cups~~. Some training modules are identical to ~~self-help guides~~.
