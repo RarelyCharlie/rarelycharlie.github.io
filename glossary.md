@@ -683,8 +683,8 @@ An indicator that shows whether an ~~account~~ is ~~online~~, ~~offline~~ or (on
 # step
 A step on a ~~growth path~~ associated with some activity that must be completed in order to move to the next step.
 
-# sub-community
-A community within the ~~7 Cups~~ ~~community~~, with its own ~~forums/forum~~.
+# subcommunity
+A community within the ~~7 Cups~~ ~~community~~, with its own ~~forums/forum~~. Sometimes hyphenated: sub-community
 
 # subscription
 A system for receiving automatic ~~notification~~ whenever a particular ~~forum~~ ~~thread~~ receives a new ~~post~~.
