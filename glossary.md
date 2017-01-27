@@ -136,7 +136,7 @@ A ~~status~~ setting indicating that a ~~listener~~ is active on 7 Cups but not 
 ## C
 
 # category
-One of 32 topics that a ~~listener~~ can specialize in and that ~~Noni~~ asks about.
+One of 32 topics that a ~~listener~~ can specialize in and that ~~Noni~~ asks about. Also one of the groups of ~~forums./forum~~
 
 # censor
 An automatic system intended to prevent the use of certain words or phrases. Also, to edit certain words and phrases after they have been used to make it look as if they were not used, or to delete information after it has been published to make it look as if it was not published.
@@ -468,6 +468,9 @@ Short for moderator. A ~~member~~ or ~~listener~~ designated as having a special
 
 # Moving Swiftly
 14th of the twenty groups of ~~member~~ ~~levels./level~~
+
+# MST
+Motivational Support Team. A team of ~~listeners~~ and ~~members~~ who help people who need motivation. Their ~~forum~~ ~~category~~ is [Motivation & Self Help](https://www.7cups.com/forum/MotivationSelfHelp_147/). Also the corresponding ~~hashtag~~ #MST. (Not to be confused with the member [@MsT](https://www.7cups.com/@MsT).)
 
 # mute
 A setting that prevents someone from participating in a ~~chatroom~~. Used to protect the room after some ~~rule~~ has been broken.
