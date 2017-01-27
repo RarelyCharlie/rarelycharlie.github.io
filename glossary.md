@@ -668,6 +668,9 @@ A ~~bot~~ that engages in a limited ~~conversation~~ with ~~members/member~~ who
 # Specialist
 12th of the 27 groups of ~~listener~~ ~~levels./level~~
 
+# sponsor
+A ~~listener~~ who formally agrees to provide a ~~member~~ with long-term ~~emotional support,~~ working together on weekly structured activities.
+
 # staff
 Paid employees of ~~7 Cups~~. _See:_ [Our Team](http://www.7cups.com/about/ourteam.php)
 
