@@ -142,7 +142,7 @@ One of 32 topics that a ~~listener~~ can specialize in and that ~~Noni~~ asks ab
 An automatic system intended to prevent the use of certain words or phrases. Also, to edit certain words and phrases after they have been used to make it look as if they were not used, or to delete information after it has been published to make it look as if it was not published.
 
 # chapter
-A student-led mental health awareness and support group in a school, based on the ~~values~~ and online ~~emotional support~~ that 7 Cups provides. _See:_ [7 Cups Chapters](https://www.7cups.com/chapters/)
+A student-led mental health awareness and support group in a school, based on the ~~values~~ and online ~~emotional support~~ that ~~7 Cups~~ provides. _See:_ [7 Cups Chapters](https://www.7cups.com/chapters/)
 
 # chat
 A system that people can use to send ~~messages/message~~ to each other with very little delay, so that the effect is quite like a real life conversation. Or a ~~conversation~~ using such a system. Usually implies a ~~1-to-1 chat~~.
