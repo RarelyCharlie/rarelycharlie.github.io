@@ -4,8 +4,8 @@ layout: howto
 ---
 ## Heading level two
 
-Lorem ipsum dolor sit amet, and so forth&ellip;
+Lorem ipsum dolor sit amet, and so forth&hellip;
 
 ### Heading level three
 
-Some more lorem ipsum dolor sit amet, and so forth&ellip;
+Some more lorem ipsum dolor sit amet, and so forth&hellip;
