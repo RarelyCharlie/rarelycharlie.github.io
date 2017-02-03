@@ -1,11 +1,10 @@
 ---
-title: Test the layout
 layout: howto
+title: Test the layout
+for: listeners members
 ---
-## Heading level two
-
 Lorem ipsum dolor sit amet, and so forth&hellip;
 
-### Heading level three
+## Heading level two
 
 Some more lorem ipsum dolor sit amet, and so forth&hellip;
