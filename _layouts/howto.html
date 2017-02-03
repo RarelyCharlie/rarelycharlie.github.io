@@ -12,7 +12,7 @@
 <link rel="shortcut icon" href="/assets/favicon.ico">
 <meta name="msapplication-config" content="/assets/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
-<title>{{ title }}</title>
+<title>{{ page.title }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,200,400,500">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
@@ -52,9 +52,7 @@ a[href]:hover {text-decoration: underline;}
 <body>
 <div id="header"><span>An unofficial</span><h2>7 Cups How-To</h2></div>
 <div id="content">
-<h1>
-{{ title }}
-</h1>
+<h1>{{ page.title }}</h1>
 {{ content }}
 </div>
 <div id="footer"></div>
