@@ -346,7 +346,7 @@ A ~~compassion heart~~, or a sign of approval for a ~~message~~ in a ~~1-to-1 ch
 One of the qualities used to rate ~~listeners/listener~~ during or after a ~~chat~~. Not further defined. In particular, opinions may differ on whether it is helpful or not for listeners to give ~~advice~~.
 
 # Hope Newsletter
-A proposed source of information for everyone in the ~~community~~ due to be published for the first time in November 2016 and monthly after that. _See:_ [Hope Newsletter](https://www.7cups.com/forum/Welcome_27/HopeNewsletter_923/)
+A source of information for everyone in the ~~community,~~ published for the first time in November 2016. _See:_ [Hope Newsletter](https://www.7cups.com/forum/Welcome_27/HopeNewsletter_923/)
 
 # Hopeful Heart
 Third of the twenty groups of ~~member~~ ~~levels./level~~
