@@ -725,7 +725,7 @@ A ~~teen~~ with a leadership role in the ~~community~~ similar to a ~~Mentor~~.
 A set of terms and conditions that each person using ~~7 Cups~~ agrees to. The terms of service for each type of ~~account~~ are different.
 
 # therapist
-A password-protected ~~account~~ that persists across devices and browser sessions, owned by a professional who is qualified and licensed to practise ~~psychotherapy/therapy~~ or ~~counseling~~ in the part of the world where they work, and who is registered at ~~7 Cups~~ to provide online therapy for a fee.
+A password-protected ~~account~~ that persists across devices and browser sessions, owned by a professional who is qualified and licensed to practise ~~psychotherapy/therapy~~ or ~~counseling~~ in the part of the world where they work. Therapists can optionally register at ~~7 Cups~~ to provide online therapy for a fee.
 
 # therapy
 Any of various professional methodologies for helping people with mental or emotional difficulties, particularly, but not exclusively, for mental illness as opposed to the ordinary difficulties of life. Also known as psychotherapy to distinguish it from physical therapies. _See also:_ ~~counseling~~
