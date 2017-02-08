@@ -758,7 +758,7 @@ Thinking Space. A ~~chatroom~~ where certain topics that are not allowed in othe
 ~~Listener twin/listener twin~~.
 
 # Twish
-~~Listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member and director of operations, Twisha Anand. _See:_ [@Twish](http://7cups.com/@Twish)
+~~Listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member and director of operations, Twisha Anand. _See:_ [@Twish](http://7cups.com/@Twish) (Not to be confused with the ~~member~~ named [@Twisha](http://7cups.com/@Twisha).)
 
 
 ## U
