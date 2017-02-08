@@ -672,7 +672,9 @@ A ~~bot~~ that engages in a limited ~~conversation~~ with ~~members/member~~ who
 12th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # sponsee
-A ~~member~~ who receives long-term support from a ~~sponsor~~. (The more usual term would be _protégé_. The word _sponsee_ is not in most dictionaries, but it is commonly used in addiction programs like Alcoholics Anonymous.)
+A ~~member~~ who receives long-term support from a ~~sponsor~~.
+
+(The more usual term would be _protégé_. The word _sponsee_ is not in most dictionaries, but it is commonly used in addiction programs like Alcoholics Anonymous.)
 
 # sponsor
 A ~~listener~~ who formally agrees to provide a ~~member~~ with long-term ~~emotional support,~~ working together on weekly structured activities.
