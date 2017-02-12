@@ -198,14 +198,13 @@ Any of various professional methodologies for helping people with mental or emot
 A ~~therapist~~ who provides counseling.
 
 # country champion
-A ~~member~~ or ~~listener~~ designated as having a special role in the ~~community~~ in relation to people from their country. _See:_ [Cultural Connection](https://www.7cups.com/forum/CulturalConnection_87/)
-
+A ~~member~~ or ~~listener~~ designated as having a special role in the ~~community~~ in relation to people from their country, as part of the ~~cultural connection~~ ~~subcommunity.~~
 
 # Crossing Mileposts
 10th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # Cultural Connection
-A ~~subcommunity~~ that contains ~~forums/forum~~ for various countries around the world.
+A ~~subcommunity~~ that contains ~~forums/forum~~ for various countries around the world. _See:_ [Cultural Connection](https://www.7cups.com/forum/CulturalConnection_87/)
 
 ## D
 
