@@ -388,6 +388,9 @@ Short for KrinkTheMellowUnicorn, the ~~listener~~ name of ~~7 Cups~~ ~~staff~~ m
 # Laura
 ~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member Laura Small. _See:_ [@Laura](http://7cups.com/@Laura), [Laura's Office](https://www.7cups.com/forum/ListenerCommunityampSiteUpdates_38/LaurasOffice_169/)
 
+# LDR
+Long Distance Relationship. A relationship, usually online, between people who live far apart so that they can rarely or never meet in person. Not to be confused with ~~LHR~~ or ~~LSR,~~ which are ~~chatrooms./chatroom~~
+
 # Leader
 A leadership role in the ~~community~~, below ~~Ambassador~~.
 
@@ -422,7 +425,6 @@ To temporarily deactivate an ~~account~~. The account continues to receive ~~mes
 
 # LSR
 Listener support room. A ~~room~~ where ~~listeners/listener~~ can go to get support with ~~chats/chat~~, even in the middle of a chat.
-
 
 ## M
 
