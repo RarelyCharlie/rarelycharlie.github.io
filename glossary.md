@@ -198,7 +198,7 @@ Any of various professional methodologies for helping people with mental or emot
 A ~~therapist~~ who provides counseling.
 
 # country champion
-A ~~member~~ or ~~listener~~ designated as having a special role in the ~~community~~ in relation to people from their country.
+A ~~member~~ or ~~listener~~ designated as having a special role in the ~~community~~ in relation to people from their country. _See:_ [Cultural Connection](https://www.7cups.com/forum/CulturalConnection_87/)
 
 
 # Crossing Mileposts
