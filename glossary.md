@@ -204,6 +204,9 @@ A ~~member~~ or ~~listener~~ designated as having a special role in the ~~commun
 # Crossing Mileposts
 10th of the twenty groups of ~~member~~ ~~levels./level~~
 
+# Cultural Connection
+A ~~subcommunity~~ that contains ~~forums/forum~~ for various countries around the world.
+
 ## D
 
 # deactivate
