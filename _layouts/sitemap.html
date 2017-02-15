@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/assets/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/assets/manifest.json">
+<link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/favicon.ico">
+<meta name="msapplication-config" content="/assets/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<title>{{ page.title }}</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,200,400,500">
+<style>
+html {padding-top: 80px;}
+body {font-size: 16px; line-height: 130%; font-family: Raleway; margin: 0;}
+body.keyboard {overflow: hidden;}
+#content h1 {font-size: 20px; font-weight: 500; margin-bottom: 0; z-index: 1; line-height: 26px; cursor: default;}
+#content h2 {font-size: 40px; line-height: normal; font-weight: 200; border-bottom: 1px solid #ccc; margin-bottom: .5ex;}
+#header {z-index: 1; position: relative; height: 80px; width: 100%; background: #159957 linear-gradient(to right, #1e90fe 0%, #73ccde 100%);}
+#footer {position: fixed; bottom: 0; height: 32px; width: 100%; background: #2f4e7a linear-gradient(#2f4e7a, #181a30);}
+#nav {height: 80px; padding-right: 24px; position: absolute; top: 0; right: 0; background: transparent;
+	text-align: left; line-height: 32px; color: black;}
+@media (max-width: 900px) {
+	html {padding-top: 160px;}
+	#header {height: 160px;}
+	#nav {position: relative; margin: 0 auto; width: 320px; text-align: center; padding: 1ex 0 0 0;}
+	}
+#nav p {margin-top: 8px;}
+#header {position: fixed; top: 0; text-align: center;}
+#header {font-weight: 400; margin: 0; font-size: 16px; line-height: 24px; color: white;}
+#header h2 {font-weight: 100; margin: 0; font-size: 40px; line-height: 40px;}
+#header span {letter-spacing: 1px; position: relative; top: 4px; font-style: italic;}
+#content {max-width: 640px; margin: 0 auto; padding: 0 1ex 60em 1ex;}
+#content p {margin-top: 0; margin-left: 60px;}
+input {font-size: inherit; margin-left: 1ex; padding: 0 2px;}
+del {text-decoration: none; display: inline-block; color: #070; cursor: pointer;}
+del:hover {background: #afa; color: #00a;}
+#nohash {padding: 8px; border: 2px solid #a00; margin: 0 0 12px 0; box-shadow: 2px 2px 12px #a00; text-align: center;}
+.hidden {display: none;}
+.warning {color: #a00;}
+.faded {opacity: 0; transition: opacity 3s;}
+.preface {padding: 16px; font-size: 85%; letter-spacing: .5px; font-style: italic; color: #555; background: #f8f8f8; position: relative; left: -16px;}
+a[href] {color: #29f; text-decoration: none;}
+a[href]:hover {text-decoration: underline;}
+#nav a[href] {color: #00e; text-decoration: underline;}
+
+#client {background: #dfd; margin: 0 16px 48px 44px; padding: 16px 16px 1px 16px; border: 1px solid #4a4; border-radius: 6px; box-shadow: 3px 3px 8px #8a8;}
+#client p {margin-left: 0;}
+#client p:last-child {margin-left: 2em;}
+#client .wrapper {display: inline-block;}
+</style>
+<script>
+wait = null
+cleanup = null
+keypress = function () {
+	if (wait) clearTimeout(wait)
+	wait = setTimeout(gloss, 850)
+	if (cleanup) {
+		clearTimeout(cleanup)
+		cleanup = null
+		}
+	}
+gloss = function (term) {
+	var inp = document.getElementById("find")
+	if ('ontouchstart' in window) inp.blur()
+	var f = term? term : normalize(inp.value)
+	if (f == '') return
+	var h = f.length == 1? 'h2' : 'h1'
+	var tt = document.getElementsByTagName(h)
+	for (let i = 0; i < tt.length; ++i) {
+		let t = tt.item(i)
+		let c = t.id || normalize(t.innerHTML)
+		if (c.substr(0, f.length) != f) continue
+		setTimeout(function () {
+			document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset =
+				t.offsetTop - document.getElementById('header').offsetHeight - 12
+			}, 0)
+		if (cleanup) clearTimeout(cleanup)
+		cleanup = setTimeout(function () {inp.value = ''}, 4000)
+		return true
+		}
+	return false
+	}
+normalize = function (v) {
+	return v.toLowerCase().replace(/@/, 'at').replace(/\#/, 'hash').replace(/\W/g, '-').replace(/-*$/, '')
+	}
+document.addEventListener('DOMContentLoaded', function () {
+	var dd = document.getElementsByTagName('DEL')
+	for (let i = 0; i < dd.length; ++i) {
+		let d = dd.item(i)
+		let t = d.innerHTML.split('/')
+		if (!t[1]) t[1] = t[0]
+		else d.innerHTML = t[0]
+		d.setAttribute('title', 'Find ' + t[1].replace(/\W*$/, '') + ' in the glossary')
+		d.setAttribute('onclick', 'gloss(\'' + normalize(t[1]) + '\')')
+		}
+
+	dd = document.getElementsByTagName('H1')
+	for (let i = 0; i < dd.length; ++i) {
+		let d = dd.item(i)
+		d.id = normalize(d.innerHTML)
+		d.setAttribute('title', '#' + d.id)
+		}
+	
+	if ('ontouchstart' in window) {
+		var inp = document.getElementById('find')
+		inp.addEventListener('focus', function () {
+			document.body.className = 'keyboard'
+			})
+		inp.addEventListener('blur', function () {
+			document.body.className = ''
+			})
+		}
+
+	var s = location.hash.substr(1)
+	var ok = s? gloss(normalize(s)) : true
+	if (ok) return
+	
+	document.getElementById('nohash').className = 'warning'
+	document.getElementById('badhash').innerHTML = '#' + s
+	setTimeout(function () {
+		document.getElementById('nohash').className = 'warning faded'
+		}, 4000)
+	})
+</script>
+</head>
+<body>
+<div id="header"><span>An unofficial</span><h2>{{ page.title }}</h2>
+<div id="nav">
+<form action="javascript:void()">
+<p>Find:<input id="find" type="search" size="24" onkeypress="keypress()" autofocus autocapitalize="none"><br/>
+<strike style="opacity: .5;">Please <a href="http://bit.ly/2dt3pXT" title="7 Cups forum thread">report</a> errors and omissions.</strike></p>
+</form>
+</div></div>
+<div id="content">
+<p id="nohash" class="hidden">The hashtag <span id="badhash"></span> cannot be found.</p>
+<p class="preface">This is an unofficial and experimental site map of <a href="http://7cups.com/">7 Cups</a>.</br>It is currently <span style="color: #a00;">under construction</span>. Please do not report errors or omissions.</p>
+
+<div id="client">
+<p>To ensure links work correctly, please choose how you log in to 7 Cups:</p>
+<p>
+<span class="wrapper">
+<label for="guest"><input id="guest" name="client" type="radio" checked />Guest</label>
+<label for="member"><input id="member" name="client" type="radio" />Member</label>
+</span><span class="wrapper">
+<label for="listener"><input id="listener" name="client" type="radio" />Listener</label>
+<label for="therapist"><input id="therapist" name="client" type="radio" />Therapist</label>
+</span>
+</p>
+</div>
+
+<h1 id="7-cups-for-the-searching-soul">7 Cups for the Searching Soul</h1>
+<p>A book that explains the philosophy underlying <del>7 Cups</del>. Also published as a <del>self-help guide</del>.</p>
+<p><em>Link:</em> <a href="http://www.7cups.com/7cups-for-the-searching-soul/">7 Cups for the Searching Soul</a></p>
+
+<h2 id="a">A</h2>
+<h1 id="announcements">Announcements</h1>
+<p>The announcements section is where members of a team can star important or interesting thread posts and notify you. Alerts and site updates also appear here. e.g. Changes to the website's rules or an important discussion is occurring which you may want to attend.
+</p>
+<p><em>Link:</em> <a href="https://www.7cups.com/member/alerts.php">Announcements</a></p>
+
+</div>
+<div id="footer"></div>
+</body>
+</html>
