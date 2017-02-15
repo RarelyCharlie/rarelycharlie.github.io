@@ -49,7 +49,7 @@ a[href]:hover {text-decoration: underline;}
 	
 .link::before {content: "Link: "; font-style: italic;}
 
-#client {background: #dfd; margin: 0 16px 48px 44px; padding: 16px 16px 1px 16px; border: 1px solid #4a4; border-radius: 6px; box-shadow: 3px 3px 8px #8a8;}
+#client {display: none; background: #dfd; margin: 0 16px 48px 44px; padding: 16px 16px 1px 16px; border: 1px solid #4a4; border-radius: 6px; box-shadow: 3px 3px 8px #8a8;}
 #client p {margin-left: 0;}
 #client p:last-child {margin-left: 2em;}
 #client .wrapper {display: inline-block;}
@@ -138,9 +138,7 @@ document.addEventListener('DOMContentLoaded', function () {
 <strike style="opacity: .5;">Please <a href="http://bit.ly/2dt3pXT" title="7 Cups forum thread">report</a> errors and omissions.</strike></p>
 </form>
 </div></div>
-<div id="content">
-<p id="nohash" class="hidden">The hashtag <span id="badhash"></span> cannot be found.</p>
-
+	
 <div id="client">
 <p>To ensure links work correctly, please choose how you log in to 7 Cups:</p>
 <p>
@@ -153,8 +151,14 @@ document.addEventListener('DOMContentLoaded', function () {
 </span>
 </p>
 </div>
+	
+<div id="content">
+<p id="nohash" class="hidden">The hashtag <span id="badhash"></span> cannot be found.</p>
 {{ content }}	
 </div>
 <div id="footer"></div>
+<script>
+$('#client').insertAfter($('.preface').last()).show()
+</script>
 </body>
 </html>
