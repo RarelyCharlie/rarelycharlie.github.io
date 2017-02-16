@@ -55,6 +55,11 @@ a[href]:hover {text-decoration: underline;}
 #client .wrapper {display: inline-block;}
 
 #map {display: none;}
+.guest, .member, .listener, .therapist {display: none;}
+#map.guest, #map.guest .guest {display: block;}
+#map.member, #map.member .member {display: block;}
+#map.listener, #map.listener .listener {display: block;}
+#map.therapist, #map.therapist .therapist {display: block;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script>
