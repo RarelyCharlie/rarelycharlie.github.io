@@ -223,6 +223,8 @@ A ~~listener~~ ~~name~~ reserved for use by ~~7 Cups'~~ development team.
 # discussion
 A scheduled and often somewhat formal session in a ~~chatroom~~, led by one or more designated people and with a focus on a particular topic. Also, a discussion in a ~~forum~~.
 
+# DSM
+Diagnostic and Statistical Manual. A manual published by the American Psychiatric Association that classifies mental disorders, also including some other disorders that affect the mind. The title indicates that it is used for diagnosis and for statistical analysis in research. It is also used for billing and insurance claims. Also known as DSM-5 because the current edition is the 5th.
 
 ## E
 
