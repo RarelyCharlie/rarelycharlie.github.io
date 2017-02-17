@@ -97,6 +97,9 @@ mapfind = function (term) {
 normalize = function (v) {
 	return v.toLowerCase().replace(/@/, 'at').replace(/\#/, 'hash').replace(/\W/g, '-').replace(/-*$/, '')
 	}
+gloss = function (term) {
+	location.href = location.href.replace(/\/sitemap.*$/, '/glossary#' + term)
+	}
 glosslinks = function () {
 	var dd = document.getElementsByTagName('DEL')
 	for (let i = 0; i < dd.length; ++i) {
