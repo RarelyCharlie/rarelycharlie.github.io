@@ -71,6 +71,9 @@ The highest level of leadership role in the ~~community~~.
 # announcement
 A ~~notification~~ sent manually to the ~~community~~ or to part of the community (as opposed to an automatic notification).
 
+# Announcements
+A page on the ~~website~~ where ~~announcements/announcement~~ are listed, even after you canceled the ~~notifications./notification~~
+
 # anonymity
 Used within ~~7 Cups~~ to mean that there is no public connection between the ~~name~~ of a 7 Cups ~~guest,/guest~~ ~~member~~ or ~~listener~~ ~~account~~ and the real-life owner of the account. (Member and listener accounts have associated e-mail addresses, but they are not known to the ~~community~~ as a whole, only to ~~admins/admin~~.)
 
@@ -503,7 +506,7 @@ A ~~bot~~ that engages in limited ~~conversation~~ with ~~guests/guest~~ and ~~m
 A system that ~~listeners/listener~~ use for recording information about ~~guests/guest~~ and ~~members/member~~ confidentially within ~~7 Cups~~. Used to provide continuity between ~~chats/chat~~.
 
 # notification
-An online alert, which may be an ~~announcement~~ or an automatic notification.
+An online alert, which may be an ~~announcement~~ or an automatic notification. Announcements are also listed on the ~~Announcements~~ page on the website.
 
 # Novice
 Second of the 27 groups of ~~listener~~ ~~levels./level~~
