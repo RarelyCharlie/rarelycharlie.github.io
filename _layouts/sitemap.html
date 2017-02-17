@@ -73,7 +73,7 @@ keypress = function () {
 		cleanup = null
 		}
 	}
-gloss = function (term) {
+mapfind = function (term) {
 	var inp = document.getElementById("find")
 	if ('ontouchstart' in window) inp.blur()
 	var f = term? term : normalize(inp.value)
@@ -97,7 +97,7 @@ gloss = function (term) {
 normalize = function (v) {
 	return v.toLowerCase().replace(/@/, 'at').replace(/\#/, 'hash').replace(/\W/g, '-').replace(/-*$/, '')
 	}
-document.addEventListener('DOMContentLoaded', function () {
+glosslinks = function () {
 	var dd = document.getElementsByTagName('DEL')
 	for (let i = 0; i < dd.length; ++i) {
 		let d = dd.item(i)
@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 
 	var s = location.hash.substr(1)
-	var ok = s? gloss(normalize(s)) : true
+	var ok = s? mapfind(normalize(s)) : true
 	if (ok) return
 	
 	document.getElementById('nohash').className = 'warning'
@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	setTimeout(function () {
 		document.getElementById('nohash').className = 'warning faded'
 		}, 4000)
-	})
+	}
 </script>
 </head>
 <body>
@@ -181,13 +181,23 @@ $('#client').show().on('change', function (evt) {
 		if (m) this.setAttribute('href', r.replace(m, c))
 		})
 	})
-setTimeout(function () {
-	$('#map h1').each(function () {
+$.get('https://rarelycharlie.github.io/glossary', function (data, status) {
+	if (status != 'success') return
+	var gg = data.split('\n'), dd = {}
+	for (let i = 0; i < gg.length; ++i) {
+		let g = gg[i]
+		if (g.substr(0, 3) == '<h1') {
+			let t = g.match(/>([^<]+)</)[1]
+			dd[t] = gg[++i]
+			}
+		}
+	$('h1').each(function () {
 		let h1 = $(this), t = h1.text()
-		h1.after('<p class="gloss">A description of ' + t + ' will be loaded from the glossary, but that isn&apos;t working yet. When it&apos;s working you&apos;ll see a different description for each entry in the site map.</p>')
+		if (dd[t]) h1.after(dd[t])
 		})
+	gloslinks()
 	$('#map').show()
-	}, 500)
+	})
 </script>
 </body>
 </html>
