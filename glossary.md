@@ -59,6 +59,9 @@ Information or suggestions intended to solve or alleviate a problem. Whether or 
 # Aiming High
 8th of the twenty groups of ~~member~~ ~~levels./level~~
 
+# alert
+A ~~notification.~~
+
 # AMA
 "Ask Me Anything" A ~~forum~~ ~~thread~~ in which someone invites questions and answers them.
 
