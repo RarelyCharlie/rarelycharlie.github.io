@@ -1,6 +1,6 @@
 ---
 prefix: Just testing
-title: Test
+title: A Jekyll test page
 layout: howto
 ---
 
