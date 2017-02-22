@@ -1,5 +1,4 @@
 ---
-prefix: Just testing
 title: A Jekyll test page
 layout: howto
 ---
