@@ -18,6 +18,3 @@ On its home page you can see which web browsers it supports.
 This is a script that goes inside Tampermonkey.
 
 3. If 7 Cups is already open, reload the page.
-
-Sometimes 7 Cups changes its design and the ads reappear. If this happens, open the Tampermonkey menu and choose
-"Check for userscript updates". It might take up to a week for an update to become available.
