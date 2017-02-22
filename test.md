@@ -1,5 +1,5 @@
 ---
-title: A Jekyll test page
+title: Test Jekyll
 layout: howto
 ---
 
