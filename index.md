@@ -4,7 +4,7 @@ layout: default
 ---
 <style>
   #content {padding-top: 1em;}
-  #content p (margin-left: 30px;)
+  #content p {margin-left: 30px;}
   #content h2 {color: gray;}
 </style>
 This site is an unofficial companion to [7 Cups](https://www.7cups.com/), providing
