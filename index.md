@@ -10,4 +10,5 @@ This site is an unofficial companion to [7 Cups](https://www.7cups.com/), provid
 
 {% for how in site.howto %}
 <h2>{{ how.title }}</h2>
+<p>{{ how }}</p>
 {% endfor %}
