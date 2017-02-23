@@ -2,6 +2,10 @@
   #profile {margin: 1ex 1em 1ex 0; padding-left: 0; border: 1px solid #aaa; border-left: 1px solid #eee;}
   #gotoprofile {padding: 4px 8px; background: #cfc; border: 1px solid #4a4; border-radius: 4px;}
 </style>
+<p>Name:
+@<input id="profile">
+<button id="gotoprofile" onclick="gotoprofile(this)">Go to profile</button>
+</p>
 <script>
 gotoprofile = function (btn) {
   var v = btn.previousElementSibling.value.trim()
@@ -16,7 +20,3 @@ document.getElementById('profile').addEventListener('keydown', function (evt) {
   b.click()
   })
 </script>
-<p>Name:
-@<input id="profile">
-<button id="gotoprofile" onclick="gotoprofile(this)">Go to profile</button>
-</p>
