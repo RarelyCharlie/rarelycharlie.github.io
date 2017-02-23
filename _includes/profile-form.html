@@ -1,9 +1,13 @@
 <style>
-#gotoprofile {background: #cfc;}
+  #profile {margin-left: 0;}
+  #gotoprofile {padding: 2px 6px; background: #cfc; border-radius: 4px;}
 </style>
 <script>
 gotoprofile = function (btn) {
-  alert(btn.previousElementSibling.value)
+  var v = btn.previousElementSibling.value.trim()
+  if (v.charAt(0) == '@') v = v substr(1)
+  v = v.trim()
+  location.href = 'https://www.7cups.com/@' + v
   }
 </script>
 <p>Name:
