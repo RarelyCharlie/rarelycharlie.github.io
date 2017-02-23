@@ -9,6 +9,5 @@ This site is an unofficial companion to [7 Cups](https://www.7cups.com/), provid
 7 Cups users with information and other resources.
 
 {% for how in site.howto %}
-<h2>{{ how.title }}</h2>
-<p>{{ how.url }}</p>
+ - <a href="{{ how.url }}">{{ how.title }}</a>
 {% endfor %}
