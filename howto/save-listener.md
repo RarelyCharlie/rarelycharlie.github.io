@@ -13,10 +13,14 @@ word Following (in pale gray near the top).
 A third way is to go to the listener's profile and bookmark it in your web browser.
 
 To find the profile of a listener, member or therapist you can click on their profile 
-image anywhere you see it in 7 Cups. If you only get a pop-up message, click on their 
-name in the message.
+image almost anywhere you see it in 7 Cups. If you only get a pop-up message, try clicking
+on their name in the message.
 
 Alternatively, you can type the name of any listener, member or therapist in the box 
-here and press the Go to Profile button:
+here and press the Go to profile button:
 
 {% include profile-form.html %}
+
+If this does not take you to a profile, it means the name is wrong or the account has
+been deactivated. When an account is deactivated it is often temporary. Wait a few days
+or weeks and try again.
