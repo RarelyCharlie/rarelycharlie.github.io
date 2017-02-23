@@ -17,7 +17,7 @@ html {padding-top: 100px;}
 </div>
 <script>
 (function () {
-  var aa = document.getelementById('menu').getElementsByTagName('A')
+  var aa = document.getElementById('menu').getElementsByTagName('A')
   for (let i = 0; i < aa.length; ++i) {
     let a = aa[i], u = location.pathname.replace(/\//g, '')
     if (a.getAttribute('href').replace(/\//g, '') == u) a.className = 'here'
