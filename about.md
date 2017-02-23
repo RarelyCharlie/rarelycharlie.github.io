@@ -1,5 +1,5 @@
 ---
-title: About The 8th Cup
+title: About this site
 layout: default
 ---
 This site is curated and edited by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie)
@@ -15,4 +15,5 @@ that you have a more consistent experience the next time you visit. This data do
 you.
 
 ## Copyright
-The contents of this site are [unlicensed](http://unlicense.org/) and in the public domain.
+The contents of this site are [unlicensed](http://unlicense.org/ 'unlicense.org') and in the 
+public domain.
