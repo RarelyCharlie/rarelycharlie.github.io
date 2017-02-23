@@ -6,6 +6,7 @@ html {padding-top: 100px;}
 #menu li {display: inline-block; padding: 0 2px; min-width: 5em; text-transform: uppercase; cursor: pointer;}
 #menu li:hover {background: rgba(0, 0, 255, .15);}
 #menu li a {color: inherit;}
+#menu li a.here {text-shadow: 0 0 6px white;}
 </style>
 <div id="menu">
 <ul>
@@ -14,3 +15,12 @@ html {padding-top: 100px;}
   <li><a href="/contact" title="Contact information">Contact</a></li>
 </ul>
 </div>
+<script>
+(function () {
+  var aa = document.getelementById('menu').getElementsByTagName('A')
+  for (let i = 0; i < aa.length; ++i) {
+    let a = aa[i], u = location.pathname.replace(/\//g, '')
+    if (a.getAttribute('href').replace(/\//g, '') == u) a.className = 'here'
+    }
+  })()
+</script>
