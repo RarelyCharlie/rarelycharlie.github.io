@@ -5,9 +5,9 @@ html {padding-top: 100px;}
 #menu ul {display: block; width: 640px; background: transparent; color: white; margin: 0 auto; padding: 0; text-align: left;}
 #menu li {display: inline-block; padding: 0 2px; min-width: 5em; text-transform: uppercase; cursor: pointer;}
 #menu li:hover {background: rgba(0, 0, 255, .15);}
+#menu li.here:hover {background: transparent;}
 #menu li a {color: inherit; text-decoration: none;}
-#menu li a.here {text-shadow: 0 0 8px white; cursor: default;}
-#menu li a.here:hover {background: transparent;}
+#menu li.here a {text-shadow: 0 0 8px white; cursor: default;}
 </style>
 <div id="menu">
 <ul>
@@ -21,7 +21,7 @@ html {padding-top: 100px;}
   var aa = document.getElementById('menu').getElementsByTagName('A')
   for (let i = 0; i < aa.length; ++i) {
     let a = aa[i], u = location.pathname.replace(/\//g, '')
-    if (a.getAttribute('href').replace(/\//g, '') == u) a.className = 'here'
+    if (a.getAttribute('href').replace(/\//g, '') == u) a.parentNode.className = 'here'
     }
   })()
 </script>
