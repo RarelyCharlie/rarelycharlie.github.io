@@ -8,6 +8,8 @@ layout: default
 This site is an unofficial companion to [7 Cups](https://www.7cups.com/), providing
 7 Cups users with information and other resources.
 
+<p style="margin-left: 2em;">
 {% for how in site.howto %}
- - <a href="{{ how.url }}">{{ how.title }}</a>
+<a href="{{ how.url }}">{{ how.title }}</a><br/>
 {% endfor %}
+</p>
