@@ -9,6 +9,12 @@ gotoprofile = function (btn) {
   v = v.trim()
   location.href = 'https://www.7cups.com/@' + v
   }
+document.getElementById('profile').addEventListener('keydown', function (evt) {
+  if (evt.keyCode != 13) return
+  var b = evt.target.nextElementSibling
+  b.focus()
+  b.click()
+  }
 </script>
 <p>Name:
 @<input id="profile">
