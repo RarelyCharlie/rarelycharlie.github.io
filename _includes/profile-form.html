@@ -9,14 +9,14 @@
 </p>
 <script>
 gotoprofile = function (btn) {
-  var v = btn.previousElementSibling.value.trim()
+  var v = document.getElementById('profile').value.replace(/\s/g, '')
+  if (v == '') return
   if (v.charAt(0) == '@') v = v.substr(1)
-  v = v.trim()
   location.href = 'https://www.7cups.com/@' + v
   }
 document.getElementById('profile').addEventListener('keydown', function (evt) {
   if (evt.keyCode != 13) return
-  var b = evt.target.nextElementSibling
+  var b = document.getElementById('gotoprofile')
   b.focus()
   b.click()
   })
