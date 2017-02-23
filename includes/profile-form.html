@@ -1,0 +1,12 @@
+<style>
+#gotoprofile {background: #cfc;}
+</style>
+<script>
+gotoprofile = function (btn) {
+  alert(btn.previousElementSibling.value)
+  }
+</script>
+<p>Name:
+@<input id="profile">
+<button id="gotoprofile" onclick="gotoprofile(this)">Go to profile</button>
+</p>
