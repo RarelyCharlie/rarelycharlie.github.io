@@ -1,2 +1,6 @@
 name: RarelyCharlie
 markdown: kramdown
+collections:
+  howto:
+    layout: howto
+    output: true
