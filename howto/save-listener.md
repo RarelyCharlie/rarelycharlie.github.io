@@ -19,4 +19,4 @@ name in the message.
 Alternatively, you can type the name of any listener, member or therapist in the box 
 here and press the Go to Profile button:
 
- include profile-form.html 
+{{ include profile-form.html }}
