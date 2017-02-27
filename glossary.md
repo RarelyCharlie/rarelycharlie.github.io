@@ -311,6 +311,9 @@ A ~~guest~~ or member who requests a ~~1-to-1 chat~~ but who does not respond wh
 # GlenM
 ~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ founder and CEO Glen Moriarty. _See:_ [@GlenM](http://7cups.com/@GlenM), [Glen's Nook](http://www.7cups.com/forum/GlensNook_84)
 
+# gratitude journal
+A regular record of the things you are grateful for, often kept privately in your ~~notes,~~ or publicly in your ~~feed~~ using the ~~hashtag~~ #gratitude.
+
 # group chat
 A ~~chat~~ in a ~~chatroom~~.
 
@@ -506,7 +509,7 @@ _See:_ ~~Hope Newsletter~~
 A ~~bot~~ that engages in limited ~~conversation~~ with ~~guests/guest~~ and ~~members/member~~ who are waiting in the ~~general request queue~~, and that can also lead a ~~chatroom~~ ~~discussion~~. Noni is sometimes referred to as she or her, as if female.
 
 # notes
-A system that ~~listeners/listener~~ use for recording information about ~~guests/guest~~ and ~~members/member~~ confidentially within ~~7 Cups~~. Used to provide continuity between ~~chats/chat~~.
+A system that ~~listeners/listener~~ or ~~members/member~~ can use for recording information confidentially within ~~7 Cups~~. Often used to provide continuity between ~~chats/chat~~ or to keep a ~~gratitude journal.~~
 
 # notification
 An online alert, which may be an ~~announcement~~ or an automatic notification. Announcements are also listed on the ~~Announcements~~ page on the website.
@@ -551,6 +554,9 @@ One of the measures that appears in a ~~listener~~ ~~profile~~. The number of di
 
 # personal link
 A ~~referral link~~.
+
+# personal notes
+_See:_ ~~notes~~.
 
 # personal message
 _See:_ ~~PM./pm~~
