@@ -602,6 +602,11 @@ A category of ~~therapist~~, usually but not exclusively tending to have special
 
 ## Q
 
+# QFIF
+Questions, Feedback, Ideas & Fun! A ~~category~~ in the ~~forums./forum~~
+
+_See:_ [Questions, Feedback, Ideas & Fun!](https://www.7cups.com/forum/QuestionsFeedbackIdeasFun_33/)
+
 # quality
 ~~Listener quality/listener quality~~.
 
