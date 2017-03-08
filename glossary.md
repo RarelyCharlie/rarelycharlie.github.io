@@ -31,6 +31,9 @@ In a ~~feed~~ ~~post,/post~~ a prefix that turns a word into a ~~hashtag~~.
 
 ## A
 
+# Accomplished
+11th of the 18 levels in the listener ~~certification~~ program.
+
 # account
 A persistent Internet identity and ~~name~~ used to access 7 Cups.
 
@@ -120,11 +123,17 @@ A setting that prevents a pair of ~~accounts/account~~ from having any contact w
 # blog
 A series of ~~posts/post~~ published by 7 Cups, similar to a ~~feed~~ but intended for public readership.
 
+# Bookworm
+6th of the 18 levels in the listener ~~certification~~ program.
+
 # bot
 A computer program that behaves in some way like a person. The only bots on 7 Cups, as far as we know, are ~~Noni~~ and ~~Sophia~~. (Originally short for robot.)
 
 # boundary
 A personal rule (as opposed to a ~~community rule/rule~~).
+
+# Brains
+12th of the 18 levels in the listener ~~certification~~ program.
 
 # break
 A period of time when someone deliberately stops using 7 Cups, or parts of 7 Cups.
@@ -146,6 +155,9 @@ One of 32 topics that a ~~listener~~ can specialize in and that ~~Noni~~ asks ab
 
 # censor
 An automatic system intended to prevent the use of certain words or phrases. Also, to edit certain words and phrases after they have been used to make it look as if they were not used, or to delete information after it has been published to make it look as if it was not published.
+
+# certification
+An 18-level program that entitles ~~listeners/listener~~ to receive certificates based on how much they have participated in a variety of ways at ~~7 Cups.~~
 
 # chapter
 A student-led mental health awareness and support group in a school, based on the ~~values~~ and online ~~emotional support~~ that ~~7 Cups~~ provides. _See:_ [7 Cups Chapters](https://www.7cups.com/chapters/)
@@ -222,6 +234,9 @@ To turn an ~~account~~ off temporarily so that its ~~name~~ becomes ~~Unknown~~,
 
 # DevTeam
 A ~~listener~~ ~~name~~ reserved for use by ~~7 Cups'~~ development team.
+
+# Disciplined Learner
+10th of the 18 levels in the listener ~~certification~~ program.
 
 # Discoverer
 9th of the 27 groups of ~~listener~~ ~~levels./level~~
@@ -376,11 +391,23 @@ A private page giving information about a ~~listener's/listener~~ activity on ~~
 # Incapsula
 A cloud-based system used to provide faster response times and better security for ~~7 Cups~~. Only visible when something goes wrong and the name Incapsula can be seen in the error message.
 
+# Innovator
+15th of the 18 levels in the listener ~~certification~~ program.
+
 # Intermediate
 7th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # intern
 A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed for student placements (although people who are not students can also join the program). _See:_ [General FAQ Internship](http://www.7cups.com/forum/ListenerProjectsampTeams_148/InternshipsandPracticals_92/GeneralFAQ7CupsInternship_49111/)
+
+
+## J
+
+# Junior Pupil
+7th of the 18 levels in the listener ~~certification~~ program.
+
+# Junior Student
+4th of the 18 levels in the listener ~~certification~~ program.
 
 ## K
 
@@ -404,6 +431,9 @@ Long Distance Relationship. A relationship, usually online, between people who l
 
 # Leader
 A leadership role in the ~~community~~, below ~~Ambassador~~.
+
+# Learner
+9th of the 18 levels in the listener ~~certification~~ program.
 
 # level
 A title awarded automatically to a ~~member~~ or ~~listener~~ according to the number of ~~cheers/cheer~~ they have. Levels are arranged in groups and numbered within a group. A level with just a group name and no number is effectively level zero in that group. _For example:_ ~~Epitome 5/Epitome~~
@@ -436,6 +466,7 @@ To temporarily deactivate an ~~account~~. The account continues to receive ~~mes
 
 # LSR
 Listener support room. A ~~room~~ where ~~listeners/listener~~ can go to get support with ~~chats/chat~~, even in the middle of a chat.
+
 
 ## M
 
@@ -501,6 +532,9 @@ A screen name associated with an ~~account~~. Not usually the owner of the accou
 
 # Newbie
 First of the 27 groups of ~~listener~~ ~~levels./level~~ Also a ~~badge~~ that identifies listeners in their first month.
+
+# Newcomer
+2nd of the 18 levels in the listener ~~certification~~ program.
 
 # newsletter
 _See:_ ~~Hope Newsletter~~
@@ -573,6 +607,12 @@ Personal Message. A ~~message~~, particularly a message that is not sent in the 
 # post
 A statement made in a personal ~~feed~~ or in a ~~thread~~ in a ~~forum~~.
 
+# Professional
+16th of the 18 levels in the listener ~~certification~~ program.
+
+# Professional with Honors
+17th of the 18 levels in the listener ~~certification~~ program.
+
 # professionalism
 One of the qualities used to rate ~~listeners/listener~~ during or after a ~~chat~~. Not further defined. In particular, opinions may differ on whether it is professional or not for a listener to appear warm and human.
 
@@ -598,6 +638,9 @@ A ~~listener~~ designated as having a special role in the ~~community~~ as a mem
 
 # psychologist
 A category of ~~therapist~~, usually but not exclusively tending to have specialist knowledge of the way people perceive, think, feel and behave. 
+
+# Pupil
+8th of the 18 levels in the listener ~~certification~~ program.
 
 
 ## Q
@@ -643,6 +686,9 @@ One of the qualities used to rate ~~listeners/listener~~ during or after a ~~cha
 # review
 A comment made as part of a ~~rating~~ during or after a ~~1-to-1 chat~~. Those comments that are thought to be positive are published in the ~~listener's/listener~~ ~~profile~~.
 
+# Rookie
+The lowest of the 18 levels in the listener ~~certification~~ program.
+
 # room
 A ~~chatroom.~~
 
@@ -679,6 +725,9 @@ Taking care of one's own needs, particularly used to remind ~~listeners/listener
 # self-help guide
 One of a collection of topic-based guides published by ~~7 Cups~~.
 
+# Senior Listener
+14th of the 18 levels in the listener ~~certification~~ program.
+
 # settings
 A page in the ~~website~~ or ~~app~~ where you can specify details about your ~~account~~.
 
@@ -710,6 +759,9 @@ An indicator that shows whether an ~~account~~ is ~~online~~, ~~offline~~ or (on
 
 # step
 A step on a ~~growth path~~ associated with some activity that must be completed in order to move to the next step.
+
+# Student
+5th of the 18 levels in the listener ~~certification~~ program.
 
 # subcommunity
 A community within the ~~7 Cups~~ ~~community~~, with its own ~~forums/forum~~. Sometimes hyphenated: sub-community
@@ -753,6 +805,9 @@ A password-protected ~~account~~ that persists across devices and browser sessio
 # therapy
 Any of various professional methodologies for helping people with mental or emotional difficulties, particularly, but not exclusively, for mental illness as opposed to the ordinary difficulties of life. Also known as psychotherapy to distinguish it from physical therapies. _See also:_ ~~counseling~~
 
+# Thinking Mind
+13th of the 18 levels in the listener ~~certification~~ program.
+
 # Thinking Space
 A ~~chatroom~~ where certain topics that are not allowed in other chatrooms can be discussed. 
 
@@ -764,6 +819,9 @@ The system for managing the way clocks around the world reflect local time. The 
 
 # track
 An area of specialization encompassing more than one specific role in the ~~community,~~ a ~~subcommunity,~~ or a team. For example, someone in a team might specialize in ~~posting/post~~ in the ~~forums/forum~~ where their specific role is to find resources on other websites and link to them. All of the forum-related roles in that team might be described as a track.
+
+# Trainee
+3rd of the 18 levels in the listener ~~certification~~ program.
 
 # training module
 One of a collection of topic-based guides for ~~listeners/listener~~ published by ~~7 Cups~~. Some training modules are identical to ~~self-help guides~~.
@@ -821,3 +879,6 @@ The web site at 7cups.com (as opposed to the ~~app~~).
 
 # widget
 Code that can be inserted in other websites so that users of those websites can choose and link to ~~listeners/listener~~ who are available to ~~chat~~ at ~~7 Cups~~.
+
+# World Changer
+The highest of the 18 levels in the listener ~~certification~~ program.
