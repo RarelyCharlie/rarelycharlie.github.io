@@ -89,7 +89,7 @@ No accounts are truly anonymous. ~~Deactivated/deactivate~~ accounts all have th
 The ~~7 Cups~~ application for iOS and Android devices (as opposed to the ~~website).~~
 
 # appreciation token
-A token awarded to a ~~listener~~ on progressing beyond the last ~~level~~ in a group into the next group. For example, a listener who is in the 5th group, Apprentice, has appreciation tokens for the four lower groups: Newbie, Novice, Beginner and Helper.
+A token awarded to a ~~listener~~ on progressing beyond the last ~~level~~ in a group into the next group. For example, a listener who is in the 5th group, Apprentice, has appreciation tokens for the four lower groups: Newbie, Novice, Beginner and Helper. The tokens are only shown on a listener's ~~impact~~ page.
 
 # Apprentice
 5th of the 27 groups of ~~listener~~ ~~levels./level~~
