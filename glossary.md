@@ -566,6 +566,9 @@ A ~~status~~ setting indicating that a ~~listener~~ is not necessarily available
 # offsite contact
 Contact on other websites or in real life between people in the ~~7 Cups~~ ~~community~~. Only permitted when one of the people is ~~staff~~ or a ~~therapist~~, or when contact is established entirely offsite so that no contact information is shared within 7 Cups.
 
+# onboarding
+The process of welcoming people "on board" ~~7 Cups,~~ or the parts of the ~~website~~ designed to introduce new ~~guests/guest~~ and ~~members./member~~
+
 # online
 A ~~status~~ setting indicating that a ~~listener~~ is active on ~~7 Cups~~ and available for new ~~chats/chat~~. For ~~guests/guest~~, ~~members/member~~ and therapists it indicates that the account is ~~logged in/log in~~.
 
