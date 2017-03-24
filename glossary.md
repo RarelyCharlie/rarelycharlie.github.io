@@ -780,7 +780,7 @@ A step on a ~~growth path~~ associated with some activity that must be completed
 A community within the ~~7 Cups~~ ~~community~~, with its own ~~forums/forum~~. Sometimes hyphenated: sub-community
 
 # subscription
-A system for receiving automatic ~~notification~~ whenever a particular ~~forum~~ ~~thread~~ receives a new ~~post~~ or whenver something of interest happens in a ~~subcommunity.~~
+A system for receiving automatic ~~notification~~ whenever a particular ~~forum~~ ~~thread~~ receives a new ~~post~~ or whenever something of interest happens in a ~~subcommunity.~~
 
 # Supporter
 6th of the 27 groups of ~~listener~~ ~~levels/level~~. Also a ~~member~~ or listener with a special role in supporting the ~~community~~.
