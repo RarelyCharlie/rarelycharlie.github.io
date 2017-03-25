@@ -551,6 +551,7 @@ _See:_ ~~Hope Newsletter~~
 
 # Noni
 A ~~bot~~ that engages in limited ~~conversation~~ with ~~guests/guest~~ and ~~members/member~~ who are waiting in the ~~general request queue~~, and that can also lead a ~~chatroom~~ ~~discussion~~. Noni is sometimes referred to as she or her, as if female.
+_See:_ [Who is Noni?](https://www.7cups.com/about/whoisnoni.php)
 
 # notes
 A system that ~~members,/member~~ ~~listeners/listener~~ or ~~therapists/therapist~~ can use for recording information confidentially within ~~7 Cups~~. Often used to provide continuity between ~~chats/chat~~ or to keep a ~~gratitude journal.~~
