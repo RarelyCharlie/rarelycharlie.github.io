@@ -847,7 +847,7 @@ The most commonly occurring ~~hashtags/hashtag~~ in recent ~~feed~~ ~~posts~~.
 Informal and sometimes deprecated term for someone who communicates in a way that causes bad feeing, used to suggest that the person's way of communicating is deliberate (as opposed to being the result of hidden distress or mental illness).
 
 # TS
-Thinking Space. A ~~chatroom~~ where certain topics that are not allowed in other chatrooms can be discussed. 
+Either ~~Thinking Space~~ or ~~Teen Star.~~
 
 # twin
 ~~Listener twin/listener twin~~.
