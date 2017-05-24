@@ -174,9 +174,8 @@ score = function () {
 	}
 
 nextpage = function () {
-	alert(section)
 	if (isNaN(section)) location.href = location.href + 'listen00'
-	location.href = location.href.replace(/\d{2}/, ('0' + (++section)).substr(-2))
+	else location.href = location.href.replace(/\d{2}/, ('0' + (++section)).substr(-2))
 	}
 
 reviewpage = function () {
