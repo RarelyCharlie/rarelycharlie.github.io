@@ -4,3 +4,6 @@ collections:
   howto:
     layout: howto
     output: true
+  listen:
+    layout: listen
+    output: true
