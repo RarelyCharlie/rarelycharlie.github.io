@@ -90,12 +90,15 @@ var section, test // this section, whether testing
 document.addEventListener('DOMContentLoaded', function () {
 	Persist.init()
 	section = parseInt($('h1').attr('data-section'))
+	
 	test = location.search == '?test'
 	if (!test && section > Persist.section) {
 		location.href = location.href.replace(/\d{2}/, ('0' + Persist.section).substr(-2))
 		return
 		}
 	$('#content').show()
+	
+	if (isNan(section)) return // index has no section number
 
 	var p = $('p[data-n]'), t // quiz intro
 
