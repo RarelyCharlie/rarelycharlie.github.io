@@ -20,6 +20,7 @@ When you are a listener you must make your own choices about your style of liste
 ### How this course works
 
 This is an online course that has four chapters. There are about a dozen sections in each chapter. You must complete the sections and chapters of the course in sequence. The chapters are:
+{: .showul}
 
 - Chapter I: Understanding 7 Cups
 - Chapter II: Operating as a listener
