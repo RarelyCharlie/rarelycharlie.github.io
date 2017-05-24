@@ -58,7 +58,7 @@ button:disabled {color: #888; background: #ddd; border: 1px solid #ccc; box-shad
 tr.wrong .explain {font-weight: 600; color: #000;}
 tr.wrong label::before {color: #ccc !important;}
 ul {display: none;}
-ul.show {display: initial;}
+p.showul + ul {display: initial;}
 em {font-family: "Raleway Medium"; color: #444;}
 p.reviewing em {padding: 2px 6px; margin-left: -6px; background: #e8e8e8;}
 </style>
@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 	$('#content').show()
 	
-	if (isNan(section)) return // index has no section number
+	if (isNaN(section)) return // index has no section number
 
 	var p = $('p[data-n]'), t // quiz intro
 
