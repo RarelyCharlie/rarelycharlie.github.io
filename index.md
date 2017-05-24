@@ -1,5 +1,5 @@
 ---
-title: Just testing
+title: Just testin
 layout: default
 ---
 <style>
