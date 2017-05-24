@@ -7,7 +7,7 @@ title: Introduction
 
 Welcome to this alternative training course in listening at 7 Cups.
 
-This is not the official training course. This alternative course does not enable you to become a listener at 7 Cups. If you are looking for the official training course, go here: New Listener Training
+This is *not* the official training course. This alternative course does not enable you to become a listener at 7 Cups. If you are looking for the official training course, go here: New Listener Training
 
 You can take this alternative course if you want to learn about active listening at 7 Cups, either because you are a guest or a member interested in supporting other 7 Cups users or people in real life, or because you are already a listener and you would like a refresher course.
 
