@@ -17,7 +17,8 @@ You can also reset the course from here and start again from the beginning.
   {% if section.class == 'index' %}
     {% continue %}
   {% else %}
-### {{ section.serial }} {{ section.title }}
+### {{ section.title }}
+{: data-serial="{{ section.serial }}"}
   {% endif %}
 {% endfor %}
 
