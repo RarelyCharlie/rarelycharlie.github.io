@@ -14,6 +14,10 @@ You can also reset the course from here and start again from the beginning.
 <button onclick="nextpage()">Begin the Course</button>
 
 {% for section in site.listen %}
-  <h2>{{ section.title }}</h2>
+  {% if section.class == 'index' %}
+    {% continue %}
+  {% else %}
+    ### {{ section.title }}
+  {% endif %}
 {% endfor %}
 
