@@ -16,6 +16,7 @@ The people who make up 7 Cups' online community consist of:
 - Members, who are logged in
 - Listeners—unpaid volunteers who have completed 7 Cups' official training
 - Therapists—paid professionals
+- Staff—paid employees
 
 Listeners provide emotional support to members and guests through 1-to-1 chats, chatrooms, and forums. Listeners also support each other in their work as listeners.
 
