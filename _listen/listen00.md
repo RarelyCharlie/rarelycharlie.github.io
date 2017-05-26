@@ -4,9 +4,6 @@ title: Introduction
 class: chapter
 serial: 0
 ---
-# Introduction 
-{: data-section="{{ page.serial }}"}
-
 Welcome to this alternative training course in listening at 7 Cups.
 
 This is *not* the official training course. This alternative course does not enable you to become a listener at 7 Cups. If you are looking for the official training course, go here: New Listener Training
