@@ -22,13 +22,13 @@ h4 a:hover {text-decoration: underline;}
 </style>
 
 {% for section in site.listen %}
-  {% assign url = section.url | remove '.html' %}
+  {% assign url = section.url %}
   {% case section.class %}
     {% when 'chapter' %}
-#### [{{ section.title }}]({{ url }} "Go to this chapter")
+#### [{{ section.title }}](section.url)
 {: .chapter data-serial="{{ section.serial }}"}
     {% when 'section' %}
-#### [{{ section.title }}]({{ url }} "Go to this section")
+#### [{{ section.title }}](section.url)
 {: .section data-serial="{{ section.serial }}"}
     {% else %}
       {% continue %}
