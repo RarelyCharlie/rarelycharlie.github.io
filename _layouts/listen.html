@@ -11,7 +11,7 @@
 <link rel="shortcut icon" href="/assets/favicon.ico">
 <meta name="msapplication-config" content="/assets/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
-<title>{{ title }}</title>
+<title>{{ page.title }} | Listener Training</title>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,200,400,500,600">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
@@ -197,6 +197,7 @@ reviewpage = function () {
 <body>
 <div id="header"><span>An unofficial alternative</span><h2>Listener Training</h2></div>
 <div id="content">
+<h1 data-section="{{ page.serial }}">{{ page.title }}</h1>
 {{ content }}
 <p id="next"></p>
 </div>
