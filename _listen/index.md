@@ -14,7 +14,7 @@ You can also reset the course from here and start again from the beginning.
 <button onclick="nextpage()">Begin the Course</button>
 
 <style>
-h4 {font-weight: 400; margin: 0; line-height: 1.25em;}
+h4 {font-weight: 400; margin: 0; line-height: 1.35em;}
 h4.section {margin-left: 2em;}
 h4.chapter {font-weight: 500; margin-top: 1ex;}
 </style>
