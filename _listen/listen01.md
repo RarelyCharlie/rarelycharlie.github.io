@@ -1,6 +1,6 @@
 ---
 layout: listen
-title: Chapter I\: Understanding 7 Cups
+title: "Chapter I: Understanding 7 Cups"
 class: chapter
 serial: 1
 ---
