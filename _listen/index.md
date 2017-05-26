@@ -14,11 +14,14 @@ You can also reset the course from here and start again from the beginning.
 <button onclick="nextpage()">Begin the Course</button>
 
 {% for section in site.listen %}
-  {% if section.class == 'index' %}
-    {% continue %}
-  {% else %}
+  {% case section.class %}
+    {% when 'chapter' %}
+#### {{ section.title }}
+{: .chapter data-serial="{{ section.serial }}"}
+    {% when 'section' %}
 #### {{ section.title }}
 {: .section data-serial="{{ section.serial }}"}
-  {% endif %}
+    {% else %}
+      {% continue %}
+  {% endcase %}
 {% endfor %}
-
