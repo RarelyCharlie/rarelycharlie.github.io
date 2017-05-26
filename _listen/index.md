@@ -14,7 +14,8 @@ You can also reset the course from here and start again from the beginning.
 <button onclick="nextpage()">Begin the Course</button>
 
 <style>
-h4 {font-weight: 400; margin: 0; line-height: 16px;}
+h4 {font-weight: 400; margin: 0; line-height: 1.25em;}
+h4.section {margin-left: 2em;}
 </style>
 
 {% for section in site.listen %}
