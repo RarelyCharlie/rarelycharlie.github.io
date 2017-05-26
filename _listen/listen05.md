@@ -12,6 +12,7 @@ As a listener, what you do is provide emotional support to members. The method u
 Active listening is well established and widely used throughout the world, not just at 7 Cups. You can find many resources to help you understand active listening—for example, on other websites.
 
 To provide emotional support at 7 Cups using active listening there are some things you must do, and some things you must not do. The things you must do are pretty simple. There are just three of them:
+{: .showul}
 
 - Listen
 - Be present
