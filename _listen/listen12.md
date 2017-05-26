@@ -1,0 +1,34 @@
+---
+layout: listen
+title: "Responsibility: Self care"
+class: section
+serial: 12
+---
+You should ensure that you only participate as a listener when you are fully able to do so. You must never try to participate when you are intoxicated, over-tired, distracted or overwhelmed by things. Care for yourself first.
+
+You can take a break from listening at any time, and for as long as you need—months, if necessary. To take a break, simply edit your profile to indicate that you are not available. If you wish, you can post in a forum to let the community know.
+
+You can take a partial break by stopping listening, while you still log in to check announcements and participate in the community. Or you can stop taking chats with new members, and only chat with members you chat with regularly.
+
+Another alternative is to deactivate your profile so that you become invisible. Your profile remains hidden indefinitely and you can reactivate it at any time.
+
+It is entirely up to you to decide in advance what kind of break you need.
+
+After the quiz, we'll look at how you can use your expertise.
+
+Mark each statement True or False, then press the Score button:
+{: #quiz data-n="6"}
+
+- TGlzdGVuZXJzIG11c3QgYXZvaWQgdGFraW5nIGNoYXRzIHdoZW4gdmVyeSB0aXJlZC4vWS9CZWluZyB0aXJlZCBpcyBvbmUgb2YgdGhlIHRoaW5ncyB0aGF0IGNvdWxkIG1ha2UgaXQgZGlmZmljdWx0IHRvIGF0dGVuZCBmdWxseSB0byBhIG1lbWJlci4=
+- TGlzdGVuZXJzIG11c3QgYXZvaWQgdGFraW5nIGNoYXRzIG1vcmUgdGhhbiBvbmNlIGEgZGF5Li9OL0xpc3RlbmVycyBjYW4gZGVjaWRlIHRoZWlyIHNjaGVkdWxlIGZvciB0aGVtc2VsdmVzLg==
+- TGlzdGVuZXJzIGNhbiB0YWtlIGEgYnJlYWsgZnJvbSBsaXN0ZW5pbmcgYXQgYW55IHRpbWUuL1kvU2VsZiBjYXJlIGlzIGltcG9ydGFudCwgYW5kIGFueSBsaXN0ZW5lciBjYW4gdGFrZSBhIGJyZWFrIGZyb20gbGlzdGVuaW5nIHdoZW5ldmVyIG5lZWRlZC4=
+- TGlzdGVuZXJzIG11c3Qgb2J0YWluIHBlcm1pc3Npb24gZnJvbSA3IEN1cHMgc3RhZmYgYmVmb3JlIHRha2luZyBhIGJyZWFrLi9OL05vIHBlcm1pc3Npb24gaXMgcmVxdWlyZWQu
+- TGlzdGVuZXJzIHdobyBhcmUgb24gYSBicmVhayBjYW4gc3RpbGwgbG9nIGluIHRvIDcgQ3Vwcy4vWS9XaGVuIHlvdSBhcmUgb24gYSBicmVhayBmcm9tIGxpc3RlbmluZyB5b3UgY2FuIGxvZyBpbiBhbmQgcGFydGljaXBhdGUgaW4gdGhlIGNvbW11bml0eSBpbiBvdGhlciB3YXlzLg==
+- RGVhY3RpdmF0aW5nIHlvdXIgcHJvZmlsZSBpcyB0ZW1wb3JhcnkuIEl0IGNhbiBiZSByZWFjdGl2YXRlZC4vWS9XaGVuIHlvdSBkZWFjdGl2YXRlIHlvdXIgcHJvZmlsZSwgaXQgcmVtYWlucyBpbiB0aGUgc3lzdGVtIGZvciB3aGVuIHlvdSByZXR1cm4u
+- V2hlbiB5b3UgdGFrZSBhIGJyZWFrIGZyb20gbGlzdGVuaW5nIHlvdSBjYW4gdGVsbCB0aGUgbWVtYmVycyB5b3UgcmVndWxhcmx5IGNoYXQgd2l0aC4vWS9Zb3UgY2FuIHRlbGwgZXZlcnlvbmUu
+- Rm9yIGxpc3RlbmVycywgc2VsZiBjYXJlIGlzIG1vcmUgaW1wb3J0YW50IHRoYW4gY2hhdHMgd2l0aCBtZW1iZXJzLi9ZL01lbWJlcnMgY2FuIGNoYXQgd2l0aCBhbm90aGVyIGxpc3RlbmVyLCBidXQgb25seSB5b3UgY2FuIGNhcmUgZm9yIHlvdXJzZWxmLg==
+- V2hlbiB5b3UgYXJlIGZlZWxpbmcgZG93biwgeW91IGNhbiB1c2UgeW91ciBtZW1iZXIgYWNjb3VudCB0byBnZXQgc3VwcG9ydCBmcm9tIGFub3RoZXIgbGlzdGVuZXIuL1kvTGlzdGVuZXJzIGFyZSByZWNvbW1lbmRlZCB0byBoYXZlIGEgbWVtYmVyIGFjY291bnQgZm9yIHRoaXMgcHVycG9zZS4=
+- SW4gY2hhdHMgd2l0aCBtZW1iZXJzLCBsaXN0ZW5lcnMgc2hvdWxkIGZvY3VzIG9uIG1lbWJlcnMnIGVtb3Rpb25zLi9ZL0xpc3RlbmluZyBhdCA3IEN1cHMgaXMgZm9yIGVtb3Rpb25hbCBzdXBwb3J0Lg==
+- SW4gY2hhdHMgd2l0aCBtZW1iZXJzLCBhY2NlcHRpbmcgYW5kIHVuZGVyc3RhbmRpbmcgYXJlIG1vcmUgaW1wb3J0YW50IHRoYW4gZ29vZCBhZHZpY2UuL1kvTGlzdGVuZXJzIHNob3VsZCBub3QgZ2l2ZSBhZHZpY2UgYXQgYWxsLg==
+- SW4gYSBjaGF0IHdpdGggYSBtZW1iZXIsIGJlaW5nIGdlbnVpbmUgYW5kIHJlc3BlY3RmdWwgYXJlIG1vcmUgaW1wb3J0YW50IHRoYW4gc29sdmluZyB0aGUgbWVtYmVyJ3MgcHJvYmxlbXMuL1kvTGlzdGVuZXJzIGRvIG5vdCB0cnkgdG8gc29sdmUgcHJvYmxlbXMgYXQgYWxsLg==
+- TGlzdGVuaW5nLCBiZWluZyBwcmVzZW50IGFuZCBiZWluZyBzdXBwb3J0aXZlIHJlcXVpcmUgc2tpbGwuL1kvVGhlc2UgYXJlIHRoZSBza2lsbHMgbmVlZGVkIGZvciBhY3RpdmUgbGlzdGVuaW5nLg==
