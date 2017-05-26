@@ -7,7 +7,7 @@ serial: 5
 # {{ page.title }}
 {: data-section="{{ page.serial }}"}
 
-As a listener, what you do is provide emotional support to members. The method used to provide emotional support at 7 Cups is called active listening.
+As a listener, what you do is provide emotional support to members. The method used to provide emotional support at 7 Cups is called *active listening*.
 
 Active listening is well established and widely used throughout the world, not just at 7 Cups. You can find many resources to help you understand active listening—for example, on other websites.
 
@@ -18,11 +18,11 @@ To provide emotional support at 7 Cups using active listening there are some thi
 - Be present
 - Be supportive
 
-Listening at 7 Cups means paying close attention and understanding what members tell you.
+*Listening* at 7 Cups means paying close attention and understanding what members tell you.
 
-Being present means creating a sense that you are really and personally present in the conversation when you chat with a member.
+*Being present* means creating a sense that you are really and personally present in the conversation when you chat with a member.
 
-Being supportive means recognizing and accepting the emotions that a member expresses when they chat with you.
+*Being supportive* means recognizing and accepting the emotions that a member expresses when they chat with you.
 
 After the quiz, we'll look more closely at each of these in turn.
 
