@@ -4,9 +4,6 @@ title: What is 7 Cups?
 class: section
 serial: 2
 ---
-# {{ page.title }}
-{: data-section="{{ page.serial }}"}
-
 7 Cups is a US-based business enterprise that provides online therapy and 24 × 7 emotional support worldwide through an online community.
 
 The people who make up 7 Cups' online community consist of:
