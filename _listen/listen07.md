@@ -14,7 +14,7 @@ What you must never do is try to use counseling techniques or any other techniqu
 After the quiz, we'll look more closely at being supportive to members.
 
 Mark each statement True or False, then press the Score button:
-{: #quiz .data-n="6"}
+{: #quiz data-n="6"}
 
 - Q3JlYXRpbmcgYSBzZW5zZSBvZiBiZWluZyBwcmVzZW50IGlzIGEgc2tpbGwuL1kvSXQgaXMgb25lIG9mIHRoZSBza2lsbHMgb2YgYWN0aXZlIGxpc3RlbmluZy4=
 - TGlzdGVuZXJzIGNhbiBlYXNpbHkgY3JlYXRlIHRoZSBpbGx1c2lvbiBvZiBiZWluZyBwcmVzZW50IGluIG1hbnkgY2hhdHMgc2ltdWx0YW5lb3VzbHkuL04vVGFraW5nIG1vcmUgdGhhbiBvbmUgY2hhdCBhdCBhIHRpbWUgaXMgZGlmZmljdWx0IGFuZCBub3QgcmVjb21tZW5kZWQu
