@@ -22,10 +22,10 @@ h4.chapter {font-weight: 500; margin-top: 1ex;}
 {% for section in site.listen %}
   {% case section.class %}
     {% when 'chapter' %}
-#### {{ section.title }}
+#### [{{ section.title }}]({{ section.url }})
 {: .chapter data-serial="{{ section.serial }}"}
     {% when 'section' %}
-#### {{ section.title }}
+#### [{{ section.title }}]({{ section.url }})
 {: .section data-serial="{{ section.serial }}"}
     {% else %}
       {% continue %}
