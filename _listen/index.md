@@ -25,10 +25,10 @@ h4 a:hover {text-decoration: underline;}
   {% assign url = section.url %}
   {% case section.class %}
     {% when 'chapter' %}
-#### [{{ section.title }}]({{ url }})
+#### [{{ section.title }}]({{ url | remove '.html' }})
 {: .chapter data-serial="{{ section.serial }}"}
     {% when 'section' %}
-#### [{{ section.title }}]({{ url }})
+#### [{{ section.title }}]({{ url | remove '.html' }})
 {: .section data-serial="{{ section.serial }}"}
     {% else %}
       {% continue %}
