@@ -5,7 +5,7 @@ class: section
 serial: 0
 ---
 # Introduction 
-{: data-section="0"}
+{: data-section="{{ page.serial }}"}
 
 Welcome to this alternative training course in listening at 7 Cups.
 
