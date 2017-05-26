@@ -17,15 +17,17 @@ You can also reset the course from here and start again from the beginning.
 h4 {font-weight: 400; margin: 0; line-height: 1.35em;}
 h4.section {margin-left: 2em;}
 h4.chapter {font-weight: 500; margin-top: 1ex;}
+h4 a {text-decoration: none;}
+h4 a:hover {text-decoration: underline;}
 </style>
 
 {% for section in site.listen %}
   {% case section.class %}
     {% when 'chapter' %}
-#### [{{ section.title }}]({{ section.url }})
+#### [{{ section.title }}]({{ section.url "Go to this chapter"}})
 {: .chapter data-serial="{{ section.serial }}"}
     {% when 'section' %}
-#### [{{ section.title }}]({{ section.url }})
+#### [{{ section.title }}]({{ section.url "Go to this section"}})
 {: .section data-serial="{{ section.serial }}"}
     {% else %}
       {% continue %}
