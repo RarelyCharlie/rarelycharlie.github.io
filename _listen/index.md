@@ -24,10 +24,10 @@ h4 a:hover {text-decoration: underline;}
 {% for section in site.listen %}
   {% case section.class %}
     {% when 'chapter' %}
-#### [{{ section.title }}]({{ section.url | remove: '.html' }})
+#### [{{ section.title }}]({{ section.url | remove: '.html' }} "Go to this chapter")
 {: .chapter data-serial="{{ section.serial }}"}
     {% when 'section' %}
-#### [{{ section.title }}]({{ section.url | remove: '.html' }})
+#### [{{ section.title }}]({{ section.url | remove: '.html' "Go to this section"}})
 {: .section data-serial="{{ section.serial }}"}
     {% else %}
       {% continue %}
