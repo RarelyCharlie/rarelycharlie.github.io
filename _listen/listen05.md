@@ -1,0 +1,45 @@
+---
+layout: listen
+title: What listeners do
+class: section
+serial: 5
+---
+# {{ page.title }}
+{: data-section="{{ page.serial }}"}
+
+As a listener, what you do is provide emotional support to members. The method used to provide emotional support at 7 Cups is called active listening.
+
+Active listening is well established and widely used throughout the world, not just at 7 Cups. You can find many resources to help you understand active listening—for example, on other websites.
+
+To provide emotional support at 7 Cups using active listening there are some things you must do, and some things you must not do. The things you must do are pretty simple. There are just three of them:
+
+- Listen
+- Be present
+- Be supportive
+
+Listening at 7 Cups means paying close attention and understanding what members tell you.
+
+Being present means creating a sense that you are really and personally present in the conversation when you chat with a member.
+
+Being supportive means recognizing and accepting the emotions that a member expresses when they chat with you.
+
+After the quiz, we'll look more closely at each of these in turn.
+
+Mark each statement True or False, then press the Score button:
+{: #quiz data-n="6"}
+
+- QWN0aXZlIGxpc3RlbmluZyBpcyBhIGRpc3RyYWN0aW9uIHRlY2huaXF1ZS4vTi9BY3RpdmUgbGlzdGVuaW5nIGlzIGEgd2F5IHRvIHByb3ZpZGUgZW1vdGlvbmFsIHN1cHBvcnQu
+- QWN0aXZlIGxpc3RlbmluZyBpcyBhIG1ldGhvZCBmb3IgcHJvdmlkaW5nIGVtb3Rpb25hbCBzdXBwb3J0Li9ZL0l0IGlzIHRoZSBtZXRob2QgdXNlZCBieSBsaXN0ZW5lcnMgYXQgNyBDdXBzLg==
+- QWN0aXZlIGxpc3RlbmluZyBjYW4gb25seSBiZSB1c2VkIGJ5IHByb2Zlc3Npb25hbCB0aGVyYXBpc3RzLi9OL0l0IGlzIHVzZWQgYnkgbGlzdGVuZXJzIGF0IDcgQ3Vwcywgd2hvIGFyZSAobW9zdGx5KSBub3QgcHJvZmVzc2lvbmFsIGFuZCBub3QgdGhlcmFwaXN0cy4=
+- QWN0aXZlIGxpc3RlbmluZyBpcyBkaWZmaWN1bHQgYW5kIGNvbXBsZXguL04vWW91IGNhbiBsZWFybiBpdCBieSBjb21wbGV0aW5nIHRoaXMgY291cnNlLg==
+- VGhpcyBjb3Vyc2UgZXhwbGFpbnMgdGhlIHRocmVlIHBhcnRzIG9mIGFjdGl2ZSBsaXN0ZW5pbmcuL1kvVGhleSBhcmUgbGlzdGVuaW5nLCBiZWluZyBwcmVzZW50LCBhbmQgYmVpbmcgc3VwcG9ydGl2ZS4=
+- TGlzdGVuZXJzIG11c3QgYmUgYWJsZSB0byBwYXkgYXR0ZW50aW9uIGFuZCB1bmRlcnN0YW5kLi9ZL1RoaXMgaXMgd2hhdCB3ZSBtZWFuIGJ5IGxpc3RlbmluZy4=
+- TGlzdGVuZXJzIG11c3QgYmUgYWJsZSB0byBzdXBwb3J0IG1lbWJlcnMuL1kvRW1vdGlvbmFsIHN1cHBvcnQgaXMgdGhlIG1haW4gdGhpbmcgbGlzdGVuZXJzIHByb3ZpZGUu
+- TGlzdGVuZXJzIG11c3QgYmUgYWJsZSB0byBhY2NlcHQgbWVtYmVycycgZW1vdGlvbnMuL1kvQWNjZXB0aW5nIGVtb3Rpb25zIGlzIHBhcnQgb2YgYWN0aXZlIGxpc3RlbmluZy4=
+- TGlzdGVuZXJzIG11c3QgYmUgYWJsZSB0byBiZSBwcmVzZW50IHdpdGggbWVtYmVycy4vWS9CZWluZyBwcmVzZW50IGlzIHBhcnQgb2YgYWN0aXZlIGxpc3RlbmluZy4=
+- TGlzdGVuZXJzIG11c3QgY29tcGxldGUgNyBDdXBzJyBvZmZpY2lhbCB0cmFpbmluZyBjb3Vyc2UuL1kvWW91IGJlY29tZSBhIGxpc3RlbmVyIGJ5IGNvbXBsZXRpbmcgdGhlIG9mZmljaWFsIHRyYWluaW5nLg==
+- TGlzdGVuZXJzIG11c3QgYmUgYWJsZSB0byBkaXN0cmFjdCBwZW9wbGUgZnJvbSB0aGVpciBwcm9ibGVtcy4vTi9BdCA3IEN1cHMgd2UgYmVsaWV2ZSBkaXN0cmFjdGlvbiBjYXVzZXMgcHJvYmxlbXMgaW5zdGVhZCBvZiBzb2x2aW5nIHRoZW0u
+- TGlzdGVuZXJzIG11c3QgYmUgYWJsZSB0byBoZWxwIHBlb3BsZSBkZW55IHRoZWlyIGRpZmZpY3VsdGllcy4vTi9BdCA3IEN1cHMgd2UgYmVsaWV2ZSBkZW5pYWwgY2F1c2VzIHByb2JsZW1zIGluc3RlYWQgb2Ygc29sdmluZyB0aGVtLg==
+- NyBDdXBzIGlzIG9ubGluZSBhdCBhbGwgdGltZXMgb2YgdGhlIGRheSBhbmQgbmlnaHQuL1kvNyBDdXBzIG9wZXJhdGVzIDI0ICZ0aW1lczsgNy4=
+- RXZlcnkgbGlzdGVuZXIgbXVzdCBiZSBhdmFpbGFibGUgYXQgYWxsIHRpbWVzIG9mIHRoZSBkYXkgYW5kIG5pZ2h0Li9OLzcgQ3VwcyBoYXMgbGlzdGVuZXJzIGFyb3VuZCB0aGUgd29ybGQgaW4gb3JkZXIgdG8gcHJvdmlkZSBhIDI0ICZ0aW1lczsgNyBzZXJ2aWNlLg==
+- TGlzdGVuZXJzIGFyZSBhYmxlIHRvIHN1cHBvcnQgbWVtYmVycyBpbiBjaGF0cm9vbXMuL1kvTGlzdGVuZXJzIHByb3ZpZGUgZW1vdGlvbmFsIHN1cHBvcnQgaW4gMS10by0xIGNoYXRzLCBjaGF0cm9vbXMgYW5kIGZvcnVtcy4=
