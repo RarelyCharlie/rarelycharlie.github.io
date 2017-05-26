@@ -1,0 +1,35 @@
+---
+layout: listen
+title: 7 Cups for the Searching Soul
+class: section
+serial: 4
+---
+# {{ page.title }}
+{: data-section="{{ page.serial }}"}
+
+A longer document explaining the thinking behind 7 Cups' approach is available as a free e-book and as an online training module, *7 Cups for the Searching Soul*. It describes 7 Cups' mission in terms of combating denial and distraction.
+
+It is not necessary to read *7 Cups for the Searching Soul* immediately in order to complete this training course, but you should read it soon after you begin working as a listener.
+
+When you are working as a listener it is useful to keep the dangers of denial and distraction in mind. It is not necessary to believe in the dangers of denial and distraction in your personal life—7 Cups is not a belief system or a cult—but in your work as a listener within 7 Cups you should take care not to promote denial or distraction.
+
+After the quiz, we'll look in more detail at what listeners do.
+
+Mark each statement True or False, then press the Score button:
+{: #quiz data-n="6"}
+
+- NyBDdXBzIGlzIGEgZ2xvYmFsIGNoYXJpdHkgYmFzZWQgaW4gQ2hpbmEuL04vNyBDdXBzIGlzIGEgZm9yLXByb2ZpdCBidXNpbmVzcyBiYXNlZCBpbiB0aGUgVVMu
+- QXQgNyBDdXBzIHRoZXJlIGFyZSBmb3J1bXMuL1kvV2UgaGF2ZSBtYW55IGZvcnVtcy4=
+- QXQgNyBDdXBzIHRoZXJlIGFyZSBjaGF0cm9vbXMuL1kvV2UgaGF2ZSBtYW55IGNoYXRyb29tcy4=
+- RGVueWluZyBwcm9ibGVtcyBhbmQgY2hhdHRpbmcgdG8gcGVvcGxlIG9uIHRoZSBJbnRlcm5ldCBpcyBhIGdvb2Qgd2F5IHRvIGNvcGUgd2l0aCBsaWZlLi9OL0F0IDcgQ3VwcyB3ZSBiZWxpZXZlIGRlbmlhbCBjYXVzZXMgcHJvYmxlbXMgaW5zdGVhZCBvZiBzb2x2aW5nIHRoZW0u
+- RGlzdHJhY3RpbmcgeW91cnNlbGYgZnJvbSB5b3VyIHByb2JsZW1zIGJ5IGdpdmluZyBhZHZpY2UgdG8gb3RoZXJzIGlzIGEgZ29vZCB3YXkgdG8gY29wZSB3aXRoIGxpZmUuL04vQXQgNyBDdXBzIHdlIGJlbGlldmUgZGlzdHJhY3Rpb24gY2F1c2VzIHByb2JsZW1zIGluc3RlYWQgb2Ygc29sdmluZyB0aGVtLg==
+- V2hlbiB5b3UgYXJlIGZhY2luZyBhIHByb2JsZW0sIHByZXRlbmRpbmcgdGhlIHByb2JsZW0gZG9lcyBub3QgZXhpc3QgaXMgYSBoZWxwZnVsIHRlY2huaXF1ZS4vTi9BdCA3IEN1cHMgd2UgYmVsaWV2ZSBkZW5pYWwgY2F1c2VzIHByb2JsZW1zIGluc3RlYWQgb2Ygc29sdmluZyB0aGVtLg==
+- SW5zdGVhZCBvZiB0aGlua2luZyBhYm91dCBwcm9ibGVtcywgaXQgaXMgYmV0dGVyIHRvIHRoaW5rIGFib3V0IHNvbWV0aGluZyBlbHNlLi9OL0F0IDcgQ3VwcyB3ZSBiZWxpZXZlIGRpc3RyYWN0aW9uIGNhdXNlcyBwcm9ibGVtcyBpbnN0ZWFkIG9mIHNvbHZpbmcgdGhlbS4=
+- NyBDdXBzIGZvciB0aGUgU2VhcmNoaW5nIFNvdWwgaXMgYSBib29rLi9ZL0l0J3MgYSBmcmVlIGUtYm9vay4=
+- NyBDdXBzIGZvciB0aGUgU2VhcmNoaW5nIFNvdWwgY29zdHMgJDE0Ljk5IHRvIGRvd25sb2FkLi9OL0l0J3MgZnJlZS4=
+- NyBDdXBzIGZvciB0aGUgU2VhcmNoaW5nIFNvdWwgaXMgdXNlZnVsIGZvciBsaXN0ZW5lcnMgdG8gcmVhZC4vWS9JdCdzIGFuIGVzc2VudGlhbCBwYXJ0IG9mIHVuZGVyc3RhbmRpbmcgd2hhdCA3IEN1cHMgaXMgYWJvdXQsIGV2ZW4gdGhvdWdoIGl0J3Mgbm90IHJlcXVpcmVkIGZvciB0aGlzIGNvdXJzZS4=
+- QXQgNyBDdXBzIHdlIGhhdmUgaGlnaCBleHBlY3RhdGlvbnMuL1kvVGhpcyBpcyBvbmUgb2Ygb3VyIHZhbHVlcy4=
+- SXQgaXMgaW1wb3J0YW50IG5vdCB0byBleHBlY3QgdG9vIG11Y2ggZnJvbSBsaWZlLCBpbiBvcmRlciBhdm9pZCBkaXNhcHBvaW50bWVudC4vTi9BdCA3IEN1cHMgd2UgaGF2ZSBoaWdoIGV4cGVjdGF0aW9ucy4gVGhpcyBpcyBvbmUgb2Ygb3VyIHZhbHVlcy4=
+- QXQgNyBDdXBzIHdlIGRvbid0IGdpdmUgdXAuL1kvVGhpcyBpcyBvbmUgb2Ygb3VyIHZhbHVlcy4=
+- NyBDdXBzIGhhcyBhIG1pc3Npb24gYW5kIHZhbHVlcy4vWS9PdXIgbWlzc2lvbiBhbmQgdmFsdWVzIGFyZSBleHBsYWluZWQgb24gdGhlIHdlYnNpdGUu
+- TGlzdGVuZXJzIHByb3ZpZGUgZW1vdGlvbmFsIHN1cHBvcnQuL1kvVGhpcyBpcyBsaXN0ZW5lcnMnIG1haW4gcm9sZS4=
