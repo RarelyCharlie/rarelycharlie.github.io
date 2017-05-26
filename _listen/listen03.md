@@ -4,9 +4,6 @@ title: "7 Cups' values"
 class: section
 serial: 3
 ---
-# {{ page.title }}
-{: data-section="{{ page.serial }}"}
-
 7 Cups bases its approach on a set of values. You should read the entire document, [*Our Key Values*](https://www.7cups.com/about/values.php "Key Values at 7 Cups") right now before continuing. The main headings are:
 {: .showul}
 
