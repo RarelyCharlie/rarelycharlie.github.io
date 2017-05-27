@@ -1,0 +1,38 @@
+---
+layout: listen
+title: Getting a conversation started
+class: section
+serial: 24
+---
+Many members need to be prompted to say what's on their mind. If there's no immediate response to your greeting you might have to ask a question to get the conversation going.
+
+Any question will do, as long as it doesn't make assumptions and it cannot be answered with yes or no. For example:
+
+Listener: “What brings you here today?”
+{: .conv}
+
+Questions like this, which cannot be answered with yes or no, are examples of open questions. There will be more about open questions, and closed questions, later in the course.
+
+Listeners often decide on an open question to use as an initial prompt, and then they always ask exactly the same question in every chat that needs it. You can decide on one right now, if you like.
+
+Once the chat is in progress your role is just to listen, to be present and to be supportive—the three components of active listening described earlier.
+
+After the quiz, we'll look at keeping notes.
+
+Which of the following are appropriate ways to get a conversation started? Mark each one Yes or No, then press the Score button:
+{: data-n="6" data-opt="Yes,No"}
+
+- V2hhdCB3b3VsZCB5b3UgbGlrZSB0byBjaGF0IHdpdGggbWUgYWJvdXQ/L1kvQSBnb29kIGV4YW1wbGUgb2YgYW4gb3BlbiBxdWVzdGlvbi4=
+- SG93IHdvdWxkIHlvdSBsaWtlIHRvIGJlZ2luIG91ciBjaGF0Py9ZL0EgZ29vZCBleGFtcGxlIG9mIGFuIG9wZW4gcXVlc3Rpb24u
+- V2hhdCBwcm9ibGVtIGRvIHlvdSBuZWVkIG1lIHRvIHNvbHZlIGZvciB5b3U/L04vQW4gb3BlbiBxdWVzdGlvbiwgYnV0IGxpc3RlbmVycyBkbyBub3QgdHJ5IHRvIHNvbHZlIG1lbWJlcnMnIHByb2JsZW1zLg==
+- QXJlIHlvdSBmZWVsaW5nIHN1aWNpZGFsPy9OL1RoaXMgaXMgbm90IGFuIG9wZW4gcXVlc3Rpb24uIFRoZSByZXBseSBjb3VsZCBiZSB5ZXMgb3Igbm8u
+- SGF2ZSB5b3UgZXZlciBmZWx0IGxpa2UgZW5kaW5nIGl0IGFsbD8vTi9UaGlzIGlzIG5vdCBhbiBvcGVuIHF1ZXN0aW9uLiBUaGUgcmVwbHkgY291bGQgYmUgeWVzIG9yIG5vLg==
+- SSBzdWZmZXIgZnJvbSBtb29kIHN3aW5ncy4gRG8geW91IGhhdmUgdGhhdCBwcm9ibGVtIHRvbz8vTi9UaGlzIGludmFsaWRhdGVzIHdoYXRldmVyIHRoZSBtZW1iZXIgaGFzIG9uIHRoZWlyIG1pbmQgYnkgY2hhbmdpbmcgdGhlIHN1YmplY3QgdG8gdGhlIGxpc3RlbmVyJ3Mgc3VmZmVyaW5nLCBhbmQgdGhlIHF1ZXN0aW9uIGlzIG5vdCBhbiBvcGVuIHF1ZXN0aW9uJm1kYXNoO3RoZSByZXBseSBjb3VsZCBiZSB5ZXMgb3Igbm8u
+- QXJlIHlvdSBzaHk/L04vVGhpcyBjb250YWlucyBhbiBhc3N1bXB0aW9uIGFuZCBpdCBpcyBub3QgYW4gb3BlbiBxdWVzdGlvbi4gVGhlIHJlcGx5IGNvdWxkIGJlIHllcyBvciBuby4=
+- QXJlIHlvdSB0b28gZW1iYXJyYXNzZWQgb3IgYXNoYW1lZCB0byBjaGF0Py9OL1RoaXMgY29udGFpbnMgYW4gYXNzdW1wdGlvbiBhbmQgaXQgaXMgbm90IGFuIG9wZW4gcXVlc3Rpb24uIFRoZSByZXBseSBjb3VsZCBiZSB5ZXMgb3Igbm8u
+- SGV5ISBGb3IgdGhpcyB0byB3b3JrIHlvdSBoYXZlIHRvIGNoYXQgdG8gbWUsIHlvdSBrbm93IS9OL0xpc3RlbmVycyBkbyBub3QgdHJ5IHRvIHNvbHZlIHByb2JsZW1zLCBhbmQgdGhpcyBpcyBub3QgYW4gb3BlbiBxdWVzdGlvbi4=
+- SWYgeW91IGhhdmUgbm90aGluZyB0byBzYXksIHBsZWFzZSBjb21lIGJhY2sgYW5vdGhlciB0aW1lLiA3IEN1cHMgaXMgYWx3YXlzIGhlcmUgZm9yIHlvdS4gUmVtZW1iZXIgdGhhdCB5b3UgYXJlIGltcG9ydGFudCBhbmQgYWxsIG9mIHVzIGNhcmUgYWJvdXQgeW91Li9OL0xpc3RlbmVycyBkbyBub3QgdHJ5IHRvIHNvbHZlIHByb2JsZW1zLCBhbmQgdGhpcyBpcyBub3QgYW4gb3BlbiBxdWVzdGlvbi4=
+- V2hlcmUgc2hvdWxkIHdlIGJlZ2luPy9ZL0EgZ29vZCBleGFtcGxlIG9mIGFuIG9wZW4gcXVlc3Rpb24u
+- VGVsbCBtZSB3aGF0IHRoZSBwcm9ibGVtIGlzLi9OL1RoaXMgaXMgbm90IGFuIG9wZW4gcXVlc3Rpb24sIGl0IGFzc3VtZXMgdGhhdCB0aGVyZSdzIGEgcHJvYmxlbSwgYW5kIGluIGFueSBjYXNlIGxpc3RlbmVycyBkbyBub3QgdHJ5IHRvIHNvbHZlIHByb2JsZW1zLg==
+- U29tZXRpbWVzIGl0J3MgZGlmZmljdWx0IHRvIHRhbGsuIFRoYXQncyBwZXJmZWN0bHkgT0suL04vVGhpcyBpcyBub3QgYW4gb3BlbiBxdWVzdGlvbiwgaXQncyBhIGNvbW1lbnQgYW5kIGEganVkZ2VtZW50Lg==
+- SSBrbm93IGhvdyBoYXJkIGl0IGNhbiBiZSB0byBvcGVuIHVwLi9OL1RoaXMgaXMgbm90IGFuIG9wZW4gcXVlc3Rpb24sIGl0IGNoYW5nZXMgdGhlIHN1YmplY3QgdG8gd2hhdCB0aGUgbGlzdGVuZXIga25vd3MsIGFuZCBpdCBhc3N1bWVzIHRoYXQgJ29wZW5pbmcgdXAnIGlzIHJlbGV2YW50IHRvIHRoZSBtZW1iZXIncyBzaXR1YXRpb24u
