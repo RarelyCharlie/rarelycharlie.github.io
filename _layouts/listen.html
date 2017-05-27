@@ -88,6 +88,10 @@ Persist = {
 		}
 	}
 
+emojify = function (t) {
+	return t.replace(/<3/g, '<i class="fa fa-heart"></i>')
+	}
+
 var section, test // this section, whether testing
 document.addEventListener('DOMContentLoaded', function () {
 	Persist.init()
@@ -127,7 +131,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		b64.push(this.innerHTML)
 		bank.push(atob(this.innerHTML).split('/'))
 		})
-	t = '<table id="quiz"><tbody>'
+	t = '<table id="questions"><tbody>'
 		+ '<tr><th>True</th><th>False</th><th></th></tr>'
 	for (let i = 0; i < n; ++i) { // pick n questions...
 		let r = Math.floor(bank.length * Math.random())
@@ -136,7 +140,7 @@ document.addEventListener('DOMContentLoaded', function () {
 			  + '<label for="y' + i + '" title="True"></label></td>'
 			+ '<td><input type="radio" id="n' + i + '" name="q' + i + '">'
 			  + '<label for="n' + i + '" title="False"></label></td>'
-			+ '<td>' + bank[r][0] + '<br/><span class="explain">&nbsp;</span></td>'
+			+ '<td>' + emojify(bank[r][0]) + '<br/><span class="explain">&nbsp;</span></td>'
 			+ '</tr>'
 		else --i
 		delete bank[r]
@@ -161,7 +165,7 @@ score = function () {
 		var t = d[1].toLowerCase()
 		if (t == this.id.substr(0, 1)) ++correct
 		else ok = false, tr.className = 'wrong'
-		tr.lastChild.lastChild.innerHTML = (t == 'y'? 'True. ' : 'False. ') + d[2]
+		tr.lastChild.lastChild.innerHTML = (t == 'y'? 'True. ' : 'False. ') + emojify(d[2])
 		})
 	$('input').attr('disabled', 'true')
 	$('#quiz').addClass('scored')
