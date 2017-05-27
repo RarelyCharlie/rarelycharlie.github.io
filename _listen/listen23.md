@@ -15,8 +15,8 @@ Sometimes the member greets you first, so be prepared to be flexible in the way 
 
 After the quiz, we'll look at getting a conversation started.
 
-Mark each statement True or False, then press the Score button:
-{: data-n="6"}
+Which of the following are appropriate greetings? Mark each greeting Yes or No, then press the Score button:
+{: data-n="6" data-opt="Yes,No"}
 
 - V2VsY29tZSB0byA3IEN1cHMhIC9ZL0Egd2VsY29tZSBpcyB0aGUgdXN1YWwgZ3JlZXRpbmcu
 - SSdtIEFzcCwgeW91ciBsaXN0ZW5lciBhdCA3IEN1cHMgdG9kYXkuIFdlbGNvbWUhL1kvSW5jbHVkaW5nIHlvdXIgbmFtZSBhbmQgYSB3ZWxjb21lIGlzIGEgZnJpZW5kbHkgd2F5IHRvIGdyZWV0IGEgbWVtYmVyLg==
