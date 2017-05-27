@@ -126,7 +126,9 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 
 	Math.seedrandom('rc_' + Persist.retry)
-	var n = p.attr('data-n')
+	var n = p.attr('data-n'), opt = p.attr('data-opt')
+	if (opt) opt = opt.split(',')
+	else opt = ['True', 'False']
 	p.before('<h3>Quiz</h3>')
 	var bank = [], b64 = [] // question bank, original data
 	$('p[data-n]+ul>li').each(function (i) {
@@ -134,14 +136,14 @@ document.addEventListener('DOMContentLoaded', function () {
 		bank.push(atob(this.innerHTML).split('/'))
 		})
 	t = '<table id="questions"><tbody>'
-		+ '<tr><th>True</th><th>False</th><th></th></tr>'
+		+ '<tr><th>' + opt[0] + '</th><th>' + opt[1] + '</th><th></th></tr>'
 	for (let i = 0; i < n; ++i) { // pick n questions...
 		let r = Math.floor(bank.length * Math.random())
 		if (bank[r]) t += '<tr data-a="' + b64[r] + '">'
 			+ '<td><input type="radio" id="y' + i + '" name="q' + i + '">'
-			  + '<label for="y' + i + '" title="True"></label></td>'
+			  + '<label for="y' + i + '" title="' + opt[0] + '"></label></td>'
 			+ '<td><input type="radio" id="n' + i + '" name="q' + i + '">'
-			  + '<label for="n' + i + '" title="False"></label></td>'
+			  + '<label for="n' + i + '" title="' + opt[1] + '"></label></td>'
 			+ '<td>' + emojify(bank[r][0]) + '<br/><span class="explain">&nbsp;</span></td>'
 			+ '</tr>'
 		else --i
