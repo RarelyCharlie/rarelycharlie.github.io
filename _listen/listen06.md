@@ -10,7 +10,7 @@ Listening means paying close attention to what a member tells you, and demonstra
 
 Listening also means understanding what a member tells you, and demonstrating to the member that you understand. Your need to understand might lead you to ask questions if something is not clear.
 
-What you must never do is ignore or invalidate what a member tells you.
+What you must never do is ignore or invalidate what a member tells you, or change the subject. Be particularly careful not to change the subject to yourself or your feelings..
 
 After the quiz, we'll look more closely at being present in a conversation.
 
