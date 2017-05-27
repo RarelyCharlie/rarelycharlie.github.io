@@ -8,7 +8,7 @@ The first thing to do in a chat is greet the member. As a listener you represent
 
 It is also friendly to say what you like to be called. Here is an example. You don't have to use this greeting exactly. You can make up a similar one of your own.
 
-Listener: “Welcome to 7 Cups! I'm Asp.”
+Listener: *“Welcome to 7 Cups! I'm Asp.”*
 {: .conv}
 
 Sometimes the member greets you first, so be prepared to be flexible in the way you manage your greeting.
