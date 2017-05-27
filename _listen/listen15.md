@@ -1,0 +1,40 @@
+---
+layout: listen
+title: Your online status
+class: section
+serial: 15
+---
+When you are logged in as a listener you should manage your online status carefully.
+
+There are three settings:
+{: .showul}
+
+- Offline
+- Busy
+- Online
+
+Your status controls whether the system will allow members to send you personal requests for chats, and it tells members how quickly they can to expect a response when they send you a message.
+
+You can take part in chats regardless of your status, even when your status is set to offline, but it is less confusing for members if you set your status to busy whenever you are active on the site.
+
+A member can only send a personal request to a listener who is online. The listener should normally respond to the request quickly.
+
+A member can send a listener a message even if the listener is busy or offline. The listener can choose when to respond.
+
+As a listener you set your status yourself. The system does not set it for you unless you log out (when it sets it to offline).
+
+After the quiz, we'll look at each status in turn.
+
+Mark each statement True or False, then press the Score button:
+{: data-n="6"}
+
+- TGlzdGVuZXJzIHdob3NlIHN0YXR1cyBpcyBzZXQgdG8gb2ZmbGluZSBjYW4gY2hhdCB3aXRoIGd1ZXN0cyB3aG8gYXJlIG5vdCBsb2dnZWQgaW4uL1kvTGlzdGVuZXJzJyBzdGF0dXMgZG9lcyBub3QgYWZmZWN0IHdobyB0aGV5IGNhbiBjaGF0IHdpdGgsIGFuZCBndWVzdHMgYXJlIG5ldmVyIGxvZ2dlZCBpbi4=
+- NyBDdXBzIGF1dG9tYXRpY2FsbHkgc2V0cyBhIGxpc3RlbmVyJ3Mgc3RhdHVzIHRvIG9ubGluZSBhcyBzb29uIGFzIGEgY2hhdCBiZWdpbnMuL04vNyBDdXBzIG5ldmVyIHNldHMgYSBsaXN0ZW5lcidzIHN0YXR1cyBhdXRvbWF0aWNhbGx5Lg==
+- QSBtZW1iZXIgY2FuIHNlbmQgeW91IGEgbWVzc2FnZSB3aGVuIHlvdSBhcmUgYnVzeSBjaGF0dGluZyB0byBzb21lb25lIGVsc2UuL1kvQSBtZW1iZXIgY2FuIHNlbmQgeW91IGEgbWVzc2FnZSBubyBtYXR0ZXIgaG93IHlvdXIgc3RhdHVzIGlzIHNldC4=
+- SWYgeW91ciBzdGF0dXMgaXMgb25saW5lLCBhIG1lbWJlciBjYW4gc2VuZCB5b3UgYSBwZXJzb25hbCByZXF1ZXN0IHRvIGNoYXQuL1kvT25saW5lIHN0YXR1cyBpcyBpbnRlbmRlZCBhcyBhbiBpbnZpdGF0aW9uIGZvciBwZXJzb25hbCByZXF1ZXN0cy4=
+- V2hlbiB5b3VyIHN0YXR1cyBpcyBvZmZsaW5lLCB5b3UgbXVzdCBuZXZlciB0YWtlIHBhcnQgaW4gY2hhdHMuL04vWW91IGNhbiB0YWtlIHBhcnQgaW4gY2hhdHMgcmVnYXJkbGVzcyBvZiB5b3VyIHN0YXR1cy4=
+- V2hlbiB5b3VyIHN0YXR1cyBpcyBidXN5LCB5b3UgY2FuIHRha2UgeW91ciB0aW1lIHJlc3BvbmRpbmcgdG8gYW55IG1lbWJlciB5b3UgYXJlIGNoYXR0aW5nIHdpdGguL04vSXQgaXMgYWx3YXlzIGltcG9ydGFudCB0byBiZSByZXNwb25zaXZlIGluIGEgY2hhdC4=
+- V2hlbiB5b3VyIHN0YXR1cyBpcyBvbmxpbmUsIGl0IG1lYW5zIHlvdSBhcmUgYXZhaWxhYmxlIHRvIHNvbHZlIG1lbWJlcnMnIHByb2JsZW1zLi9OL0xpc3RlbmVycyBkbyBub3QgdHJ5IHRvIHNvbHZlIHByb2JsZW1zLg==
+- V2hlbiB5b3UgYXJlIGEgbGlzdGVuZXIsIHlvdSBjYW4gY2hvb3NlIGZvciB5b3Vyc2VsZiB3aGVuIHRvIGxvZyBpbiB0byA3IEN1cHMuL1kvVGhlcmUgYXJlIG5vIHJ1bGVzIGFib3V0IHdoYXQgeW91ciBzY2hlZHVsZSBzaG91bGQgYmUsIG9yIHdoZW4geW91IHNob3VsZCBsb2cgaW4gYXMgYSBsaXN0ZW5lci4gSXQgaXMgZW50aXJlbHkgdXAgdG8geW91Lg==
+- T25lIG9mIDcgQ3VwcycgdmFsdWVzIGlzIHRoYXQgaXQgaXMgYmV0dGVyIHRvIGdpdmUgdGhhbiByZWNlaXZlLi9ZL1RoYXQgaXMgdGhlIGxhc3Qgb2Ygb3VyIHNpeCB2YWx1ZXMu
+- TGlzdGVuZXJzIHNob3VsZCBiZSBjYXJlZnVsIHRvIGp1ZGdlIHNpdHVhdGlvbnMgdGhvdWdodGZ1bGx5IGFuZCB0byBleHByZXNzIHRoZWlyIGp1ZGdlbWVudHMgaW4gYSBwb3NpdGl2ZSBhbmQgc3VwcG9ydGl2ZSB3YXkuL04vTGlzdGVuZXJzIGRvIG5vdCBqdWRnZS4=
