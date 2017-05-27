@@ -38,7 +38,7 @@ All the examples of chats in this course are fiction.
 
 ### Getting help
 
-If you need help with any part of the course, or if you have questions, then you can ask in the forums at 7 Cups, ask any experienced listener, or message the author, @RarelyCharlie.
+If you need help with any part of the course, or if you have questions, then you can ask in the forums at 7 Cups, ask any experienced listener, or message the author, [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie "@RarelyCharlie on 7 Cups").
 
 We'll begin the training by looking at what 7 Cups is&hellip;after you complete this quiz.
 
