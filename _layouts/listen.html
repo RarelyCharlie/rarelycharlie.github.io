@@ -173,7 +173,7 @@ score = function () {
 		else ok = false, tr.className = 'wrong'
 		tr.lastChild.lastChild.innerHTML = (t == 'y'? 'True. ' : 'False. ') + emojify(d[2])
 		})
-	$('input').attr('disabled', 'true')
+	$('input').attr({disabled: 'true', title: ''})
 	$('#quiz').addClass('scored')
 	$('#score').attr('disabled', "true")
 	$('#report').text(ok? 'All correct. After reviewing your answers you can go to the next section.'
