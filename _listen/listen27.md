@@ -2,7 +2,7 @@
 layout: listen
 title: Chapter III: Listening skills
 class: chapter
-serial: 21
+serial: 27
 ---
 In this chapter we cover in more detail the skills you'll need as a listener, with examples to show you what to do.
 
