@@ -54,6 +54,7 @@ button {font-size: inherit; font-family: inherit; padding: 4px 20px; border: 1px
 button:disabled {color: #888; background: #ddd; border: 1px solid #ccc; box-shadow: none;}
 .explain {font-style: italic; color: #777;}
 td, th {min-width: 36px; text-align: left;}
+tr.right *, tr.wrong * {cursor: default;}
 tr.wrong .explain {font-weight: 600; color: #000;}
 tr.wrong label::before {color: #ccc !important;}
 ul {display: none; margin: -1em 0 0 0; line-height: 0;}
@@ -168,7 +169,7 @@ score = function () {
 		var tr = this.parentNode.parentNode
 		var d = atob(tr.getAttribute('data-a')).split('/')
 		var t = d[1].toLowerCase()
-		if (t == this.id.substr(0, 1)) ++correct
+		if (t == this.id.substr(0, 1)) ++correct, tr.className = 'right'
 		else ok = false, tr.className = 'wrong'
 		tr.lastChild.lastChild.innerHTML = (t == 'y'? 'True. ' : 'False. ') + emojify(d[2])
 		})
