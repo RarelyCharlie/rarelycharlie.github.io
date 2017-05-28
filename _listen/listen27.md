@@ -1,6 +1,6 @@
 ---
 layout: listen
-title: Chapter III: Listening skills
+title: "Chapter III: Listening skills"
 class: chapter
 serial: 27
 ---
