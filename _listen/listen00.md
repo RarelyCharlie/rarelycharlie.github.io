@@ -12,7 +12,9 @@ You can take this alternative course if you want to learn about active listening
 
 ### Listening styles
 
-Listeners all go about their listening in slightly different ways. The style of listening that this course teaches is not quite the same as the style of listening that the official course teaches.
+Listeners all go about their listening in different ways. The style of listening that this course teaches is not the same as the style of listening that the official course and other training materials teaches.
+
+However, this course teaches a style that anyone can use as a starting point to develop their own style as they gain experience.
 
 When you are a listener you must make your own choices about your style of listening. Many listeners adopt a style that is different from the style taught in the official training, and different from the style taught in this alternative training.
 
