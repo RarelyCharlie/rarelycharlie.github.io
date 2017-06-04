@@ -23,7 +23,7 @@ And a fourth is playing at being a professional, saying the things you think a c
 That's the end of this chapter. After the quiz, Chapter IV looks at some advanced skills you'll need to have.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“Food was never a problem until around two years ago. Then she started to become withdrawn at meal times and she lost her appetite, and we noticed she was losing weight.”*
 {: .conv}
