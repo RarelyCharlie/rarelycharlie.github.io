@@ -161,6 +161,8 @@ document.addEventListener('DOMContentLoaded', function () {
 		$('#score').attr('disabled', $('#quiz').hasClass('scored') || $('input:checked').length < n)
 		})
 	$('input').get(0).focus()
+	
+	if (pageInit in window) pageInit()
 	})
 
 score = function () {
