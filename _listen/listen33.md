@@ -26,7 +26,7 @@ If you can think of a lot to say, it is better to say a little and send the mess
 After the quiz, we'll look at using conversation fillers as a way of being present.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“There's this girl I really admire but she hates me and she always tells me to f off for no reason at all if I even go near her. I can't stop thinking about her no matter what I do and now I'm getting really worried because is that even normal?”*
 {: .conv}
