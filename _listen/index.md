@@ -12,7 +12,7 @@ You can also reset the course from here and start again from the beginning.
 <button onclick="nextpage()">Begin the Course</button>
 
 <style>
-h4 {font-weight: 400; margin: 0; line-height: 1.35em;}
+h4 {font-weight: 400; margin: 0; line-height: 1.35em; color: #ccc;}
 h4.section {margin-left: 2em;}
 h4.chapter {font-weight: 500; margin-top: 1ex;}
 h4 a {text-decoration: none;}
@@ -35,10 +35,10 @@ h4 a:hover {text-decoration: underline;}
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   var s = Persist.section
-  alert(s)
   $('h4').each(function () {
     var h = $(this), t = h.text()
-    h.html('<a href="' + h.attr('data-url') + '" title="' + h.attr('data-title') + t + '">' + t + '</a>')
+    if (s >= parseInt(h.attr('data-serial'))
+      h.html('<a href="' + h.attr('data-url') + '" title="' + h.attr('data-title') + t + '">' + t + '</a>')
     })
   })
 </script>
