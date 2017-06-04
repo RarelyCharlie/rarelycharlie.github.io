@@ -23,7 +23,7 @@ Listener: *“I know you don't want to think those things, but are you able to t
 Emotions, and the events linked to emotions, are important because as a listener at 7 Cups you are here to provide emotional support.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“I've felt this way all my life and nothing is going to change it now.”*
 {: .conv}
