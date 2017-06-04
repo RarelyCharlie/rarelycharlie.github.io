@@ -23,6 +23,7 @@ body {font-family: Raleway, sans-serif; font-size: 16px; font-weight: 400; line-
   background: #159957 linear-gradient(to right, #1e90fe 0%, #73ccde 100%);}
 #footer {z-index: 9; position: fixed; bottom: 0; height: 32px; width: 100%;
   background: #2f4e7a linear-gradient(#2f4e7a, #181a30);}
+#version {float: left;}
 #footer-content {color: white; max-width: 640px; margin: 0 auto; padding: 4px 1ex 0 1ex; text-align: right; font-size: 86%;}
 #footer-content a {display: inline-block; color: white; text-decoration: none;}
 #footer-content a:hover {color: #cdf;}
@@ -210,7 +211,7 @@ reviewpage = function () {
 <p id="next"></p>
 </div>
 <div id="footer">
-FOO {{ version }} X {{ page.version }} X {{ layout.version }} X
+<div id="version">{{ layout.version }}</div>
 <div id="footer-content"><a href="#" title="Table of Contents">Contents</a>&nbsp;&bull;&nbsp;<a href="#" title="Send feedback. (7 Cups login required.)">Feedback</a></div></div>
 </body>
 </html>
