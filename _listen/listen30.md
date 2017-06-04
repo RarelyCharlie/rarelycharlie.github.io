@@ -42,7 +42,7 @@ Listener: *“You love him?”*
 After the quiz, we'll look at summarizing long statements that you cannot reflect.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“It was such a relief to all of us when he finally passed away. I don't know how we had coped.”*
 
