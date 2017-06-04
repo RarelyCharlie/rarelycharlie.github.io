@@ -136,7 +136,8 @@ document.addEventListener('DOMContentLoaded', function () {
 	else opt = ['True', 'False']
 	p.before('<h3>Quiz</h3>')
 	var bank = [], b64 = [] // question bank, original data
-	$('li', p.nextAll('ul')).each(function (i) {
+	var u = p.nextAll('ul').first()
+	$('li', u).each(function (i) {
 		b64.push(this.innerHTML)
 		bank.push(atob(this.innerHTML).split('/'))
 		})
@@ -157,8 +158,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	t += '</tbody></table>'
 	  + '<p><button id="score" disabled onclick="score()">Score</button></p>'
 	  + '<p id="report"></p>'
-	$('p[data-n]+ul').remove()
-	p.after(t)
+	u.replaceWith(t)
 
 	$('input').on('click', function () {
 		$('#score').attr('disabled', $('#quiz').hasClass('scored') || $('input:checked').length < n)
