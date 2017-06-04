@@ -23,10 +23,10 @@ h4 a:hover {text-decoration: underline;}
   {% case section.class %}
     {% when 'chapter' %}
 #### {{ section.title }}
-{: .chapter data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to the chapter"}
+{: .chapter data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to "}
     {% when 'section' %}
 #### {{ section.title }}
-{: .section data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to the section"}
+{: .section data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to the section: "}
     {% else %}
       {% continue %}
   {% endcase %}
@@ -36,7 +36,7 @@ h4 a:hover {text-decoration: underline;}
 document.addEventListener('DOMContentLoaded', function () {
   $('h4').each(function () {
     var h = $(this), t = h.text()
-    h.html('<a href="' + h.attr('data-url') + '" title="' + h.attr('data-title') + ': ' + t + '">' + t + '</a>')
+    h.html('<a href="' + h.attr('data-url') + '" title="' + h.attr('data-title') + t + '">' + t + '</a>')
     })
   })
 </script>
