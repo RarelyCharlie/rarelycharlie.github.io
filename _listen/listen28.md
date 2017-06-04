@@ -12,13 +12,13 @@ This is sometimes called reflection, because it's like showing the member a refl
 
 The simplest form of reflection is when the member makes a simple statement and you use exactly the same words, or almost the same, in your reply. Do not make comments or assumptions, Do not ask questions. Do not change the subject. The goal is simply to demonstrate that you heard. This is the very heart of active listening.
 
-Listener: “What brings you to 7 Cups today?”
+Listener: *“What brings you to 7 Cups today?”*
 {: .conv}
 
-Member: “I am sad.”
+Member: *“I am sad.”*
 {: .conv}
 
-Listener: “Your sadness brought you here today.”
+Listener: *“Your sadness brought you here today.”*
 {: .conv}
 
 Reflection seems strange and difficult to many people because it is not like normal conversation. Active listening is not normal conversation. It is specially designed to provide emotional support.
