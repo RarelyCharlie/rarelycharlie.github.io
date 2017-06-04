@@ -27,7 +27,7 @@ Listener: *“Oh no! You lost her.”*
 After the quiz, we'll look at being curious.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“For days after she told me I just couldn't concentrate on anything or achieve anything. It was almost like I wanted to cry. I just couldn't pick up the phone and call her. I don't know. Anyway, I had a contract the following week and I had to get on with my life,. I'm too busy for that kind of thing.”*
 {: .conv}
