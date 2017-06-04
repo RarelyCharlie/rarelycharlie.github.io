@@ -19,7 +19,7 @@ Remember not to try and solve the member's problem, and remember not to play at 
 How often you reflect the big picture, and how far back you go, are matters for you to judge.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“Yesterday I was really depressed and it's like I didn't achieve anything at all.”*
 {: .conv}
