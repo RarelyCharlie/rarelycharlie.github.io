@@ -19,7 +19,7 @@ With this in mind, it is up to you to judge which approach to reflection is best
 After the quiz, we'll look at being present in the conversation.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“My tutor says I have six weeks to make up my mind which option to choose. If I go for the one with all the math it's going to be much better for my career, which is important to me, but I find math really hard and my grades will probably be worse. I could go for the easier option but if it doesn't get me a job at the end of it what's the point? I really don't know what to do. It's been on my mind day and night.”*
 {: .conv}
