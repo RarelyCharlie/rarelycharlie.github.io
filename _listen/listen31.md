@@ -1,0 +1,36 @@
+---
+layout: listen
+title: "Listening: Summarizing"
+class: section
+serial: 31
+---
+If you cannot identify any emotional content in a member's statement, you can summarize the whole statement. Summarizing a long statement accurately is helpful to the member because it demonstrates that they have really been heard.
+
+Do not make your own assumptions about the member's emotions, and do not play at being a therapist by suggesting interpretations.
+
+Member: *“I've tried three kinds of antidepressants and none of them have worked. At least the one I'm taking now doesn't make things worse. I don't think it has any effect at all. Do you think I should just stop taking it?”*
+{: .conv}
+
+Listener: *“None of them have worked, so you're thinking you might just stop.”*
+{: .conv}
+
+After the quiz, we'll look at how to reflect so as to create continuity.
+
+A member says:
+{: data-n="6" data-opt="True,False"}
+
+*“It will be a long trip to Colorado and there will be a lot to prepare because of John's disability. I have to find out from the hospital what we'll need to take on the journey, and I have to make arrangements with all the places we're staying to ensure there are adequate facilities. My husband is too busy right now to help with most of it.”*
+{: .conv}
+
+Which of the following could be appropriate replies?
+
+- U291bmRzIGxpa2UgYWxsIHRoZSBwbGFubmluZyBhbmQgYXJyYW5nZW1lbnRzIGZvciB0aGlzIGxvbmcgdHJpcCBhcmUgeW91ciByZXNwb25zaWJpbGl0eS4vWS9UaGlzIGlzIG9uZSB3YXkgdG8gc3VtbWFyaXplIHdoYXQgdGhlIG1lbWJlciBzYWlkLg==
+- Sm9obidzIGRpc2FiaWxpdHkgbWVhbnMgdGhlcmUncyBhIGxvdCBvZiBwcmVwYXJhdGlvbiwgYW5kIHlvdXIgaHVzYmFuZCBjYW4ndCBoZWxwLi9ZL1RoaXMgaXMgb25lIHdheSB0byBzdW1tYXJpemUgd2hhdCB0aGUgbWVtYmVyIHNhaWQu
+- WW91IGhhdmUgYSBsb3QgdG8gZG8gYmVmb3JlIHlvdXIgdHJpcCB0byBDb2xvcmFkbywgYW5kIGF0IGEgdGltZSB3aGVuIHlvdXIgaHVzYmFuZCBpcyBidXN5IHdpdGggb3RoZXIgdGhpbmdzLi9ZL1RoaXMgaXMgb25lIHdheSB0byBzdW1tYXJpemUgd2hhdCB0aGUgbWVtYmVyIHNhaWQu
+- WW91ciBodXNiYW5kIGNhbid0IGhlbHAgbXVjaCBiZWNhdXNlIGhlJ3MgYnVzeSwgYW5kIHRoZXJlIGFyZSBtYW55IHRoaW5ncyBmb3IgeW91IHRvIGFycmFuZ2UgYmVmb3JlIHRoZSB0cmlwLi9ZL1RoaXMgaXMgb25lIHdheSB0byBzdW1tYXJpemUgd2hhdCB0aGUgbWVtYmVyIHNhaWQu
+- WW91J3JlIGFueGlvdXMgYWJvdXQgdGhlIHRyaXAgYmVjYXVzZSB0aGVyZSdzIHNvIG11Y2ggdG8gZG8gYW5kIHlvdXIgaHVzYmFuZCBkb2Vzbid0IHN1cHBvcnQgeW91Li9OL0RvIG5vdCBtYWtlIGFzc3VtcHRpb25zLiBUaGUgbWVtYmVyIGRpZCBub3QgbWVudGlvbiBiZWluZyBhbnhpb3VzIG9yIG5lZWRpbmcgc3VwcG9ydC4=
+- WW91IGNvdWxkIGhhdmUgYSB0YWxrIHdpdGggeW91ciBodXNiYW5kIGFuZCBleHBsYWluIHdoeSB5b3UgbmVlZCBoaW0gdG8gaGVscCB3aXRoIHRoZSB0cmlwLi9OL0xpc3RlbmVycyBzaG91bGQgbmV2ZXIgZ2l2ZSBhZHZpY2Ugb3IgdHJ5IHRvIGNvbWUgdXAgd2l0aCBzb2x1dGlvbnMgdG8gcHJvYmxlbXMu
+- WW91IHdpbGwgaGF2ZSBzdWNoIGEgbG90IHRvIGRvISBJIGFtIHNvIHByb3VkIG9mIHlvdSBmb3IgdW5kZXJ0YWtpbmcgYWxsIHRoaXMuL04vRG8gbm90IG1ha2UgY29tbWVudHMgb3IgY2hhbmdlIHRoZSBzdWJqZWN0IHRvIHlvdXIgb3duIGZlZWxpbmdzIG9mIHByaWRlLg==
+- WW91IG11c3Qgd29ycnkgdGhhdCB5b3UnbGwgbm90IGJlIGFibGUgdG8gYXJyYW5nZSBldmVyeXRoaW5nIGFuZCBKb2huIHdpbGwgc3VmZmVyLi9OL1RoZSBtZW1iZXIgZGlkIG5vdCBtZW50aW9uIHdvcnJ5IG9yIHN1ZmZlcmluZy4gRG8gbm90IG1ha2UgYXNzdW1wdGlvbnMu
+- SXQncyBpbXBvcnRhbnQgZm9yIHlvdSB0byBnZXQgZXZlcnl0aGluZyBvcmdhbml6ZWQgaW4gYWR2YW5jZSBzbyB0aGF0IG5vdGhpbmcgY2FuIGdvIHdyb25nLi9OL1RoZSBtZW1iZXIgZGlkIG5vdCBtZW50aW9uIHRoaW5ncyBnb2luZyB3cm9uZy4gRG8gbm90IG1ha2UgYXNzdW1wdGlvbnMuIEFsc28sIG9uZSBvZiBvdXIgdmFsdWVzIGF0IDcgQ3VwcyBpcyByZWNvZ25pemluZyB0aGF0IGxpZmUgaXMgbWVzc3ksIHVucHJlZGljdGFibGUsIGhhcmQsIGFuZCBzdXJwcmlzaW5nLg==
+- V2hlcmVhYm91dHMgaW4gQ29sb3JhZG8gYXJlIHlvdSBoZWFkZWQ/IEkgaGF2ZSBhIGNvdXNpbiBuZWFyIEFzcGVuIGFuZCBJJ2QgcmVhbGx5IGxpa2UgdG8gdmlzaXQgaGltIG9uZSBkYXkuL04vRG8gbm90IGNoYW5nZSB0aGUgc3ViamVjdCB0byB5b3VyIG93biBmYW1pbHkgYW5kIHRyYXZlbCBwbGFucy4=
