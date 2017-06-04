@@ -37,7 +37,7 @@ h4 a:hover {text-decoration: underline;}
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   var s = Persist.section
-  if (s == 0)  $('#reset').hide(), $('#begin').show()
+  if (s == 0)  $('#reset').hide(), $('#begin').show(), $('#continue').hide()
 
   var q = location.search
   if (q.indexOf('?section=') === 0) {
