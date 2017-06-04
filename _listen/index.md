@@ -54,6 +54,6 @@ document.addEventListener('DOMContentLoaded', function () {
  resetSection = function () {
   Persist.section = 0
   Persist.save()
-  nextPage(0)
+  nextpage(0)
   }
 </script>
