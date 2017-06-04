@@ -26,7 +26,7 @@ h4 a:hover {text-decoration: underline;}
 {: .chapter data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to this chapter"}
     {% when 'section' %}
 #### {{ section.title }}
-{: .chapter data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to this section"}
+{: .section data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to this section"}
     {% else %}
       {% continue %}
   {% endcase %}
