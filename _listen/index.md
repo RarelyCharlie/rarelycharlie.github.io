@@ -31,3 +31,9 @@ h4 a:hover {text-decoration: underline;}
       {% continue %}
   {% endcase %}
 {% endfor %}
+
+<script>
+pageInit = function () {
+  alert('Foo!')
+  }
+</script>
