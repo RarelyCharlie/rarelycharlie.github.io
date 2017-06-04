@@ -188,8 +188,9 @@ score = function () {
 	Persist.save()
 	}
 
-nextpage = function () {
+nextpage = function (s) {
 	if (isNaN(section)) location.href = location.href + 'listen00'
+	else if ($.isNumeric(s)) location.href = location.href.replace(/\d{2}/, ('0' + s.substr(-2))
 	else location.href = location.href.replace(/\d{2}/, ('0' + (++section)).substr(-2))
 	}
 
