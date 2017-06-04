@@ -44,8 +44,7 @@ After the quiz, we'll look at summarizing long statements that you cannot reflec
 A member says:
 {: data-n="6" data-opt="True,False"}
 
-*“It was such a relief to all of us when he finally passed away. I don't know how we had coped.”
-Which of the following could be appropriate replies?*
+*“It was such a relief to all of us when he finally passed away. I don't know how we had coped.”*
 
 Which of the following could be appropriate replies?
 
