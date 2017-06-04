@@ -33,7 +33,10 @@ h4 a:hover {text-decoration: underline;}
 {% endfor %}
 
 <script>
-pageInit = function () {
-  alert('Foo!')
+document.addEventListener('DOMContentLoaded', function () {
+  $('h4').each () {
+    var h = $(this)
+    h.html('<a href="' + h.attr('data-url') + '" title="' + h.attr('data-title') + '">' + h.text() + '</a>')
+    }
   }
 </script>
