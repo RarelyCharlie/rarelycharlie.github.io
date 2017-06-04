@@ -1,0 +1,42 @@
+---
+layout: listen
+title: "Listening: Reflecting emotion"
+class: section
+serial: 29
+---
+It's essential to reflect emotion whenever possible, because emotional support is the whole point of active listening at 7 Cups. When a member makes a long statement and one part of it describes emotion, always reflect the emotion.
+
+It's good to reflect some of the other content too, but it's not necessary. It's OK to reflect the emotion and nothing else. Reflecting emotion is sometimes called empathy.
+
+Member: *“Yes, at last we were able to get it repaired and hit the road but I was sad to leave, really, and getting home took hours. There was a thunderstorm and torrential rain. We had to pull over and sit out the worst of it.”*
+{: .conv}
+
+Listener: *“You were sad to leave.”*
+{: .conv}
+
+Empathy seems strange and difficult to many people because it is not like normal conversation. In a normal conversation you talk about yourself. In active listening you only talk about the member's feelings, because when you do that you can provide emotional support.
+
+After the quiz, we'll look at being empathic when a member's feelings are only implied.
+
+A member says:
+{: data-n="6" data-opt="True,False"}
+
+*“He hasn't replied to my texts for threee days. I'm sure he's with someone else. How can I find out? It's making me anxous all the time. I can't do my work. My boss has noticed but I can't tell him its because of this. I don't know what to do.”*
+{: .conv}
+
+Which of the following could be appropriate replies?
+
+- WW91IGhhdmUgY29uc3RhbnQgYW54aWV0eSBub3cuL1kvVGhpcyByZWZsZWN0cyB0aGUgZW1vdGlvbi4=
+- Tm90IHJlcGx5aW5nIGZvciBzbyBsb25nIGhhcyBtYWRlIHlvdSBhbnhpb3VzIGhlJ3Mgd2l0aCBzb21lb25lIGVsc2UuL1kvVGhpcyByZWZsZWN0cyB0aGUgZW1vdGlvbiBhbmQgc29tZSBvZiB0aGUgb3RoZXIgY29udGVudC4=
+- WW91IGNhbid0IGZpbmQgb3V0IHdoZXRoZXIgaGUncyB3aXRoIHNvbWVvbmUgZWxzZSwgYW5kIGl0IG1ha2VzIHlvdSBhbnhpb3VzIGFsbCB0aGUgdGltZS4vWS9UaGlzIHJlZmxlY3RzIHRoZSBlbW90aW9uIGFuZCBzb21lIG9mIHRoZSBvdGhlciBjb250ZW50Lg==
+- SXQgZ2l2ZXMgeW91IGEgZmVlbGluZyBvZiBhbnhpZXR5IGFsbCB0aGUgdGltZSAsIGFuZCB5b3UgY2FuJ3QgZG8geW91ciB3b3JrIGJlY2F1c2Ugb2YgaXQuL1kvVGhpcyByZWZsZWN0cyB0aGUgZW1vdGlvbiBhbmQgc29tZSBvZiB0aGUgb3RoZXIgY29udGVudC4=
+- SGUgY291bGQgYmUgd2l0aCBzb21lb25lIGVsc2UsIGFuZCB5b3VyIGJvc3MgaGFzIG5vdGljZWQgc29tZXRoaW5nIGlzIHdyb25nLi9OL1RoaXMgZG9lcyByZWZsZWN0IHNvbWUgb2YgdGhlIGNvbnRlbnQgYnV0IGl0IGF2b2lkcyB0aGUgZW1vdGlvbi4=
+- V2hpbGUgeW91J3ZlIGJlZW4gd2FpdGluZyBmb3IgaGltIHRvIHJlcGx5IHlvdXIgd29yayBoYXMgc3VmZmVyZWQgbm90aWNlYWJseS4vTi9UaGlzIGRvZXMgcmVmbGVjdCBzb21lIG9mIHRoZSBjb250ZW50IGJ1dCBpdCBhdm9pZHMgdGhlIGVtb3Rpb24u
+- WW91IG5lZWQgdG8gdGhpbmsgb2YgYSB3YXkgdG8gZmluZCBvdXQgd2hldGhlciBoZSdzIHdpdGggc29tZW9uZSBlbHNlLi9OL1RoaXMgZG9lcyByZWZsZWN0IHNvbWUgb2YgdGhlIGNvbnRlbnQgYnV0IGl0IGF2b2lkcyB0aGUgZW1vdGlvbi4=
+- SSdtIHNvIHNvcnJ5IHlvdXIgcmVsYXRpb25zaGlwIGlzIHVuc2F0aXNmYWN0b3J5Li9OL0RvIG5vdCBtYWtlIGNvbW1lbnRzIG9yIGNoYW5nZSB0aGUgc3ViamVjdCB0byB0aGUgcXVhbGl0eSBvZiB0aGUgcmVsYXRpb25zaGlwLg==
+- WW91IGNvdWxkIGdvIGFuZCBmaW5kIGhpbSwgYW5kIGFzayBoaW0gZmFjZS10by1mYWNlLi9OL0RvIG5vdCBtYWtlIGNvbW1lbnRzLiBMaXN0ZW5lcnMgc2hvdWxkIG5ldmVyIGdpdmUgYWR2aWNlIG9yIHRyeSB0byBjb21lIHVwIHdpdGggc29sdXRpb25zIHRvIHByb2JsZW1zLg==
+- UGVyaGFwcyB5b3UgY2FuIGFzayBzb21lb25lIHdobyBrbm93cyBoaW0gd2hldGhlciBoZSdzIHdpdGggc29tZW9uZSBlbHNlIG5vdy4vTi9MaXN0ZW5lcnMgc2hvdWxkIG5ldmVyIGdpdmUgYWR2aWNlIG9yIHRyeSB0byBjb21lIHVwIHdpdGggc29sdXRpb25zIHRvIHByb2JsZW1zLg==
+- VGhyZWUgZGF5cyBpcyBub3Qgc3VjaCBhIGxvbmcgdGltZS4gTWF5YmUgc29tZXRoaW5nIGNhbWUgdXAuL04vRG8gbm90IG1ha2UgY29tbWVudHMuIExpc3RlbmVycyBzaG91bGQgbmV2ZXIgZ2l2ZSBhZHZpY2Ugb3IgdHJ5IHRvIGNvbWUgdXAgd2l0aCBzb2x1dGlvbnMgdG8gcHJvYmxlbXMu
+- WW91IG11c3QgdGVsbCB5b3VyIGJvc3Mgd2hhdCdzIG1ha2luZyB5b3UgZGlzdHJhY3RlZC4vTi9Vc2luZyB0aGUgd29yZCBkaXN0cmFjdGVkIGludmFsaWRhdGVzIHRoZSBtZW1iZXIncyBhbnhpZXR5LiBBbHNvLCBsaXN0ZW5lcnMgc2hvdWxkIG5ldmVyIGdpdmUgYWR2aWNlIG9yIHRyeSB0byBjb21lIHVwIHdpdGggc29sdXRpb25zIHRvIHByb2JsZW1zLg==
+- WW91IG11c3QgaGlkZSBpdCBmcm9tIHlvdXIgYm9zcyBiZXR0ZXIuIEhlIHNob3VsZCBub3QgaW50ZXJmZXJlIGluIHlvdXIgcGVyc29uYWwgbGlmZS4vTi9MaXN0ZW5lcnMgc2hvdWxkIG5ldmVyIGdpdmUgYWR2aWNlIG9yIHRyeSB0byBjb21lIHVwIHdpdGggc29sdXRpb25zIHRvIHByb2JsZW1zLg==
+- SXQncyBub3RoaW5nIHRvIGJlIGFueGlvdXMgYWJvdXQuIEknbSBzdXJlIGhlJ2xsIHJlcGx5IHNvb24uL04vVGhpcyBpbnZhbGlkYXRlcyB0aGUgbWVtYmVyJ3MgYW54aWV0eS4gWW91IG11c3QgbmV2ZXIgaWdub3JlIG9yIGludmFsaWRhdGUgd2hhdCBhIG1lbWJlciB0ZWxscyB5b3Uu
