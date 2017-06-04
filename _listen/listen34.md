@@ -52,7 +52,7 @@ Fillers should be very short, preferably one or two words, like “OK”, “Yes
 After the quiz, we'll look at reacting authentically.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“It started when I was in my teens.”*
 {: .conv}
