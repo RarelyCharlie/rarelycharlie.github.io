@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function () {
   })
   
  resetSection = function () {
-  Persist.section = 0
+  section = Persist.section = 0
   Persist.save()
   nextpage(0)
   }
