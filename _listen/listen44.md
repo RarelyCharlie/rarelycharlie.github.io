@@ -27,7 +27,7 @@ Many chats with members who have not used 7 Cups before are stuck right from the
 After the quiz, we'll look at difficult subjects.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“Yesterday was very hard because of the pains and I'm already on the maximum dose.”*
 {: .conv}
