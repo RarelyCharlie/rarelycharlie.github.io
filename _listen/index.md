@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
   var s = Persist.section
   $('h4').each(function () {
     var h = $(this), t = h.text()
-    if (s >= parseInt(h.attr('data-serial'))
+    if (s >= parseInt(h.attr('data-serial')))
       h.html('<a href="' + h.attr('data-url') + '" title="' + h.attr('data-title') + t + '">' + t + '</a>')
     })
   })
