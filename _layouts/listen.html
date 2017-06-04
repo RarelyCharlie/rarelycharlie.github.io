@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	else opt = ['True', 'False']
 	p.before('<h3>Quiz</h3>')
 	var bank = [], b64 = [] // question bank, original data
-	$('p[data-n]+ul>li').each(function (i) {
+	$('li', p.nextAll('ul')).each(function (i) {
 		b64.push(this.innerHTML)
 		bank.push(atob(this.innerHTML).split('/'))
 		})
