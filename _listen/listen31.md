@@ -17,7 +17,7 @@ Listener: *“None of them have worked, so you're thinking you might just stop.�
 After the quiz, we'll look at how to reflect so as to create continuity.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“It will be a long trip to Colorado and there will be a lot to prepare because of John's disability. I have to find out from the hospital what we'll need to take on the journey, and I have to make arrangements with all the places we're staying to ensure there are adequate facilities. My husband is too busy right now to help with most of it.”*
 {: .conv}
