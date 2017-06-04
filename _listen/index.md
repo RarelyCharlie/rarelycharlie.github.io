@@ -39,7 +39,6 @@ document.addEventListener('DOMContentLoaded', function () {
   if (q.indexOf('?section=') === 0) {
     s = Persist.section = parseInt(q.substr(9)) || 0
     Persist.save
-    alert(s)
     }
   $('h4').each(function () {
     var h = $(this), t = h.text()
