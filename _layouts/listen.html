@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		})
 	$('input').get(0).focus()
 	
-	if (pageInit in window) pageInit()
+	if ('pageInit' in window) pageInit()
 	})
 
 score = function () {
