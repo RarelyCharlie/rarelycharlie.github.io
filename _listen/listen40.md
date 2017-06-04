@@ -21,7 +21,7 @@ Some members will ask you questions about yourself, and if you self-disclose the
 After the quiz, we'll look at some some things that can get in the way of emotional support.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“They don't understand that I need to check. I need to!”*
 {: .conv}
