@@ -19,7 +19,7 @@ Empathy seems strange and difficult to many people because it is not like normal
 After the quiz, we'll look at being empathic when a member's feelings are only implied.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“He hasn't replied to my texts for threee days. I'm sure he's with someone else. How can I find out? It's making me anxous all the time. I can't do my work. My boss has noticed but I can't tell him its because of this. I don't know what to do.”*
 {: .conv}
