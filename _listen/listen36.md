@@ -10,16 +10,16 @@ Just like when a conversation is stuck, asking a closed (yes/no) question follow
 
 A good time to do this is when a part of the conversation comes to an end.
 
-Member: “Exactly.”
+Member: *“Exactly.”*
 {: .conv}
 
-Listener: “Had that ever happened to you before?”
+Listener: *“Had that ever happened to you before?”*
 {: .conv}
 
-Member: “Yes, many times!”
+Member: *“Yes, many times!”*
 {: .conv}
 
-Listener: “How did it affect you the first time it happened?”
+Listener: *“How did it affect you the first time it happened?”*
 {: .conv}
 
 After the quiz, we'll look at being supportive.
