@@ -26,7 +26,7 @@ There are some useful techniques additional to help you to be supportive:
 After the quiz, we'll look at each of these in turn.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“My mother never trusted me while I was growing up. I would dread having to go home from school because I never knew what she was going to accuse me of.”*
 {: .conv}
