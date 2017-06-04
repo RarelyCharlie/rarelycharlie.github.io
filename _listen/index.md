@@ -35,6 +35,12 @@ h4 a:hover {text-decoration: underline;}
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   var s = Persist.section
+  var q = location.search
+  if (q.indexOf('?section=') === 0) {
+    s = Persist.section = parseInt(q.substr(9)) || 0
+    Persist.save
+    alert(s)
+    }
   $('h4').each(function () {
     var h = $(this), t = h.text()
     if (s >= parseInt(h.attr('data-serial')))
