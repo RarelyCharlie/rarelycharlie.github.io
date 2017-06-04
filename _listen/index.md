@@ -38,5 +38,5 @@ document.addEventListener('DOMContentLoaded', function () {
     var h = $(this)
     h.html('<a href="' + h.attr('data-url') + '" title="' + h.attr('data-title') + '">' + h.text() + '</a>')
     })
-  }
+  })
 </script>
