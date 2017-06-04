@@ -28,9 +28,6 @@ After the quiz, we'll look at how to deal with longer statements that members ma
 A member says:
 {: data-n="6"}
 
-*“I am angry with my brother. So very angry.”*
-{: .conv}
-
 Which of the following could be appropriate replies?
 
 - WW91ciBicm90aGVyIG1ha2VzIHlvdSB2ZXJ5IGFuZ3J5Li9ZL1JlcGVhdGluZyB0aGUgd29yZHMgYnJvdGhlciBhbmQgdmVyeSBhbmdyeSBzaG93cyB5b3UgbGlzdGVuZWQu
