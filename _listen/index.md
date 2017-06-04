@@ -34,6 +34,8 @@ h4 a:hover {text-decoration: underline;}
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
+  var s = Persist.section
+  alert(s)
   $('h4').each(function () {
     var h = $(this), t = h.text()
     h.html('<a href="' + h.attr('data-url') + '" title="' + h.attr('data-title') + t + '">' + t + '</a>')
