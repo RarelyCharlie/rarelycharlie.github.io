@@ -1,0 +1,44 @@
+---
+layout: listen
+title: "Being supportive: The big picture"
+class: section
+serial: 38
+---
+It is supportive to a member if you occasionally reflect not just their last message, but a summary of messages going further back, their whole story from the beginning of the chat or even from the first chat in a series of chats.
+
+Member: *“Yeah. My anxiety is so bad I can't go out to see my friends or anything. I have these pills but they don't help. I stopped taking them. What I need to do is get rid of the anxiety.”*
+{: .conv}
+
+Listener: *“I remember when you started taking the pills you thought they were helping, but now you've changed your mind about them.”*
+{: .conv}
+
+You should be able to rely on your notes to do this accurately.
+
+Remember not to try and solve the member's problem, and remember not to play at being a therapist by suggesting interpretations.
+
+How often you reflect the big picture, and how far back you go, are matters for you to judge.
+
+A member says:
+{: data-n="6" data-opt="True,False"}
+
+*“Yesterday I was really depressed and it's like I didn't achieve anything at all.”*
+{: .conv}
+
+*“But this morning I feel great and I'm determined to finish my assignments on time.”*
+{: .conv}
+
+Which of the following could be appropriate replies?
+
+- WW91IHdlcmUgZHJlYWRpbmcgdGhvc2UgYXNzaWdubWVudHMganVzdCBhIGZldyB3ZWVrcyBhZ28sIGJ1dCBub3cgeW91J3ZlIGdvdCBvdmVyIHllc3RlcmRheSdzIGRlcHJlc3Npb24gYW5kIHlvdSdyZSBkZXRlcm1pbmVkIHRvIGZpbmlzaCB0aGVtIG9uIHRpbWUuL1kvVGhpcyByZWZsZWN0cyB0aGUgZW1vdGlvbnMgYW5kIGFkZHMgY29udGV4dCBmcm9tIGEgcHJldmlvdXMgY2hhdC4=
+- VGhhdCBmZWVsaW5nIG9mIGhvcGVsZXNzbmVzcyB3ZSB0YWxrZWQgYWJvdXQgeWVzdGVyZGF5IGhhcyBsaWZ0ZWQgYW5kIG5vdyB5b3UncmUgZGV0ZXJtaW5lZCB0byBmaW5pc2ggb24gdGltZS4vWS9UaGlzIHJlZmxlY3RzIHRoZSBlbW90aW9ucyBhbmQgYWRkcyBjb250ZXh0IGZyb20gYSBwcmV2aW91cyBjaGF0Lg==
+- T24gdGltZSEvWS9UaGlzIGNvbWJpbmVzIGF1dGhlbnRpYyByZWFjdGlvbiB3aXRoIHJlZmxlY3RpbmcgdGhlIGxhc3QgdGhpbmcgc2FpZCwgd2hpY2ggY2FuIGhlbHAgIHRoZSBtZW1iZXIgdG8gdGVsbCB0aGUgc3Rvcnku
+- T2ggbm8hIERvbid0IGNhbGwgaXQgZGVwcmVzc2lvbi4gVGhpbmsgb2YgeW91cnNlbGYgYXMgdGhlIGNhcGFibGUgYW5kIGhhcmR3b3JraW5nIHBlcnNvbiB5b3UgZGVzZXJ2ZSB0byBiZSEvTi9MaXN0ZW5lcnMgZG8gbm90IHRyeSB0byBzb2x2ZSBwcm9ibGVtcywgYW5kIGF0IDcgQ3VwcyB3ZSBkbyBub3QgZW5jb3VyYWdlIGRlbmlhbC4=
+- VXBzIGFuZCBkb3ducyBhcmUgbm9ybWFsIGF0IHlvdXIgYWdlLiBUcnVzdCBtZSwgdGhleSdyZSBub3RoaW5nIHRvIHdvcnJ5IGFib3V0Li9OL0xpc3RlbmVycyBkbyBub3QgZ2l2ZSBhZHZpY2Uu
+- TWF5YmUgd2hlbiB5b3UgZmluaXNoIHRob3NlIGFzc2lnbm1lbnRzIGl0IHdvdWxkIGJlIGEgZ29vZCBpZGVhIHRvIHJld2FyZCB5b3Vyc2VsZiBpbiBzb21lIHdheS4gQ2FuIHlvdSB0aGluayBvZiBhbnkgYWN0aXZpdGllcyB0aGF0IHdvdWxkIHRha2UgeW91ciBtaW5kIG9mZiB0aGUgc3RyZXNzPy9OL0xpc3RlbmVycyBkbyBub3QgdHJ5IHRvIHNvbHZlIHByb2JsZW1zIG9yIHBsYXkgYXQgYmVpbmcgdGhlcmFwaXN0cywgYW5kIGF0IDcgQ3VwcyB3ZSBkbyBub3QgZW5jb3VyYWdlIGRpc3RyYWN0aW9uLg==
+- WW91IHdlcmUgZGVwcmVzc2VkIGJ1dCBub3cgdGhhdCBmZWVsaW5nIGhhcyBnb25lIGFuZCB5b3UncmUgZGV0ZXJtaW5lZC4vWS9UaGlzIHJlZmxlY3RzIHRoZSBlbW90aW9ucy4=
+- WW91IGRpZG4ndCBhY2hpZXZlIGFueXRoaW5nIHllc3RlcmRheSBidXQgeW91J3JlIGdvaW5nIHRvIHdvcmsgb24geW91ciBhc3NpZ25tZW50cyB0b2RheS4vTi9BbHRob3VnaCB0aGlzIHJlZmxlY3RzIHNvbWUgb2YgdGhlIGNvbnRlbnQsIGl0IGRvZXNuJ3QgcmVmbGVjdCBhbnkgb2YgdGhlIGVtb3Rpb24u
+- T0svWS9UaGlzIGtpbmQgb2YgY29udmVyc2F0aW9uIGZpbGxlciBpcyBhcHByb3ByaWF0ZSBpZiB5b3UganVzdCB3YW50IHRvIGRlbW9uc3RyYXRlIHRoYXQgeW91J3JlIHN0aWxsIHByZXNlbnQgd2l0aG91dCBpbnRlcnJ1cHRpbmcgdGhlIG1lbWJlcidzIHN0b3J5Lg==
+- SSdsbCBiZSBzbyBwcm91ZCBvZiB5b3UgaWYgeW91IG1hbmFnZSB0byBmaW5pc2ggb24gdGltZSEvTi9UaGlzIEktc3RhdGVtZW50IGNoYW5nZXMgdGhlIHN1YmplY3QgdG8gdGhlIGxpc3RlbmVyJ3MgaW1hZ2luYXJ5IHByaWRlLg==
+- V2UndmUgb2Z0ZW4gY2hhdHRlZCBvbiBkYXlzIHdoZW4geW91J3ZlIGZlbHQgeW91IGNvdWxkIG5vdCBhY2hpZXZlIGFueXRoaW5nLCBhbmQgb24gb3RoZXIgZGF5cyB3aGVuIHlvdSd2ZSBmZWx0IHlvdSBjYW4gYWNoaWV2ZSBhbnl0aGluZyB5b3Ugd2FudCB0by4vWS9UaGlzIHJlZmxlY3RzIHRoZSBiaWdnZXIgcGljdHVyZS4=
+- TWF5YmUgeW91IHNob3VsZCBzZWUgYSBwc3ljaGlhdHJpc3QgdG8gZmluZCBvdXQgd2hldGhlciB5b3UgaGF2ZSBiaXBvbGFyIGRpc29yZGVyLi9OL0xpc3RlbmVycyBkbyBub3QgdHJ5IHRvIHNvbHZlIG1lbWJlcnMnIHByb2JsZW1zLg==
+- SXQgc291bmRzIGxpa2UgeW91IGFyZSBtZW50YWxseSBpbGwgd2l0aCBiaXBvbGFyIGRpc29yZGVyLi9OL0xpc3RlbmVycyBkbyBub3QgZ2l2ZSBhZHZpY2Ugb3IgbWFrZSBqdWRnZW1lbnRzLg==
