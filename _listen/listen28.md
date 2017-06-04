@@ -26,9 +26,9 @@ Reflection seems strange and difficult to many people because it is not like nor
 After the quiz, we'll look at how to deal with longer statements that members may make, and also at more ways to reflect what a member tells you.
 
 A member says:
-{: data-n="6"}
 
 Which of the following could be appropriate replies?
+{: data-n="6"}
 
 - WW91ciBicm90aGVyIG1ha2VzIHlvdSB2ZXJ5IGFuZ3J5Li9ZL1JlcGVhdGluZyB0aGUgd29yZHMgYnJvdGhlciBhbmQgdmVyeSBhbmdyeSBzaG93cyB5b3UgbGlzdGVuZWQu
 - WW91ciBicm90aGVyIGhhcyBhbmdlcmVkIHlvdSBzbyBtdWNoLi9ZL1JlcGVhdGluZyB0aGUgd29yZCBicm90aGVyIGFuZCBleHByZXNzaW5nIHRoZSBpZGVhIG9mIGJlaW5nIHZlcnkgYW5ncnkgc2hvd3MgeW91IGxpc3RlbmVkLg==
