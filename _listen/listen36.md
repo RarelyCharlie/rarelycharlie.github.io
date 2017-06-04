@@ -25,7 +25,7 @@ Listener: *“How did it affect you the first time it happened?”*
 After the quiz, we'll look at being supportive.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“Who can you trust these days? Everyone's out for themselves. If I go to a lawyer I'll most likely just get ripped off. The cops will most likely arrest me instead of her. There are all kinds of agencies in it for what they can get. And you people at 7 Cups don't seem to do anything useful at all.”*
 {: .conv}
