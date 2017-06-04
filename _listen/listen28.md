@@ -26,7 +26,7 @@ Reflection seems strange and difficult to many people because it is not like nor
 After the quiz, we'll look at how to deal with longer statements that members may make, and also at more ways to reflect what a member tells you.
 
 A member says:
-{: data-n="6" data-opt="True,False"}
+{: data-n="6" data-opt="Yes,No"}
 
 *“I am angry with my brother. So very angry.”*
 {: .conv}
