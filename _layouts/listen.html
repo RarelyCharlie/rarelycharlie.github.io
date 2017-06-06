@@ -175,9 +175,10 @@ score = function () {
 		var tr = this.parentNode.parentNode
 		var d = atob(tr.getAttribute('data-a')).split('/')
 		var t = d[1].toLowerCase()
-		if (t == this.id.substr(0, 1)) ++correct, tr.className = 'right'
-		else ok = false, tr.className = 'wrong'
-		tr.lastChild.lastChild.innerHTML = (t == 'y'? 'True. ' : 'False. ') + emojify(d[2])
+		var a
+		if (t == this.id.substr(0, 1)) ++correct, tr.className = 'right', a = 'Right. '
+		else ok = false, tr.className = 'wrong', a = 'Wrong. '
+		tr.lastChild.lastChild.innerHTML = a + emojify(d[2])
 		})
 	$('input').attr('disabled', 'true')
 	$('#quiz').addClass('scored')
