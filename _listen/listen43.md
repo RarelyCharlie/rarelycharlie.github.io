@@ -33,7 +33,7 @@ After the quiz, we'll look at conversations that are stuck.
 A member says:
 {: data-n="6" data-opt="Yes,No"}
 
-*“So. I have this very stressful life. And I have social anxiety and depression. And I get bullied of work because my problems. And I go to this really wonderful counselor who teaches me coping skills. But the thing is I feel I deserve more understanding from my husband. Like he used to be a really sweet guy but now he doesn't give a sh*t. Let me give you an example.”*
+*“So. I have this very stressful life. And I have social anxiety and depression. And I get bullied of work because my problems. And I go to this really wonderful counselor who teaches me coping skills. But the thing is I feel I deserve more understanding from my husband. Like he used to be a really sweet guy but now he doesn't give a sh&#42;t. Let me give you an example.”*
 {: .conv}
 
 Then six minutes pass without any further message.
