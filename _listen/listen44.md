@@ -8,18 +8,18 @@ Some conversations don't flow naturally because the member finds it difficult to
 
 An open question is one that cannot be answered in one word. Open questions usually start with “who”, “where”, “why”, “when”, “what” or “how” but you'll have to be creative to come up with an open question that's relevant to the conversation.
 
-Listener: “How did you find out he was seeing someone else?”
+Listener: *“How did you find out he was seeing someone else?”*
 {: .conv}
 
 If you sense that the member is finding it very difficult to chat, you can ask a closed question. A closed question can be answered with one word, typically yes or no. This takes pressure off the member and reassures them that they are in control. If necessary, follow up with an open question to get the conversation flowing again.
 
-Listener: “Are you able to tell me how you found out he was seeing someone else?”
+Listener: *“Are you able to tell me how you found out he was seeing someone else?”*
 {: .conv}
 
-Member: “Yes, OK”
+Member: *“Yes, OK”*
 {: .conv}
 
-Listener: “What happened?”
+Listener: *“What happened?”*
 {: .conv}
 
 Many chats with members who have not used 7 Cups before are stuck right from the start. You might often have to use open and closed questions at the beginning of a chat.
