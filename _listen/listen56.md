@@ -2,7 +2,7 @@
 layout: listen
 title: First steps as a listener
 class: section
-serial: 
+serial: 56
 ---
 This course was not the official listener training. As soon as you complete the official listener training you become a listener and the system will offer you general requests from members. It's up to you whether you take a request immediately or give yourself a little time to think about it first.
 
