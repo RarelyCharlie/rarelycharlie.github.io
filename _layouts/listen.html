@@ -180,14 +180,15 @@ score = function () {
 		var t = d[1].toLowerCase()
 		var a
 		if (t == this.id.substr(0, 1)) ++correct, tr.className = 'right', a = '<i class="fa fa-star"></i>'
-		else ok = false, tr.className = 'wrong', a = opt[t == 'y'? 0 : 1]
-		tr.lastChild.lastChild.innerHTML = a + '. ' + emojify(d[2])
+		else ok = false, tr.className = 'wrong', a = opt[t == 'y'? 0 : 1] + '. '
+		tr.lastChild.lastChild.innerHTML = a + emojify(d[2])
 		})
 	$('input').attr('disabled', 'true')
 	$('#quiz').addClass('scored')
 	$('#score').attr('disabled', "true")
-	$('#report').text(ok? 'All correct. After reviewing your answers you can go to the next section.'
-	  : (correct == 0? 'None' : 'Only ' + correct) + ' correct, but you can review this section and try again.')
+	for (var i = 0, stars = ''; i <= correct; ++i) stars += '<i class="fa fa-star"></i>'
+	$('#report').text(ok? stars + 'All correct. After reviewing your answers you can go to the next section.'
+	  : stars + ' ' + (correct == 0? 'None' : 'Only ' + correct) + ' correct, but you can review this section and try again.')
 	$('#next').append(ok? '<button onclick="nextpage()">Next Section</button>'
 		: '<button onclick="reviewpage()">Review This Section</button>')
 	with ($('#next button').get(0)) focus(), scrollIntoView({behavior: "smooth", block: "start" })
