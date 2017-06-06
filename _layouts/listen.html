@@ -117,10 +117,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
 	var p = $('p[data-n]'), t // quiz intro
 
-	if (!p.length) { // start of chapter, no quiz...
+	if (!p.length) { // start of chapter or end of course, no quiz...
 		++Persist.section
 		Persist.save()
-		$('#next').append('<button onclick="nextpage()">Begin the Chapter</button>')
+		if ($('body').hasClass('chapter'))
+			$('#next').append('<button onclick="nextpage()">Begin the Chapter</button>')
 		return
 		}
 		
@@ -224,7 +225,7 @@ reviewpage = function () {
 	}
 </script>
 </head>
-<body data-version="{{ page.version }}">
+<body data-version="{{ page.version }}" class="{{ page.class }}">
 <div id="header"><span>Unofficial alternative</span><h2>Listener Training</h2></div>
 <div id="content">
 <h1 data-section="{{ page.serial }}">{{ page.title }}</h1>
