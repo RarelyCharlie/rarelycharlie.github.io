@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	var p = $('p[data-n]'), t // quiz intro
 
 	if (!p.length) { // start of chapter, no quiz...
-		++Persist["section"]
+		++Persist.section
 		Persist.save()
 		$('#next').append('<button onclick="nextpage()">Begin the Chapter</button>')
 		return
@@ -134,8 +134,16 @@ document.addEventListener('DOMContentLoaded', function () {
 		return
 		}
 
+	var n = p.attr('data-n')
+	if (n == 0) { // section with no quiz...
+		++Persist.section
+		Persist.save()
+		$('#next').append('<button onclick="nextpage()">Next Section</button>')
+		return
+		}
+
 	Math.seedrandom('rc_' + Persist.retry)
-	var n = p.attr('data-n'), opt = p.attr('data-opt')
+	var opt = p.attr('data-opt')
 	if (opt) opt = opt.split(',')
 	else opt = ['True', 'False']
 	p.before('<h3>Quiz</h3>')
