@@ -124,6 +124,15 @@ document.addEventListener('DOMContentLoaded', function () {
 		return
 		}
 		
+	var n = p.attr('data-n')
+		
+	if (n == 0) { // section with no quiz...
+		++Persist.section
+		Persist.save()
+		$('#next').append('<button onclick="nextpage()">Next Section</button>')
+		return
+		}
+
 	if (section < Persist.section) { // reviewing, no quiz...
 		p.nextUntil('#next').remove()
 		p.remove()
@@ -131,14 +140,6 @@ document.addEventListener('DOMContentLoaded', function () {
 			'<p class="reviewing"><em>You have already completed this quiz.</em></p>'
 			+ '<button onclick="nextpage()">Next Section</button>'
 			)
-		return
-		}
-
-	var n = p.attr('data-n')
-	if (n == 0) { // section with no quiz...
-		++Persist.section
-		Persist.save()
-		$('#next').append('<button onclick="nextpage()">Next Section</button>')
 		return
 		}
 
