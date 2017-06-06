@@ -189,7 +189,7 @@ score = function () {
 	}
 
 nextpage = function (s) {
-	if ($.isNumeric(s)) location.href = location.href.replace(/\d{2}/, ('0' + s).substr(-2))
+	if ($.isNumeric(s)) location.href = location.href.replace(/\/[^\/]*$/, '/listen' + ('0' + s).substr(-2))
 	else if (isNaN(section)) location.href = location.href + 'listen00'
 	else location.href = location.href.replace(/\d{2}/, ('0' + (++section)).substr(-2))
 	}
