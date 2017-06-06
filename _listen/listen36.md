@@ -4,7 +4,7 @@ title: "Being present: Curiosity"
 class: section
 serial: 36
 ---
-Another way to be fully present in a chat is to demonstrate that the member matters to you by expressing genuine curiosity about the member's situation. To express curiosity, ask questions that actively explore the things the member is telling you about, without ever changing the subject completely.
+Another way to be fully present in a chat is to demonstrate that the member matters to you by expressing genuine curiosity about the member's feelings. To express curiosity, ask questions that actively explore the things the member is telling you about, without ever changing the subject completely, and without drifting away from emotional support.
 
 Just like when a conversation is stuck, asking a closed (yes/no) question followed by an open one can work well.
 
