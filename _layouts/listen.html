@@ -124,6 +124,8 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 		
 	if (section < Persist.section) { // reviewing, no quiz...
+		p.nextUntil('#next').remove()
+		p.remove()
 		$('#next').append(
 			'<p class="reviewing"><em>You have already completed this quiz.</em></p>'
 			+ '<button onclick="nextpage()">Next Section</button>'
