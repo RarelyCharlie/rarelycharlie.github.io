@@ -8,16 +8,16 @@ Some members request a chat but then they don't respond, or they respond once or
 
 Some ghosts might be frightened to chat. It is good to send a couple of reassuring messages before ending the chat. You might help the ghost to feel more confident next time.
 
-Listener: “Are you still there?”
+Listener: *“Are you still there?”*
 {: .conv}
 
-Listener: “Maybe we can chat another time.”
+Listener: *“Maybe we can chat another time.”*
 {: .conv}
 
-Listener: “You can message me or any other listener.”
+Listener: *“You can message me or any other listener.”*
 {: .conv}
 
-Listener: “Take care.”
+Listener: *“Take care.”*
 {: .conv}
 
 Some ghosts might be attempting to send sexual messages, or attempting to find ways to contact you on social media, and 7 Cups might be blocking these attempts.
