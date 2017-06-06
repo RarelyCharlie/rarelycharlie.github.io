@@ -101,7 +101,7 @@ emojify = function (t) {
 
 var section, test // this section, whether testing
 document.addEventListener('DOMContentLoaded', function () {
-	pagetop()
+	setTimeout(pagetop, 0)
 	Persist.init()
 	section = parseInt($('h1').attr('data-section'))
 	
