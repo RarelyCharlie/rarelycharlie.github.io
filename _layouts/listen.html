@@ -170,15 +170,18 @@ document.addEventListener('DOMContentLoaded', function () {
 	})
 
 score = function () {
-	var ok = true, correct = 0
+	var ok = true, correct = 0, opt = $('p[data-n]').attr('data-opt')
+	if (opt) opt = opt.split(',')
+	else opt = ['True', 'False']
 	$('input:checked').each(function () {
 		var tr = this.parentNode.parentNode
 		var d = atob(tr.getAttribute('data-a')).split('/')
 		var t = d[1].toLowerCase()
 		var a
-		if (t == this.id.substr(0, 1)) ++correct, tr.className = 'right', a = 'Right. '
-		else ok = false, tr.className = 'wrong', a = 'Wrong. '
-		tr.lastChild.lastChild.innerHTML = a + emojify(d[2])
+		if (t == this.id.substr(0, 1)) ++correct, tr.className = 'right', a = opt[0]
+		else ok = false, tr.className = 'wrong', a = opt[1]
+		if (t == 'n' && tr.className = 'right') a = 'Correct'
+		tr.lastChild.lastChild.innerHTML = a + '. ' + emojify(d[2])
 		})
 	$('input').attr('disabled', 'true')
 	$('#quiz').addClass('scored')
