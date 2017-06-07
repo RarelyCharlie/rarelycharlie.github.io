@@ -8,6 +8,8 @@ Set your status to online when you are available to take a new chat but you are 
 
 When your status is set to online, any member can make a personal request to chat to you.
 
+Some listeners never set their status to online because they want some control over who they chat to and when.
+
 After the quiz, we'll look at simultaneous chats and why you should avoid them.
 
 Mark each statement True or False, then press the Score button:
