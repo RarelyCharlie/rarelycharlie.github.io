@@ -10,7 +10,7 @@ Only keep notes in 7 Cups' built-in notes facility, which is confidential. Never
 
 You only need to record each member's user name, the name they like to be known by (if they told you that), and very brief details of what they talked to you about.
 
-You are not required to keep any notes, but if you do choose to keep notes, what you record is entirely up to you.
+You are not required to keep any notes, and if you do choose to keep notes, what you record is entirely up to you.
 
 After the quiz, we'll look at confidentiality and safety.
 
