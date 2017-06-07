@@ -9,7 +9,7 @@ serial: 2
 The people who make up 7 Cups' online community consist of:
 {: .showul}
 
-- Guests, who can use 7 Cups without logging in
+- Guests, who use 7 Cups without logging in
 - Members, who are logged in
 - Listeners—unpaid volunteers who have completed 7 Cups' official training
 - Therapists—paid professionals
