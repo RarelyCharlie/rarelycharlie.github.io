@@ -8,7 +8,7 @@ It is OK to be selective about which members you chat to. When you take a genera
 
 Members' indications of what they want to talk about are often inaccurate, so it's impossible to be rigid about selecting the members you chat to.
 
-Some members indicate the language they prefer to chat in. You should normally respect this preference and avoid chatting to a member in a language they are perhaps not fluent in.
+Some members indicate the language they prefer to chat in. You should normally respect this preference and avoid chatting to a member in a language they are perhaps not fluent in. Do not try to chat in a language you are not fluent in.
 
 When you accept a personal request, it is not possible to be selective in this way.
 
