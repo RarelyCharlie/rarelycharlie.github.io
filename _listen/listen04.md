@@ -8,7 +8,7 @@ A longer document explaining the thinking behind 7 Cups' approach is available a
 
 It is not necessary to read *7 Cups for the Searching Soul* immediately in order to complete this training course, but you should read it soon after you begin working as a listener.
 
-When you are working as a listener it is useful to keep the dangers of denial and distraction in mind. It is not necessary to believe in the dangers of denial and distraction in your personal life—7 Cups is not a belief system or a cult—but in your work as a listener within 7 Cups you should take care not to promote denial or distraction.
+When you are working as a listener it is useful to keep the risks of denial and distraction in mind. It is not necessary to believe in the dangers of denial and distraction in your personal life—7 Cups is not a belief system or a cult—but in your work as a listener within 7 Cups you should take care not to promote denial or distraction.
 
 After the quiz, we'll look in more detail at what listeners do.
 
