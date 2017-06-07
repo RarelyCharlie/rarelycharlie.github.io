@@ -1,5 +1,5 @@
 ---
-title: The 8th Cups
+title: The 8th Cup
 layout: default
 ---
 <style>
@@ -7,7 +7,7 @@ layout: default
   #content p {margin-left: 30px;}
   #content h2 {color: gray;}
 </style>
-The 8th Cup is an unofficial companion to [7 Cups](https://www.7cups.com/), providing
+*The 8th Cup* is an unofficial companion to [7 Cups](https://www.7cups.com/), providing
 7 Cups users with information and help. It is currently under development. Only the 
 glossary is complete.
 
