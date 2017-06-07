@@ -16,7 +16,7 @@ Listener: *“It was a relief to have an explanation after all this time.”*
 
 As a listener you must reflect the member's feelings about what happened, even if you personally don't believe that a diagnosis of complex PTSD explains anything at all.
 
-There are some useful techniques additional to help you to be supportive:
+There are some other useful techniques that can help you to be supportive:
 {: .showul}
 
 - Reflecting the big picture
