@@ -12,7 +12,7 @@ This setting is normal when you are busy in a chatroom or a forum, when you are 
 
 This works both ways. If you want to chat to another listener, there is no need to wait for them to come online. Send a message anyway. Listeners often chat to each other while their status is set to offline.
 
-This setting prevents personal requests, but members can still send you messages.
+This setting prevents personal requests, but it does not prevent you from chatting. Members can still send you messages and you can reply.
 
 If you respond to a member's message while you are offline, and the member replies, and the exchange of messages becomes a live chat, it may be a good idea to change your status to busy.
 
