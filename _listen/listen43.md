@@ -17,6 +17,9 @@ Listener: *“Maybe we can chat another time.”*
 Listener: *“You can message me or any other listener.”*
 {: .conv}
 
+Listener: *“We are all here for you.”*
+{: .conv}
+
 Listener: *“Take care.”*
 {: .conv}
 
