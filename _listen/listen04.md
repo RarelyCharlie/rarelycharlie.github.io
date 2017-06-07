@@ -4,7 +4,7 @@ title: 7 Cups for the Searching Soul
 class: section
 serial: 4
 ---
-A longer document explaining the thinking behind 7 Cups' approach is available as a free e-book and as an online training module, *[7 Cups for the Searching Soul](https://www.7cups.com/7cups-for-the-searching-soul/* "7 Cups for the Searching Soul online at 7 Cups"). It describes 7 Cups' mission in terms of combating denial and distraction.
+A longer document explaining the thinking behind 7 Cups' approach is available as a free e-book and as an online training module, *[7 Cups for the Searching Soul](https://www.7cups.com/7cups-for-the-searching-soul/ "7 Cups for the Searching Soul online at 7 Cups")*. It describes 7 Cups' mission in terms of combating denial and distraction.
 
 It is not necessary to read *7 Cups for the Searching Soul* immediately in order to complete this training course, but you should read it soon after you begin working as a listener.
 
