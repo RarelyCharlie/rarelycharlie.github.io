@@ -8,7 +8,7 @@ Many members need to be prompted to say what's on their mind. If there's no imme
 
 Any question will do, as long as it doesn't make assumptions and it cannot be answered with yes or no. For example:
 
-Listener: “What brings you here today?”
+Listener: *“What brings you here today?”*
 {: .conv}
 
 Questions like this, which cannot be answered with yes or no, are examples of open questions. There will be more about open questions, and closed questions, later in the course.
