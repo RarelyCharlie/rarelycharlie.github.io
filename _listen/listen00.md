@@ -6,7 +6,7 @@ serial: 0
 ---
 Welcome to this alternative training course in listening at 7 Cups.
 
-This is *not* the official training course. This alternative course does not enable you to become a listener at 7 Cups. If you are looking for the official training course, go here: New Listener Training
+This is *not* the official training course. This alternative course does not enable you to become a listener at 7 Cups. If you are looking for the official training course, go here: [New Listener Training](https://www.7cups.com/listener/becomeListener.php)
 
 You can take this alternative course if you want to learn about active listening at 7 Cups, either because you are a guest or a member interested in supporting other 7 Cups users or people in real life, or because you are already a listener and you would like a refresher course.
 
@@ -32,7 +32,7 @@ Each section ends with a quiz, and you must complete the quiz correctly before y
 
 If you are not able to complete a quiz correctly, you can try again as many times as you need to. Each quiz is generated randomly, so that if you re-take a quiz the questions will not be exactly the same.
 
-Once you have completed a section's quiz, you can go back and review the section whenever you want, without having to complete the quiz again.
+Once you have completed a section's quiz, you can go back and review the section whenever you want, without having to complete the quiz again. To go back and review previous sections, use the [Training Index](/listen/) link at the bottom of the page.
 
 You can work through this course at your own pace, and you can take as long as you want to complete it. You do not need to complete it in one session. You can stop at any time, and then at a later time return to pick up where you left off.
 
