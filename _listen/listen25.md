@@ -6,11 +6,11 @@ serial: 25
 ---
 It is recommended that you keep brief notes about each member you chat to, because you might chat to the same member on another occasion and they will feel unsupported if you have forgotten about them.
 
-You only need to record their name (if they told you) and brief details of what they talked to you about.
+Only keep notes in 7 Cups' built-in notes facility, which is confidential. Never keep any notes outside the 7 Cups system.
 
-Only keep notes in 7 Cups' built-in notes facility. Never keep any notes outside the 7 Cups system.
+You only need to record their user name, the name they like to be known by (if they told you that), and very brief details of what they talked to you about.
 
-You are not required to keep notes, and if you do choose to keep notes, what you record is entirely up to you.
+You are not required to keep notes, but if you do choose to keep notes, what you record is entirely up to you.
 
 After the quiz, we'll look at confidentiality and safety.
 
