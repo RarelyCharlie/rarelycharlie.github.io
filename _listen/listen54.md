@@ -8,7 +8,7 @@ Listeners can provide emotional support to members in chatrooms and forums. The 
 
 In a chatroom the conversation can move very fast if many people are engaged, so this can make long, thoughtful replies to members impossible. However, if you make all your responses very short and snappy then you might not be able to provide effective emotional support. You have to find a balance that suits you and the chatroom, or use the chatroom to initiate 1-to-1 chats where you can provide better support.
 
-In a forum you have plenty of time for a long, thoughtful reply if that seems appropriate. This can mean you include more information than you would in a chat. However, it is not good to ramble on at great length in someone else's thread. If you have a lot to say about something, you can start your own thread and link to it from your messages to members in chats.
+In a forum you have plenty of time for a long, thoughtful reply if that seems appropriate. This can mean you include more information than you would in a chat. However, it is not good to ramble on at great length in someone else's thread. If you have a lot to say about something, you can start your own thread and link to it from your messages to members.
 
 The essentials of active listening apply in forums just like they do in 1-to-1 chats:
 {: .showul}
@@ -23,9 +23,9 @@ The essentials of active listening apply in forums just like they do in 1-to-1 c
 
 - Optionally offer a 1-to-1 chat if the original poster wants to follow up in private.
 
-In some chatrooms and forums you can use your member account to participate as a member. Then you can give advice, make suggestions and talk about yourself (things that you should not do from your listener account).
+In some chatrooms and forums you can use your member account to participate as a member. Then you can give advice, make suggestions and talk about yourself (which are things you should not do from your listener account).
 
-In chatrooms and forums it's OK to invite members to send you messages if they would like to chat with you 1-to-1, or you can send messages to them. You should only issue invitations like this if you are genuinely prepared to have those 1-to-1 chats.
+In chatrooms and forums it's OK to invite members to send you messages if they would like to chat with you 1-to-1, or you can send messages to them. You should only issue invitations like this if you are permitted to chat and if you are genuinely prepared to have those 1-to-1 chats. For example, an adult listener should not invite a teen member to chat, because the system does not permit adult-teen chats.
 
 After the quiz, we'll look at the support available to you as a listener.
 
