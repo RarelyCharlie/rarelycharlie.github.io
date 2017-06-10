@@ -8,15 +8,19 @@ Welcome to this alternative training course in listening at 7 Cups.
 
 This is *not* the official training course. This alternative course does not enable you to become a listener at 7 Cups. If you are looking for the official training course, go here: [New Listener Training](https://www.7cups.com/listener/becomeListener.php)
 
-You can take this alternative course if you want to learn about active listening at 7 Cups, either because you are a guest or a member interested in supporting other 7 Cups users or people in real life, or because you are already a listener and you would like a refresher course.
+You can take this alternative course if you want to learn about active listening at 7 Cups, either because you are a guest or a member interested in supporting other 7 Cups users or supporting people in real life, or because you are already a listener and you would like to explore ways of listening.
+
+This course is published as a contribution to the 7 Cups community, part of the ongoing discussion about the best way to train new listeners.
 
 ### Listening styles
 
 Listeners all go about their listening in different ways. The style of listening that this course teaches is not the same as the style of listening that the official course and other training materials teaches.
 
+This course teaches a style of listening that reflects the personal opinions of its author, @RarelyCharlie. It is significantly different from the general style of listening at 7 Cups. Some of these differences are described at the end of the course.
+
 However, this course teaches a style that anyone can use as a starting point to develop their own style as they gain experience.
 
-When you are a listener you must make your own choices about your style of listening. Many listeners adopt a style that is different from the style taught in the official training, and different from the style taught in this alternative training.
+When you are a listener you must make your own choices about your style of listening. Many listeners adopt a style that is different from the style taught in the official training, and also different from the style taught in this alternative training.
 
 ### How this course works
 
