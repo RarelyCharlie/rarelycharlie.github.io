@@ -10,7 +10,9 @@ When a member is actively suicidal (taking action right now), you *must* refer t
 
 When a chat hits any of your personal boundaries, you must end the chat. You *may* refer the member, if they consent, to another listener who has different boundaries.
 
-When a member has problems that have a serious impact on their life, or that have continued for a long time, you may suggest therapy at 7 Cups.  This is the only time when you can suggest a solution to a member's problems. However, 7 Cups advertises its paid therapy widely and it is for you to decide whether you want to promote it.
+When a member has problems that have a serious impact on their life, or that have continued for a long time, you may suggest therapy at 7 Cups.  This is the only time when you can suggest a solution to a member's problems. However, 7 Cups advertises its paid therapy widely and it is for you to decide whether you feel you need to promote it further.
+
+Unless you have genuinely benefited from online therapy yourself, you cannot make a personal recommendation about it to members.
 
 Therapy at 7 Cups is a paid service provided by licensed professionals. When you suggest therapy it does not end the chat. Even if the member does start therapy, they might continue to need emotional support from you and other listeners.
 
