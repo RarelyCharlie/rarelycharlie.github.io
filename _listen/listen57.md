@@ -20,13 +20,15 @@ Listeners who continue to take 1-to-1 chats mostly develop their own style of li
 
 As a listener at 7 Cups you cannot enter into a real-life contract with a member in which you are professionally accountable. For this reason you can never responsibly try to give advice or provide therapy, no matter how skilled you feel you have become.
 
-Listeners who want to continue to develop their skills in the style of this unofficial training can often learn from resources about person centered, humanistic, or Rogerian therapy, which uses a similar style.
+Listeners who want to continue to develop their skills in the style of this unofficial training can often learn from resources about *person centered*, *humanistic*, or *Rogerian* therapy, because it has a similar style.
 
-Listeners who decide to ignore the warnings in this course about trying to find solutions to members' problems can often learn from resources about solution-focused therapy.
+Listeners who want to enter into longer-term relationships with members can often learn from resources about *transactional analysis*, which provides a framework for understanding how people interact.
 
-Listeners who decide to ignore the warnings in this course about playing at being therapists, in spite of the risks, can often learn from resources about acceptance and commitment therapy (ACT), cognitive behavior therapy (CBT), and dialectical behavior therapy (DBT).
+Listeners who decide to ignore the warnings in this course about trying to find solutions to members' problems can often learn from resources about *solution-focused therapy*.
 
-Among the self-help guides at 7 Cups there is a guide to ACT, and several of the other guides describe techniques related to CBT.
+Listeners who decide to ignore the warnings in this course about giving advice and playing at being therapists can often learn from resources about *acceptance and commitment therapy* (ACT), *cognitive behavior therapy* (CBT), and *dialectical behavior therapy* (DBT).
+
+Among the self-help guides at 7 Cups there is a guide to ACT, and several of the other guides describe techniques related to CBT and DBT.
 
 ### Feedback
 
