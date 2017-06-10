@@ -6,7 +6,7 @@ serial: 9
 ---
 While you are logged in to 7 Cups as a listener, you have a responsibility to provide emotional support to members. That is what 7 Cups is for.
 
-However, you do not have to be on call at all times. You have a responsibility to manage your activity at 7 Cups to ensure that your own needs come first. As a listener you are a volunteer with a life of your own outside 7 Cups.
+However, you do not have to be on call at all times. You have a responsibility to manage your activity at 7 Cups in a way that ensurest your own needs come first. As a listener you are a volunteer with a life of your own outside 7 Cups.
 
 You have a responsibility to ensure that listening does not have a negative impact on the rest of your life.
 
