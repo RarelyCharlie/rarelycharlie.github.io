@@ -9,7 +9,7 @@ It is also supportive to focus on emotional detail, especially when you feel the
 Member: *“My mum took me to the doctor because of my skin, but he tole me I have tractal mania. That's like some kind of mania. It means I'm going mad, but I don't feel mad. I just feel I'm like a secret person and no one knows I'm here. What will happen to me?”*
 {: .conv}
 
-Listener: *“You feel alone. There's no one who understands you.”*
+Listener: *“You have no one who really understands you exist.”*
 {: .conv}
 
 It is sometimes useful to ask direct questions to establish details and help the member to describe emotions with clarity.
