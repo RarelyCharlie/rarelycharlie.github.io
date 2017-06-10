@@ -6,11 +6,13 @@ serial: 36
 ---
 Another way to be fully present in a chat is to demonstrate that the member matters to you by expressing genuine curiosity about the member's feelings. To express curiosity, ask questions that actively explore the things the member is telling you about, without ever changing the subject completely, and without drifting away from emotional support.
 
-To do this effectively you have to be able to sense what matters most to the member, so that your questions help the member to talk about what's important to them. Never use questions to change the subject, distract, deny or invalidate the member's feelings.
+To do this effectively you have to be able to sense what matters most to the member, so that your questions help the member to talk about what's important to them.
+
+Never use questions to change the subject, distract, deny or invalidate the member's feelings. The greatest risk of this is when a member expresses a feeling that makes you yourself feel uncomfortable. It can be very tempting to ask a question that changes the subject, denying the member's feeling and creating a distraction. Always remember that your role as a listener is to provide emotional support, no matter what emotion a member might express.
 
 Just like when a conversation is stuck, asking a closed (yes/no) question followed by an open one can work well.
 
-A good time to do this is when a part of the conversation comes to an end.
+A good time to express curiosity is when a part of the conversation comes to a natural end.
 
 Member: *“Exactly.”*
 {: .conv}
