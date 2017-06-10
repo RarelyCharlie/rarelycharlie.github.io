@@ -10,6 +10,8 @@ Think about it right now and decide where your boundaries are. You can change yo
 
 You will encounter members who try to have explicitly sexual conversations with you. It's OK to think of these members as people who suffer severe social and communication difficulties, and to listen to them just as you would listen to any other members.
 
+It's also OK to think of these chats as going beyond what's acceptable to you personally, and to end the chat. The decision is yours.
+
 Often, sexual matters are mentioned in a chat that's really about something else, and if you focus on reflecting the member's feelings there will be no need to talk explicitly about sex:
 
 Member: *“On the phone she always talks about doing unusual stuff. You know, kinky. I don't want to say what. But when I meet her she's like all shy. I don't understand what's going on. Do you think she's just messing with me? Do you want me to tell you the kind of things she talks about?”*
@@ -17,8 +19,6 @@ Member: *“On the phone she always talks about doing unusual stuff. You know, k
 
 Listener: *“She's not consistent, and you don't understand her.”*
 {: .conv}
-
-It's also OK to think of these chats as going beyond what's acceptable to you personally, and to end the chat. The decision is yours.
 
 The 7 Cups system may interfere with some conversations about sexual matters by blocking messages. You might have to reassure members that it's OK to continue chatting. You can use deliberate misspellings to get around the system's sexual hangups.
 
