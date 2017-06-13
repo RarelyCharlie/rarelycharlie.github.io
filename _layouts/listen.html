@@ -118,10 +118,11 @@ document.addEventListener('DOMContentLoaded', function () {
 	var p = $('p[data-n]'), t // quiz intro
 
 	if (!p.length) { // start of chapter or end of course, no quiz...
-		++Persist.section
-		Persist.save()
-		if ($('body').hasClass('chapter'))
+		if ($('body').hasClass('chapter')) {
+			++Persist.section
+			Persist.save()
 			$('#next').append('<button onclick="nextpage()">Begin the Chapter</button>')
+			}
 		return
 		}
 		
