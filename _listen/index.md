@@ -37,14 +37,16 @@ h4 a:hover {text-decoration: underline;}
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   var s = Persist.section, final = $('[data-serial]').last().attr('data-serial')
-  if (s == 0)  $('#reset').hide(), $('#begin').show(), $('#continue').hide()
-  if (s >= final) $('#continue').hide(), s = final
 
   var q = location.search
   if (q.indexOf('?section=') === 0) {
     s = Persist.section = parseInt(q.substr(9)) || 0
     Persist.save()
     }
+    
+  if (s == 0)  $('#reset').hide(), $('#begin').show(), $('#continue').hide()
+  if (s >= final) $('#continue').hide(), s = final
+  
   $('h4').each(function () {
     var h = $(this), t = h.text()
     if (s >= parseInt(h.attr('data-serial')))
