@@ -36,8 +36,9 @@ h4 a:hover {text-decoration: underline;}
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  var s = Persist.section
+  var s = Persist.section, final = $('[data-serial]').last().attr('data-serial')
   if (s == 0)  $('#reset').hide(), $('#begin').show(), $('#continue').hide()
+  if (s >= final) $('#continue').hide(), s = final
 
   var q = location.search
   if (q.indexOf('?section=') === 0) {
