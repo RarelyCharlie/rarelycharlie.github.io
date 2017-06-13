@@ -73,6 +73,14 @@ i.fa-heart {color: red;}
 i.fa-star {color: gold;}
 </style>
 <script>
+chapters = [
+{% for section in site.listen %}
+    {% if section.class == 'chapter' %}
+{{ section.serial }},
+    {% endif %}
+{% endfor %}
+]
+
 Persist = {
 	retry: null,
 	section: null,
