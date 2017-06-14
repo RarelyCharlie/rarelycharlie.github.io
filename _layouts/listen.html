@@ -243,7 +243,7 @@ reviewpage = function () {
 	{% endif %}
 {% endfor %}
 Chapter {% case thischap %}{% when 1 %}I{% when 2 %}II{% when 3 %}III{% when 4 %}IV{% endcase %}: {{ chapstart }} to {{ final }}
-	
+{% for i in (chapstart..final) %}<i class="fa fa-circle-o"></i>{% endfor %}
 	
 <h1 data-section="{{ page.serial }}">{{ page.title }}</h1>
 {{ content }}
