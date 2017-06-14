@@ -71,6 +71,7 @@ a {text-decoration: none;}
 a:hover {text-decoration: underline;}
 i.fa-heart {color: red;}
 i.fa-star {color: gold;}
+#progress {text-align: center;}
 </style>
 <script>
 Persist = {
@@ -229,7 +230,7 @@ reviewpage = function () {
 <body data-version="{{ page.version }}" class="{{ page.class }}">
 <div id="header"><span>Unofficial alternative</span><h2>Listener Training</h2></div>
 <div id="content">
-
+<div id="progress">
 {% assign thischap = -1 %}{% assign chapstart = 0 %}{% assign final = 0 %}
 {% for section in site.listen %}
 	{% if section.class == 'chapter' and section.serial > page.serial %}
@@ -245,11 +246,12 @@ reviewpage = function () {
 Chapter {% case thischap %}{% when 1 %}I{% when 2 %}II{% when 3 %}III{% when 4 %}IV{% endcase %}:
 {% for i in (chapstart..final) %}
 	{% if i <= page.serial %}
-<i class="fa fa-circle" style="color: #5f5;"></i>
+<i class="fa fa-circle" style="color: #4c6;"></i>
 	{% else %}
 <i class="fa fa-circle-o" style="color: #bbb;"></i>
 	{% endif %}
 {% endfor %}
+</div>
 	
 <h1 data-section="{{ page.serial }}">{{ page.title }}</h1>
 {{ content }}
