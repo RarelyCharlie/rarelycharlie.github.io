@@ -231,6 +231,7 @@ reviewpage = function () {
 <body data-version="{{ page.version }}" class="{{ page.class }}">
 <div id="header"><span>Unofficial alternative</span><h2>Listener Training</h2></div>
 <div id="content">
+{% if page.class == 'section' %}<div id="progress">Chapter </div>{% endif %}
 <h1 data-section="{{ page.serial }}">{{ page.title }}</h1>
 {{ content }}
 <p id="next"></p>
