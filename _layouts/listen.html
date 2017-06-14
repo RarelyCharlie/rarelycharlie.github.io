@@ -230,7 +230,7 @@ reviewpage = function () {
 <div id="header"><span>Unofficial alternative</span><h2>Listener Training</h2></div>
 <div id="content">
 
-{% assign thischap = 0 %}
+{% assign thischap = -1 %}
 {% for section in site.listen %}
 	{% if section.serial > page.serial %}
 		{% break %}	
