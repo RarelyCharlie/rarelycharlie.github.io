@@ -230,13 +230,13 @@ reviewpage = function () {
 <div id="header"><span>Unofficial alternative</span><h2>Listener Training</h2></div>
 <div id="content">
 
-{% increment thischap %}
+{% assign thischap = 0 %}
 {% for section in site.listen %}
 	{% if section.serial > page.serial %}
 		{% break %}	
 	{% endif %}
-  {% if section.class == 'chapter' %}
-		{% increment thischap %}
+	{% if section.class == 'chapter' %}
+		{% assign thischap = thischap | plus: 1 %}
 	{% endif %}
 {% endfor %}
 THISCHAP {{ thischap }}
