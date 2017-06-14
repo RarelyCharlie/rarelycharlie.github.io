@@ -230,16 +230,17 @@ reviewpage = function () {
 <div id="header"><span>Unofficial alternative</span><h2>Listener Training</h2></div>
 <div id="content">
 
-{% assign thischap = -1 %}
+{% assign thischap = -1 %}{% assign chapstart = 0 %}
 {% for section in site.listen %}
 	{% if section.serial > page.serial %}
 		{% break %}	
 	{% endif %}
 	{% if section.class == 'chapter' %}
 		{% assign thischap = thischap | plus: 1 %}
+		{% assign chapstart = section.serial %}
 	{% endif %}
 {% endfor %}
-Chapter {% case thischap %}{% when 1 %}I{% when 2 %}II{% when 3 %}III{% when 4 %}IV{% endcase %}:
+Chapter {% case thischap %}{% when 1 %}I{% when 2 %}II{% when 3 %}III{% when 4 %}IV{% endcase %}: start at {{ chapstart }}
 	
 	
 <h1 data-section="{{ page.serial }}">{{ page.title }}</h1>
