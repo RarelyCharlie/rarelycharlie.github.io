@@ -239,7 +239,7 @@ reviewpage = function () {
 		{% assign thischap = thischap | plus: 1 %}
 	{% endif %}
 {% endfor %}
-THISCHAP {{ thischap }}
+Chapter {% case thischap %}{% when 1 %}I{% when 2 %}II{% when 3 %}III{% when 4 %}IV{% endcase %}:
 	
 	
 <h1 data-section="{{ page.serial }}">{{ page.title }}</h1>
