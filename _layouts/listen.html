@@ -73,8 +73,6 @@ i.fa-heart {color: red;}
 i.fa-star {color: gold;}
 </style>
 <script>
-chapters = [{% for section in site.listen %}{% if section.class == 'chapter' %}{{ section.serial }},{% endif %}{% endfor %}]
-
 Persist = {
 	retry: null,
 	section: null,
@@ -231,7 +229,19 @@ reviewpage = function () {
 <body data-version="{{ page.version }}" class="{{ page.class }}">
 <div id="header"><span>Unofficial alternative</span><h2>Listener Training</h2></div>
 <div id="content">
-{% if page.class == 'section' %}<div id="progress">Chapter </div>{% endif %}
+
+{% increment thischap %}
+{% for section in site.listen %}
+	{% if section.serial > page.serial %}
+		{% break %}	
+	{% endif %}
+  {% if section.class == 'chapter' %}
+		{% increment thischap %}
+	{% endif %}
+{% endfor %}
+THISCHAP {{ thischap }}
+	
+	
 <h1 data-section="{{ page.serial }}">{{ page.title }}</h1>
 {{ content }}
 <p id="next"></p>
