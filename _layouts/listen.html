@@ -237,12 +237,12 @@ reviewpage = function () {
 	{% endif %}
 	{% if section.class == 'chapter' %}
 		{% assign thischap = thischap | plus: 1 %}
-		{% assign chapstart = section.serial %}
+		{% assign chapstart = section.serial | plus: 1 %}
 	{% else %}
 		{% assign final = section.serial %}
 	{% endif %}
 {% endfor %}
-Chapter {% case thischap %}{% when 1 %}I{% when 2 %}II{% when 3 %}III{% when 4 %}IV{% endcase %}: {{ chapstart }} to {{ final }}
+Chapter {% case thischap %}{% when 1 %}I{% when 2 %}II{% when 3 %}III{% when 4 %}IV{% endcase %}:
 {% for i in (chapstart..final) %}<i class="fa fa-circle-o"></i>{% endfor %}
 	
 <h1 data-section="{{ page.serial }}">{{ page.title }}</h1>
