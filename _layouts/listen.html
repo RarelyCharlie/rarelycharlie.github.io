@@ -232,7 +232,7 @@ reviewpage = function () {
 <body data-version="{{ page.version }}" class="{{ page.class }}">
 <div id="header"><span>Unofficial alternative</span><h2>Listener Training</h2></div>
 <div id="content">
-<div id="progress">{% if page.serial > 0 %}
+<div id="progress">{% if page.serial != 0 %}
 {% assign thischap = -1 %}{% assign chapstart = 0 %}{% assign final = 0 %}
 {% for section in site.listen %}{% if section.class == 'chapter' and section.serial > page.serial %}{% break %}{% endif %}{% if section.class == 'chapter' %}{% assign thischap = thischap | plus: 1 %}{% assign chapstart = section.serial | plus: 1 %}{% else %}{% assign final = section.serial %}{% endif %}{% endfor %}
 Chapter {% case thischap %}{% when 1 %}I{% when 2 %}II{% when 3 %}III{% when 4 %}IV{% endcase %}:
