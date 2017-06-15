@@ -73,7 +73,7 @@ i.fa-heart {color: red;}
 i.fa-star {color: gold;}
 #progress {height: 24px; text-align: center;}
 #progress span {font-size: 12px; display: inline-block; position: relative; bottom: 2px;}
-#progress a {display: inline-block; width: 16px;}
+#progress a {display: inline-block; width: 16px; font-size: 12px;}
 </style>
 <script>
 Persist = {
@@ -237,7 +237,7 @@ reviewpage = function () {
 {% for section in site.listen %}{% if section.class == 'chapter' and section.serial > page.serial %}{% break %}{% endif %}{% if section.class == 'chapter' %}{% assign thischap = thischap | plus: 1 %}{% assign chapstart = section.serial | plus: 1 %}{% else %}{% assign final = section.serial %}{% endif %}{% endfor %}
 Chapter {% case thischap %}{% when 1 %}I{% when 2 %}II{% when 3 %}III{% when 4 %}IV{% endcase %}:
 {% for section in site.listen %}
-	{% if section.serial <= chapstart or section.serial > final %}
+	{% if section.class == 'index' or section.serial <= chapstart or section.serial > final %}
 		{% continue %}
 	{% else %}
 		{% if section.serial <= page.serial %}
