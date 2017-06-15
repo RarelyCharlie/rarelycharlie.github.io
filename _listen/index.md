@@ -22,16 +22,10 @@ h4 a:hover {text-decoration: underline;}
 <button id="continue" onclick="nextpage(Persist.section)">Continue the Course</button>
 
 {% for section in site.listen %}
-{% if section.serial > 1 %}
-{% raw %}<\div>{% endraw %}
-{% endif %}
   {% case section.class %}
     {% when 'chapter' %}
 #### {{ section.title }}
 {: #chap{{ section.serial }} .chapter data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to "}
-{% if section.serial > 0 %}
-{% raw %}<div>{% endraw %}
-{% endif %}
     {% when 'section' %}
 #### {{ section.title }}
 {: .section data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to the section: "}
@@ -39,7 +33,6 @@ h4 a:hover {text-decoration: underline;}
       {% continue %}
   {% endcase %}
 {% endfor %}
-{% raw %}</div>{% endraw %}
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
