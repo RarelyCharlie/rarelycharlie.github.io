@@ -72,8 +72,8 @@ a:hover {text-decoration: underline;}
 i.fa-heart {color: red;}
 i.fa-star {color: gold;}
 #progress {height: 24px; text-align: center;}
-#progress span {font-family: FontAwesone; font-size: 12px; display: inline-block; position: relative; bottom: 2px;}
-#progress a {font-family: FontAwesone; display: inline-block; width: 16px;}
+#progress span {font-size: 12px; display: inline-block; position: relative; bottom: 2px;}
+#progress a {display: inline-block; width: 16px;}
 </style>
 <script>
 Persist = {
@@ -236,7 +236,7 @@ reviewpage = function () {
 {% assign thischap = -1 %}{% assign chapstart = 0 %}{% assign final = 0 %}
 {% for section in site.listen %}{% if section.class == 'chapter' and section.serial > page.serial %}{% break %}{% endif %}{% if section.class == 'chapter' %}{% assign thischap = thischap | plus: 1 %}{% assign chapstart = section.serial | plus: 1 %}{% else %}{% assign final = section.serial %}{% endif %}{% endfor %}
 Chapter {% case thischap %}{% when 1 %}I{% when 2 %}II{% when 3 %}III{% when 4 %}IV{% endcase %}:
-<span>{% for i in (chapstart..final) %}{% if i <= page.serial %}<a class="fa" style="color: #4c6;">&#61713;</a>{% else %}<a class="fa" style="color: #bbb;">&#xf10c;</a>{% endif %}{% endfor %}</span>
+<span>{% for i in (chapstart..final) %}{% if i <= page.serial %}<a style="color: #4c6;"><i class="fa fa-circle"</i></a>{% else %}<a class="fa" style="color: #bbb;"><i class="fa fa-circle-o"</i></a>{% endif %}{% endfor %}</span>
 {% endif %}</div>
 	
 <h1 data-section="{{ page.serial }}">{{ page.title }}</h1>
