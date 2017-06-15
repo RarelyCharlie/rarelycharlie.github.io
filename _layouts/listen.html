@@ -239,10 +239,12 @@ Chapter {% case thischap %}{% when 1 %}I{% when 2 %}II{% when 3 %}III{% when 4 %
 {% for section in site.listen %}
 	{% if section.serial <= chapstart or section.serial > final %}
 		{% continue %}
-	{% elseif section.serial <= page.serial %}
-<a style="color: #4c6;" title="{{ section.title }}" href="{{ section.url }}"><i class="fa fa-circle"></i></a>
 	{% else %}
+		{% if section.serial <= page.serial %}
 <a style="color: #4c6;" title="{{ section.title }}" href="{{ section.url }}"><i class="fa fa-circle"></i></a>
+		{% else %}
+<a style="color: #4c6;" title="{{ section.title }}" href="{{ section.url }}"><i class="fa fa-circle"></i></a>
+		{% endif %}
 	{% endif %}
 {% endfor %}
 {% endif %}</div>
