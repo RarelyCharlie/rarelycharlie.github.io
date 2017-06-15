@@ -23,14 +23,14 @@ h4 a:hover {text-decoration: underline;}
 
 {% for section in site.listen %}
 {% if section.serial > 1 %}
-<\div>
+{% raw %}<\div>{% endraw %}
 {% endif %}
   {% case section.class %}
     {% when 'chapter' %}
 #### {{ section.title }}
 {: #chap{{ section.serial }} .chapter data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to "}
 {% if section.serial > 0 %}
-<div>
+{% raw %}<div>{% endraw %}
 {% endif %}
     {% when 'section' %}
 #### {{ section.title }}
@@ -39,7 +39,7 @@ h4 a:hover {text-decoration: underline;}
       {% continue %}
   {% endcase %}
 {% endfor %}
-</div>
+{% raw %}</div>{% endraw %}
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
