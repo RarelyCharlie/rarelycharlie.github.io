@@ -36,7 +36,7 @@ Each section ends with a quiz, and you must complete the quiz correctly before y
 
 If you are not able to complete a quiz correctly, you can try again as many times as you need to. Each quiz is generated randomly, so that if you re-take a quiz the questions will not be exactly the same.
 
-Once you have completed a section's quiz, you can go back and review the section whenever you want, without having to complete the quiz again. To go back and review previous sections, use the [Training Index](/listen/) link at the bottom of the page.
+Once you have completed a section's quiz, you can go back and review the section whenever you want, without having to complete the quiz again. To go back and review previous sections, use the [Training Index](/listen/) link at the bottom of the page or the progress markers along the top of the page.
 
 You can work through this course at your own pace, and you can take as long as you want to complete it. You do not need to complete it in one session. You can stop at any time, and then at a later time return to pick up where you left off.
 
