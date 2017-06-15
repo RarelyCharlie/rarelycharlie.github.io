@@ -25,7 +25,7 @@ h4 a:hover {text-decoration: underline;}
   {% case section.class %}
     {% when 'chapter' %}
 #### {{ section.title }}
-{: #chap{{ section.serial }} .chapter data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to "}
+{: #chapter{% increment chap %} .chapter data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to "}
     {% when 'section' %}
 #### {{ section.title }}
 {: .section data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to the section: "}
