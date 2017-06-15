@@ -22,12 +22,16 @@ h4 a:hover {text-decoration: underline;}
 <button id="continue" onclick="nextpage(Persist.section)">Continue the Course</button>
 
 {% for section in site.listen %}
-{% if section.serial > 1 %}<\div>{% endif %}
+{% if section.serial > 1 %}
+<\div>
+{% endif %}
   {% case section.class %}
     {% when 'chapter' %}
 #### {{ section.title }}
 {: #chap{{ section.serial }} .chapter data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to "}
-{% if section.serial > 0 %}<div>{% endif %}
+{% if section.serial > 0 %}
+<div>
+{% endif %}
     {% when 'section' %}
 #### {{ section.title }}
 {: .section data-serial="{{ section.serial }}" data-url="{{ section.url | remove: '.html' }}" data-title="Go to the section: "}
