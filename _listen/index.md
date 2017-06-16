@@ -1,6 +1,6 @@
 ---
 layout: listen
-title: Index
+title: Training Index
 class: index
 ---
 This is the index to the unofficial listener training course.
@@ -11,9 +11,8 @@ You can also reset the course from here and start again from the beginning.
 
 <style>
 h4 {font-weight: 400; margin: 0; line-height: 1.35em; color: #aaa;}
-h4.section {margin-left: 2em; display: none;}
+h4.section {margin-left: 2em;}
 h4.chapter {font-weight: 500; margin-top: 1ex;}
-h4.chapter::before {content: "\f054"; font-family: FontAwesome; margin-right: 1ex; cursor: pointer;}
 h4 a {text-decoration: none;}
 h4 a:hover {text-decoration: underline;}
 </style>
