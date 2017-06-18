@@ -40,6 +40,6 @@ There are various ways to type special characters:
 - You can copy and paste smiley characters from some websites.
 - On a computer you can copy and paste smiley characters from the character map.
 
-Because 7 Cups does not support these special characters, they might or might not work. The person you are chatting to might see a different smiley from the one you see, or they might just see a square blob or nothing at all. Even when special characters work, they don't always look good on everyone's screen.
+Because 7 Cups does not support these special characters, they might or might not work. The person you are chatting to might see a different smiley from the one you see, or they might just see a square or nothing at all. Even when special characters work, they don't always look good on everyone's screen.
 
 However, if you are lucky and they work for the person you are chatting to, they offer a much larger choice.
