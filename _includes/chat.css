@@ -34,3 +34,5 @@ p.lede {margin-bottom: 0; padding-bottom: 0;}
 #stars .fa-star-o {color: #ddd;  text-shadow: none;}
 
 #content {display: none;}
+
+label.disabled [color: #eee;]
