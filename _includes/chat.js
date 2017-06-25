@@ -12,7 +12,7 @@ showmessage = function () {
 	var t = p.contents().get(0).nodeValue // text
 	if (t == '') return // just in case
 
-	var d = Math.max(500, 1000 * parseInt(t)) // delay
+	var d = Math.max(1200, 2500 * parseInt(t)) // delay
 	t = t.replace(/^\d*/, '')
 
 	var c = t.charAt(0) // class
