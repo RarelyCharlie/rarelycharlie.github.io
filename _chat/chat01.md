@@ -23,7 +23,7 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
   - 28 Have you lost your job?
   - 24 You must be feeling so confised and lost.
 - 3M It's my boss. He was my assistant unti last month and now he's been promoted above me.
-- 1M And that was OK. H'es someone I have great respect for. He'll go far.
+- 1M And that was OK. He's someone I have great respect for. He'll go far.
 - 1M But he's been very nasty to me since he got the promotion.
 - 1M I don't know what to do.
 - 1Q Choose how to respond:
