@@ -37,7 +37,6 @@ showmessage = function () {
 			})
 		t += '</p>'
 		}
-	else t = '<p class="' + c + '">' + t + '</p>'
 
 	if (c == 'member') setTimeout(function () {
 		$('#content').append('<p class="typing">The member is typing&hellip;</p>')
@@ -47,7 +46,7 @@ showmessage = function () {
 		if (c == 'listener') slowtype(t)
 		else {
 			if (c == 'member') $('.typing').remove()
-			$('#content').append(t)
+			$('#content').append('<p class="' + c + '">' + t + '</p>')
 			$('#send')[0].scrollIntoView()
 			if (c != 'quiz') showmessage()
 			}
