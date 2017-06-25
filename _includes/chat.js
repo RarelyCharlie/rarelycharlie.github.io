@@ -44,10 +44,16 @@ showmessage = function () {
 
 	setTimeout(function () {
 		if (c == 'listener') slowtype(t)
-		else {
-			if (c == 'member') $('.typing').remove()
+		else if (c == 'member') {
+			$('.typing').remove()
+			var f = $().append('<p style="display: none;" class="' + c + '">' + t + '</p>')
+			$('#content').append(f)
+			showbase()
+			f.fadeIn(400, showmessage)
+			}
+		else { // info, quiz...
 			$('#content').append('<p class="' + c + '">' + t + '</p>')
-			$('#send')[0].scrollIntoView()
+			showbase()
 			if (c != 'quiz') showmessage()
 			}
 		}, d)
