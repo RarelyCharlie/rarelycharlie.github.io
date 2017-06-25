@@ -26,6 +26,7 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
 - 1M And that was OK. H'es someone I have great respect for. He'll go far.
 - 1M But he's been very nasty to me since he got the promotion.
 - 1M I don't know what to do.
+- 1Q Choose how to respond:
   - 27 What about going to his boss to complain about this bullying?
   - 28 It sounds like he is insecure.
   - 3 You're uncertain about how to respond.
