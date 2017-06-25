@@ -98,7 +98,8 @@ radioclick = function (evt) {
 		(v < 20? 'Yes. ' : 'No. ') + cheat[v] +
 		(v < 20? '' : ' You lost a star.') + '</p>')
 	if (v < 20) { // OK
-		i.parentNode.className = 'chosen'
+		i.parentNode.className = 'chosen' // label
+		i.parentNode.parentNode.className = 'chosen' // group
 		$('#content input').prop('disabled', true)
 		slowtype(i.nextSibling.nodeValue)
 		}
