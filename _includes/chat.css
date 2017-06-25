@@ -1,0 +1,33 @@
+body {font-family: Raleway, sans-serif; font-size: 16px; line-height: 130%; margin: 0; padding: 80px 0 40px 0;}
+#header {z-index: 9; position: fixed; top: 0; height: 80px; width: 100%; text-align: center;
+  background: #159957 linear-gradient(to right, #1e90fe 0%, #73ccde 100%);}
+#footer {z-index: 9; position: fixed; bottom: 0; height: 32px; width: 100%;
+  background: #2f4e7a linear-gradient(#2f4e7a, #181a30);}
+#footer-content {color: white; max-width: 640px; margin: 0 auto; padding: 4px 1ex 0 1ex; text-align: right; font-size: 86%;}
+#footer-content a {display: inline-block; color: white; text-decoration: none;}
+#footer-content a:hover {color: #cdf;}
+#header {font-weight: 400; margin: 0; font-size: 16px; line-height: 24px; color: white;}
+#header h2 {font-weight: 100; margin: 0; font-size: 40px; line-height: 40px;}
+#header span {letter-spacing: 1px; position: relative; top: 4px; font-style: italic;}
+#content {max-width: 640px; margin: 0 auto; padding: 0 1ex 40px 1ex;}
+button:disabled {color: #888; background: #ddd; border: 1px solid #ccc; box-shadow: none;}
+ul {display: none;}
+em {font-family: "Raleway Medium"; color: #444;}
+
+#message {max-width: 640px; margin: 0 auto 40px auto; padding: 0 1ex 0 1ex; position: relative;}
+#msgtext {font-family: inherit; font-size: inherit; box-sizing: border-box; width: 100%; height: 48px; float: left; border-right: 48px solid transparent; resize: none; padding: 0 1ex;}
+#send {width: 48px; height: 48px; background: rgba(120, 170, 255, 1); position: absolute; top: 0; right: 1ex; color: white; cursor: pointer; box-shadow: 2px 2px 4px #bbb;}
+#send i {position: relative; top: 8px; left: 6px;}
+#send[disabled] {background: rgba(120, 170, 255, .25); cursor: default; box-shadow: none;}
+#send[disabled] i {color: #ddd;}
+
+p {color: #777; padding: 1ex; margin: 0 0 4px 0;}
+p.typing {font-style: italic;}
+p.member {background: #def; color: #000; border-radius: 6px; margin: 0 0 8px 0;}
+p.listener {background: #28f; color: #fff; border-radius: 6px; margin: 0 0 8px 0;}
+
+#stars {height: 20px; color: #fc0; text-shadow: 1px 1px 3px #60d; letter-spacing: 4px; padding: 0 1ex;}
+#stars i {display: none;}
+#stars .fa-star-o {color: #ddd;  text-shadow: none;}
+
+#content {display: none;}
