@@ -40,6 +40,7 @@ showmessage = function () {
 
 	if (c == 'member') setTimeout(function () {
 		$('#content').append('<p class="typing">The member is typing&hellip;</p>')
+		showbase()
 		}, d / 2)
 
 	setTimeout(function () {
