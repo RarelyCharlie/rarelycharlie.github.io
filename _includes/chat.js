@@ -48,7 +48,7 @@ showmessage = function () {
 			$('.typing').remove()
 			$('#content').append('<p style="display: none;" class="' + c + '">' + t + '</p>')
 			showbase()
-			$('#content p:lastChild').fadeIn(400, showmessage)
+			$('#content p:last-child').fadeIn(400, showmessage)
 			}
 		else { // info, quiz...
 			$('#content').append('<p class="' + c + '">' + t + '</p>')
