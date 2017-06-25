@@ -6,6 +6,7 @@ In this fictional chat you shadow a listener called Morinda taking a general req
 
 - 2I To get started, greet the member on behalf of 7 Cups.
 - 1L Hi! Welcome to 7 Cups! I'm Morinda.
+- 1I And wait to see if there's any response.
 - 6M Hello
 - 0I Reflect the member's greeting.
 - 1L Hello!
