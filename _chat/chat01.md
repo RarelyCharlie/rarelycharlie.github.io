@@ -7,7 +7,7 @@ In this fictional chat you shadow a listener called Morinda taking a general req
 You start the chat with 5 stars, but every time you choose wrongly you lose a star. If you lose all 5 stars the chat will end immediately.
 
 - 2Q To get started, greet the member. Choose one of these greetings:
-  - 26 What advice do you need from me today? I can answer all your questions about life!
+  - 26 What advice do you need from me today? I can answer any question!
   - 1 Hi! Welcome to 7 Cups! I'm Morinda.
   - 25 I am so happy and excited to be able to chat with you.
 - 2M Hi, I'm Al.
