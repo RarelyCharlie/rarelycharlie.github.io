@@ -35,5 +35,5 @@ p.lede {margin-bottom: 0; padding-bottom: 0;}
 
 #content {display: none;}
 
-p.chosen label [color: #eee;]
-p.chosen label.chosen [color: #555;]
+p.chosen label {color: #eee;}
+p.chosen label.chosen {color: #555;}
