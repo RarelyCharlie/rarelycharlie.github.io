@@ -4,7 +4,10 @@ showmessage = function () {
 	if (!p.length) { // end of chat...
 		var c = $('#content'), u = $('#content>ul')
 		c.append('<p>The chat has ended.</p>', remarks)
-		remarks.show()
+		if (remarks.length) setTimeout(function () {
+			remarks.show()
+			showbase()
+			}, 2000)
 		showbase()
 		return
 		}
