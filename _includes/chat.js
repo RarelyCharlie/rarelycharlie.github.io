@@ -46,10 +46,9 @@ showmessage = function () {
 		if (c == 'listener') slowtype(t)
 		else if (c == 'member') {
 			$('.typing').remove()
-			var f = $().append('<p style="display: none;" class="' + c + '">' + t + '</p>')
-			$('#content').append(f)
+			$('#content').append('<p style="display: none;" class="' + c + '">' + t + '</p>')
 			showbase()
-			f.fadeIn(400, showmessage)
+			$('#content p:lastChild').fadeIn(400, showmessage)
 			}
 		else { // info, quiz...
 			$('#content').append('<p class="' + c + '">' + t + '</p>')
