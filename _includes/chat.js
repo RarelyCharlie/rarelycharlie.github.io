@@ -108,6 +108,7 @@ var remarks
 document.addEventListener('DOMContentLoaded', function () {
 	$('#send').on('click', sendmessage)
 	remarks = $('#content>ul').nextAll()
+	if (remarks.length) remarks.first().prepend('<strong>Reflection: </strong>')
 	remarks.hide()
 	$('#content').on('change', radioclick)
 	$('#content').show()
