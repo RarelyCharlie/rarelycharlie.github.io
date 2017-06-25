@@ -53,10 +53,14 @@ showmessage = function () {
 			showbase()
 			$('#content p:last-child').fadeTo(400, 1, showmessage)
 			}
-		else { // info, quiz...
+		else if (c == 'info') {
 			$('#content').append('<p class="' + c + '">' + t + '</p>')
 			showbase()
-			if (c != 'quiz') showmessage()
+			showmessage()
+			}
+		else if (c == 'quiz') {
+			$('#content').append(t)
+			showbase()
 			}
 		}, d)
 
