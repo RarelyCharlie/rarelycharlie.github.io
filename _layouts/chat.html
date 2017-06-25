@@ -1,0 +1,44 @@
+---
+version: DRAFT
+---
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }} | Chat</title>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,200,400,600">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+<style>
+{% include chat.css %}
+</style>
+<script>
+{% include chathint.js %}
+{% include chat.js %}
+</script>
+</head>
+<body>
+<div id="header"><span>A fictitious chat</span><h2>{{ page.title }}</h2></div>
+<div id="content">
+{{ content }}
+</div>
+
+<div id="message">
+<textarea id="msgtext" readonly="true"></textarea>
+<div id="send" title="Send the message" disabled="true"><i class="fa fa-2x fa-send"></i></div>
+<div id="stars"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></div>
+</div>
+
+<div id="footer">
+<div id="version">{{ layout.version }}</div>
+<div id="footer-menu">
+<a href="/" title="8th Cup home page">The 8th Cup</a>
+&nbsp;&bull;&nbsp;
+<a href="/listen/" title="Index of chats">Chat Index</a>
+&nbsp;&bull;&nbsp;
+<a href="https://www.7cups.com/someforumthread" title="Send feedback. (7 Cups login required.)">Feedback</a>
+</div>
+</div>
+</body>
+</html>
