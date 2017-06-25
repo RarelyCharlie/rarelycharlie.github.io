@@ -46,8 +46,7 @@ showmessage = function () {
 	setTimeout(function () {
 		if (c == 'listener') slowtype(t)
 		else if (c == 'member') {
-			$('.typing').remove()
-			$('#content').append('<p style="display: none;" class="' + c + '">' + t + '</p>')
+			$('.typing').replaceWith('<p style="display: none;" class="' + c + '">' + t + '</p>')
 			showbase()
 			$('#content p:last-child').fadeIn(400, showmessage)
 			}
