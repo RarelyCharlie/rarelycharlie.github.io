@@ -48,7 +48,7 @@ showmessage = function () {
 		else if (c == 'member') {
 			$('.typing').replaceWith('<p style="opacity: 0;" class="' + c + '">' + t + '</p>')
 			showbase()
-			$('#content p:last-child').fadeIn(400, showmessage)
+			$('#content p:last-child').fadeTo(400, 1, showmessage)
 			}
 		else { // info, quiz...
 			$('#content').append('<p class="' + c + '">' + t + '</p>')
