@@ -11,7 +11,7 @@ In this fictional chat you shadow a listener called Morinda taking a general req
 - 1L Hello!
 - 0I And ask an open question to get started.
 - 0L What brings you here today?
-- 2L Let's wait and see if there's a reply.
+- 2I Let's wait and see if there's a reply.
 - 6M Depression.
 - 0I React to this.
 - 0L Oh no!
