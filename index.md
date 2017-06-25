@@ -18,6 +18,9 @@ to find out what they all mean.
 ## [Listener training](/listen/ 'Go to the listener training')
 A training course for new listeners is available as a draft version.
 
+## [Chats](/chat/ 'Go to the index of chats')
+Fictional chats that illustrate some things about of active listening.
+
 ## How-to guides
 A collection of how-to guides is currently in development but not available yet.
 
