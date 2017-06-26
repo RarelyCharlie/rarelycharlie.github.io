@@ -43,3 +43,4 @@ p.chosen label.chosen {color: #555;}
 
 h4 {margin: 1ex 0 0 2em;}
 h4 a {text-decoration: none;}
+h4+p {margin: .5ex 0 0 2em; padding: 0;}
