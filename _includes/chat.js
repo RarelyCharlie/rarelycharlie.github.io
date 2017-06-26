@@ -120,12 +120,16 @@ showbase = function () {
 
 var remarks
 document.addEventListener('DOMContentLoaded', function () {
+	$('#content').show()
+	if (document.body.className == 'index') return
+	
 	$('#send').on('click', sendmessage)
+	$('#content').on('change', radioclick)
+	
 	remarks = $('#content>ul').nextAll()
 	if (remarks.length) remarks.first().prepend('<strong>Reflection: </strong>')
 	remarks.hide()
-	$('#content').on('change', radioclick)
-	$('#content').show()
+
 	if ($('ul ul').length) $('#stars i').show()
 	showmessage()
 	})
