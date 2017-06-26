@@ -19,7 +19,7 @@ version: DRAFT
 </script>
 </head>
 <body class="{{ page.class }}">
-<div id="header"><span>A fictional chat</span><h2>{{ page.title }}</h2></div>
+<div id="header"><span>{% if page.class == 'index' %}Fictional chats{% else %}A fictional chat{% endif %}</span><h2>{{ page.title }}</h2></div>
 <div id="content">
 {{ content }}
 </div>
