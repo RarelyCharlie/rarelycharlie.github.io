@@ -55,13 +55,19 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
   - 28 Well, it's pretty clear she never did like you.
 - 1M Haha! Maybe not.
 - 0I Oops! That was bordering on being advice.
-- 0I Better back off.
+- 0I Better back off and see what happens next.
 - 6M Maybe she still wants our relationship
 - 0M In fact, maybe she still needs our relationship to be the way it was.
 - 0I Sounds good, but let's not push it.
-- 0L What kind of relationship did you have before her promotion?
+- 1Q Express curiosity again.
+  - 28 Why do you think you are are so hostile towards her?
+  - 4 What did you feel about your relationship before her promotion?
+  - 29 When are you going to confront her about her bad behavior?
 - 1M I was very much her mentor.
-- 2L A mother figure, almost?
+- 2Q Try to reflect how that feels.
+  - 28 She was not very good at her job.
+  - 29 Is the real problem that you miss that?
+  - 3 A mother figure, almost?
 - 0I A bit of a wild guess there.
 - 1M You could say that.
 - 0I Got lucky with the guess!
