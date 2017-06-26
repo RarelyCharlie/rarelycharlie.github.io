@@ -40,3 +40,6 @@ p.lede {margin-bottom: 0; padding-bottom: 0;}
 
 p.chosen label {color: #eee;}
 p.chosen label.chosen {color: #555;}
+
+h4 {margin: 1ex 0 0 2em;}
+h4 a {text-decoration: none;}
