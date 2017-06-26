@@ -31,16 +31,28 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
   - 27 What about going to her boss to complain about this bullying?
   - 28 It sounds like maybe she is insecure.
   - 3 You're unhappy about how she's treating you now.
-- 4I No reply yet, so try a closed question.
-- 0L Do you feel she's bullying you?
+- 4Q No reply yet, so try a closed question.
+  - 35 Isn't it just your imagination?
+  - 31 Are you bored by your job?
+  - 11 Do you feel she's bullying you?
 - 1M No, I don't feel I'm a victim.
 - 1M I've been doing this job a long time.
 - 2M I just don't know how to relate to her now.
-- 1L Your formal relationship has changed, so you don't feel you can relate to her the same way you did before.
+- 1Q Summarize the situation.
+  - 26 You should make a formal complaint about her.
+  - 8 Your formal relationship has changed, so you don't feel you can relate to her the same way you did before.
+  - 24 You must be feeling very angry.
 - 1M Exactly.
-- 1L Is that really true?
+- 1Q Show curiosity about the feeling.
+  - 4 Is that really true?
+  - 36 Can't you just try to take your mind off it?
+  - 30 Is that really because you have emotional problems?
 - 1M Is what really true?
-- 1L That you can't relate to her the same way you did before.
+- 0I Oops, didn't explain that well...
+- 0Q Try to explain better.
+  - 33 She has turned nasty now that she's got what she wanted from you.
+  - 8 That you can't relate to her the same way you did before.
+  - 28 Well, it's pretty clear she never did like you.
 - 1M Haha! Maybe not.
 - 0I Oops! That was bordering on being advice.
 - 0I Better back off.
