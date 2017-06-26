@@ -22,13 +22,51 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
 - 0Q Choose how to follow up:
   - 7 Advice about what?
   - 28 Have you lost your job?
-  - 24 You must be feeling so confised and lost.
-- 3M It's my boss. He was my assistant unti last month and now he's been promoted above me.
+  - 24 You must be feeling so confused and lost.
+- 3M It's my boss. He was my assistant until last month and now he's been promoted above me.
 - 1M And that was OK. He's someone I have great respect for. He'll go far.
 - 1M But he's been very nasty to me since he got the promotion.
 - 1M I don't know what to do.
 - 1Q Choose how to respond:
   - 27 What about going to his boss to complain about this bullying?
   - 28 It sounds like he is insecure.
-  - 3 You're uncertain about how to respond.
+  - 3 You're unhappy about how he's treating you.
 - 4I No reply yet, so try a closed question.
+- 0L Do you feel he's bullying you?
+- 1M No, I don't feel I'm a victim.
+- 1M I've been doing this job a long time.
+- 2M I just don't know how to relate to him now.
+- 1L Your formal relationship has changed, so you don't feel you can relate to him the same way you did before.
+- 1M Exactly.
+- 1L Is that realy true?
+- 1M Is what really true?
+- 1L That you can't relate to him the same way you did before.
+- 1M Haha! Maybe not.
+- 0I Oops! That was bordering on being advice.
+- 0I Better back off.
+- 6M Maybe he still wants our relationship
+- 0M In fact, maybe he still needs our relationship to be the way it was.
+- 0I Sounds good, but let's not push it.
+- 0L What kind of relationship did you have before his promotion?
+- 1M I was very much his mentor.
+- 2L A father figure, almost?
+- 0I A bit of a wild guess there.
+- 1M You could say that.
+- 0I Got lucky with the guess!
+- 1L Could that explain how he's behaving now?
+- 2M That he feels I've turned against him?
+- 0M I need to think about that.
+- 1M He's been pitched into a responsible position and has a lot of pressure.
+- 0I Stay with the member's feelings and summarize.
+- 1L So that feeling you had of not knowing what to do has become a feeling that there are things you need to think through.
+- 3M And maybe negotiate with him, yes.
+- 0I Let's validate that idea.
+- 0L Yes, and negotiate with him.
+- 8I Taking a long time. Maybe we're done?
+- 2M Thank you for listening to me.
+- 0I Yes, we're done.
+- 1L We can chat again another time, if you like.
+- 1M Yes, thank you, I'd like that.
+- 1L OK
+- 0L Take care.
+- 1M And you.
