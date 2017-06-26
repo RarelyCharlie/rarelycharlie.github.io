@@ -14,6 +14,7 @@ body {font-family: Raleway, sans-serif; font-size: 16px; line-height: 130%; marg
 #content {max-width: 640px; margin: 0 auto; padding: 0 1ex 40px 1ex;}
 button:disabled {color: #888; background: #ddd; border: 1px solid #ccc; box-shadow: none;}
 ul {display: none;}
+body.index ul {display: initial;}
 em {font-family: "Raleway Medium"; color: #444;}
 
 #message {max-width: 640px; margin: 0 auto 40px auto; padding: 0 1ex 0 1ex; position: relative;}
@@ -24,6 +25,7 @@ em {font-family: "Raleway Medium"; color: #444;}
 #send[disabled] i {color: #ddd;}
 
 p {color: #555; padding: 1ex; margin: 0 0 4px 0;}
+body.index p {color: #000;}
 p.typing {font-style: italic;}
 p.member {background: #def; color: #000; border-radius: 6px; margin: 0 0 8px 0;}
 p.listener {background: #28f; color: #fff; border-radius: 6px; margin: 0 0 8px 0;}
