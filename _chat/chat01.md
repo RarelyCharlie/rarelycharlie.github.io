@@ -11,11 +11,11 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
   - 26 What advice do you need from me today? I can answer any question!
   - 1 Hi! Welcome to 7 Cups! I'm Morinda.
   - 25 I am so happy and excited to be able to chat with you.
-- 2M Hi, I'm Al.
+- 2M Hi, I'm Bee.
 - 1M I need some advice.
 - 2Q Choose how to respond:
   - 26 Wonderful! I can assure you that all my advice is the very best advice.
-  - 34 Oh, sweetie, just tell me what you need.
+  - 34 Oh, Bee sweetie, just tell me what you need.
   - 7 OK
 - 1I It's OK to need advice, obviously...
 - 0I ...but let's try to find out more.
@@ -23,47 +23,49 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
   - 7 Advice about what?
   - 28 Have you lost your job?
   - 24 You must be feeling so confused and lost.
-- 3M It's my boss. He was my assistant until last month and now he's been promoted above me.
-- 1M And that was OK. He's someone I have great respect for. He'll go far.
-- 1M But he's been very nasty to me since he got the promotion.
+- 3M It's my boss. She was my assistant until last month and now she's been promoted above me.
+- 1M And that was OK. She's someone I have great respect for. She'll go far.
+- 1M But she's been very nasty to me since she got the promotion.
 - 1M I don't know what to do.
 - 1Q Choose how to respond:
-  - 27 What about going to his boss to complain about this bullying?
-  - 28 It sounds like he is insecure.
-  - 3 You're unhappy about how he's treating you.
+  - 27 What about going to her boss to complain about this bullying?
+  - 28 It sounds like maybe she is insecure.
+  - 3 You're unhappy about how she's treating you now.
 - 4I No reply yet, so try a closed question.
-- 0L Do you feel he's bullying you?
+- 0L Do you feel she's bullying you?
 - 1M No, I don't feel I'm a victim.
 - 1M I've been doing this job a long time.
-- 2M I just don't know how to relate to him now.
-- 1L Your formal relationship has changed, so you don't feel you can relate to him the same way you did before.
+- 2M I just don't know how to relate to her now.
+- 1L Your formal relationship has changed, so you don't feel you can relate to her the same way you did before.
 - 1M Exactly.
-- 1L Is that realy true?
+- 1L Is that really true?
 - 1M Is what really true?
-- 1L That you can't relate to him the same way you did before.
+- 1L That you can't relate to her the same way you did before.
 - 1M Haha! Maybe not.
 - 0I Oops! That was bordering on being advice.
 - 0I Better back off.
-- 6M Maybe he still wants our relationship
-- 0M In fact, maybe he still needs our relationship to be the way it was.
+- 6M Maybe she still wants our relationship
+- 0M In fact, maybe she still needs our relationship to be the way it was.
 - 0I Sounds good, but let's not push it.
-- 0L What kind of relationship did you have before his promotion?
-- 1M I was very much his mentor.
-- 2L A father figure, almost?
+- 0L What kind of relationship did you have before her promotion?
+- 1M I was very much her mentor.
+- 2L A mother figure, almost?
 - 0I A bit of a wild guess there.
 - 1M You could say that.
 - 0I Got lucky with the guess!
-- 1L Could that explain how he's behaving now?
-- 2M That he feels I've turned against him?
+- 1L Could that explain how she's behaving now?
+- 2M That she feels I've turned against her?
+- 1M Or abandoned her, at least.
 - 0M I need to think about that.
-- 1M He's been pitched into a responsible position and has a lot of pressure.
+- 2M She's been pitched into a responsible position and has a lot of pressure.
 - 0I Stay with the member's feelings and summarize.
 - 1L So that feeling you had of not knowing what to do has become a feeling that there are things you need to think through.
-- 3M And maybe negotiate with him, yes.
+- 3M And maybe negotiate with her, yes.
 - 0I Let's validate that idea.
-- 0L Yes, and negotiate with him.
+- 0L Yes, and negotiate with her.
 - 8I Taking a long time. Maybe we're done?
-- 2M Thank you for listening to me.
+- 2M I have to go.
+- 0M Thank you for listening to me.
 - 0I Yes, we're done.
 - 1L We can chat again another time, if you like.
 - 1M Yes, thank you, I'd like that.
