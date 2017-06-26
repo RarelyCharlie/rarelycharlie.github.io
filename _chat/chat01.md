@@ -1,5 +1,6 @@
 ---
 title: Work
+info: A chat with easy choices
 layout: chat
 ---
 In this fictional chat you shadow a listener called Morinda taking a general request. Morinda allows you to choose what to say to the member. At least one of the choices will always be OK, and sometimes more than one of them will be OK.
