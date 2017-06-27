@@ -102,7 +102,7 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
   - 29 At 7 Cups we can always solve your problems.
 - 1M Yes, thank you, I'd like that.
 - 1L OK
-- 0L Take care.
+- 0L Take care, Bee.
 - 1M And you.
 
 Chats about work are almost never about the work.
