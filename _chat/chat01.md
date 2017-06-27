@@ -13,9 +13,9 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
   - 25 I am so happy and excited to be able to chat with you.
 - 2M Hi, I'm Bee.
 - 1M I need some advice.
-- 2Q Choose how to respond:
+- 0Q Choose how to respond:
   - 26 Wonderful! I can assure you that all my advice is the very best advice.
-  - 34 Oh, Bee sweetie, just tell me what you need.
+  - 34 Oh, Bee my sweetie, just tell me what you need.
   - 7 OK
 - 1I It's OK to need advice, obviously...
 - 0I ...but let's try to find out more.
@@ -31,14 +31,14 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
   - 27 What about going to her boss to complain about this bullying?
   - 28 It sounds like maybe she is insecure.
   - 3 You're unhappy about how she's treating you now.
-- 4Q No reply yet, so try a closed question.
+- 4Q No reply yet, so try a closed question to try and capture the feeling.
   - 35 Isn't it just your imagination?
   - 31 Are you bored by your job?
   - 11 Do you feel she's bullying you?
 - 1M No, I don't feel I'm a victim.
 - 1M I've been doing this job a long time.
 - 2M I just don't know how to relate to her now.
-- 1Q Summarize the situation.
+- 1Q Summarize the situation, with a focus on how it feels for Bee.
   - 26 You should make a formal complaint about her.
   - 8 Your formal relationship has changed, so you don't feel you can relate to her the same way you did before.
   - 24 You must be feeling very angry.
