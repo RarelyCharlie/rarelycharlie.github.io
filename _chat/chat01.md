@@ -74,7 +74,7 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
 - 1M You could say that.
 - 0I Got lucky with the guess!
 - 6I It killed the conversation, though.
-- 0Q Get moving again with an closed question.
+- 0Q Get moving again with a closed question.
   - 31 Does it make you wish you had been promoted instead?
   - 24 Don't you think you should feel proud for her instead of complaining?
   - 11 Does that feeling you once had fit with how she's behaving now?
@@ -104,3 +104,5 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
 - 1L OK
 - 0L Take care.
 - 1M And you.
+
+Chats about work are almost never about the work.
