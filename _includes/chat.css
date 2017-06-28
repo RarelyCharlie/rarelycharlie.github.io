@@ -38,6 +38,7 @@ p.lede {margin-bottom: 0; padding-bottom: 0;}
 
 #content {display: none;}
 
+label {display: block; margin-bottom: 1ex; padding-left: 1em; text-indent: -1em;}
 p.chosen label {color: #eee;}
 p.chosen label.chosen {color: #555;}
 
