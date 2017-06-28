@@ -39,7 +39,7 @@ p.lede {margin-bottom: 0; padding-bottom: 0;}
 #content {display: none;}
 
 label {display: block; margin-bottom: 1ex; padding-left: 24px; text-indent: -24px;}
-input[radio] {display: inline-block; width: 24px;}
+input[type="radio"] {display: inline-block; width: 24px; margin: 0;}
 p.chosen label {color: #eee;}
 p.chosen label.chosen {color: #555;}
 
