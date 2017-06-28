@@ -49,7 +49,7 @@ showmessage = function () {
 	setTimeout(function () {
 		if (c == 'listener') slowtype(t)
 		else if (c == 'member') {
-			$('.typing').replaceWith('<p style="opacity: 0;" class="' + c + '">' + t + '</p>')
+			$('.typing').replaceWith('<p style="opacity: 0;" class="member">' + smilify(t) + '</p>')
 			showbase()
 			$('#content p:last-child').fadeTo(400, 1, showmessage)
 			}
@@ -84,7 +84,7 @@ slowtype = function (t) {
 sendmessage = function () {
 	showbase()
 	if ($(this).attr('disabled')) return
-	$('#content').append('<p class="listener">' + $('#msgtext').text() + '</p>')
+	$('#content').append('<p class="listener">' + smilify($('#msgtext').text()) + '</p>')
 	$('#send')[0].scrollIntoView()
 	$('#msgtext').text('')
 	$(this).attr('disabled', true)
@@ -116,6 +116,12 @@ radioclick = function (evt) {
 	
 showbase = function () {
 	$('#stars')[0].scrollIntoView()
+	}
+
+smilify = function (t) {
+	var d = 'https://d37v7cqg82mgxu.cloudfront.net/img/emoticons/'
+	return t.replace(/:\)/, '<img src="' + d + 'smile.png'" alt="Smile" title="Smile" />')
+		.replace(/<3/, '<img src="' + d + 'heart.png'" alt="Heart" title="Heart" />')
 	}
 
 var remarks
