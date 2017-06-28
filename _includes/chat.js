@@ -94,9 +94,9 @@ sendmessage = function () {
 radioclick = function (evt) {
 	var i = evt.target, v = i.getAttribute('data-help') % 43
 	$('#content p.hint').remove()
-	$('#content').append('<p class="hint">' +
-		(v < 20? 'Yes. ' : 'No. ') + cheat[v] +
-		(v < 20? '' : ' You lost a star.') + '</p>')
+	if (v) $('#content').append('<p class="hint">' +
+			(v < 20? 'Yes. ' : 'No. ') + cheat[v] +
+			(v < 20? '' : ' You lost a star.') + '</p>')
 	if (v < 20) { // OK
 		i.parentNode.className = 'chosen' // label
 		i.parentNode.parentNode.className = 'chosen' // group
