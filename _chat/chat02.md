@@ -8,7 +8,7 @@ In this fictional chat you shadow a listener called Morinda taking a general req
 You start the chat with 5 stars, but every time you choose wrongly you lose a star. If you lose all 5 stars the chat will end immediately.
 
 - 4M Hello, I need some advice.
-- 0M It's about my boyfriend.
+- 0M It's about my boyfriend :)
 - 1Q Choose a reply that accurately reflects what the member said:
   - 24 Welcome to 7 Cups! I'm Morinda. You must be feeling so sad and lonely!
   - 25 Hi! I'm Morinda. I am so proud of you for opening up. Welcome to 7 Cups where you can share all your troubles!
