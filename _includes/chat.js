@@ -36,7 +36,7 @@ showmessage = function () {
 			t += '<label for="' + id + '">' +
 				'<input type="radio" name="q' + n + '" id="' + id + '" data-help="' + v + '">' +
 				r +
-				'</label><br>'
+				'</label>'
 			})
 		t += '</p>'
 		}
