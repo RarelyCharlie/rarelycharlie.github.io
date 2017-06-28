@@ -120,8 +120,8 @@ showbase = function () {
 
 smilify = function (t) {
 	var d = 'https://d37v7cqg82mgxu.cloudfront.net/img/emoticons/'
-	return t.replace(/:\)/, '<img src="' + d + 'smile.png'" alt="Smile" title="Smile" />')
-		.replace(/<3/, '<img src="' + d + 'heart.png'" alt="Heart" title="Heart" />')
+	return t.replace(/:\)/g, '<img src="' + d + 'smile.png" alt="Smile" title="Smile" />')
+		.replace(/<3/g, '<img src="' + d + 'heart.png" alt="Heart" title="Heart" />')
 	}
 
 var remarks
