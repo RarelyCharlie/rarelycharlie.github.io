@@ -94,7 +94,7 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
 - 1Q Which reply reflects what the member just said?
   - 0 You need things to be the way they were before, when you did things together.
   - 26 You need a taxi, not a boyfriend, so you can shop for shoes!
-  - 26 You need to see a counsellor about your depression.
+  - 26 You need to see a counselor about your depression.
 - 2M Is it so wrong to want to be together?
 - 1Q Which reply reflects what the member just said?
   - 33 It's not wrong. You should make more effort to be together.
