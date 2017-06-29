@@ -3,38 +3,24 @@ title: Anxiety
 info: A chat to illustrate reflection
 layout: chat
 ---
-In this fictional chat you shadow a listener called Morinda taking a general request. Morinda allows you to choose what to say to the member. The correct choice every time is the one that accurately reflects what the member said. Any other choice is wrong.
+In this fictional chat you shadow a listener called Morinda taking a general request. Once the chat gets going, Morinda allows you to choose what to say to the member. The correct choice every time is the one that accurately reflects what the member said. Any other choice is wrong.
 
 You start the chat with 5 stars, but every time you choose wrongly you lose a star. If you lose all 5 stars the chat will end immediately.
 
 - 4M Hello, I need some advice.
 - 0M It's about my boyfriend :)
-- 1Q Choose a reply that accurately reflects what the member said:
-  - 24 Welcome to 7 Cups! I'm Morinda. You must be feeling so sad and lonely!
-  - 25 Hi! I'm Morinda. I am so proud of you for opening up. Welcome to 7 Cups where you can share all your troubles!
-  - 0 Welcome to 7 Cups! I'm Morinda. OK, you need some advice about your boyfriend.
+- 1L Welcome to 7 Cups! I'm Morinda.
+- 0L OK, you need some advice about your boyfriend.
 - 0I It's OK to need advice, obviously.
 - 0I Let's see what the issue is.
 - 2M He's been hanging out with bad people.
-- 1Q Which reply reflects what the member just  said?
-  - 0 Bad people?
-  - 24 You must be so angry!
-  - 29 I can solve any problem you have.
+- 1L Bad people?
 - 2M This makes him lazy and he does not do the things he should do.
-- 1Q Which reply reflects what the member just said?
-  - 33 Yeah. You are right about that.
-  - 24 You should be happy that you have a boyfriend.
-  - 0 He gets lazy when he hangs out with them.
+- 1L He gets lazy when he hangs out with them.
 - 2M Let me give you and example.
-- 1Q Which reply reflects what the member just said?
-  - 31 OK, tell me all about him.
-  - 0 OK, an example.
-  - 26 OK, what advice do you need?
+- 1L OK, an example.
 - 2M At the weekend I wanted to go to the city for some shoes.
-- 1Q Which reply reflects what the member just said?
-  - 31 What kind of shoes?
-  - 0 To shop for shoes in the city.
-  - 31 I like to go to the beach on weekends.
+- 1L OK, to shop for shoes in the city.
 - 2M Normally when I want to go to the city he takes me there.
 - 1Q Which reply reflects what the member just said?
   - 24 You must always be careful in the city.
@@ -101,35 +87,23 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
   - 0 You want to be together, and you don't feel that's wrong.
   - 24 You must accept that you cannot be together any more.
 - 2M This morning we had a fight and he walked out.
+- 0I Ah, this is what it's all about.
 - 1Q Which reply reflects what the member just said?
   - 0 He walked out again when you fought this morning.
   - 28 He's hanging out with those people this morning.
   - 32 He should walk out on those bad people, not on you!
 - 2M When he comes back I want to make him stop seeing these people he hanges out with.
-- 1Q Which reply reflects what the member just said?
-  - 26 You should avoid starting another fight when he comes back.
-  - 0 You'll make him stop seeing them when he comes back.
-  - 26 One day he won't come back if you don't accept the people he hangs out with.
+- 0I And now here's the plan of action.
+- 0I We're basically done.
+- 1L You're going to make him stop seeing them when he comes back.
 - 2M I will tell him how unhappy I am so he can understand my point of view.
-- 1Q Which reply reflects what the member just said?
-  - 0 If he understands your unhappiness he'll see it your way.
-  - 26 Try to be happy so that he can be happy.
-  - 26 You shouldn't tell him you're unhappy if it will start another fight.
+- 1L If he understands your unhappiness he'll see it your way.
 - 2M And then if he loves me like he says he does he will do what I ask.
-- 1Q Which reply reflects what the member just said?
-  - 26 He'll be happy if you can try to be happy.
-  - 26 He'll walk out if you fight with him, like he always does.
-  - 0 He'll stop seeing those bad people if he really loves you.
+- 1L He'll stop seeing those bad people if he really loves you.
 - 2M I think it will be OK if I can make him understand.
-- 1Q Which reply reflects what the member just said?
-  - 24 You must believe that everything will be OK so that you can move on from this unhappy time.
-  - 0 Things will turn out for the best if you can get him to understand how unhappy you are.
-  - 34 It will be OK, honey!
+- 1L Things will turn out for the best if you can get him to understand how unhappy you are.
 - 2M So I will wait for him to return and that is what I will do.
-- 1Q Which reply reflects what the member just said?
-  - 25 I'm so proud of you for deciding to wait. In a relationship it's important that people give each other space.
-  - 0 You've decided you're going to make him understand, and then it will be OK.
-  - 25 I'm so happy for you!
+- 1L You've decided you're going to make him understand, and then it will be OK.
 - 2M Thank you for your advice.
 - 1L :)
 - 2M Bye.
