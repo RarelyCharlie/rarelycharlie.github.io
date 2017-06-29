@@ -3,15 +3,20 @@ title: Anxiety
 info: A chat to illustrate reflection
 layout: chat
 ---
-In this fictional chat you shadow a listener called Morinda taking a general request. Once the chat gets going, Morinda allows you to choose what to say to the member. The correct choice every time is the one that accurately reflects what the member said. Any other choice is wrong.
+In this fictional chat you shadow a listener called Morinda taking a general request.
+
+Once the chat gets going, Morinda allows you to choose what to say to the member. The correct choice every time is the one that accurately reflects what the member said. Any other choice is wrong.
 
 You start the chat with 5 stars, but every time you choose wrongly you lose a star. If you lose all 5 stars the chat will end immediately.
 
 - 8M Hello, I need some advice.
 - 0M It's about my boyfriend :)
-- 1L Welcome to 7 Cups! I'm Morinda.
+- 1I Start with a greeting.
+- 0L Welcome to 7 Cups! I'm Morinda.
+- 0I And immediately reflect what the member said.
 - 0L OK, you need some advice about your boyfriend.
-- 0I It's OK to need advice, obviously.
+- 0I It's OK to need advice, obviously...
+- 0I ...even though we won't give any advice.
 - 0I Let's see what the issue is.
 - 2M He's been hanging out with bad people.
 - 1L Bad people?
