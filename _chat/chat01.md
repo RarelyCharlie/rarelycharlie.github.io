@@ -20,9 +20,11 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
 - 2M Let me give you and example.
 - 1L OK, an example.
 - 2M At the weekend I wanted to go to the city for some shoes.
-- 1L OK, to shop for shoes in the city.
+- 1L Ah, to shop for shoes in the city.
 - 2M Normally when I want to go to the city he takes me there.
-- 1Q Which reply reflects what the member just said?
+- 0I Now it's over to you.
+- 0I Remember, all we're doing is reflecting.
+- 0Q Which reply reflects what the member just said?
   - 24 You must always be careful in the city.
   - 27 You don't want him with you to shop for shoes.
   - 0 You normally go together.
@@ -57,12 +59,17 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
   - 26 When you are unhappy your boyfried will not like you. You should try to cheer up.
   - 0 You are anxious and unhappy because he hangs out with these people who tell lies about you.
 - 2M So I need your advice about these people.
-- 1Q Which reply reflects what the member just said?
+- 0I It's OK to need advice.
+- 0I That doesn't mean we give advice!
+- 0I All we do is reflect.
+- 0Q Which reply reflects what the member just said?
   - 26 I can give you excellent advice that will solve your problem.
   - 26 I cannot give you any advice.
   - 0 Advice about these people he is hanging out with.
 - 2M How can I make him stop hanging out with them?
-- 1Q Which reply reflects what the member just said?
+- 0I A reasonable question.
+- 0I But we don't try to solve problems, we only reflect.
+- 0Q Which reply reflects what the member just said?
   - 28 You need to find a way to make them stop telling lies about you.
   - 0 You need to find a way to stop him hanging out with them.
   - 31 You need to find a new boyfriend.
@@ -82,19 +89,23 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
   - 26 You need a taxi, not a boyfriend, so you can shop for shoes!
   - 26 You need to see a counselor about your depression.
 - 2M Is it so wrong to want to be together?
-- 1Q Which reply reflects what the member just said?
+- 0I Another reasonable question.
+- 0I However, we don't judge, we only reflect.
+- 0I In this case, we try to reflect the feeling behind the member's question.
+- 0Q Which reply reflects the feelng behind what the member just said?
   - 33 It's not wrong. You should make more effort to be together.
   - 0 You want to be together, and you don't feel that's wrong.
   - 24 You must accept that you cannot be together any more.
 - 2M This morning we had a fight and he walked out.
-- 0I Ah, this is what it's all about.
-- 1Q Which reply reflects what the member just said?
+- 0I Ah, this is what the entire chat is all about.
+- 0I But while we might think that, we don't say it!
+- 0Q Which reply reflects what the member just said?
   - 0 He walked out again when you fought this morning.
   - 28 He's hanging out with those people this morning.
   - 32 He should walk out on those bad people, not on you!
 - 2M When he comes back I want to make him stop seeing these people he hanges out with.
-- 0I And now here's the plan of action.
-- 0I We're basically done.
+- 0I And now here's the member's plan of action.
+- 0I We're basically done, if the plan continues to take shape.
 - 1L You're going to make him stop seeing them when he comes back.
 - 2M I will tell him how unhappy I am so he can understand my point of view.
 - 1L If he understands your unhappiness he'll see it your way.
@@ -105,7 +116,8 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
 - 2M So I will wait for him to return and that is what I will do.
 - 1L You've decided you're going to make him understand, and then it will be OK.
 - 2M Thank you for your advice.
-- 1L :)
+- 1I Let's not argue the point.
+- 0L :)
 - 2M Bye.
 
 Anxiety, like other self-diagnosed conditions, rarely means what it says. Often it's just worry, and life is full of worries.
