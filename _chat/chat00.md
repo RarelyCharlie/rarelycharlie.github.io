@@ -4,7 +4,11 @@ info: A simple chat with no choices to make
 layout: chat
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-In this fictional chat you shadow a listener called Morinda taking a general request. Morinda types the replies. All you have to do is press the Send button to send each reply. Morinda also adds comments to tell you what's going on.
+In this fictional chat you shadow a listener called Morinda taking a general request.
+
+Morinda types the replies. All you have to do is press the Send button to send each reply.
+
+Morinda also adds comments to tell you what's going on.
 
 - 2I To get started, greet the member on behalf of 7 Cups.
 - 1L Hi! Welcome to 7 Cups! I'm Morinda.
