@@ -2,7 +2,7 @@
 title: Depression
 info: A simple chat with no choices to make
 layout: chat
-feedback: https://www.7cups.com/@RarelyCharlie
+feedback: https://www.7cups.com/forum/QuestionsFeedbackIdeasFun_33/GuidesandTechnicalSupport_1059/Asimulatedchat_75483/
 ---
 In this fictional chat you shadow a listener called Morinda taking a general request.
 
