@@ -39,8 +39,7 @@ If that does not work, send a written and signed request by postal mail to:
 
 7 Cups of Tea\\
 1040 Camino Real South\\
-Virginia Beach\\
-VA 23456\\
+Virginia Beach VA 23456-4204\\
 USA
 
 Use a delivery service that informs you when your request has been delivered. 
