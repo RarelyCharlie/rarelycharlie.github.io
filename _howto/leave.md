@@ -11,9 +11,9 @@ If 7 Cups sends you mail, change your [Settings](https://www.7cups.com/member/ed
 Optionally tell any communities you have been involved with that you are leaving. You could also put a message in your profile, and post to your feed.
 
 ### Deactivating your account
-To deactivate your account, go to [Self-Care Break](https://www.7cups.com/member/deactivate.php).
+To deactivate your account, go to [Self-Care Break](https://www.7cups.com/member/deactivate.php). Although it's called "self-care break" you can use it to leave permanently.
 
-Alternatively, go to your Settings page, scroll to the bottom, and click the Self-Care Break link there. Although it's called "self-care break" you can use it to leave permanently.
+Alternatively, go to your Settings page, scroll to the bottom, and click the Self-Care Break link there.
 
 When your account is deactivated, your profile, feed, chats and profile image are not visible. Your screen name is mostly invisible (except that some people might have tagged you in forums, and the tags will still be visible).
 
@@ -29,9 +29,9 @@ Here are a random e-mail address and password that you can copy and paste:
 After randomizing your e-mail address and password, save the changes. Then deactivate your account as described above.
 
 ### Deleting your account
-7 Cups' terms of service imply that you can ask for your account to be deleted. It is not clear what this really means. If someone else reused your old screen name, there could be confusion in forums and elsewhere in the community, so it's possible that your screen name can never be deleted from the system.
+7 Cups' terms of service imply that you can ask for your account to be deleted. It is not clear what this really means. If someone else ever reused your old screen name, there could be confusion in forums and elsewhere in the community, so it's possible that your screen name can never be deleted from the system.
 
-If you want to ask for your account to be deleted, you can try sending an e-mail request from the e-mail address that you used when you created the account, to: community@7cups.com
+If you want to ask for your account to be deleted anyway, you can try sending an e-mail request from the e-mail address that you used when you created the account, to: [community@7cups.com](mailto:community@7cups.com)
 
 Mail sent to this address can take some days to get a response.
 
