@@ -37,10 +37,10 @@ Mail sent to this address can take some days to get a response.
 
 If that does not work, send a written and signed request by postal mail to:
 
-7 Cups of Tea
-1040 Camino Real South
-Virginia Beach
-VA 23456
+7 Cups of Tea\\
+1040 Camino Real South\\
+Virginia Beach\\
+VA 23456\\
 USA
 
 Use a delivery service that informs you when your request has been delivered. 
