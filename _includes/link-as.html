@@ -1,0 +1,41 @@
+<style>
+#link-as {padding: 1ex; border: 1px solid #4ca; background: #cef; border-radius: 6px; box-shadow: 2px 2px 6px #555;}
+#link-as label {display: block; cursor: pointer; height: 1.5em;}
+#link-as input {display: inline-block; width: 2em; margin: 0;}
+</style>
+<div id="link-as">
+<p><strong>7 Cups links</strong></p>
+<p>Some links on this page depend on how you are logged in to 7 Cups. To see the correct links, please choose the type of account you are using:</p>
+<p>
+<label for="asguest"><input type="radio" id="asguest" name="link-as" value="guest"/>Guest</label>
+<label for="asmember"><input type="radio" id="asmember" name="link-as" value="member"/>Member</label>
+<label for="aslistener"><input type="radio" id="aslistener" name="link-as" value="listener"/>Listener</label>
+<label for="astherapist"><input type="radio" id="astherapist" name="link-as" value="therapist"/>Therapist</label>
+</p>
+</div>
+<script>
+var linkas = 'member'
+
+setlinkas = function (v) {
+	localStorage.linkas = v
+	if (v == linkas) return
+	var aa = document.getElementsByTagName('A')
+	for (var i = 0; i < aa.length; ++i) {
+		var a = aa.item(i)
+		var r = new RegExp(linkas, 'g')
+		var u = a.getAttribute('href').replace(r, v)
+		a.setAttribute('href', u)
+		}
+	linkas = v
+	}
+
+document.getElementById('link-as').addEventListener('change', function (evt) {
+	setlinkas(evt.target.value)
+	})
+	
+addEventListener('DOMContentLoaded', function () {
+	var v = localStorage.linkas || 'member'
+	document.getElementById('as' + v).checked = true
+	setlinkas(v)
+	})
+</script>
