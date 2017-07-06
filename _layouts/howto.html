@@ -7,4 +7,5 @@ layout: default
   #content {padding-top: 1em;}
   #content table {margin: 0 0 1em 1em; border-spacing: 1em 0;}
 </style>
+{% if page.linkas == true %}{% include link-as.html %}{% endif %}
 {{ content }}
