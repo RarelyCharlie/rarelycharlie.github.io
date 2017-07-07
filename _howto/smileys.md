@@ -1,6 +1,7 @@
 ---
 title: Type smileys in chats
 layout: howto
+feedback: https://www.7cups.com/@RarelyCharlie
 ---
 You can type smileys (emoticons or emoji) in chats. There are two ways: automatic smileys and special characters.
 
