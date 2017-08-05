@@ -498,6 +498,9 @@ Last of the twenty groups of ~~member~~ ~~levels./level~~
 # meditation
 An exercise designed to create a feeling of peace and calm.
 
+# meetup
+A meeting arranged in advance at a particular time and place, usually in a ~~chatroom~~ or very rarely at a real life venue. A meetup at a real life venue is an example of ~~offsite contact.~~
+
 # Mega Member
 A ~~member~~ designated as having an important role in the ~~community~~. Also a ~~badge~~ denoting such a member.
 
