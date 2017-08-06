@@ -125,7 +125,7 @@ Remember to press the blue Send button to send each message.
 - 2M I think it will be OK if I can make him understand.
 - 1L Things will turn out for the best if you can get him to understand how unhappy you are.
 - 2M So I will wait for him to return and that is what I will do.
-- 1L You've decided you're going to make him understand, and then it will be OK.
+- 1L You're going to wait for him now, and make him understand when he returns.
 - 2M Thank you for your advice.
 - 1I Let's not argue the point.
 - 0L :)
