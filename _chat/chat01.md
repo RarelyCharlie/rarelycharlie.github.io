@@ -61,9 +61,9 @@ Remember to press the blue Send button to send each message.
   - 31 Those people he hangs out with make you proud too?
 - 2M Yes, the things they say are not true.
 - 1Q Which reply reflects what the member just said?
-  - 24 You should stand up for yourself. Don't let them say those things.
+  - 26 You should stand up for yourself. Don't let them say those things.
   - 0 They tell lies about you, those people!
-  - 33 How can you be sure about that?
+  - 29 How can you be sure about that?
 - 2M It is making me so anxious and unhappy.
 - 1Q Which reply reflects what the member just said?
   - 26 Anxiety disorders can easily be treated with medication. Just ask your doctor about it.
