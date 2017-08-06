@@ -21,6 +21,7 @@ Remember to press the blue Send button to send each message.
 - 0I ...even though we won't give any advice.
 - 0I Let's see what the issue is.
 - 2M He's been hanging out with bad people.
+- 1I Show curiosity.
 - 1L Bad people?
 - 2M This makes him lazy and he does not do the things he should do.
 - 1L He gets lazy when he hangs out with them.
