@@ -24,17 +24,20 @@ Remember to press the blue Send button to send each message.
 - 1I Show curiosity.
 - 1L Bad people?
 - 2M This makes him lazy and he does not do the things he should do.
-- 1L He gets lazy when he hangs out with them.
+- 1I Reflect what the member said, so they know they're being heard.
+- 0L He gets lazy when he hangs out with them.
 - 2M Let me give you and example.
-- 1L OK, an example.
+- 1I Great!
+- 0L OK, an example.
 - 2M At the weekend I wanted to go to the city for some shoes.
-- 1L Ah, to shop for shoes in the city.
+- 1I Reflect again.
+- 0L Ah, to shop for shoes in the city.
 - 2M Normally when I want to go to the city he takes me there.
 - 0I Now it's over to you.
 - 0I Remember, all we're doing is reflecting.
 - 0Q Which reply reflects what the member just said?
-  - 24 You must always be careful in the city.
-  - 27 You don't want him with you to shop for shoes.
+  - 26 You must always be careful in the city.
+  - 28 You don't want him with you to shop for shoes.
   - 0 You normally go together.
 - 2M We always have a great time.
 - 1Q Which reply reflects what the member just said?
@@ -131,3 +134,5 @@ Remember to press the blue Send button to send each message.
 Anxiety, like other self-diagnosed conditions, rarely means what it says. Often it's just worry, and life is full of worries.
 
 Advice, too, means whatever people want it to mean. Active listening is a way to help people feel heard and understood, empowering them to solve their problems or at least move forward. Then they often feel they've received good advice, even though all that's really happened is they've been advising themselves.
+
+Reflecting exactly what we hear people say shows them that they are being heard and understood. It's very the heart of active listening.
