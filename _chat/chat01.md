@@ -9,6 +9,8 @@ Once the chat gets going, Morinda allows you to choose what to say to the member
 
 You start the chat with 5 stars, but every time you choose wrongly you lose a star. If you lose all 5 stars the chat will end immediately.
 
+Remember to press the blue Send button to send each message.
+
 - 8M Hello, I need some advice.
 - 0M It's about my boyfriend :)
 - 1I Start with a greeting.
