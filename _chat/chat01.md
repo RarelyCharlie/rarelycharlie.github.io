@@ -123,11 +123,11 @@ Remember to press the blue Send button to send each message.
 - 2M And then if he loves me like he says he does he will do what I ask.
 - 1L He'll stop seeing those bad people if he really loves you.
 - 2M I think it will be OK if I can make him understand.
-- 1L Things will turn out for the best if you can get him to understand how unhappy you are.
+- 1L If you can get him to understand how unhappy you are, then it will be OK.
 - 2M So I will wait for him to return and that is what I will do.
-- 1L You're going to wait for him now, and make him understand when he returns.
+- 1L When he returns you'll make him understand.
 - 2M Thank you for your advice.
-- 1I Let's not argue the point.
+- 1I Let's not argue about whether it was advice.
 - 0L :)
 - 2M Bye.
 
