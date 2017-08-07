@@ -66,7 +66,7 @@ Remember to press the blue Send button to send each message.
   - 29 How can you be sure about that?
 - 2M It is making me so anxious and unhappy.
 - 1Q Which reply reflects what the member just said?
-  - 26 Anxiety disorders can easily be treated with medication. Just ask your doctor about it.
+  - 26 Anxiety disorders can easily be treated with medication. Just ask your doctor.
   - 26 When you are unhappy your boyfried will not like you. You should try to cheer up.
   - 0 You are anxious and unhappy because he hangs out with these people who tell lies about you.
 - 2M So I need your advice about these people.
