@@ -135,4 +135,4 @@ Anxiety, like other self-diagnosed conditions, rarely means what it says. Often 
 
 Advice, too, means whatever people want it to mean. Active listening is a way to help people feel heard and understood, empowering them to solve their problems or at least move forward. Then they often feel they've received good advice, even though all that's really happened is they've been advising themselves.
 
-Reflecting exactly what we hear people say shows them that they are being heard and understood. It's very the heart of active listening.
+Accurately reflecting what people say is what shows them they are being heard and understood. It's very the heart of active listening.
