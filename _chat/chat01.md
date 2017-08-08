@@ -2,6 +2,7 @@
 title: Anxiety
 info: A chat to illustrate reflection
 layout: chat
+feedback: https://www.7cups.com/@RarelyCharlie
 ---
 In this fictional chat you shadow a listener called Morinda taking a general request.
 
