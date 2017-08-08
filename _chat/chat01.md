@@ -27,9 +27,9 @@ Remember to press the blue Send button to send each message.
 - 1I Reflect what the member said, so they know they're being heard.
 - 0L He gets lazy when he hangs out with them.
 - 2M Let me give you and example.
-- 1I Great!
+- 1I Examples are great!
 - 0L OK, an example.
-- 2M At the weekend I wanted to go to the city for some shoes.
+- 2M At the weekend I wanted to go to the city for some new shoes.
 - 1I Reflect again.
 - 0L Ah, to shop for shoes in the city.
 - 2M Normally when I want to go to the city he takes me there.
@@ -108,16 +108,16 @@ Remember to press the blue Send button to send each message.
   - 0 You want to be together, and you don't feel that's wrong.
   - 24 You must accept that you cannot be together any more.
 - 2M This morning we had a fight and he walked out.
-- 0I Ah, this is what the entire chat is all about.
+- 0I Ah, this sounds like it's what the entire chat is all about.
 - 0I But while we might think that, we don't say it!
 - 0Q Which reply reflects what the member just said?
   - 0 He walked out again when you fought this morning.
   - 28 He's hanging out with those people this morning.
   - 32 He should walk out on those bad people, not on you!
 - 2M When he comes back I want to make him stop seeing these people he hanges out with.
-- 0I And now here's the member's plan of action.
+- 0I And now here's the member's plan of action forming.
 - 0I We're basically done, if the plan continues to take shape.
-- 1L You're going to make him stop seeing them when he comes back.
+- 1L You've decided to make him stop seeing them.
 - 2M I will tell him how unhappy I am so he can understand my point of view.
 - 1L If he understands your unhappiness he'll see it your way.
 - 2M And then if he loves me like he says he does he will do what I ask.
@@ -127,7 +127,7 @@ Remember to press the blue Send button to send each message.
 - 2M So I will wait for him to return and that is what I will do.
 - 1L When he returns you'll make him understand.
 - 2M Thank you for your advice.
-- 1I Let's not argue about whether it was advice.
+- 1I Let's not argue about whether it was advice!
 - 0L :)
 - 2M Bye.
 
