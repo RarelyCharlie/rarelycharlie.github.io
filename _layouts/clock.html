@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Charlie's Clock</title>
+<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+<script src="/assets/moment.min.js"></script>
+<script src="/assets/moment-timezone-with-data-2012-2022.min.js"></script>
+<style>
+body {background: url(/assets/xubuntu-xenial.png) top left / cover no-repeat; font-family: Ubuntu, sans-serif;}
+#clock {display: none; font-size: 40px;color: #1b98b8; position: fixed; bottom: 12px; left: 12px;}
+#clock div {display: inline-block;}
+#hour {width: 48px; text-align: right;}
+#colon {width: 10px; text-align: center;}
+#minute {width: 48px; text-align: left;}
+#ampm {font-size: 20px; text-align: left;}
+#colon.faded {color: #15768f;}
+#content {text-align: center; color: white; font-size: 20px;}
+</style>
+<script>
+faded = false
+wink = function () {
+    var m = moment().tz("Europe/London")
+    document.getElementById('hour').innerHTML = m.format('h')
+    document.getElementById('minute').innerHTML = m.format('mm')
+    document.getElementById('ampm').innerHTML = m.format('a')
+    faded = !faded
+    document.getElementById('colon').className = faded? 'faded' : ''
+    document.getElementById('clock').style.display = 'block'
+    }
+</script>
+</head>
+<body onload="setInterval(wink, 1000)">
+<div id="content">{{ content }}</div>
+<div id="clock"><div id="hour">12</div><div id="colon">:</div><div id="minute">45</div><div id="ampm">pm</div></div>
+</body>
+</html>
