@@ -15,7 +15,7 @@ body {background: url(/assets/xubuntu-xenial.png) top left / cover no-repeat; fo
 #minute {width: 48px; text-align: left;}
 #ampm {font-size: 20px; text-align: left;}
 #colon.faded {color: #15768f;}
-#content {text-align: center; color: white; font-size: 20px;}
+#content {text-align: center; color: white; font-size: 24px; transition: opacity 4s;}
 </style>
 <script>
 faded = false
@@ -28,6 +28,9 @@ wink = function () {
     document.getElementById('colon').className = faded? 'faded' : ''
     document.getElementById('clock').style.display = 'block'
     }
+setTimeout(function () {
+    document.getElementById('content').style.opacity = '0'
+    }, 4000)
 </script>
 </head>
 <body onload="setInterval(wink, 1000)">
