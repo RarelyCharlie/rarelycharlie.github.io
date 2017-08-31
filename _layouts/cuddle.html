@@ -150,6 +150,28 @@ derot = function (s, o) { // rotstring, offset
 restrict = function () { // restrict input characters
 	var e = event || window.event
 	var key = e.keyCode || e.which
+	if (key == 13) {
+		if (e.target.value == '') return
+		if (e.target.id == 'fromname' || e.target.id == 'toname') {
+			var fn = document.getElementById('fromname'),
+				tn = document.getElementById('toname'),
+				cb = document.getElementById('cuddle')
+			if (fn.value && tn.value) {
+				document.getElementById('button').className = ''
+				cb.removeAttribute('disabled')
+				cb.focus()
+				setTimeout(function () {cb.click()}, 200)
+				}
+			else if (fn.value) tn.focus()
+			else fn.focus()
+			}
+		else { // recname
+			document.getElementById('button2').className = ''
+			var sb = document.getElementById('searchbtn')
+			sb.removeAttribute('disabled')
+			setTimeout(function () {sb.click()}, 200)
+			}
+		}
 	if ((key >= 48 && key <= 57) || (key >= 65 && key <= 90) || (key >= 97 && key <= 122)) return
 	if (e.preventDefault) e.preventDefault()
 	e.returnValue = false
