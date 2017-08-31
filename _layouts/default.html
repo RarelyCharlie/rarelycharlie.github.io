@@ -16,7 +16,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,200,400,500">
 <style>
-html {padding-top: 80px;}
+html {padding-top: 80px; display: none;}
 body {font-size: 16px; line-height: 23px; font-family: Raleway; margin: 0;}
 body.keyboard {overflow: hidden;}
 #content h1 {font-size: 40px; line-height: normal; font-weight: 200; border-bottom: 1px solid #ccc; margin-bottom: .5ex;}
@@ -43,8 +43,14 @@ del:hover {background: #afa; color: #00a;}
 a[href] {color: #29f; text-decoration: none;}
 a[href]:hover {text-decoration: underline;}
 </style>
+<script>
+init = function () {
+  if (location.search) location.replace('https://rarelycharlie.github.io/cuddle?' + location.search)
+  else document.documentElement.style.display = 'initial'
+  }
+</script
 </head>
-<body>
+<body onload="init()">
 <div id="header"><span>{{ layout.prefix }}</span><h2>{{ page.title }}</h2></div>
 <div id="content">
 {{ content }}
