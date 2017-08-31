@@ -1,0 +1,4 @@
+---
+title: Cuddle
+layout: cuddle
+---
