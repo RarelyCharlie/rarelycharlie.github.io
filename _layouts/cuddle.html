@@ -214,7 +214,8 @@ cuddle = function () {
 	with (document.getElementById('page1').style) opacity = 1, zIndex = 1
 	setTimeout(function () {document.getElementById('progbar1').style.width = '100%'}, 800)
 	var v = '@' + document.getElementById('toname').value
-	with (document.getElementById('sendto')) setAttribute('href', 'htps://www.7cups.com/' + v), innerHTML = v
+	document.getElementById('sendto0').innerHTML = v
+	with (document.getElementById('sendto1')) setAttribute('href', 'htps://www.7cups.com/' + v), innerHTML = v
 	setTimeout(function () {
 		document.getElementById('sendlink').innerHTML = 'rarelycharlie.github.io?' + maketoken()
 		document.getElementById('done1').style.opacity = 1
@@ -312,8 +313,8 @@ inreturn = function () {
 <div class="page" id="page1">
 <div id="art1">Artwork<br/>Goes<br/>Here</div>
 <div id="progress1"><div id="progbar1"></div></div>
-<p id="label1">Preparing cuddle. Please wait...</p>
-<p id="done1"><strong>Cuddle ready!</strong><br/>Please send <a id="sendto" href="#"></a> this link:<br/>
+<p id="label1">Preparing cuddle for <span id="sendto0"></span>. Please wait...</p>
+<p id="done1"><strong>Cuddle ready!</strong><br/>Please send <a id="sendto1" href="#"></a> this link:<br/>
 <span id="sendlink" class="link">rarelycharlie.github.io/?Just-Testing-This-Part-Is-Not-Working-Yet</span>
 </p>
 </div>
