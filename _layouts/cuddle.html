@@ -280,6 +280,13 @@ keepfocus = function () {
 	var e = event || window.event
 	if (e.target.id) focuswas = e.target
 	}
+
+inreturn = function () {
+	document.getElementById('fromname').value = document.getElementById('recname').value
+	document.getElementById('toname').value = document.getElementById('whofrom').value
+	with (document.getElementById('page3').style) opacity = 0, zIndex = 0
+	cuddle()
+	}
 </script>
 </head>
 <body onload="init()" onkeyup="escape()">
@@ -329,7 +336,7 @@ keepfocus = function () {
 <div id="art3">More<br/>Artwork<br/>Goes<br/>Here</div>
 <div id="progress3"><div id="progbar3"></div></div>
 <p id="label3">Delivering cuddle from <span class="whofrom"></span>...</p>
-<p id="done3"><strong>Cuddle delivered!</strong><br/>To send a cuddle to <a class="whofrom"></a> in return, click <a href="https://rarelycharlie.github.io/cuddle">here</a>.</p>
+<p id="done3"><strong>Cuddle delivered!</strong><br/>To send a cuddle to <a class="whofrom"></a> in return, click <a href="#" onclick="inreturn()">here</a>.</p>
 </div>
 
 <div id="privacy">
