@@ -284,7 +284,7 @@ keepfocus = function () {
 
 inreturn = function () {
 	document.getElementById('fromname').value = document.getElementById('recname').value
-	document.getElementById('toname').value = document.getElementById('whofrom').value
+	document.getElementById('toname').value = document.getElementById('whofrom').innerHTML
 	with (document.getElementById('page3').style) opacity = 0, zIndex = 0
 	cuddle()
 	}
