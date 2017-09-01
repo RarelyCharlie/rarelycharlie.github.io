@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <script>
-if ('{{ page.title }}' == 'Not found') alert(location.href.replace(/\.io\//, '.io/cuddle?'))
+if ('{{ page.title }}' == 'Not found' && location.search.length > 32) location.replace(location.href.replace(/\.io\//, '.io/cuddle?')))
 </script>
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
 <link rel="icon" type="image/png" href="/assets/favicon-32x32.png" sizes="32x32">
