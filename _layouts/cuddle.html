@@ -253,11 +253,9 @@ search = function () {
 		}, 4000)
 	}
 
-wasactive = null
 privacy = function (show) {
 	var s = document.getElementById('privacy').style
 	if (show) {
-		wasactive = document.activeElement
 		console.log('+++ ' + wasactive)
 		document.getElementById('content').className = show? 'hidden' : ''
 		s.display = 'block'
@@ -267,7 +265,7 @@ privacy = function (show) {
 		s.opacity = 0
 		s.display = 'none'
 		document.getElementById('content').className = ''
-		if (wasactive) setTimeout(function () {wasactive.focus()}, 0)
+		if (focuswas) focuswas.focus()
 		}
 	}
 	
@@ -276,6 +274,12 @@ escape = function () {
 	var key = e.keyCode || e.which
 	if (key != 27) return
 	if (document.getElementById('content').className) privacy(false)
+	}
+
+focuswas = null
+keepfocus = function () {
+	var e = event || window.event
+	if (e.target.id) focuswas = e.target
 	}
 </script>
 </head>
@@ -286,11 +290,11 @@ escape = function () {
 <div class="page" id="page0">
 <p><strong>Send a virtual cuddle to anyone at 7 Cups.</strong></p>
 <p>Please enter your 7 Cups user name:<br/>
-@<input type="text" class="username" id="fromname" onkeypress="restrict()" onkeyup="proceed(this)" autofocus="true"/>
+@<input type="text" class="username" id="fromname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()" autofocus="true"/>
 </p>
 
 <p>…and who the cuddle is for:<br/>
-@<input type="text" class="username" id="toname" onkeypress="restrict()" onkeyup="proceed(this)"/>
+@<input type="text" class="username" id="toname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()"/>
 </p>
 
 <div id="button" class="disabled">
@@ -311,7 +315,7 @@ escape = function () {
 <div class="page" id="page2">
 <p><strong>Receive your virtual cuddle here!</strong></p>
 <p>Please enter your 7 Cups user name:<br/>
-@<input type="text" class="username" id="recname" onkeypress="restrict()" onkeyup="proceed(this)"/>
+@<input type="text" class="username" id="recname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()"/>
 </p>
 <div id="button2" class="disabled">
 <p>Then press the button to search for your cuddle:</p>
