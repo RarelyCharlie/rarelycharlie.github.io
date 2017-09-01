@@ -253,18 +253,21 @@ search = function () {
 		}, 4000)
 	}
 
+wasactive = null
 privacy = function (show) {
 	var s = document.getElementById('privacy').style
 	if (show) {
-			document.getElementById('content').className = show? 'hidden' : ''
-			s.display = 'block'
-			setTimeout(function () {s.opacity = 1}, 0)
-				}
-		else {
-			s.opacity = 0
-			s.display = 'none'
-			document.getElementById('content').className = ''
-			}
+		wasactive = document.activeElement
+		document.getElementById('content').className = show? 'hidden' : ''
+		s.display = 'block'
+		setTimeout(function () {s.opacity = 1}, 0)
+		}
+	else {
+		s.opacity = 0
+		s.display = 'none'
+		document.getElementById('content').className = ''
+		setTimeout(function () {wasactive.focus()}, 0)
+		}
 	}
 	
 escape = function () {
