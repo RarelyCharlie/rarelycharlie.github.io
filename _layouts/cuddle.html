@@ -63,6 +63,16 @@ input {font-size: inherit; font-family: inherit; color: #007;}
 #searching {opacity: 0;}
 #searching, #searchbtn, #label3, #done3 {transition: opacity 1s;}
 #searching {margin-top: -1em;}
+	
+#privacy {display: none; opacity: 0; transition: opacity 2s; font-family: Raleway, sans-serif;
+	width: 100%; height: 12em; margin: 4em auto 0 auto;
+	background: #fff; position: absolute;
+	}
+#privacybox {width: 80%; box-shadow: 4px 4px 2px 2px #ddd; border: 1px solid red; margin: 0 auto; position: relative;
+	padding: 1em 1em 4em 1em;}
+#privacy h3 {text-align: center; color: #66a;}
+#privacyclose {font-size: 200%; padding: 0 2px 2px 2px; position: absolute; top: 0; right: 1px; cursor: pointer;}
+#content.hidden .page {visibility: hidden;}
 </style>
 <script>
 ralf = 'Mj7I6r1N5hwuASE2eac3lzYpZLmCgViDFxPvH0OqWTUtQdKynsBR-Gfob9X4kJ8'
@@ -242,10 +252,30 @@ search = function () {
 			}, 6000)
 		}, 4000)
 	}
+
+privacy = function (show) {
+	var s = document.getElementById('privacy').style
+	if (show) {
+			document.getElementById('content').className = show? 'hidden' : ''
+			s.display = 'block'
+			setTimeout(function () {s.opacity = 1}, 0)
+				}
+		else {
+			s.opacity = 0
+			s.display = 'none'
+			document.getElementById('content').className = ''
+			}
+	}
 	
+escape = function () {
+	var e = event || window.event
+	var key = e.keyCode || e.which
+	if (key != 27) return
+	if (document.getElementById('content').className) privacy(false)
+	}
 </script>
 </head>
-<body onload="init()">
+<body onload="init()" onkeyup="escape()">
 <div id="header"><span>Charlie&apos;s</span><h2>Cuddle Button</h2></div>
 <div id="content">
 
@@ -287,17 +317,24 @@ search = function () {
 <img id="ajax" src="/assets/ajax-loader.gif">
 </p>
 </div>
-
+	
 <div id="page3">
 <div id="art3">More<br/>Artwork<br/>Goes<br/>Here</div>
 <div id="progress3"><div id="progbar3"></div></div>
 <p id="label3">Delivering cuddle from <span class="whofrom"></span>...</p>
 <p id="done3"><strong>Cuddle delivered!</strong><br/>To send a cuddle to <a class="whofrom"></a> in return, click <a href="https://rarelycharlie.github.io/cuddle">here</a>.</p>
+</div>
 
+<div id="privacy">
+<div id="privacybox">
+<h3>Privacy</h3>
+<p>The Cuddle Button is a self-contained web page. It uses no cookies or hidden trackers, and it does not transmit any data anywhere.</p>
+<div id="privacyclose" onclick="privacy(false)" title="Close">&times;</div>
+</div>
 </div>
 
 </div>
 
-<div id="footer"><div id="footer-content"><a href="https://www.7cups.com/@RarelyCharlie" title="Feedback to @RarelyCharlie at 7 Cups">Feedback</a></div></div>
+<div id="footer"><div id="footer-content"><a href="#" onclick="privacy(true)" title="Privacy information">Privacy</a> &bull; <a href="https://www.7cups.com/@RarelyCharlie" title="Feedback to @RarelyCharlie at 7 Cups">Feedback</a></div></div>
 </body>
 </html>
