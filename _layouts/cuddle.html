@@ -258,6 +258,7 @@ privacy = function (show) {
 	var s = document.getElementById('privacy').style
 	if (show) {
 		wasactive = document.activeElement
+		console.log('+++ ' + wasactive)
 		document.getElementById('content').className = show? 'hidden' : ''
 		s.display = 'block'
 		setTimeout(function () {s.opacity = 1}, 0)
@@ -266,7 +267,7 @@ privacy = function (show) {
 		s.opacity = 0
 		s.display = 'none'
 		document.getElementById('content').className = ''
-		setTimeout(function () {wasactive.focus()}, 0)
+		if (wasactive) setTimeout(function () {wasactive.focus()}, 0)
 		}
 	}
 	
