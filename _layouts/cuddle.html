@@ -256,7 +256,6 @@ search = function () {
 privacy = function (show) {
 	var s = document.getElementById('privacy').style
 	if (show) {
-		console.log('+++ ' + wasactive)
 		document.getElementById('content').className = show? 'hidden' : ''
 		s.display = 'block'
 		setTimeout(function () {s.opacity = 1}, 0)
