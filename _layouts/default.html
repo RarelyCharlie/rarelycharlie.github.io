@@ -5,7 +5,11 @@
 <head>
 <meta charset="UTF-8">
 <script>
-if ('{{ page.title }}' == 'Not found' && location.pathname.length > 32 && location.pathname.substr(1).replace(/[0-9A-Za-z\-=]/g, '') == '') location.replace(location.href.replace(/\.io\//, '.io/cuddle?'))
+if ('{{ page.title }}' == 'Not found' {
+  if (location.pathname.length == 13) location.replace(location.href.replace(/\.io\//, '.io/7cupstime?'))
+  if (location.pathname.length > 32 && location.pathname.substr(1).replace(/[0-9A-Za-z\-=]/g, '') == '') 
+    location.replace(location.href.replace(/\.io\//, '.io/cuddle?'))
+  }
 </script>
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
 <link rel="icon" type="image/png" href="/assets/favicon-32x32.png" sizes="32x32">
