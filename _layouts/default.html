@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <script>
 if ('{{ page.title }}' == 'Not found' {
-  if (location.pathname.length == 14) location.replace(location.href.replace(/\.io\//, '.io/7cupstime?'))
+  if (location.pathname.length == 14) alert(location.href.replace(/\.io\//, '.io/7cupstime?'))
   if (location.pathname.length > 32 && location.pathname.substr(1).replace(/[0-9A-Za-z\-=]/g, '') == '') 
     location.replace(location.href.replace(/\.io\//, '.io/cuddle?'))
   }
