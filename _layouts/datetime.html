@@ -112,7 +112,7 @@ init = function () {
 	}
 	
 ampm = function (s) {
-	return s.replace(/ am /, ' a.m. ').replace(/ pm /, ' p.m. ')
+	return s.replace(/ am /i, ' a.m. ').replace(/ pm /i, ' p.m. ')
 	}
 	
 fillcity = function (region, city) {
