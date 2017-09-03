@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>{{ page.title }}</title>
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/assets/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/assets/manifest.json">
+<link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/favicon.ico">
+<meta name="msapplication-config" content="/assets/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="/assets/moment-with-locales.min.js"></script>
+<script src="/assets/moment-timezone-with-data.min.js"></script>
+<script src="/assets/jquery.min.js"></script>
+<link rel="stylesheet" href="/assets/uikit.min.css"/>
+<link rel="stylesheet" href="/assets/datepicker.min.css"/>
+<link rel="stylesheet" href="/assets/autocomplete.min.css"/>
+<script src="/assets/uikit.min.js"></script>
+<script src="/assets/datepicker.min.js"></script>
+<script src="/assets/autocomplete.min.js"></script>
+<script src="/assets/timepicker.min.js"></script>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,200,400,500');
+body {font-family: Raleway, sans-serif; font-size: 12px; line-height: 130%;
+	margin: 0; padding: 80px 0 40px 0; color: #000;}
+
+#header {z-index: 9; position: fixed; top: 0; height: 80px; width: 100%; text-align: center;
+  background: #159957 linear-gradient(to right, #1e90fe 0%, #73ccde 100%);}
+#header {font-weight: 400; margin: 0; font-size: 16px; line-height: 24px; color: white;}
+#header h2 {font-family: inherit; color: #fff; font-weight: 100; margin: 0; font-size: 40px; line-height: 40px;}
+#header span {letter-spacing: 1px; position: relative; top: 4px; font-style: italic;}
+
+#footer {z-index: 9; position: fixed; bottom: 0; height: 32px; width: 100%;
+  background: #2f4e7a linear-gradient(#2f4e7a, #181a30);
+  font-family: Raleway, sans-serif; font-size: 16px;}
+#footer-menu {float: right;}
+#footer-content {color: white; max-width: 640px; margin: 0 auto; padding: 4px 1ex 0 1ex; font-size: 86%;}
+#footer-content a {display: inline-block; color: white; text-decoration: none;}
+#footer-content a:hover {color: #cdf;}
+
+#content {max-width: 640px; margin: 0 auto; padding: 0 1ex 40px 1ex; position: relative;}
+
+.panel {border: 1px solid #aaa; padding: 0 1em 1em 1em; border-radius: 6px; margin: 1em 0 1em 0;}
+h3 {margin-top: 1ex;}
+.blue {background: #adf linear-gradient(#bef, #adf);}
+
+.datetime {text-align: center; font-size: 200%;}
+.input {text-align: center;}
+.uk-form input[type=text] {display: inline-block; font-family: inherit; font-size: inherit; margin-right: 1em;}
+select {min-width: 8em; margin-right: 1em;}
+</style>
+<script>
+browserlocale = navigator.language.toLowerCase()
+timeformat = ''
+formatlocal = ''
+format7cups = ''
+
+init = function () {
+	// fetch time from query or use local time...
+	var m, m7
+	if (location.search) {
+		var q = location.search.substr(1)
+		if (q) m7 = moment.tz(q.replace(/T/, ' '), 'YYYYMMDD HHmm', 'America/New_York'),
+			m = m7.tz(moment.tz.guess())
+			}
+	else m = moment()
+	
+	// derive local time format...
+	moment.locale(browserlocale)
+	var tm = moment('2018-02-08T19')
+	var tf = tm.format('LT')
+	timeformat = tf.charAt(0) == '1' && browserlocale.substr(0, 2) != 'en'? 'HH:mm' : 'h:mm a'
+	formatlocal = 'dddd, MMMM D, YYYY, ' + timeformat + ' z'
+	format7cups = 'dddd, MMMM D, YYYY, h:mm a z'
+	
+	// show time now...
+	moment.locale('en')
+	$('#datetimehere').text(ampm(m.format(formatlocal)))
+	$('#datelocal')[0].value = m.format('YYYY-MM-DD')
+	$('#timelocal')[0].value = m.format('h:mm A')
+	
+	var m7 = m.tz('America/New_York')
+	moment.locale('en')
+	$('#datetime7cups').text(ampm(m7.format(format7cups)))
+	$('#date7cups')[0].value = m7.format('YYYY-MM-DD')
+	$('#time7cups')[0].value = m7.format('h:mm A')
+	
+	// show zone...
+	var guess = moment.tz.guess()
+	var region = guess.split('/')[0], city = guess.split('/')[1]
+	$('#here').text(city + ' time (' + region + ')')
+	
+	// possible regions...
+	var nn = moment.tz.names(), rr = []
+	for (var i = 0; i < nn.length; ++i) {
+		if (nn[i].indexOf('/') < 0) continue
+		var r = nn[i].split('/')[0]
+		if (r && rr.indexOf(r) < 0) rr.push(r)
+		}
+	rr.sort()
+	var sr = $('#region')
+	for (i = 0; i < rr.length; ++i) {
+		var r = rr[i]
+		sr.append('<option' + (r == region? ' selected' : '') + '>' + r + '</option>')
+		}
+		
+	// possible cities...
+	fillcity(region, city)
+	}
+	
+ampm = function (s) {
+	return s.replace(/ am /, ' a.m. ').replace(/ pm /, ' p.m. ')
+	}
+	
+fillcity = function (region, city) {
+	var nn = moment.tz.names(),
+		cc = [],
+		sc = $('#city')
+	$('option', sc).remove()
+	for (var i = 0; i < nn.length; ++i) {
+		if (nn[i].indexOf('/') < 0) continue
+		var n = nn[i].split('/')
+		if (n[0] != region) continue
+		cc.push(n[1] + (n[2]? '/' + n[2] : ''))
+		}
+	cc.sort()
+	for (i = 0; i < cc.length; ++i) {
+		var c = cc[i]
+		sc.append('<option' + (c == city? ' selected' : '') + '>' + c + '</option>')
+		}
+	}
+	
+regionchange = function () {
+	fillcity(event.target.value, '')
+	setlocal()
+	}
+
+citychange = function () {
+	setlocal()
+	}
+	
+setlocal = function () { // set local time from 7 cups...
+	var d = $('#date7cups')[0].value + ' ' + $('#time7cups')[0].value
+	var city = $('#city')[0].value, region = $('#region')[0].value
+	var m7 = moment.tz(d, 'YYYY-MM-DD HH:mm A', 'America/New_York')
+	$('#datetime7cups').text(ampm(m7.format('LLLL z')))
+	
+	var m = m7.tz(region + '/' + city)
+	$('#datetimehere').text(ampm(m.format(formatlocal)))
+	$('#datelocal')[0].value = m.format('YYYY-MM-DD')
+	$('#timelocal')[0].value = m.format('h:mm A')
+	$('#here').text(city + ' time (' + region + ')')
+	setlink()
+	}
+	
+set7cups = function () { // set 7 cups time from local...
+	var d = $('#datelocal')[0].value + ' ' + $('#timelocal')[0].value
+	var city = $('#city')[0].value, region = $('#region')[0].value
+	var m = moment.tz(d, 'YYYY-MM-DD HH:mm A', region + '/' + city)
+	$('#datetimehere').text(ampm(m.format('LLLL z')))
+	
+	var m7= m.tz('America/New_York')
+	$('#datetime7cups').text(ampm(m.format(format7cups)))
+	$('#date7cups')[0].value = m.format('YYYY-MM-DD')
+	$('#time7cups')[0].value = m.format('h:mm A')
+	$('#here').text(city + ' time (' + region + ')')
+	setlink()
+	}
+	
+setlink = function () {
+	var d = $('#date7cups')[0].value + ' ' + $('#time7cups')[0].value
+	var m7 = moment.tz(d, 'YYYY-MM-DD HH:mm A', 'America/New_York')
+	$('#link').html('<a href="https://rarelycharlie.github.io/' + m7.format('YYYYMMDD') + 'T' + m7.format('HHmm')
+		+ '">' + m7.format(format7cups) + '</a>')
+	}
+</script>
+</head>
+<body onload="init()">
+<div id="header"><span>7 Cups</span><h2>Date &amp; Time</h2></div>
+<div id="content">
+
+<div class="panel blue">
+<h3>7 Cups time</h3>
+<p id="datetime7cups" class="datetime"></p>
+<form class="uk-form">
+<p class="input">Date:&nbsp;<input id="date7cups" type="text" data-uk-datepicker="{format:'YYYY-MM-DD'}" onchange="setlocal()">
+Time: &nbsp;<input id="time7cups" type="text" data-uk-timepicker="{format:'12h'}" onchange="setlocal()"></p>
+</form>
+<p>Link: <span id="link">&mdash;</span></p>
+</div>
+
+<div class="panel">
+<h3><span id="here"></span></h3>
+<p id="datetimehere" class="datetime"></p>
+<form class="uk-form">
+<p class="input">Date:&nbsp;<input id="datelocal" type="text" data-uk-datepicker="{format:'YYYY-MM-DD'}" onchange="set7cups()">
+Time: &nbsp;<input id="timelocal" type="text" data-uk-timepicker="{format:'12h'}" onchange="set7cups()"></p>
+</form>
+</div>
+
+<div class="panel">
+<h3>Local settings</h3>
+<p>Region:&nbsp;<select id="region" onchange="regionchange()"></select>
+City or zone:&nbsp;<select id="city" onchange="citychange()"></select></p>
+</div>
+
+</div>
+
+<div id="footer"><div id="footer-content"><a href="https://www.7cups.com/@RarelyCharlie" title="Feedback to @RarelyCharlie at 7 Cups">Feedback</a></div></div>
+</body>
+</html>
