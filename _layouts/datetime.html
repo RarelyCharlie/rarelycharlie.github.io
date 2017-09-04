@@ -77,7 +77,7 @@ init = function () {
 		var guess = moment.tz.guess()
 		region = guess.split('/')[0], city = guess.split('/')[1]
 		}
-	$('#here').text(city + ' time (' + region + ')')
+	fillhere(region, city)
 	
 	// possible regions...
 	var nn = moment.tz.names(), rr = []
@@ -90,7 +90,7 @@ init = function () {
 	var sr = $('#region')
 	for (i = 0; i < rr.length; ++i) {
 		var r = rr[i]
-		sr.append('<option' + (r == region? ' selected' : '') + '>' + r + '</option>')
+		sr.append('<option' + (r == region? ' selected' : '') + ' value="' + r + '">' + pretty(r) + '</option>')
 		}
 		
 	// possible cities...
@@ -137,6 +137,14 @@ init = function () {
 ampm = function (s) {
 	return s.replace(/ am /i, ' a.m. ').replace(/ pm /i, ' p.m. ')
 	}
+
+pretty = function (v) {
+	return v.replace(/_/g, ' ')
+	}
+	
+fillhere = function (region, city) {
+	$('#here').text(pretty(city) + ' time (' + pretty(region) + ')')
+	}
 	
 fillcity = function (region, city) {
 	var nn = moment.tz.names(),
@@ -152,7 +160,7 @@ fillcity = function (region, city) {
 	cc.sort()
 	for (i = 0; i < cc.length; ++i) {
 		var c = cc[i]
-		sc.append('<option' + (c == city? ' selected' : '') + '>' + c + '</option>')
+		sc.append('<option' + (c == city? ' selected' : '') + ' value="' + c + '">' + pretty(c) + '</option>')
 		}
 	}
 	
@@ -180,7 +188,7 @@ setlocal = function () { // set local time from 7 cups...
 	
 	$('#datelocal')[0].value = m.format('YYYY-MM-DD')
 	$('#timelocal')[0].value = m.format('h:mm A')
-	$('#here').text(city + ' time (' + region + ')')
+	fillhere(region, city)
 	setlink()
 	setdifference(off0, off1)
 	}
