@@ -46,6 +46,7 @@ body {font-family: Raleway, sans-serif; font-size: 12px; line-height: 130%;
 .panel {border: 1px solid #aaa; padding: 0 1em 1em 1em; border-radius: 6px; margin: 1em 0 1em 0;}
 h3 {margin-top: 1ex;}
 .blue {background: #adf linear-gradient(#bef, #adf);}
+#difference {text-align: center; font-size: 125%;}
 
 .datetime {text-align: center; font-size: 200%;}
 .input {text-align: center;}
@@ -81,12 +82,16 @@ init = function () {
 	$('#datetimehere').text(ampm(m.format(formatlocal)))
 	$('#datelocal')[0].value = m.format('YYYY-MM-DD')
 	$('#timelocal')[0].value = m.format('h:mm A')
+	var off1 = m.format('Z')
 	
 	var m7 = m.tz('America/New_York')
 	moment.locale('en')
 	$('#datetime7cups').text(ampm(m7.format(format7cups)))
 	$('#date7cups')[0].value = m7.format('YYYY-MM-DD')
 	$('#time7cups')[0].value = m7.format('h:mm A')
+	var off0 = m7.format('Z')
+	
+	setdifference(off0, off1)
 	
 	// remembered settings...
 	var region, city, dt = JSON.parse(localStorage.getItem('datetime'))
@@ -153,13 +158,25 @@ setlocal = function () { // set local time from 7 cups...
 	var city = $('#city')[0].value, region = $('#region')[0].value
 	var m7 = moment.tz(d, 'YYYY-MM-DD HH:mm A', 'America/New_York')
 	$('#datetime7cups').text(ampm(m7.format('LLLL z')))
+	var off0 = m7.format('Z')
 	
 	var m = m7.tz(region + '/' + city)
 	$('#datetimehere').text(ampm(m.format(formatlocal)))
+	var off1 = m.format('Z')
+	
 	$('#datelocal')[0].value = m.format('YYYY-MM-DD')
 	$('#timelocal')[0].value = m.format('h:mm A')
 	$('#here').text(city + ' time (' + region + ')')
 	setlink()
+	setdifference(off0, off1)
+	}
+
+setdifference = function (off0, off1) {
+	var diff = parseInt(off1) + parseInt(off1.substr(-2)) / 30 - parseInt(off0) - parseInt(off0.substr(-2)) / 30
+	if (diff == 0) diff = 'No difference from 7 Cups'
+	else if (diff > 0) diff = diff + ' hours ahead of 7 Cups'
+	else diff = Math.abs(diff) + ' hours behind 7 Cups'
+	$('#difference').text(diff)
 	}
 	
 set7cups = function () { // set 7 cups time from local...
@@ -213,6 +230,7 @@ Time: &nbsp;<input id="time7cups" type="text" data-uk-timepicker="{format:'12h'}
 <div class="panel">
 <h3><span id="here"></span></h3>
 <p id="datetimehere" class="datetime"></p>
+<p id="difference"></p>
 <form class="uk-form">
 <p class="input">Date:&nbsp;<input id="datelocal" type="text" data-uk-datepicker="{format:'YYYY-MM-DD'}" onchange="set7cups()">
 Time: &nbsp;<input id="timelocal" type="text" data-uk-timepicker="{format:'12h'}" onchange="set7cups()"></p>
