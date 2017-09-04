@@ -108,12 +108,14 @@ init = function () {
 	
 	// show time now...
 	moment.locale('en')
+	m.tz(region + '/' + city)
 	$('#datetimehere').text(ampm(m.format(formatlocal)))
 	$('#datelocal')[0].value = m.format('YYYY-MM-DD')
 	$('#timelocal')[0].value = m.format('h:mm A')
 	var off1 = m.format('Z')
 	
 	moment.locale('en')
+	m7.tz('America/New_York')
 	$('#datetime7cups').text(ampm(m7.format(format7cups)))
 	$('#date7cups')[0].value = m7.format('YYYY-MM-DD')
 	$('#time7cups')[0].value = m7.format('h:mm A')
