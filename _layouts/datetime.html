@@ -194,12 +194,13 @@ setlocal = function () { // set local time from 7 cups...
 	}
 
 setdifference = function (off0, off1) {
-	var diff = parseInt(off1) + parseInt(off1.substr(-2)) / 30 - parseInt(off0) - parseInt(off0.substr(-2)) / 30
+	var diff = parseInt(off1) + parseInt(off1.substr(-2)) / 60 - parseInt(off0) - parseInt(off0.substr(-2)) / 60
+	var dtx = String(diff).replace(/-/, '').replace(/\.5/, '½').replace(/\.25/, '¼').replace(/\.75/, '¾')
 	if (diff == 0) diff = 'No difference from 7 Cups'
 	else if (diff == 1) diff = '1 hour ahead of 7 Cups'
 	else if (diff == -1) diff = '1 hour behind of 7 Cups'
-	else if (diff > 0) diff = diff + ' hours ahead of 7 Cups'
-	else diff = Math.abs(diff) + ' hours behind 7 Cups'
+	else if (diff > 0) diff = dtx + ' hours ahead of 7 Cups'
+	else diff = dtx + ' hours behind 7 Cups'
 	$('#difference').text(diff)
 	}
 	
