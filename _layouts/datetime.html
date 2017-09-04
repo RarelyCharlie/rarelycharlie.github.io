@@ -243,8 +243,8 @@ privacy = function (show) {
 escape = function () {
 	var e = event || window.event
 	var key = e.keyCode || e.which
-	if (key != 27) return
-	if (document.getElementById('content').className) privacy(false)
+	if (key == 27 && document.getElementById('content').className) privacy(false)
+	if (key == 13 && e.target.tagName == 'INPUT') e.target.blur()
 	}
 </script>
 </head>
