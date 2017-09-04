@@ -52,6 +52,15 @@ h3 {margin-top: 1ex;}
 .input {text-align: center;}
 .uk-form input[type=text] {display: inline-block; font-family: inherit; font-size: inherit; margin-right: 1em;}
 select {min-width: 8em; margin-right: 1em;}
+
+#privacy {display: none; opacity: 0; transition: opacity 2s; font-family: Raleway, sans-serif;
+	width: 100%; height: 12em; margin: 4em auto 0 auto;
+	background: #fff; position: absolute;
+	}
+#privacybox {width: 80%; box-shadow: 4px 4px 2px 2px #ddd; border: 1px solid red; margin: 0 auto; position: relative;
+	padding: 1em 1em 4em 1em;}
+#privacy h3 {text-align: center; color: #66a;}
+#privacyclose {font-size: 200%; padding: 0 2px 2px 2px; position: absolute; top: 0; right: 5px; cursor: pointer;}
 </style>
 <script>
 browserlocale = navigator.language.toLowerCase()
@@ -215,6 +224,21 @@ remember = function () {
 		localStorage.removeItem('datetime')
 		}
 	}
+
+privacy = function (show) {
+	var s = document.getElementById('privacy').style
+	if (show) {
+		document.getElementById('content').className = show? 'hidden' : ''
+		s.display = 'block'
+		setTimeout(function () {s.opacity = 1}, 0)
+		}
+	else {
+		s.opacity = 0
+		s.display = 'none'
+		document.getElementById('content').className = ''
+		if (focuswas) focuswas.focus()
+		}
+	}
 </script>
 </head>
 <body onload="init()">
@@ -247,9 +271,17 @@ Time: &nbsp;<input id="timelocal" type="text" data-uk-timepicker="{format:'12h'}
 City or zone:&nbsp;<select id="city" onchange="citychange()"></select>
 <label for="remember"><input type="checkbox" id="remember" onchange="remember()">Remember these settings</label></p>
 </div>
+	
+<div id="privacy">
+<div id="privacybox">
+<h3>Privacy</h3>
+<p>This page uses no cookies or hidden trackers, and it does not send any information about you anywhere.</p>
+<div id="privacyclose" onclick="privacy(false)" title="Close">&times;</div>
+</div>
+</div>
 
 </div>
 
-<div id="footer"><div id="footer-content"><a href="https://www.7cups.com/@RarelyCharlie" title="Feedback to @RarelyCharlie at 7 Cups">Feedback</a></div></div>
+<div id="footer"><div id="footer-content"><a href="#" onclick="privacy(true)" title="Privacy information">Privacy</a> &bull; <a href="https://www.7cups.com/@RarelyCharlie" title="Feedback to @RarelyCharlie at 7 Cups">Feedback</a></div></div>
 </body>
 </html>
