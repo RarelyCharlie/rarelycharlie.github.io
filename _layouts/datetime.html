@@ -60,45 +60,12 @@ formatlocal = ''
 format7cups = ''
 
 init = function () {
-	// fetch time from query or use local time...
-	var m, m7
-	if (location.search) {
-		var q = location.search.substr(1)
-		if (q) m7 = moment.tz(q.replace(/T/, ' '), 'YYYYMMDD HHmm', 'America/New_York'),
-			m = m7.tz(moment.tz.guess())
-			}
-	else m = moment()
-	
-	// derive local time format...
-	moment.locale(browserlocale)
-	var tm = moment('2018-02-08T19')
-	var tf = tm.format('LT')
-	timeformat = tf.charAt(0) == '1' && browserlocale.substr(0, 2) != 'en'? 'HH:mm' : 'h:mm a'
-	formatlocal = 'dddd, MMMM D, YYYY, ' + timeformat + ' z'
-	format7cups = 'dddd, MMMM D, YYYY, h:mm a z'
-	
-	// show time now...
-	moment.locale('en')
-	$('#datetimehere').text(ampm(m.format(formatlocal)))
-	$('#datelocal')[0].value = m.format('YYYY-MM-DD')
-	$('#timelocal')[0].value = m.format('h:mm A')
-	var off1 = m.format('Z')
-	
-	var m7 = m.tz('America/New_York')
-	moment.locale('en')
-	$('#datetime7cups').text(ampm(m7.format(format7cups)))
-	$('#date7cups')[0].value = m7.format('YYYY-MM-DD')
-	$('#time7cups')[0].value = m7.format('h:mm A')
-	var off0 = m7.format('Z')
-	
-	setdifference(off0, off1)
-	
 	// remembered settings...
 	var region, city, dt = JSON.parse(localStorage.getItem('datetime'))
 	if (dt) region = dt[0], city = dt[1], $('#remember')[0].checked = true
 	else {
-		var guess = moment.tz.guess().split('/')
-		region = guess[0], city = guess[1]
+		var guess = moment.tz.guess()
+		region = guess.split('/')[0], city = guess.split('/')[1]
 		}
 	$('#here').text(city + ' time (' + region + ')')
 	
@@ -118,7 +85,42 @@ init = function () {
 		
 	// possible cities...
 	fillcity(region, city)
-	}
+
+	// fetch time from query or use local time...
+	var m, m7, q = location.search.substr(1)
+	if (q) {
+		m7 = moment.tz(q.replace(/T/, ' '), 'YYYYMMDD HHmm', 'America/New_York')
+		m = m7
+		m.tz(moment.tz.guess())
+		}
+	else {
+		m = moment().tz(region + '/' + city)
+		m7 = moment().tz('America/New_York')
+		}
+	
+	// derive local time format...
+	moment.locale(browserlocale)
+	var tm = moment('2018-02-08T19')
+	var tf = tm.format('LT')
+	timeformat = tf.charAt(0) == '1' && browserlocale.substr(0, 2) != 'en'? 'HH:mm' : 'h:mm a'
+	formatlocal = 'dddd, MMMM D, YYYY, ' + timeformat + ' z'
+	format7cups = 'dddd, MMMM D, YYYY, h:mm a z'
+	
+	// show time now...
+	moment.locale('en')
+	$('#datetimehere').text(ampm(m.format(formatlocal)))
+	$('#datelocal')[0].value = m.format('YYYY-MM-DD')
+	$('#timelocal')[0].value = m.format('h:mm A')
+	var off1 = m.format('Z')
+	
+	moment.locale('en')
+	$('#datetime7cups').text(ampm(m7.format(format7cups)))
+	$('#date7cups')[0].value = m7.format('YYYY-MM-DD')
+	$('#time7cups')[0].value = m7.format('h:mm A')
+	var off0 = m7.format('Z')
+	
+	setdifference(off0, off1)
+}
 	
 ampm = function (s) {
 	return s.replace(/ am /i, ' a.m. ').replace(/ pm /i, ' p.m. ')
@@ -157,7 +159,7 @@ setlocal = function () { // set local time from 7 cups...
 	var d = $('#date7cups')[0].value + ' ' + $('#time7cups')[0].value
 	var city = $('#city')[0].value, region = $('#region')[0].value
 	var m7 = moment.tz(d, 'YYYY-MM-DD HH:mm A', 'America/New_York')
-	$('#datetime7cups').text(ampm(m7.format('LLLL z')))
+	$('#datetime7cups').text(ampm(m7.format(format7cups)))
 	var off0 = m7.format('Z')
 	
 	var m = m7.tz(region + '/' + city)
@@ -183,7 +185,7 @@ set7cups = function () { // set 7 cups time from local...
 	var d = $('#datelocal')[0].value + ' ' + $('#timelocal')[0].value
 	var city = $('#city')[0].value, region = $('#region')[0].value
 	var m = moment.tz(d, 'YYYY-MM-DD HH:mm A', region + '/' + city)
-	$('#datetimehere').text(ampm(m.format('LLLL z')))
+	$('#datetimehere').text(ampm(m.format(formatlocal)))
 	
 	var m7= m.tz('America/New_York')
 	$('#datetime7cups').text(ampm(m.format(format7cups)))
@@ -197,7 +199,7 @@ setlink = function () {
 	var d = $('#date7cups')[0].value + ' ' + $('#time7cups')[0].value
 	var m7 = moment.tz(d, 'YYYY-MM-DD HH:mm A', 'America/New_York')
 	$('#link').html('<a href="https://rarelycharlie.github.io/' + m7.format('YYYYMMDD') + 'T' + m7.format('HHmm')
-		+ '">' + m7.format(format7cups) + '</a>')
+		+ '">' + ampm(m7.format(format7cups)) + '</a>')
 	}
 
 remember = function () {
