@@ -239,9 +239,16 @@ privacy = function (show) {
 		document.getElementById('content').className = ''
 		}
 	}
+
+escape = function () {
+	var e = event || window.event
+	var key = e.keyCode || e.which
+	if (key != 27) return
+	if (document.getElementById('content').className) privacy(false)
+	}
 </script>
 </head>
-<body onload="init()">
+<body onload="init()" onkeyup="escape()">
 <div id="header"><span>7 Cups</span><h2>Date &amp; Time</h2></div>
 <div id="content">
 
