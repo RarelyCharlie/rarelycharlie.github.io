@@ -88,9 +88,13 @@ init = function () {
 	$('#date7cups')[0].value = m7.format('YYYY-MM-DD')
 	$('#time7cups')[0].value = m7.format('h:mm A')
 	
-	// show zone...
-	var guess = moment.tz.guess()
-	var region = guess.split('/')[0], city = guess.split('/')[1]
+	// remembered settings...
+	var region, city, dt = JSON.parse(localStorage.getItem('datetime'))
+	if (dt) region = dt[0], city = dt[1], $('#remember')[0].checked = true
+	else {
+		var guess = moment.tz.guess().split('/')
+		region = guess[0], city = guess[1]
+		}
 	$('#here').text(city + ' time (' + region + ')')
 	
 	// possible regions...
@@ -136,10 +140,12 @@ fillcity = function (region, city) {
 regionchange = function () {
 	fillcity(event.target.value, '')
 	setlocal()
+	remember()
 	}
 
 citychange = function () {
 	setlocal()
+	remember()
 	}
 	
 setlocal = function () { // set local time from 7 cups...
@@ -176,6 +182,18 @@ setlink = function () {
 	$('#link').html('<a href="https://rarelycharlie.github.io/' + m7.format('YYYYMMDD') + 'T' + m7.format('HHmm')
 		+ '">' + m7.format(format7cups) + '</a>')
 	}
+
+remember = function () {
+	if ($('#remember')[0].checked) {
+		var a = []
+		a.push($('#region')[0].value)
+		a.push($('#city')[0].value)
+		localStorage.setItem('datetime', JSON.stringify(a))
+		}
+	else {
+		localStorage.removeItem('datetime')
+		}
+	}
 </script>
 </head>
 <body onload="init()">
@@ -204,7 +222,8 @@ Time: &nbsp;<input id="timelocal" type="text" data-uk-timepicker="{format:'12h'}
 <div class="panel">
 <h3>Local settings</h3>
 <p>Region:&nbsp;<select id="region" onchange="regionchange()"></select>
-City or zone:&nbsp;<select id="city" onchange="citychange()"></select></p>
+City or zone:&nbsp;<select id="city" onchange="citychange()"></select>
+<label for="remember"><input type="checkbox" id="remember" onchange="remember()">Remember these settings</label></p>
 </div>
 
 </div>
