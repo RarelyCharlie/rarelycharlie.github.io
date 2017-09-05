@@ -252,19 +252,20 @@ deliver = function () {
 	setTimeout(function () {stopped = true}, 21000)
 	}
 	
-search = function () {
+search = function () { // called by Search button...
+	document.getElementById('button2').style.display = 'none'
 	document.getElementById('searchbtn').style.opacity = 0
 	document.getElementById('searching').style.opacity = 1
-	var ff = document.getElementsByClassName('whofrom')
-	for (var i = 0; i < ff.length; ++i) ff.item(i).innerHTML = fromname
-	setTimeout(function () {
-		with (document.getElementById('page2').style) opacity = 0, zIndex = 0
-		with (document.getElementById('page3').style) opacity = 1, zIndex = 1
+	recname = document.getElementById('recname').value
+	var ok = toname.toLowerCase() == recname.toLowerCase()
+	if (ok) setTimeout(deliver, 2000)
+	else setTimeout(function () {
+		document.getElementById('searching').style.display = 'none'
+		document.getElementById('nocuddle').style.opacity = 1
 		setTimeout(function () {
-			document.getElementById('label3').style.opacity = 0
-			document.getElementById('done3').style.opacity = 1
-			}, 6000)
-		}, 4000)
+			document.getElementById('console').style.opacity = 1
+			}, 1500)
+		}, 5000)
 	}
 
 privacy = function (show) {
