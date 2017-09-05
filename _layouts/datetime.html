@@ -146,7 +146,7 @@ pretty = function (v) {
 	return v.replace(/_/g, ' ').replace(/^Comod/, 'Comodoro ')
 	}
 	
-fillhere = function (region, city) {
+fillhere = function (zone) {
 	var za = zone.split('/'), city = za.pop(), region = za.pop()
 	$('#here').text(pretty(city) + ' time (' + pretty(region) + ')')
 	}
