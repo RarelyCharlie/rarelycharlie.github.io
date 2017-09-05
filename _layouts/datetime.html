@@ -84,6 +84,7 @@ init = function () {
 	for (var i = 0; i < nn.length; ++i) {
 		if (nn[i].indexOf('/') < 0) continue
 		var r = nn[i].split('/')[0]
+		if (r == 'Etc') continue
 		if (r && rr.indexOf(r) < 0) rr.push(r)
 		}
 	rr.sort()
