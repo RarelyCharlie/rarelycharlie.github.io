@@ -100,30 +100,6 @@ checksum = function (s) {
 	return ('000' + (chk & 0xffff).toString(16)).substr(-4)
 	}
 
-test = function () { // validate token, if any
-	// check that there IS a token before calling me
-	var token = location.search.substr(1)
-	// token = 'idsnRRtv3Foi5E4sE86rI4WW1h5pVujVE3lcuo1vW=' // test token!
-	
-	if (!token) return false // no valid token at all
-	
-	var roffchar = token.charAt(0)
-	var data = derot(token.substr(1), ralf.indexOf(roffchar))
-	var chk = data.substr(0, 4)
-	var stamp = data.substr(4, 6)
-	data = data.substr(10).split('-')
-	var gname = data[0], rname = data[1]
-	
-	// validate...
-	//if (checksum(roffchar + stamp + gname + '-' + rname) != chk) return false
-	
-	document.getElementById('testresult').innerHTML = 
-		'check: ' + chk + ', at: ' + stamp + ', from: ' + data[0] + ', to: ' + data[1] + '\n'
-		+ 'validation: ' + checksum(roffchar + stamp + gname + '-' + rname)
-		
-	return true
-	}
-	
 maketoken = function () {
 	var gname = document.getElementById('fromname').value,
 		rname = document.getElementById('toname').value,
@@ -244,7 +220,6 @@ fromname = ''
 toname = ''
 recname = ''
 init = function () { // on document loaded...
-	deliver(); return;
 	var token = location.search
 	if (token) {
 		var tt = eattoken(token.substr(1))
