@@ -51,7 +51,7 @@ h3 {margin-top: 1ex;}
 .datetime {text-align: center; font-size: 200%;}
 .input {text-align: center;}
 .uk-form input[type=text] {display: inline-block; font-family: inherit; font-size: inherit; margin-right: 1em;}
-select {min-width: 8em; margin-right: 1em;}
+select {min-width: 12em; margin-right: 1em;}
 
 #privacy {display: none; opacity: 0; transition: opacity 2s; font-family: Raleway, sans-serif;
 	width: 100%; height: 12em; margin: 4em auto 0 auto;
@@ -71,19 +71,22 @@ format7cups = ''
 
 init = function () {
 	// remembered settings...
-	var region, city, dt = JSON.parse(localStorage.getItem('datetime'))
-	if (dt) region = dt[0], city = dt[1], $('#remember')[0].checked = true
-	else {
-		var guess = moment.tz.guess()
-		region = guess.split('/')[0], city = guess.split('/')[1]
-		}
-	fillhere(region, city)
+	var region, city, zone, za
+	zone = JSON.parse(localStorage.getItem('datetime'))
+	if (Array.isArray(zone)) zone = zone.join('/') // legacy
+	if (zone) $('#remember')[0].checked = true
+	else zone = moment.tz.guess()
+	za = zone.split('/')
+	city = za.pop()
+	region = za.join('/')
+	fillhere(zone)
 	
 	// possible regions...
 	var nn = moment.tz.names(), rr = []
 	for (var i = 0; i < nn.length; ++i) {
-		if (nn[i].indexOf('/') < 0) continue
-		var r = nn[i].split('/')[0]
+		var r = nn[i].split('/')
+		r.pop() // drop city
+		r = r.join('/')
 		if (r == 'Etc') continue
 		if (r && rr.indexOf(r) < 0) rr.push(r)
 		}
@@ -105,7 +108,7 @@ init = function () {
 		m.tz(moment.tz.guess())
 		}
 	else {
-		m = moment().tz(region + '/' + city)
+		m = moment().tz(zone)
 		m7 = moment().tz('America/New_York')
 		}
 	
@@ -140,10 +143,11 @@ ampm = function (s) {
 	}
 
 pretty = function (v) {
-	return v.replace(/_/g, ' ')
+	return v.replace(/_/g, ' ').replace(/^Comod/, 'Comodoro ')
 	}
 	
 fillhere = function (region, city) {
+	var za = zone.split('/'), city = za.pop(), region = za.pop()
 	$('#here').text(pretty(city) + ' time (' + pretty(region) + ')')
 	}
 	
@@ -155,8 +159,9 @@ fillcity = function (region, city) {
 	for (var i = 0; i < nn.length; ++i) {
 		if (nn[i].indexOf('/') < 0) continue
 		var n = nn[i].split('/')
-		if (n[0] != region) continue
-		cc.push(n[1] + (n[2]? '/' + n[2] : ''))
+		var c = n.pop()
+		if (n.join('/') != region) continue
+		cc.push(c)
 		}
 	cc.sort()
 	for (i = 0; i < cc.length; ++i) {
@@ -164,7 +169,7 @@ fillcity = function (region, city) {
 		sc.append('<option' + (c == city? ' selected' : '') + ' value="' + c + '">' + pretty(c) + '</option>')
 		}
 	}
-	
+
 regionchange = function () {
 	fillcity(event.target.value, '')
 	setlocal()
@@ -183,13 +188,14 @@ setlocal = function () { // set local time from 7 cups...
 	$('#datetime7cups').text(ampm(m7.format(format7cups)))
 	var off0 = m7.format('Z')
 	
-	var m = m7.tz(region + '/' + city)
+	var zone = region + '/' + city
+	var m = m7.tz(zone)
 	$('#datetimehere').text(ampm(m.format(formatlocal)))
 	var off1 = m.format('Z')
 	
 	$('#datelocal')[0].value = m.format('YYYY-MM-DD')
 	$('#timelocal')[0].value = m.format('h:mm A')
-	fillhere(region, city)
+	fillhere(zone)
 	setlink()
 	setdifference(off0, off1)
 	}
@@ -286,8 +292,8 @@ Time: &nbsp;<input id="timelocal" type="text" data-uk-timepicker="{format:'12h'}
 <div class="panel">
 <h3>Local settings</h3>
 <p>Region:&nbsp;<select id="region" onchange="regionchange()"></select>
-City or zone:&nbsp;<select id="city" onchange="citychange()"></select>
-<label for="remember"><input type="checkbox" id="remember" onchange="remember()">Remember these settings</label></p>
+City or zone:&nbsp;<select id="city" onchange="citychange()"></select></p>
+<p><label for="remember"><input type="checkbox" id="remember" onchange="remember()">Remember these settings</label></p>
 </div>
 	
 <div id="privacy">
