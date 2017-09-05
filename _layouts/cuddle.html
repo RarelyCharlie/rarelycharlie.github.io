@@ -205,7 +205,7 @@ cuddle = function () {
 	with (document.getElementById('page0').style) opacity = 0, zIndex = 0
 	with (document.getElementById('page1').style) opacity = 1, zIndex = 1
 	setTimeout(function () {document.getElementById('progbar1').style.width = '100%'}, 800)
-	var v = '@' + document.getElementById('toname').value
+	var v = '@' + toname
 	document.getElementById('sendto0').innerHTML = v
 	with (document.getElementById('sendto1')) setAttribute('href', 'htps://www.7cups.com/' + v), innerHTML = v
 	setTimeout(function () {
