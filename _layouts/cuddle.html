@@ -171,6 +171,7 @@ restrict = function () { // restrict input characters
 			document.getElementById('button2').className = ''
 			var sb = document.getElementById('searchbtn')
 			sb.removeAttribute('disabled')
+			sb.focus()
 			setTimeout(function () {sb.click()}, 200)
 			}
 		}
