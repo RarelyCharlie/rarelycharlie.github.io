@@ -325,7 +325,7 @@ launch = function (n) {
 	var s = document.getElementById('heart' + n).style
 	if (stopped) return
 
-	s.transitionDuration = s.webkitTransitionDuration = '1.2s'
+	s.transitionDuration = s.WebkitTransitionDuration = '1.2s'
 	setTimeout(function () {
 		var a = 2 * Math.PI * Math.random(), r = Math.random()
 		s.top = 800 * Math.sin(a) - 600 + 'px'
@@ -340,10 +340,10 @@ launch = function (n) {
 		}, 0)
 	setTimeout(function () {
 		s.visibility = 'visible'
-		}, 400)
+		}, 240)
 	setTimeout(function () {
 		s.visibility = 'hidden'
-		s.transitionDuration = s.webkitTransitionDuration = '0s'
+		s.transitionDuration = s.WebkitTransitionDuration = '0s'
 		s.top = '9px'
 		s.left = document.getElementById('progbar3').clientWidth + 'px'
 		s.width = '22.5px'
