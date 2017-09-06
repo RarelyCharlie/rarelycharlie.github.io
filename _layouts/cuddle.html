@@ -324,7 +324,7 @@ launch = function (n) {
 	var s = document.getElementById('heart' + n).style
 	if (stopped) return
 
-	s.transitionProperty = s.WebkitTransitionProperty = 'top,left,width,height,opacity,transform'
+	s.transitionDuration = s.webkitTransitionDuration = '1.2s'
 	setTimeout(function () {
 		var a = 2 * Math.PI * Math.random(), r = Math.random()
 		s.visibility = 'visible'
@@ -340,7 +340,7 @@ launch = function (n) {
 		}, 0)
 	setTimeout(function () {
 		s.visibility = 'hidden'
-		s.transitionProperty = 'none'
+		s.transitionDuration = s.webkitTransitionDuration = '0s'
 		s.top = '9px'
 		s.left = document.getElementById('progbar3').clientWidth + 'px'
 		s.width = '22.5px'
