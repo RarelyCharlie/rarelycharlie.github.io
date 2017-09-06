@@ -339,7 +339,7 @@ launch = function (n) {
 		}, 0)
 	setTimeout(function () {
 		s.visibility = 'visible'
-		}, 200)
+		}, 400)
 	setTimeout(function () {
 		s.visibility = 'hidden'
 		s.transitionDuration = s.webkitTransitionDuration = '0s'
@@ -352,7 +352,7 @@ launch = function (n) {
 		setTimeout(function () {
 			launch(n)
 			}, 200)
-		}, 600 + Math.floor(800 * Math.random()))
+		}, 800 + Math.floor(800 * Math.random()))
 	}
 </script>
 </head>
