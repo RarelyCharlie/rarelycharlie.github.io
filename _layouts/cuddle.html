@@ -86,8 +86,9 @@ input {font-size: inherit; font-family: inherit; color: #007;}
 
 #hearts {width: 264px; height: 40px; margin: 0 auto; top: 400px; position: relative; top: 0;}
 .heart {width: 22.5px; height: 24px; position: absolute; top: 9px; left: 22.5px;
-	transition: left 1.2s ease-in, top 1.2s ease-in, width 1.2s ease-in, height 1.2s ease-in,
-		opacity 1.2s ease-in, transform 1.2s ease-in;}
+	transition-property: left,top,width,height,opacity,transform;
+	transition-duration: 1.2s; transition-timing-function: ease-in,
+	visibility: hidden;}
 #progress3 {position: absolute; top: 0; left: 0; background: #fff;}
 </style>
 <script>
