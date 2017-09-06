@@ -327,7 +327,6 @@ launch = function (n) {
 	s.transitionDuration = s.webkitTransitionDuration = '1.2s'
 	setTimeout(function () {
 		var a = 2 * Math.PI * Math.random(), r = Math.random()
-		s.visibility = 'visible'
 		s.top = 800 * Math.sin(a) - 600 + 'px'
 		s.left = 200 + 400 * Math.cos(a) + 'px'
 		s.width = String(Math.round(180 * r)) + 'px'
@@ -338,6 +337,9 @@ launch = function (n) {
 		else if (r < .85) s.transform = 'rotateX(' + d + 'deg)'
 		else s.transform = 'rotateY(' + d + 'deg)'
 		}, 0)
+	setTimeout(function () {
+		s.visibility = 'visible'
+		}, 200)
 	setTimeout(function () {
 		s.visibility = 'hidden'
 		s.transitionDuration = s.webkitTransitionDuration = '0s'
