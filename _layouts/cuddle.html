@@ -13,86 +13,130 @@
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-@import url('https://fonts.googleapis.com/css?family=Raleway:100,200,400,500');
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway'), local('Raleway-Regular'), url(../fonts/raleway.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Raleway Medium'), local('Raleway-Medium'), url(../fonts/raleway-medium.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
 @font-face {
 	font-family: 'RarelyCuddle';
-	src: url('/fonts/rarelycuddle-regular-webfont.eot');
-	src: url('/fonts/rarelycuddle-regular-webfont.eot?#iefix') format('embedded-opentype'),
-		url('/fonts/rarelycuddle-regular-webfont.woff2') format('woff2'),
-		url('/fonts/rarelycuddle-regular-webfont.woff') format('woff'),
-		url('/fonts/rarelycuddle-regular-webfont.svg#rarely_cuddleregular') format('svg');
+	src: url('../fonts/rarelycuddle-regular-webfont.eot');
+	src: url('../fonts/rarelycuddle-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/rarelycuddle-regular-webfont.woff2') format('woff2'),
+		url('../fonts/rarelycuddle-regular-webfont.woff') format('woff'),
+		url('../fonts/rarelycuddle-regular-webfont.svg#rarely_cuddleregular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 	}
-body {font-family: 'RarelyCuddle', cursive; font-size: 22px; line-height: 130%; margin: 0;
-	padding: 80px 0 40px 0; color: #cce;}
+body {font-family: RarelyCuddle, cursive; font-size: 22px; line-height: 130%;
+	margin: 0; padding: 80px 0 40px 0; color: #cce;}
+
 #header {z-index: 9; position: fixed; top: 0; height: 80px; width: 100%; text-align: center;
   background: #159957 linear-gradient(to right, #1e90fe 0%, #73ccde 100%);}
+#header {font-weight: 400; margin: 0; font-size: 16px; line-height: 24px; color: white;}
+#header h2 {font-weight: 100; margin: 0; font-size: 40px; line-height: 40px;}
+#header span {letter-spacing: 1px; position: relative; top: 4px; font-style: italic;}
+
 #footer {z-index: 9; position: fixed; bottom: 0; height: 32px; width: 100%;
   background: #2f4e7a linear-gradient(#2f4e7a, #181a30);
   font-family: Raleway, sans-serif; font-size: 16px;}
-#version {color: #e8e8e8; display: inline;}
 #footer-menu {float: right;}
 #footer-content {color: white; max-width: 640px; margin: 0 auto; padding: 4px 1ex 0 1ex; font-size: 86%;}
 #footer-content a {display: inline-block; color: white; text-decoration: none;}
 #footer-content a:hover {color: #cdf;}
-#header {font-weight: 400; margin: 0; font-size: 16px; line-height: 24px; color: white;}
-#header h2 {font-weight: 100; margin: 0; font-size: 40px; line-height: 40px;}
-#header span {letter-spacing: 1px; position: relative; top: 4px; font-style: italic;}
+#credits {float: right;}
+.sig {font-family: RarelyCuddle, cursive; display: inline-block; color: #ccccee;}
+
 #content {max-width: 640px; margin: 0 auto; padding: 0 1ex 40px 1ex; position: relative;}
+p {color: #66a; padding: 1ex 0; margin: 0 0 4px 0; text-align: center;}
+label.remember {font-size: 80%;}
 
 button:disabled {color: #888; background: #ddd; border: 1px solid #ccc; box-shadow: none;}
 a {cursor: pointer; text-decoration: none;}
-
-p {color: #66a; padding: 1ex 0; margin: 0 0 4px 0; text-align: center;}
-
-button {display: block; width: 8em; height: 2em; color: #fdc; border-radius: 16px; margin: 0 auto; background: #fdc linear-gradient(#fdc, #fa9); color: #f70; font-size: 26px; padding: 0; box-shadow: 2px 2px 2px 2px #ddd; border: none; font-family: inherit; font-weight: bold; letter-spacing: 2px; cursor: pointer;}
+button {display: block; width: 8em; height: 2em; color: #fdc; border-radius: 16px; margin: 0 auto;
+	background: #fdc linear-gradient(#fdc, #fa9); color: #f70; font-size: 26px; padding: 0;
+	box-shadow: 2px 2px 2px 2px #ddd; border: none;
+	font-family: inherit; font-weight: bold; letter-spacing: 2px; cursor: pointer;}
 button:focus {outline: none; text-decoration: underline;}
 button:active {box-shadow: none; background: #ecb linear-gradient(#ecb, #e98);}
 
-.center {text-align: center;}
-input {font-size: inherit; font-family: inherit; color: #007;}
+input {font-size: inherit; font-family: inherit; color: #007; letter-spacing: 1px;}
 
 .disabled p, .disabled #cuddle {color: #ddd;}
 #cuddle[disabled], #searchbtn[disabled] {background: #ccc linear-gradient(#eee, #ccc); color: #ddd; text-shadow: 2px 2px 2px #f0f0f0; box-shadow: none; cursor: default;}
 
-#page0, #page1, #page2, #page3 {position: absolute; top: 40px; width: 100%; transition: opacity 1s;}
+div.page {position: absolute; top: 40px; width: 100%; transition: opacity 1s;}
 #page0 {z-index: 1; opacity: 0;}
 #page1, #page2, #page3 {z-index: 0; opacity: 0;}
 
-#art1, #art3 {width: 16em; height: 12em; background: #f0f0f0; color: navy; text-align: center; margin: 0 auto; font-family: Raleway, sans-serif; padding-top: 2em;}
+#art1, #art3 {margin: 0 auto; width: 258px; height: 325px; display: block;}
 
 #progress1, #progress3 {border: 2px solid #66a; width: 12em; height: 24px; border-radius: 4px; margin: 1ex auto 0 auto;}
 #progbar1, #progbar3 {width: 0; height: 100%; background: #cce; transition: width 6s ease-in;}
-#progbar3 {transition: width 20s linear;}
-#done1, #done3, #returnit {opacity: 0; transition: opacity 1s;}
+#done1, #done3, #returnit, #newcuddle {opacity: 0; transition: opacity 1s; padding-bottom: 0;}
 .link {font-family: Raleway, sans-serif; font-size: 16px; color: navy;}
 
 #ajax {margin-top: 1ex;}
 #searching {opacity: 0;}
-#searching, #searchbtn, #label3, #done3 {transition: opacity 1s; margin-top: 1ex;}
+#searching, #searchbtn, #label3 {transition: opacity 1s;}
 	
-#privacy {display: none; opacity: 0; transition: opacity 2s; font-family: Raleway, sans-serif;
+#privacy {display: none; opacity: 0; transition: opacity 2s;
+	font-family: Raleway, sans-serif; font-size: 16px;
 	width: 100%; height: 12em; margin: 4em auto 0 auto;
 	background: #fff; position: absolute;
 	}
 #privacybox {width: 80%; box-shadow: 4px 4px 2px 2px #ddd; border: 1px solid red; margin: 0 auto; position: relative;
 	padding: 1em 1em 4em 1em;}
 #privacy h3 {text-align: center; color: #66a;}
+#privacy p {text-align: left;}
 #privacyclose {font-size: 200%; padding: 0 2px 2px 2px; position: absolute; top: 0; right: 5px; cursor: pointer;}
 #content.hidden .page {visibility: hidden;}
 
 #nocuddle, #console {opacity: 0; transition: opacity 1s;}
 
 #hearts {width: 264px; height: 40px; margin: 0 auto; top: 400px; position: relative; top: 0;}
-.heart {width: 22.5px; height: 24px; position: absolute; top: 9px; left: 22.5px;
+.heart {width: 22.5px; height: 24px; position: absolute; top: -9999px; left: 0;
 	transition-property: left,top,width,height,opacity,transform;
 	transition-duration: 1.2s; transition-timing-function: ease-in,
 	visibility: hidden;}
 #progress3 {position: absolute; top: 0; left: 0; background: #fff;}
+#progbar3 {transition: width 20s linear; transition-delay: 200ms;}
+
+#quick {display: none;}
 </style>
 <script>
-ralf = 'Mj7I6r1N5hwuASE2eac3lzYpZLmCgViDFxPvH0OqWTUtQdKynsBR-Gfob9X4kJ8'
+Persist = {
+	cuddle: function (c) {
+		var a = JSON.parse(localStorage.getItem('cuddle'))
+		if (!a) a = []
+		if (a.indexOf(c) >= 0) return false
+		while (a.length > 100) a.shift()
+		a.push(c)
+		localStorage.setItem('cuddle', JSON.stringify(a))
+		return true
+		},
+		
+	forgetme: function () {
+		localStorage.removeItem('whoami')
+		},
+
+	rememberme: function (n) {
+		localStorage.setItem('whoami', n)
+		},
+		
+	whoami: function () {
+		return localStorage.getItem('whoami')
+		}
+	}
 
 checksum = function (s) {
 	var chk = 0x12345678, len = s.length
@@ -101,19 +145,17 @@ checksum = function (s) {
 	}
 
 maketoken = function () {
-	var gname = document.getElementById('fromname').value,
-		rname = document.getElementById('toname').value,
-		now = Math.floor(Date.now() / 1000).toString(16).substr(-6),
+	var now = Math.floor(Date.now() / 1000).toString(16).substr(-6),
 		roff = Math.floor(ralf.length * Math.random()),
 		roffchar = ralf.charAt(roff),
-		data = roffchar + now + gname + '-' + rname,
+		data = roffchar + now + fromname + '-' + toname,
 		chk = checksum(data),
 		pad = '',
-		grl = gname.length + rname.length,
+		grl = fromname.length + toname.length,
 		e = 29 - Math.floor(3 * Math.random()) // allow 0, 1 or 2 equals signs
 	while (pad.length + grl < e) pad += ralf.charAt(Math.floor(ralf.length * Math.random()))
 	var token = roffchar
-		+ rot(chk + now + gname + '-' + rname + '-', roff)
+		+ rot(chk + now + fromname + '-' + toname + '-', roff)
 		+ pad
 	while (token.length % 3) token += '='
 	return token
@@ -124,12 +166,12 @@ eattoken = function (token) {
 		xdata = derot(token.substr(1), xroff),
 		xchk = xdata.substr(0, 4),
 		xnow = xdata.substr(4, 6)
-	xdata = xdata.substr(10).split('-')
-	if (checksum(token.charAt(0) + xnow + xdata[0] + '-' + xdata[1]) == xchk) return xdata
+	xdata = (xdata.substr(4, 6) + '-' + xdata.substr(10)).split('-')
+	if (checksum(token.charAt(0) + xnow + xdata[1] + '-' + xdata[2]) == xchk) return xdata
 	else return null
 	}
 
-
+ralf = 'Mj7I6r1N5hwuASE2eac3lzYpZLmCgViDFxPvH0OqWTUtQdKynsBR-Gfob9X4kJ8'
 rot = function (s, o) { // string, random offset
 	var r = ''
 	for (var i = 0; i < s.length; ++i) {
@@ -204,12 +246,19 @@ oneclick = false
 cuddle = function () {
 	if (oneclick) return
 	oneclick = true
+	
+	if (!fromname) fromname = document.getElementById('fromname').value
+	if (!toname) toname = document.getElementById('toname').value
+	if (rememberme && fromname) Persist.rememberme(fromname)
+
 	with (document.getElementById('page0').style) opacity = 0, zIndex = 0
 	with (document.getElementById('page1').style) opacity = 1, zIndex = 1
 	setTimeout(function () {document.getElementById('progbar1').style.width = '100%'}, 800)
-	var v = '@' + fromname
+
+	var v = '@' + toname
 	document.getElementById('sendto0').innerHTML = v
-	with (document.getElementById('sendto1')) setAttribute('href', 'htps://www.7cups.com/' + v), innerHTML = v
+	with (document.getElementById('sendto1'))
+		setAttribute('href', 'htps://www.7cups.com/' + v), innerHTML = v
 	setTimeout(function () {
 		document.getElementById('sendlink').innerHTML = 'rarelycharlie.github.io/' + maketoken()
 		document.getElementById('done1').style.opacity = 1
@@ -220,37 +269,65 @@ cuddle = function () {
 fromname = ''
 toname = ''
 recname = ''
+cuddleid = ''
 init = function () { // on document loaded...
+	var n = Persist.whoami()
+	if (n) {
+		document.getElementById('fromname').value = n
+		document.getElementById('recname').value = n
+		rememberme = true
+		}
+	else rememberme = false
 	var token = location.search
 	if (token) {
 		var tt = eattoken(token.substr(1))
-		if (tt) fromname = tt[0], toname = tt[1]
+		if (tt) cuddleid = tt[0], fromname = tt[1], toname = tt[2]
 		with (document.getElementById('page2').style) opacity = 1, zIndex = 2
-		setTimeout(function () {document.getElementById('recname').focus()}, 0)
+		if (rememberme) {
+			document.getElementById('button2').className = ''
+			document.getElementById('searchbtn').removeAttribute('disabled')
+			}
+		setTimeout(function () {
+			document.getElementById(rememberme? 'searchbtn' : 'recname').focus()
+			}, 0)
 		}
 	else {
 		document.getElementById('page0').style.opacity = 1
+		document.getElementById(rememberme? 'toname' : 'fromname').focus()
 		}
+	rememberme = true
 	}
 
+	
 heart = 0
-deliver = function () {
+deliver = function (quick) {
 	if (fromname) {
 		document.getElementById('whofrom').innerHTML = ' from @' + fromname
 		document.getElementById('returnto').innerHTML = ' to @' + fromname
 		}
 	with (document.getElementById('page2').style) opacity = 0, zIndex = 0
 	with (document.getElementById('page3').style) opacity = 1, zIndex = 1
-	setTimeout(function () {document.getElementById('progbar3').style.width = '264px'}, 800)
+	if (quick) document.getElementById('quick').style.display = 'inline'
+	setTimeout(function () {
+		var s = document.getElementById('progbar3').style
+		s.width = '264px'
+		s.transitionDuration = quick? '6s' : '20s'
+		if (s.webkitTransitionDuration) s.webkitTransitionDuration = s.transitionDuration
+		}, 800)
 	setTimeout(function () {
 		document.getElementById('label3').style.opacity = 0
 		document.getElementById('done3').style.opacity = 1
 		if (fromname) document.getElementById('returnit').style.opacity = 1
-		}, 21000)
+		if (quick) setTimeout(function () {
+			document.getElementById('returnit').style.display = 'none'
+			document.getElementById('newcuddle').style.opacity = 1
+			}, 800)
+		}, quick? 6500 : 21000)
 	
 	document.body.style.overflow = 'hidden'
-	for (i = 0; i <= 14; ++i) setTimeout(function () {launch(heart++)}, 200 + Math.floor(2000 * Math.random()))
-	setTimeout(function () {stopped = true}, 21000)
+	for (i = 0; i < (quick? 12 : 20); ++i)
+		setTimeout(function () {launch(heart++, true)}, 200 + Math.floor(2000 * Math.random()))
+	setTimeout(function () {stopped = true}, quick? 6500 : 21000)
 	}
 	
 search = function () { // called by Search button...
@@ -258,15 +335,15 @@ search = function () { // called by Search button...
 	document.getElementById('searchbtn').style.opacity = 0
 	document.getElementById('searching').style.opacity = 1
 	recname = document.getElementById('recname').value
-	var ok = toname.toLowerCase() == recname.toLowerCase()
-	if (ok) setTimeout(deliver, 2000)
+	var ok = toname.toLowerCase() == recname.toLowerCase() && Persist.cuddle(cuddleid + fromname)
+	if (ok) setTimeout(deliver, 3000)
 	else setTimeout(function () {
 		document.getElementById('searching').style.display = 'none'
 		document.getElementById('nocuddle').style.opacity = 1
 		setTimeout(function () {
 			document.getElementById('console').style.opacity = 1
 			}, 1500)
-		}, 5000)
+		}, 6000)
 	}
 
 privacy = function (show) {
@@ -284,7 +361,7 @@ privacy = function (show) {
 		}
 	}
 	
-escape = function () {
+escape = function () { // escape from privacy...
 	var e = event || window.event
 	var key = e.keyCode || e.which
 	if (key != 27) return
@@ -297,64 +374,73 @@ keepfocus = function () {
 	if (e.target.id) focuswas = e.target
 	}
 
-inreturn = function () {
-	document.getElementById('fromname').value = document.getElementById('recname').value
-	document.getElementById('toname').value = document.getElementById('whofrom').innerHTML.substr(1)
+inreturn = function () { // back to start...
+	var t = toname
+	toname = fromname
+	fromname = t
 	with (document.getElementById('page3').style) opacity = 0, zIndex = 0
 	cuddle()
 	}
-
-console = function () { // anonymous cuddle...
+	
+consolation = function () { // anonymous cuddle...
 	fromname = ''
 	toname = recname
-	deliver()
+	deliver(true)
 	}
 	
-rememberme = true
 remclick = function (c) {
-	// get rememberme from store on init!
-	if (c.id == 'rem0') document.getElementById('rem1').checked = c.checked
-	else document.getElementById('rem0').checked = c.checked
-	if (!c.checked) { // clear stored name...
-		}
+	rememberme = c.checked
+	if (c.id == 'rem0') document.getElementById('rem1').checked = rememberme
+	else document.getElementById('rem0').checked = rememberme
+	if (rememberme) Persist.rememberme(
+		document.getElementById(c.id == 'rem0'? 'fromname' : 'recname').value
+		)
+	else Persist.forgetme()
 	}
-
+	
 rdm = function () {return Math.floor(200 * Math.random())}
 
 stopped = false
-launch = function (n) {
-	var s = document.getElementById('heart' + n).style
+angle = 0
+launch = function (n, initial) {
+//	if (n > 0) return
 	if (stopped) return
 
-	s.transitionDuration = s.WebkitTransitionDuration = '1.2s'
+	var s = document.getElementById('heart' + n).style
+	
+	s.visibility = 'hidden'
 	setTimeout(function () {
-		var a = 2 * Math.PI * Math.random(), r = Math.random()
-		s.top = 800 * Math.sin(a) - 600 + 'px'
-		s.left = 200 + 400 * Math.cos(a) + 'px'
-		s.width = String(Math.round(180 * r)) + 'px'
-		s.height = String(Math.round(192 * r)) + 'px'
-		s.opacity = 0
-		var r = Math.random(), d = Math.floor(1500 * Math.random()) - 750
-		if (r < .33) s.transform = 'rotate(' + d + 'deg)'
-		else if (r < .85) s.transform = 'rotateX(' + d + 'deg)'
-		else s.transform = 'rotateY(' + d + 'deg)'
-		}, 0)
-	setTimeout(function () {
-		s.visibility = 'visible'
-		}, 240)
-	setTimeout(function () {
-		s.visibility = 'hidden'
-		s.transitionDuration = s.WebkitTransitionDuration = '0s'
-		s.top = '9px'
-		s.left = document.getElementById('progbar3').clientWidth + 'px'
+		s.transitionDuration = '0s'
+		s.top = '12px'
+		s.left = document.getElementById('progbar3').clientWidth - 10 + 'px'
 		s.width = '22.5px'
 		s.height = '24px'
 		s.opacity = 1
 		s.transform = 'none'
-		setTimeout(function () {
-			launch(n)
-			}, 200)
-		}, 800 + Math.floor(800 * Math.random()))
+		}, 0)
+	
+	var wait = 1500 + 400 * Math.random()
+	setTimeout(function () {
+		s.visibility = 'visible'
+		var r = Math.random()
+		s.transitionDuration = wait + 'ms'
+		if (s.webkitTransitionDuration) s.webkitTransitionDuration = s.transitionDuration
+		angle += 1 // + Math.PI * (Math.random() - .5)
+		s.top = Math.floor(800 * Math.sin(angle)) - 600 + 'px'
+		s.left = 200 + Math.floor(400 * Math.cos(angle)) + 'px'
+		s.width = String(Math.round(270 * r)) + 'px'
+		s.height = String(Math.round(288 * r)) + 'px'
+		s.opacity = 0
+		r = Math.random()
+		d = Math.floor(1500 * Math.random()) - 750
+		if (r < .3) s.transform = 'rotate(' + d + 'deg)'
+		else if (r < .85) s.transform = 'rotateX(' + d + 'deg)'
+		else s.transform = 'rotateY(' + d + 'deg)'
+		}, 100)
+		
+	setTimeout(function () {
+		launch(n, false)
+		}, wait + 200)
 	}
 </script>
 </head>
@@ -365,33 +451,32 @@ launch = function (n) {
 <div class="page" id="page0">
 <p><strong>Send a virtual cuddle to anyone at 7 Cups.</strong></p>
 <p>Please enter your 7 Cups user name:<br/>
-@<input type="text" class="username" id="fromname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()" autofocus="true"/>
-</p>
-
+@<input type="text" class="username" id="fromname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()" autofocus="true" spellcheck="false"/>
+<br/><label class="remember" for="rem0" title="Remember your name in this web browser"><input type="checkbox" checked="true" id="rem0" onclick="remclick(this)"> Remember me</label></p>
 <p>…and who the cuddle is for:<br/>
-@<input type="text" class="username" id="toname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()"/>
+@<input type="text" class="username" id="toname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()" spellcheck="false"/>
 </p>
 
 <div id="button" class="disabled">
-<p >Now press the Cuddle Button:</p>
+<p >Now press the Cuddle button:</p>
 <button id="cuddle" disabled="true" onclick="cuddle()">Cuddle!</button>
 </div>
 </div>
 
 <div class="page" id="page1">
-<div id="art1">Artwork<br/>Goes<br/>Here</div>
+<img id="art1" src="claus.png">
 <div id="progress1"><div id="progbar1"></div></div>
 <p id="label1">Preparing cuddle for <span id="sendto0"></span>. Please wait...</p>
 <p id="done1"><strong>Cuddle ready!</strong><br/>Please send <a id="sendto1" href="#"></a> this link:<br/>
-<span id="sendlink" class="link">rarelycharlie.github.io/?Just-Testing-This-Part-Is-Not-Working-Yet</span>
+<span id="sendlink" class="link"></span>
 </p>
 </div>
 
 <div class="page" id="page2">
 <p><strong>Receive your virtual cuddle here!</strong></p>
 <p>Please enter your 7 Cups user name:<br/>
-@<input type="text" class="username" id="recname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()"/>
-</p>
+@<input type="text" class="username" id="recname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()" spellcheck="false"/>
+<br/><label class="remember" for="rem1" title="Remember your name in this web browser"><input type="checkbox" checked="true" id="rem1" onclick="remclick(this)"> Remember me</label></p>
 <div id="button2" class="disabled">
 <p>Then press the button to search for your cuddle:</p>
 <button id="searchbtn" onclick="search()" disabled="true">Search</button>
@@ -400,44 +485,51 @@ launch = function (n) {
 <img id="ajax" src="/assets/ajax-loader.gif">
 </p>
 <p id="nocuddle">Sorry. Cuddle not found.</p>
-<p id="console">Would you like a quick cuddle on the house? Click <a href="#" onclick="console()">here</a>.</p>
+<p id="console">Would you like a quick cuddle on the house? Click <a href="#" onclick="consolation()">here</a>.</p>
 </div>
 	
 <div class="page" id="page3">
-<div id="art3">More<br/>Artwork<br/>Goes<br/>Here</div>
-<p id="label3">Delivering cuddle<span id="whofrom"</span>...</p>
+<img id="art3" src="claus.png"/>
+<p id="label3">Delivering <span id="quick">quick</span> cuddle<span id="whofrom"</span>...</p>
 <div id="hearts">
-<img class="heart" id="heart0" src="\assets\heart.png">
-<img class="heart" id="heart1" src="\assets\heart.png">
-<img class="heart" id="heart2" src="\assets\heart.png">
-<img class="heart" id="heart3" src="\assets\heart.png">
-<img class="heart" id="heart4" src="\assets\heart.png">
-<img class="heart" id="heart5" src="\assets\heart.png">
-<img class="heart" id="heart6" src="\assets\heart.png">
-<img class="heart" id="heart7" src="\assets\heart.png">
-<img class="heart" id="heart8" src="\assets\heart.png">
-<img class="heart" id="heart9" src="\assets\heart.png">
-<img class="heart" id="heart10" src="\assets\heart.png">
-<img class="heart" id="heart11" src="\assets\heart.png">
-<img class="heart" id="heart12" src="\assets\heart.png">
-<img class="heart" id="heart13" src="\assets\heart.png">
-<img class="heart" id="heart14" src="\assets\heart.png">
+<img class="heart" id="heart0" src="heart.png">
+<img class="heart" id="heart1" src="heart.png">
+<img class="heart" id="heart2" src="heart.png">
+<img class="heart" id="heart3" src="heart.png">
+<img class="heart" id="heart4" src="heart.png">
+<img class="heart" id="heart5" src="heart.png">
+<img class="heart" id="heart6" src="heart.png">
+<img class="heart" id="heart7" src="heart.png">
+<img class="heart" id="heart8" src="heart.png">
+<img class="heart" id="heart9" src="heart.png">
+<img class="heart" id="heart10" src="heart.png">
+<img class="heart" id="heart11" src="heart.png">
+<img class="heart" id="heart12" src="heart.png">
+<img class="heart" id="heart13" src="heart.png">
+<img class="heart" id="heart14" src="heart.png">
+<img class="heart" id="heart15" src="heart.png">
+<img class="heart" id="heart16" src="heart.png">
+<img class="heart" id="heart17" src="heart.png">
+<img class="heart" id="heart18" src="heart.png">
+<img class="heart" id="heart19" src="heart.png">
 <div id="progress3"><div id="progbar3"></div></div>
 </div>
 <p id="done3"><strong>Cuddle delivered!</strong></p>
 <p id="returnit">To send a cuddle<a id="returnto"></a> in return, click <a href="#" onclick="inreturn()">here</a>.</p>
+<p id="newcuddle">To send someone a cuddle, click <a href="/cuddle">here</a>.</p>
 </div>
 
 <div id="privacy">
 <div id="privacybox">
-<h3>Privacy</h3>
-<p>The Cuddle Button is a self-contained web page. It uses no cookies or hidden trackers, and it does not transmit any data anywhere.</p>
+<h3>Privacy &amp; Credits</h3>
+<p>The Cuddle Button uses no cookies, and it does not share any data with other websites, not even with 7 Cups.</p>
+<p>Author: @RarelyCharlie at 7 Cups.<br/>Artwork: @AmalieAnne at 7 Cups.<br/>Handwriting font derived from <i>Shadows Into Light Two</i> by Kimberly Geswein under the terms of the SIL Open Font License.</p>
 <div id="privacyclose" onclick="privacy(false)" title="Close">&times;</div>
 </div>
 </div>
 
 </div>
 
-<div id="footer"><div id="footer-content"><a href="#" onclick="privacy(true)" title="Privacy information">Privacy</a> &bull; <a href="https://www.7cups.com/@RarelyCharlie" title="Feedback to @RarelyCharlie at 7 Cups">Feedback</a></div></div>
+<div id="footer"><div id="footer-content"><a href="#" onclick="privacy(true)" title="Privacy and author information">Privacy &amp; Credits</a> &bull; <a href="https://www.7cups.com/@RarelyCharlie" title="Feedback to @RarelyCharlie at 7 Cups">Feedback</a><div id="credits">Artwork: <span class="sig">Amalíe-Anna</span></div></div></div>
 </body>
 </html>
