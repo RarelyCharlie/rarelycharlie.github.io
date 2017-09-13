@@ -83,7 +83,8 @@ div.page {position: absolute; top: 40px; width: 100%; transition: opacity 1s;}
 #progress1, #progress3 {border: 2px solid #66a; width: 12em; height: 24px; border-radius: 4px; margin: 1ex auto 0 auto;}
 #progbar1, #progbar3 {width: 0; height: 100%; background: #cce; transition: width 6s ease-in;}
 #done1, #done3, #returnit, #newcuddle {opacity: 0; transition: opacity 1s; padding-bottom: 0;}
-.link {font-family: Raleway, sans-serif; font-size: 16px; color: navy;}
+.link {font-family: Raleway, sans-serif; font-size: 16px; color: navy;
+	transition: color 0s, background-color: 0s;}
 
 #ajax {margin-top: 1ex;}
 #searching {opacity: 0;}
@@ -259,6 +260,10 @@ cuddle = function () {
 	document.getElementById('sendto0').innerHTML = v
 	with (document.getElementById('sendto1'))
 		setAttribute('href', 'htps://www.7cups.com/' + v), innerHTML = v
+	document.getElementById('sendlink').addEventListener("copy", function(event) {
+		if (event.clipboardData) event.clipboardData.setData("text/plain", event.target.textContent)
+ 		event.preventDefault()
+	})
 	setTimeout(function () {
 		document.getElementById('sendlink').innerHTML = 'rarelycharlie.github.io/' + maketoken()
 		document.getElementById('done1').style.opacity = 1
@@ -403,7 +408,6 @@ rdm = function () {return Math.floor(200 * Math.random())}
 stopped = false
 angle = 0
 launch = function (n, initial) {
-//	if (n > 0) return
 	if (stopped) return
 
 	var s = document.getElementById('heart' + n).style
@@ -442,6 +446,19 @@ launch = function (n, initial) {
 		launch(n, false)
 		}, wait + 200)
 	}
+
+copylink = function (s)	{
+	var ss = s.style
+	ss.transitionDuration = '0s'
+	ss.backgroundColor = '#06f'
+	ss.color = '#fff'
+	setTimeout(function () {
+		ss.transitionDuration = '1s'
+		ss.backgroundColor = 'initial'
+		ss.color = 'navy'
+		}, 300)
+	document.execCommand('copy')
+	}
 </script>
 </head>
 <body onload="init()" onkeyup="escape()">
@@ -468,8 +485,8 @@ launch = function (n, initial) {
 <div id="progress1"><div id="progbar1"></div></div>
 <p id="label1">Preparing cuddle for <span id="sendto0"></span>. Please wait...</p>
 <p id="done1"><strong>Cuddle ready!</strong><br/>Please send <a id="sendto1" href="#"></a> this link:<br/>
-<span id="sendlink" class="link"></span>
-</p>
+<span id="sendlink" class="link" onclick="copylink(this)"></span><br/>
+(Click it to copy it.)</p>
 </div>
 
 <div class="page" id="page2">
