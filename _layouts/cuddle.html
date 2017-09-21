@@ -90,16 +90,16 @@ div.page {position: absolute; top: 40px; width: 100%; transition: opacity 1s;}
 #searching {opacity: 0;}
 #searching, #searchbtn, #label3 {transition: opacity 1s;}
 	
-#privacy {display: none; opacity: 0; transition: opacity 2s;
+#information {display: none; opacity: 0; transition: opacity 2s;
 	font-family: Raleway, sans-serif; font-size: 16px;
 	width: 100%; height: 12em; margin: 4em auto 0 auto;
 	background: #fff; position: absolute;
 	}
-#privacybox {width: 80%; box-shadow: 4px 4px 2px 2px #ddd; border: 1px solid red; margin: 0 auto; position: relative;
+#informationbox {width: 80%; box-shadow: 4px 4px 2px 2px #ddd; border: 1px solid red; margin: 0 auto; position: relative;
 	padding: 1em 1em 4em 1em;}
-#privacy h3 {text-align: center; color: #66a;}
-#privacy p {text-align: left;}
-#privacyclose {font-size: 200%; padding: 0 2px 2px 2px; position: absolute; top: 0; right: 5px; cursor: pointer;}
+#information h3 {text-align: center; color: #66a;}
+#information p {text-align: left;}
+#informationclose {font-size: 200%; padding: 0 2px 2px 2px; position: absolute; top: 0; right: 5px; cursor: pointer;}
 #content.hidden .page {visibility: hidden;}
 
 #nocuddle, #console {opacity: 0; transition: opacity 1s;}
@@ -351,8 +351,8 @@ search = function () { // called by Search button...
 		}, 6000)
 	}
 
-privacy = function (show) {
-	var s = document.getElementById('privacy').style
+information = function (show) {
+	var s = document.getElementById('information').style
 	if (show) {
 		document.getElementById('content').className = show? 'hidden' : ''
 		s.display = 'block'
@@ -366,11 +366,11 @@ privacy = function (show) {
 		}
 	}
 	
-escape = function () { // escape from privacy...
+escape = function () { // escape from information...
 	var e = event || window.event
 	var key = e.keyCode || e.which
 	if (key != 27) return
-	if (document.getElementById('content').className) privacy(false)
+	if (document.getElementById('content').className) information(false)
 	}
 
 focuswas = null
@@ -536,17 +536,18 @@ copylink = function (s)	{
 <p id="newcuddle">To send someone a cuddle, click <a href="/cuddle">here</a>.</p>
 </div>
 
-<div id="privacy">
-<div id="privacybox">
-<h3>Privacy &amp; Credits</h3>
+<div id="information">
+<div id="informationbox">
+<h3>Privacy</h3>
 <p>The Cuddle Button uses no cookies, and it does not share any data with other websites, not even with 7 Cups.</p>
-<p>Author: @RarelyCharlie at 7 Cups.<br/>Artwork: &mdash;<br/>Handwriting font derived from <i>Shadows Into Light Two</i> by Kimberly Geswein under the terms of the SIL Open Font License.</p>
-<div id="privacyclose" onclick="privacy(false)" title="Close">&times;</div>
+<h3>Credits</h3>
+<p>Design: @RarelyCharlie at 7 Cups.<br/>Artwork: @AmalieAnne at 7 Cups<br/>Handwriting font: Based on <i>Shadows Into Light Two</i> by Kimberly Geswein under the terms of the SIL Open Font License.</p>
+<div id="informationclose" onclick="information(false)" title="Close">&times;</div>
 </div>
 </div>
 
 </div>
 
-<div id="footer"><div id="footer-content"><a href="#" onclick="privacy(true)" title="Privacy and author information">Privacy &amp; Credits</a> &bull; <a href="https://www.7cups.com/@RarelyCharlie" title="Feedback to @RarelyCharlie at 7 Cups">Feedback</a><div id="credits">Artwork: <span class="sig"></span></div></div></div>
+<div id="footer"><div id="footer-content"><a href="#" onclick="information(true)" title="Privacy and credits">Information</a> &bull; <a href="https://www.7cups.com/@RarelyCharlie" title="Feedback to @RarelyCharlie at 7 Cups">Feedback</a><div id="credits">Artwork: <span class="sig">AmalieAnne</span></div></div></div>
 </body>
 </html>
