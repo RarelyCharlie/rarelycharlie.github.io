@@ -159,7 +159,7 @@ maketoken = function () {
 		+ rot(chk + now + fromname + '-' + toname + '-', roff)
 		+ pad
 	while (token.length % 3) token += '='
-	GLog.patch(fromname, toname, now)
+	Glog.patch(fromname, toname, now)
 	return token
 	}
 
