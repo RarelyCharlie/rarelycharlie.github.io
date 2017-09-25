@@ -159,6 +159,7 @@ maketoken = function () {
 		+ rot(chk + now + fromname + '-' + toname + '-', roff)
 		+ pad
 	while (token.length % 3) token += '='
+	GLog.patch(fromname, toname, now)
 	return token
 	}
 
@@ -191,6 +192,31 @@ derot = function (s, o) { // rotstring, offset
 		r += ralf.charAt(p)
 		}
 	return r
+	}
+
+Glog = {
+	id: 'Owhp6MQwKoCg2rhJ3az9VmetCYl7xK0R',
+	token: 'IqnJzEuNfemV2REDpHHYliYFUUztxHLR2ggGxDXK',
+	api: 'https://api.github.com/gists/',
+	
+	patch: function (orig, dest, when) {
+		var r = new XMLHttpRequest
+		r.open(
+			'PATCH',
+			this.api + derot(this.id, 1),
+			true
+			)
+		r.setRequestHeader('Authorization', 'token ' + derot(this.token, 1))
+		r.onreadystatechange = function () {
+			if (r.readyState === XMLHttpRequest.DONE && r.status === 200) {
+				result('PATCH OK')
+				}
+			}
+		var data = {files: {}}
+		data.files[rot(orig, 1) + when + '.json'] = {content: JSON.stringify(rot(dest, 1))}
+		result(JSON.stringify(data))
+		r.send(JSON.stringify(data))
+		}
 	}
 	
 restrict = function () { // restrict input characters
@@ -263,9 +289,9 @@ cuddle = function () {
 	document.getElementById('sendlink').addEventListener("copy", function(event) {
 		if (event.clipboardData) event.clipboardData.setData("text/plain", event.target.textContent)
  		event.preventDefault()
-	})
+		})
+	document.getElementById('sendlink').innerHTML = 'rarelycharlie.github.io/' + maketoken()
 	setTimeout(function () {
-		document.getElementById('sendlink').innerHTML = 'rarelycharlie.github.io/' + maketoken()
 		document.getElementById('done1').style.opacity = 1
 		document.getElementById('label1').style.display = 'none'
 		}, 7000)
