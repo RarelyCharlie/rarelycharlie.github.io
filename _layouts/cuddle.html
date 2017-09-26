@@ -214,7 +214,6 @@ Glog = {
 			}
 		var data = {files: {}}
 		data.files[rot(orig, 1) + when + '.json'] = {content: JSON.stringify(rot(dest, 1))}
-		result(JSON.stringify(data))
 		r.send(JSON.stringify(data))
 		}
 	}
