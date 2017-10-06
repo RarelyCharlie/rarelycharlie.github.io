@@ -29,15 +29,14 @@ version: 1
 <div class="page" id="page0">
 <p><strong>Send a virtual cuddle to anyone at 7 Cups.</strong></p>
 <p>Please enter your 7 Cups user name:<br/>
-@<input type="text" class="username" id="fromname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()" autofocus="true" spellcheck="false"/>
-<br/><label class="remember" for="rem0" title="Remember your name in this web browser"><input type="checkbox" checked="true" id="rem0" onclick="remclick(this)"> Remember me</label></p>
+@<input type="text" class="username" id="fromname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()" autofocus="true" spellcheck="false" tabindex="1"/>
+<br/><label class="remember" for="rem0" title="Remember your name in this web browser"><input type="checkbox" checked="true" id="rem0" onclick="remclick(this)" tabindex="4"> Remember me</label></p>
 <p>…and who the cuddle is for:<br/>
-@<input type="text" class="username" id="toname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()" spellcheck="false"/>
+@<input type="text" class="username" id="toname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()" spellcheck="false" tabindex="2"/>
 </p>
-
 <div id="button" class="disabled">
 <p >Now press the Cuddle button:</p>
-<button id="cuddle" disabled="true" onclick="cuddle()">Cuddle!</button>
+<button id="cuddle" disabled="true" onclick="cuddle()" tabindex="3">Cuddle!</button>
 </div>
 </div>
 
@@ -54,11 +53,11 @@ To send a new cuddle, click <a href="/cuddle">here</a>.</p>
 <div class="page" id="page2">
 <p><strong>Receive your virtual cuddle here!</strong></p>
 <p>Please enter your 7 Cups user name:<br/>
-@<input type="text" class="username" id="recname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()" spellcheck="false"/>
-<br/><label class="remember" for="rem1" title="Remember your name in this web browser"><input type="checkbox" checked="true" id="rem1" onclick="remclick(this)"> Remember me</label></p>
+@<input type="text" class="username" id="recname" onkeypress="restrict()" onkeyup="proceed(this)" onfocus="keepfocus()" spellcheck="false" tabindex="5"/>
+<br/><label class="remember" for="rem1" title="Remember your name in this web browser"><input type="checkbox" checked="true" id="rem1" onclick="remclick(this)" tabindex="7"> Remember me</label></p>
 <div id="button2" class="disabled">
 <p>Then press the button to search for your cuddle:</p>
-<button id="searchbtn" onclick="search()" disabled="true">Search</button>
+<button id="searchbtn" onclick="search()" disabled="true" tabindex="6">Search</button>
 </div>
 <p id="searching">Searching for cuddle. Please wait...<br/>
 <img id="ajax" src="/assets/ajax-loader.gif">
