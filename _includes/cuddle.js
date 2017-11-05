@@ -39,7 +39,6 @@ maketoken = function () {
 		+ rot(chk + now + fromname + '-' + toname + '-', roff)
 		+ pad
 	while (token.length % 3) token += '='
-	Glog.patch(fromname, toname, now)
 	return token
 	}
 eattoken = function (token) {
@@ -70,24 +69,6 @@ derot = function (s, o) { // rotstring, offset
 		r += ralf.charAt(p)
 		}
 	return r
-	}
-Glog = {
-	id: 'KcuIzkup2o7IB4uP5l20Xqq2zYQdpPsp',
-	token: 'IqnJzEuNfemV2REDpHHYliYFUUztxHLR2ggGxDXK',
-	api: 'https://api.github.com/gists/',
-	
-	patch: function (orig, dest, when) {
-		var r = new XMLHttpRequest
-		r.open(
-			'PATCH',
-			this.api + derot(this.id, 1),
-			true
-			)
-		r.setRequestHeader('Authorization', 'token ' + derot(this.token, 1))
-		var data = {files: {}}
-		data.files[rot(orig, 1) + when + '.json'] = {content: JSON.stringify(rot(dest, 1))}
-		r.send(JSON.stringify(data))
-		}
 	}
 	
 restrict = function () { // restrict input characters
