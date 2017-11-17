@@ -421,6 +421,9 @@ A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed 
 
 ## K
 
+# Kate
+Group Support Community Manager, who uses the ~~listener~~ name [@lovelyllama13](http://7cups.com/@lovelyllama13).
+
 # key
 _See:_ ~~Forum Key~~
 
