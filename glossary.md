@@ -477,6 +477,9 @@ To activate an ~~account~~ in the ~~website~~ or ~~app~~ by specifying a ~~name~
 # log out
 To temporarily deactivate an ~~account~~. The account continues to receive ~~messages/message~~ and ~~notifications/notification~~. Its ~~status~~ is set to ~~offline~~.
 
+# lovelyllama13
+~~Listener~~ name of Group Support Community Manager ~~Kate.~~
+
 # LSR
 Listener support room. A ~~room~~ where ~~listeners/listener~~ can go to get support with ~~chats/chat~~, even in the middle of a chat.
 
