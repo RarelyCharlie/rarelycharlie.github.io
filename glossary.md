@@ -546,6 +546,9 @@ A setting that prevents someone from participating in a ~~chatroom~~. Used to pr
 # name
 A screen name associated with an ~~account~~. Not usually the owner of the account's real name, so as to provide so-called ~~anonymity~~, except in the case of ~~therapist~~ accounts.
 
+# NAMI
+The [National Alliance on Mental Illness](https://www.nami.org/), a US mental health organization.
+
 # New Horizon
 16th of the twenty groups of ~~member~~ ~~levels./level~~
 
