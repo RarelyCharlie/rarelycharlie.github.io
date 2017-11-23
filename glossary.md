@@ -408,7 +408,7 @@ A cloud-based system used to provide faster response times and better security f
 7th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # intern
-A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed for student placements (although people who are not students can also join the program). _See:_ [General FAQ Internship](http://www.7cups.com/forum/ListenerProjectsampTeams_148/InternshipsandPracticals_92/GeneralFAQ7CupsInternship_49111/)
+A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed for student placements (although people who are not students can also join the program). _See:_ [General FAQ Internship](https://www.7cups.com/forum/ListenerProjectsampTeams_148/InternshipsandPracticals_92/GeneralFAQ7CupsInternship_49111/)
 
 
 ## J
@@ -422,7 +422,7 @@ A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed 
 ## K
 
 # Kate
-Group Support Community Manager, who uses the ~~listener~~ name [@lovelyllama13](http://7cups.com/@lovelyllama13).
+Group Support Community Manager. _See:_ [@Kate](http://7cups.com/@Kate).
 
 # key
 _See:_ ~~Forum Key~~
@@ -478,7 +478,7 @@ To activate an ~~account~~ in the ~~website~~ or ~~app~~ by specifying a ~~name~
 To temporarily deactivate an ~~account~~. The account continues to receive ~~messages/message~~ and ~~notifications/notification~~. Its ~~status~~ is set to ~~offline~~.
 
 # lovelyllama13
-~~Listener~~ name of Group Support Community Manager ~~Kate.~~
+~~Listener~~ name used by [@Kate](https://www.7cups.com/@Kate) before she became Group Support Community Manager (and for a short time after).
 
 # LSR
 Listener support room. A ~~room~~ where ~~listeners/listener~~ can go to get support with ~~chats/chat~~, even in the middle of a chat.
