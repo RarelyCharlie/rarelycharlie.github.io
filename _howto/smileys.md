@@ -28,7 +28,7 @@ You can only get 15 smileys this way. They are:
 |Sunglasses |`8|`  |![Sunglasses](https://d37v7cqg82mgxu.cloudfront.net/img/emoticons/sunglasses_small.png 'Sunglasses')  |
 |Tongue     |`:P`  |![Tongue](https://d37v7cqg82mgxu.cloudfront.net/img/emoticons/tongue.png 'Tongue')  |
 |Unsure     |`:\`  |![Unsure](https://d37v7cqg82mgxu.cloudfront.net/img/emoticons/unsure.png 'Unsure')  |
-|Wink       |`:)`  |![Wink](https://d37v7cqg82mgxu.cloudfront.net/img/emoticons/wink.png 'Wink')  |
+|Wink       |`;)`  |![Wink](https://d37v7cqg82mgxu.cloudfront.net/img/emoticons/wink.png 'Wink')  |
 
 Some of these can be typed in alternative ways, but the alternatives are not shown here.
 
