@@ -8,7 +8,7 @@ This is an unofficial and experimental glossary of the terminology used at [7 Cu
 {: .preface}
 
 <h1 id="1-to-1-chat">1-to-1-chat</h1>
-A private ~~chat~~. At least one of the people in a 1-to-1 chat must be a ~~listener~~ or ~~therapist,/therapist~~ because ~~guests/guest~~ and ~~members/member~~ cannot chat 1-to-1 with guests or members.
+A private ~~chat~~. At least one of the people in a 1-to-1 chat must be a ~~listener,~~ a ~~therapist,~~ or a ~~bot,~~ because ~~guests/guest~~ and ~~members/member~~ cannot chat 1-to-1 with guests or members.
 
 <h1 id="7-cups">7 Cups</h1>
 A business enterprise based in the United States of America and operating online worldwide to develop and deliver an innovative model of healthcare known as ~~weCare~~. Also, the online service provided by 7 Cups on its ~~website~~ and by means of its ~~app~~. _See also:_ ~~mission,/mission~~ ~~values~~
@@ -562,7 +562,7 @@ First of the 27 groups of ~~listener~~ ~~levels./level~~ Also a ~~badge~~ that i
 _See:_ ~~Hope Newsletter~~
 
 # Noni
-A ~~bot~~ that engages in limited ~~conversation~~ with ~~guests/guest~~ and ~~members/member~~ who are waiting in the ~~general request queue~~, and that can also lead a ~~chatroom~~ ~~discussion~~. Noni is sometimes referred to as she or her, as if female.
+A ~~bot~~ that engages in limited ~~conversation~~ with ~~guests/guest~~ and ~~members/member~~ who are waiting in the ~~general request queue~~, and that can also take part in ~~1-to-1 chats/1-to-1 chat~~ or lead a ~~chatroom~~ ~~discussion~~. Noni is usually referred to as she or her, as if female.
 _See:_ [Who is Noni?](https://www.7cups.com/about/whoisnoni.php)
 
 # notes
