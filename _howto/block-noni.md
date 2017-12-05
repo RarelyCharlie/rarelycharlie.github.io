@@ -3,6 +3,7 @@ layout: howto
 title: Block Noni
 key: Noni block bot
 linkas: false
+feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
 Noni is a bot who can chat with you on 7 Cups.
 
