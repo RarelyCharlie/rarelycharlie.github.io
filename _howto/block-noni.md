@@ -25,6 +25,8 @@ To block Noni, you need to install two things in this order:
 
 1. First install [Tampermonkey](http://tampermonkey.net/) in your web browser.
 
+   If your web browser is not compatible with Tampermonkey, then you cannot proceed with the next step.
+
 2. Next, install the Block Noni script. (LINK NOT AVAILABLE YET)
 
 To install each of these, click the relevant link and follow the instructions.
