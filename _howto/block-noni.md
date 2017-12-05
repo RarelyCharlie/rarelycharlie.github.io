@@ -16,12 +16,12 @@ You might be able to block Noni if you use 7 Cups in a web browser on an Android
 
 You cannot block Noni on an Apple iOS device.
 
-You cannot block Noni if you use the 7 Cups App.
+You cannot block Noni if you use the 7 Cups App on any kind of device.
 
 You cannot block Noni if you are a member or guest waiting for a listener. In this case, type STOP to make Noni stop.
 
 ### What you need
-To block Noni, you need two things: 
+To block Noni, you need to install two things in this order: 
 
 1. First install [Tampermonkey](http://tampermonkey.net/) in your web browser.
 
@@ -36,7 +36,7 @@ If you want to chat with Noni after blocking her, you do not need to remove the 
 If you want to remove the block, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
 
 ### Blocking mail
-Blocking Noni does not stop her generating unwanted e-mail. To remove the e-mail, use whatever facilities your e-mail provider uses against spam.
+Blocking Noni does not stop unwanted e-mail notifications. To remove the e-mail, use your e-mail provider's anti-spam filters.
 
 ### Feedback
 To provide feedback to the author, go to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and send a message.
