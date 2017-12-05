@@ -29,13 +29,13 @@ To block Noni, you need two things:
 To install each of these, click the relevant link and follow the instructions.
 
 ### Chatting with Noni
-If you want to chat with Noni after blocking her, you do not need to remove the block. Simply go to whichever of these links is appropriate:
-
-- For guests and members: [Noni](https://www.7cups.com/member/connect/conversation.php?c=Noni).
-
-- For listeners: [Noni](https://www.7cups.com/listener/connect/conversation.php?c=Noni).
-
-You can bookmark the link if you like to chat with Noni often.
+If you want to chat with Noni after blocking her, you do not need to remove the block. From the main menu at the top of the page, choose Chat and then Chat with Noni.
 
 ### Removing the block
 If you want to remove the block, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
+
+### Blocking mail
+Blocking Noni does not stop her generating unwanted e-mail. To remove the e-mail, use whatever facilities your e-mail provider uses against spam.
+
+### Feedback
+To provide feedback to the author, go to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and send a message.
