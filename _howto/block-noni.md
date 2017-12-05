@@ -38,5 +38,9 @@ If you want to remove the block, you can temporarily disable the script or you c
 ### Blocking mail
 Blocking Noni does not stop unwanted e-mail notifications. To remove the e-mail, use your e-mail provider's anti-spam filters.
 
+For example, you could filter mail from `noreply@7cupsoftea.com` that contins the word Noni.
+
+Alternatively, you might be able to use the links at the bottom of any of the e-mails to unsubscribe, but unsubscribing will affect other notifications, not just the notifications caused by Noni.
+
 ### Feedback
 To provide feedback to the author, go to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and send a message.
