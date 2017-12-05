@@ -23,14 +23,14 @@ You cannot block Noni if you are a member or guest waiting for a listener. In th
 ### What you need
 To block Noni, you need two things: 
 
-1. First install [Tampermonkey](tampermonkey.net) in your web browser.
+1. First install [Tampermonkey](http://tampermonkey.net/) in your web browser.
 
 2. Next, install the Block Noni script. (LINK NOT AVAILABLE YET)
 
 To install each of these, click the relevant link and follow the instructions.
 
 ### Chatting with Noni
-If you want to chat with Noni after blocking her, you do not need to remove the block. From the main menu at the top of the page, choose Chat and then Chat with Noni.
+If you want to chat with Noni after blocking her, you do not need to remove the block. From 7 Cups' main menu at the top of the page, choose Chat and then Chat with Noni.
 
 ### Removing the block
 If you want to remove the block, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
