@@ -8,4 +8,16 @@ To find your personal link, go to 7cups.com, log in, and look for the My Persona
 
 Your personal link is exclusive to you but anonymous, so that no one can use it to discover your 7 Cups screen name.
 
-In general, do not reveal your 7 Cups screen name outside 7 Cups, and do not reveal your real name, e-mail address or social media handles inside 7 Cups. (Slightly different rules apply to therapists, admins, and members of some teams.)
+In general, you should keep your identities inside 7 Cups separate from your identities outside 7 Cups.
+
+Inside 7 Cups:
+- Do not reveal your personal link.
+- Do not reveal your real name.
+- Do not reveal your e-mail address.
+- Do not reveal your social media handles.
+- If you have listener and member accounts, do not reveal your other 7 Cups identity.
+
+Outside 7 Cups:
+- Do not reveal your 7 Cups screen name. Only your personal link is OK to reveal.
+
+(Slightly different rules apply to admins, therapists, and members of some teams.)
