@@ -1,4 +1,6 @@
 ---
+title: The Walrus and the Carpenter
+layout: default
 ---
 The Walrus and the Carpenter
 by Lewis Carroll
