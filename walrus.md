@@ -3,7 +3,7 @@ title: The Walrus and the Carpenter
 layout: default
 ---
 <style>
-  #content {max-width: 320px;}
+  #content {max-width: 240px;}
   span {display: inline-block; margin-left: 2em;}
   h2 {margin-bottom: 0; text-align: center;}
   em {display: block; font-size: 80%; font-style: italic;}
