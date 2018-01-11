@@ -10,8 +10,3 @@ layout: default
 </style>
 ## The Walrus and the Carpenter *by Lewis Carroll*
 
-*read by RarelyCharlie*
-
-<audio controls>
-  <source src="/assets/walrus.mp3" type="audio/mpeg">
-  </audio>
