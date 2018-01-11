@@ -10,10 +10,8 @@ layout: default
 </style>
 ## The Walrus and the Carpenter *by Lewis Carroll*
 
-The sun was shining on the sea,\\
-<span/>Shining with all his might:\\
-He did his very best to make\\
-<span/>The billows smooth and bright —\\
-And this was odd, because it was\\
-<span/>The middle of the night.
+*read by RarelyCharlie*
 
+<audio controls>
+  <source src="/assets/walrus.mp3" type="audio/mpeg">
+  </audio>
