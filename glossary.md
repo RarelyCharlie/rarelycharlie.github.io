@@ -74,6 +74,9 @@ The highest level of leadership role in the ~~community~~.
 # Amelia
 ~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member and assistant ~~community~~ manager Amelia Winsby. _See:_ [@Amelia](http://7cups.com/@Amelia)
 
+# Animal Cohort
+A group of ~~member,~~ ~~listener,~~ and ~~therapist~~ accounts that were registered (or, in some cases, reinstated after a break) in the same calendar month, regarless of the year. Represented by an icon that represents a creature, not necessarily an animal. See: ~~Dolphin,~~ ~~Penguin,~~ ~~Horse,~~ ~~Camel,~~ ~~Elephant,~~ ~~Kangaroo,~~ ~~Starfish,~~ ~~Fish,~~ ~~Bunny,~~ ~~Eagle,~~ ~~Butterfly,~~ ~~Turtle~~.
+
 # announcement
 A ~~notification~~ sent manually to the ~~community~~ or to part of the community (as opposed to an automatic notification).
 
@@ -144,14 +147,23 @@ A period of time when someone deliberately stops using 7 Cups, or parts of 7 Cup
 # buddy
 Someone paired with someone else, typically in order to provide each other with support. ~~7 Cups~~ has various buddy schemes for different purposes.
 
+# Bunny 
+![](https://www.7cups.com/cloudfront/img/zodiac/icon-09.png) The ~~animal cohort~~ for the month of September.
+
 # burnout
 A condition said to affect some ~~listeners/listener~~ who leave 7 Cups with bad feeling. Thought to occur because of lack of ~~self-care~~, or because of high workload, or because of the wrong approach to ~~listening/active listening~~, or some combination of those causes.
 
 # busy
 A ~~status~~ setting indicating that a ~~listener~~ is active on 7 Cups but not available for new ~~chats/chat~~.
 
+# Butterfly 
+![](https://www.7cups.com/cloudfront/img/zodiac/icon-11.png) The ~~animal cohort~~ for the month of November.
+
 
 ## C
+
+# Camel
+![](https://www.7cups.com/cloudfront/img/zodiac/icon-04.png) The ~~animal cohort~~ for the month of April.
 
 # category
 One of 32 topics that a ~~listener~~ can specialize in and that ~~Noni~~ asks about. Also one of the groups of ~~forums./forum~~
@@ -259,8 +271,14 @@ Diagnostic and Statistical Manual. A manual published by the American Psychiatri
 
 ## E
 
+# Eagle 
+![](https://www.7cups.com/cloudfront/img/zodiac/icon-10.png) The ~~animal cohort~~ for the month of October.
+
 # EDT
 _See:_ ~~EST~~
+
+# Elephant 
+![](https://www.7cups.com/cloudfront/img/zodiac/icon-05.png) The ~~animal cohort~~ for the month of May.
 
 # Embraced
 First of the twenty groups of ~~member~~ ~~levels./level~~
@@ -294,6 +312,9 @@ Ezra Morse, ~~7 Cups'/7 Cups~~ ~~staff~~ member and software engineeer. _See als
 
 # feed
 A sequence of ~~posts/post~~, which are personal statements by the owner of the feed. ~~Members/member~~, ~~listeners/listener~~ and ~~therapists/therapist~~ can have feeds, but not all use them. Also, the ~~7 Cups~~ site feed.
+
+# Fish
+![Fish](https://www.7cups.com/cloudfront/img/zodiac/icon-08.png) The ~~animal cohort~~ for the month of August.
 
 # FJB
 "Feeling judged because" Sometimes used as a ~~hashtag~~ #FJB.
@@ -392,6 +413,9 @@ A source of information for everyone in the ~~community,~~ published for the fir
 # Hopeful Heart
 Third of the twenty groups of ~~member~~ ~~levels./level~~
 
+# Horse
+![](https://www.7cups.com/cloudfront/img/zodiac/icon-03.png) The ~~animal cohort~~ for the month of March.
+
 
 ## I
 
@@ -423,6 +447,9 @@ A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed 
 4th of the 18 levels in the listener ~~certification~~ program.
 
 ## K
+
+# Kangaroo 
+![](https://www.7cups.com/cloudfront/img/zodiac/icon-06.png) The ~~animal cohort~~ for the month of June.
 
 # Kate
 Group Support Community Manager. _See:_ [@Kate](http://7cups.com/@Kate).
@@ -612,6 +639,9 @@ Short for ~~growth path~~.
 # peer support
 Support for ~~listeners/listener~~ by other listeners designated as peer supporters. (Note that this is somewhat different from the meaning of peer support in real life.)
 
+# Penguin 
+![](https://www.7cups.com/cloudfront/img/zodiac/icon-02.png) The ~~animal cohort~~ for the month of February.
+
 # people helped
 One of the measures that appears in a ~~listener~~ ~~profile~~. The number of distinct ~~guests/guest~~ and ~~members/member~~ with whom the listener has had ~~1-to-1 chats/1-to-1 chat~~ of 30 ~~messages/message~~ or more.
 
@@ -684,6 +714,9 @@ _See:_ [Questions, Feedback, Ideas & Fun!](https://www.7cups.com/forum/Questions
 
 
 ## R
+
+# Rabbit
+See: ~~Bunny~~
 
 # rating
 A system for evaluating ~~1-to-1 chats/1-to-1 chat~~ based on the qualities ~~helpfulness~~, ~~professionalism~~, ~~empathy~~ and ~~response time~~, with up to five stars being awarded for each. The system includes an optional written ~~review~~.
@@ -783,6 +816,9 @@ A ~~listener~~ who formally agrees to provide a ~~member~~ with long-term ~~emot
 # staff
 Paid employees of ~~7 Cups~~. _See:_ [Our Team](http://www.7cups.com/about/ourteam.php)
 
+# Star fish 
+![](https://www.7cups.com/cloudfront/img/zodiac/icon-07.png) The ~~animal cohort~~ for the month of July.
+
 # status
 An indicator that shows whether an ~~account~~ is ~~online~~, ~~offline~~ or (only for ~~listeners/listener~~) ~~busy~~.
 
@@ -863,6 +899,9 @@ Informal and sometimes deprecated term for someone who communicates in a way tha
 
 # TS
 Either ~~Thinking Space~~ or ~~Teen Star.~~
+
+# Turtle 
+![](https://www.7cups.com/cloudfront/img/zodiac/icon-12.png) The ~~animal cohort~~ for the month of December.
 
 # twin
 ~~Listener twin/listener twin~~.
