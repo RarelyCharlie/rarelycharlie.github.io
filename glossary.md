@@ -247,6 +247,9 @@ A ~~listener~~ ~~name~~ reserved for use by ~~7 Cups'~~ development team.
 # discussion
 A scheduled and often somewhat formal session in a ~~chatroom~~, led by one or more designated people and with a focus on a particular topic. Also, a discussion in a ~~forum~~.
 
+# Dolphin
+![](https://www.7cups.com/cloudfront/img/zodiac/icon-01.png) The ~~animal cohort~~ for the month of January.
+
 # doorkeeper
 Someone who can open and close ~~chatrooms./chatroom~~
 
