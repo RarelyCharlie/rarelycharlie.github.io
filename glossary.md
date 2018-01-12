@@ -816,7 +816,7 @@ A ~~listener~~ who formally agrees to provide a ~~member~~ with long-term ~~emot
 # staff
 Paid employees of ~~7 Cups~~. _See:_ [Our Team](http://www.7cups.com/about/ourteam.php)
 
-# Star fish 
+# Starfish 
 ![](https://www.7cups.com/cloudfront/img/zodiac/icon-07.png) The ~~animal cohort~~ for the month of July.
 
 # status
