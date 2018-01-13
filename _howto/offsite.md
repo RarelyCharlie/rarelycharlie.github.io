@@ -27,7 +27,7 @@ There are exceptions to this, explained below.
 
 On 7 Cups you can share links to information that you place on other websites anonymously.
 
-For example, you can put an image on <imgur.com> anonymously, then share a link to the image on 7 Cups.
+For example, you can put an image on <https://imgur.com> anonymously, then share a link to the image on 7 Cups.
 
 ### Exception: offsite accounts
 
@@ -53,6 +53,6 @@ Examples:
 
 ### Your personal link
 
-Do not reveal your personal link in 7 Cups or in any offsite account where your 7 Cups screen name is visible. In these places, link to <7cups.com> or to your 7 Cups profile page.
+Do not reveal your personal link in 7 Cups or in any offsite account where your 7 Cups screen name is visible. In these places, link to <https://7cups.com> or to your 7 Cups profile page.
 
 For more information about using your personal link, see: [Howto: Get referral clicks](https://rarelycharlie.github.io/howto/referral-clicks)
