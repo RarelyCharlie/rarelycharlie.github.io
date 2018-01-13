@@ -10,11 +10,17 @@ For example, if you live with other people, work with other people, or meet othe
 
 **Do not share contact information on 7 Cups.**
 
-For example, do not use 7 Cups to share your e-mail address, social media handle, telephone number, links to your accounts on other websites, or any other information that someone could use to contact you offsite. But there are exceptions to this, explained below.
+For example, do not use 7 Cups to share your e-mail address, social media handle, telephone number, links to your accounts on other websites, or any other information that someone could use to contact you offsite.
+
+When you have to arrange contact with people you know offsite, you must make those arrangements offsite.
+
+There are exceptions to this, explained below.
 
 **Do not respond to contact information shared with you on 7 Cups.**
 
-If someone on 7 Cups shares offsite contact information, do not use it to contact them. But there are exceptions to this, explained below.
+If someone on 7 Cups shares offsite contact information, do not use it to contact them. 
+
+There are exceptions to this, explained below.
 
 ### Exception: anonymous accounts
 
