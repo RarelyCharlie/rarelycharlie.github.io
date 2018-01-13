@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: Manage Offsite Contact
+feedback: https://www.7cups.com/@RarelyCharlie
 ---
 *This is an unofficial interpretation of 7 Cups' rules governing offsite contact. It is for members and listeners. It does not all apply to therapists, or to some other people who have special roles at 7 Cups.*
 
