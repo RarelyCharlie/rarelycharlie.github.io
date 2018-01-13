@@ -41,7 +41,7 @@ You can make an offsite account on another website and share links to it on 7 Cu
 
 - The offsite account does not capture any contact information from people who visit it. (For example, it must not capture e-mail addresses.)
 
-- The offsite account is never used for 2-way communication with anyone. (For example, do not use e-mail or chat features.)
+- The offsite account is never used for 2-way communication with anyone. (For example, do not use e-mail, discussion or chat features.)
 
 Examples:
 
