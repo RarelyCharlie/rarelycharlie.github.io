@@ -32,9 +32,11 @@ Here's an updated (but unofficial) button that links to 7 Cups.
 To use the button in your website, the code is:
 
 ~~~
-<a href="https://www.7cups.com">
-<img src="https://rarelycharlie.github.io/assets/button.png"
-style="height:120px;width:120px;border:none;" /></a>
+<a href="https://www.7cups.com"
+ title="Click to go to 7 Cups">
+ <img src="https://rarelycharlie.github.io/assets/button.png"
+ style="height:120px;width:120px;border:none;"/>
+ </a>
 ~~~
 {:style="border: 1px solid #aaa; margin: 0 0 1em 0; padding: 0 0 0 1em;"}
 
