@@ -26,7 +26,8 @@ If you need a translated version of the flyer, or updated versions of the other 
 
 Here's an updated (but unofficial) button that links to 7 Cups.
 
-![button](/assets/button.png)
+[![button](/assets/button.png)](https://www.7cups.com)
+{:title="Click to go to 7 Cups"}
 
 To use the button in your website, the code is:
 
