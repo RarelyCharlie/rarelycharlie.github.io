@@ -35,6 +35,6 @@ To use the button in your website, the code is:
 <img src="https://rarelycharlie.github.io/assets/button.png"
 style="height:120px;width:120px;border:none;" /></a>
 ~~~
-{:style="border: 1px solid #aaa; margin: 0 0 1em 0;"}
+{:style="border: 1px solid #aaa; margin: 0 0 1em 0; padding: 0 0 0 1em;"}
 
 You can modify the code so that the `href` contains your personal link.
