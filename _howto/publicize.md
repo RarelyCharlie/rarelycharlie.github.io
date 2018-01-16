@@ -12,6 +12,7 @@ For some more resources, including a flyer that you can print and use in the rea
 You can download an updated (but unofficial) flyer from these links. There are two links because US (letter) and European (A4) paper sizes are slightly different.
 
 ![flyer thumbnail](/assets/flyer.png)
+{:style="float: left;"}
 
 [7 Cups Flyer US](/assets/flyer US.pdf)
 
