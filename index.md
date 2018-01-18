@@ -19,9 +19,9 @@ to find out what they all mean.
 A training course for new listeners is available as a draft version.
 
 ## [Chats](/chat/ 'Go to the index of chats')
-Fictional chats that illustrate some things about of active listening.
+Fictional chats that illustrate some things about active listening.
 
-## How-to guides
+## [How-to guides](/howto/ 'Go to the index of guides')
 A collection of how-to guides is currently in development but not available yet.
 
 ## Site and app index
