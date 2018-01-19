@@ -8,7 +8,7 @@ A large number in the Ratings column means the listeners are more experienced, b
 
 A large number in the Listeners column means you have more listeners to choose from, and a better chance of finding a listener who can chat to you right now.
 
-| Name of badge                                                          | Ratings | Listeners |
+| Name of badge                                                          | Ratings | Listeners* |
 |:-----------------------------------------------------------------------|--------:|----------:|
 | [Verified](https://www.7cups.com/BrowseListeners/?badge=121)           | 2       | 5,500     |
 | [Jester of Smiles](https://www.7cups.com/BrowseListeners/?badge=65)    | 10      | 19,000    |
@@ -22,3 +22,6 @@ The Verified Listener badge requires one good review by a listener and at least 
 Possibly the best way to find a good listener is to click on Jester of Smiles in the table. These listeners have at least 10 good ratings, and there are 19,000 of them to choose from.
 
 Once a listener has earned the Jester of Smiles badge, they can earn the other badges in the table if they just keep going for long enough. It's not certain that they become any better at listening.
+
+---
+\* Numbers of listeners were correct at the time of writing. For the latest numbers, see [Listener Reputation](https://www.7cups.com/about/faqBadgesCheers.php) and go to the Listener Quality Badges section.
