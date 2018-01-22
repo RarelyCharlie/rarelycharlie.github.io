@@ -13,8 +13,8 @@ This page displays Egyptian hieroglyphs.
   font-weight: 400;
   src: url(NewGardinerSMP.ttf) format('truetype');
 	}
-
-#latin {font-size: 24px; width: 800px;}
+input {margin: 0;}
+#latin {font-size: 24px; width: 100%;}
 #egypt {font-family: 'Noto Sans Egyptian Hieroglyphs';
 	font-size: 72px;
 	overflow-wrap: break-word;
