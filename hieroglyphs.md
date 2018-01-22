@@ -118,11 +118,11 @@ flip(true)
 font = function (noto) {
 	var s = egypt.style 
 	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
-	s.paddingTop = noto? '40px' : '12px'
-	s.paddingBottom = noto? '0' : '12px'
-	//s.minHeight = noto? '1.65em' : '1em'
 	s.letterSpacing = noto? '0' : '4px'
-	s.lineHeight = noto? '72px' : '96px'
+	s.paddingTop = noto? '0' : '0'
+	s.paddingBottom = noto? '0' : '0'
+	s.minHeight = noto? '0' : '0'
+	s.lineHeight = noto? '0' : '0'
 	}
 font(true)
 	
