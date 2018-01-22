@@ -113,16 +113,18 @@ flip = function (rtl) {
 	s.float = rtl? 'right' : 'left'
 	s.transform = rtl? 'scaleX(-1)' : 'none'
 	}
+flip(true)
 	
 font = function (noto) {
 	var s = egypt.style 
 	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
-	s.paddingTop = noto? '32px' : '20px'
+	s.paddingTop = noto? '12px' : '8px'
 	s.paddingBottom = noto? '0' : '20px'
 	s.minHeight = noto? '1.65em' : '1em'
 	s.letterSpacing = noto? '0' : '4px'
 	s.lineHeight = noto? '72px' : '96px'
 	}
+font(true)
 	
 getdesc = function (p, sentence) {
 	var t = descmap[p]
