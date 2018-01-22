@@ -18,7 +18,7 @@ input {margin: 0;}
 #egypt {font-family: 'Noto Sans Egyptian Hieroglyphs';
 	font-size: 72px; line-height: 72px;
 	overflow-wrap: break-word;
-	border: 1px solid #aaa; margin: 0 0 16px 0;
+	border: 1px solid #aaa; margin: 0;
 	border-radius: 12px; padding: 0 6px;
 	min-height: 1.65em; min-width: 1em; max-width: 800px;
 	float: right; text-align: center;
@@ -30,6 +30,7 @@ del {color: #f88; text-decoration: none;}
 #english {min-height: 1em; width: 40em; border: 1px solid #aaa; padding: 4px;
 	max-height: 6.5em; overflow-y: auto;}
 hr {margin: 2px 0;}
+h3 {margin: 0;}
 </style>
 
 <p>Gardiner codes and <em>Manuel de Codage</em> mnemonics:<br/>
