@@ -68,3 +68,74 @@ You can copy hieroglyphs from here and paste them in other places, but they will
 The hieroglyphic fonts on this page are [Noto Sans Egyptian Hieroglyphs](https://www.google.com/get/noto/#sans-egyp) and [New Gardiner SMP](https://mjn.host.cs.st-andrews.ac.uk/egyptian/fonts/newgardiner.html).
 
 This page is partly based on the [Egyptology software](https://mjn.host.cs.st-andrews.ac.uk/egyptian/) by Mark-Jan Nederhof at the University of St. Andrews.
+
+<script>
+latin = document.getElementById('latin')
+egypt = document.getElementById('egypt')
+warning = document.getElementById('warning')
+english = document.getElementById('english')
+pending = null
+
+addEventListener('keyup', () => {
+	if (pending) clearTimeout(pending)
+	pending = setTimeout(() => {
+		english.innerHTML = ''
+		var h = '', e = ''
+		latin.value.split(/(?=[ !.-])/).forEach((p) => {
+			p = p.replace(/[ -]/, '')
+			if (p == '!') h += '<br/>', p = p.substr(1), e += '<hr/>'
+			else if (p == '.') h += '\u2002', p = p.substr(1), e += '<br/>'
+			if (p == '') return
+			else {
+				if (p in mnemmap) p = mnemmap[p]
+				var i = codemap.indexOf(p)
+				if (i >= 0) {
+					h += String.fromCodePoint(77824 + i)
+					if (e) e += '<br/>'
+					e += getdesc(p, true)
+					}
+				else {
+					h += '<del>\u25ca</del>'
+					if (e) e += '<br/>'
+					e += '<span class="warning">' + p + ' — unknown</span>'
+					}
+				}
+			}) // foreach p
+		egypt.innerHTML = h
+		english.innerHTML = e
+		english.scrollTop = english.scrollHeight
+		}, 600) // timeout
+	}) // keypress
+	
+flip = function (rtl) {
+	var s = egypt.style
+	s.float = rtl? 'right' : 'left'
+	s.transform = rtl? 'scaleX(-1)' : 'none'
+	}
+	
+font = function (noto) {
+	var s = egypt.style 
+	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
+	s.paddingTop = noto? '0' : '20px'
+	s.paddingBottom = noto? '0' : '20px'
+	s.minHeight = noto? '1.65em' : '1em'
+	s.letterSpacing = noto? '0' : '4px'
+	}
+	
+getdesc = function (p, sentence) {
+	var t = descmap[p]
+	if (t.indexOf('[') >= 0) {
+		var ff = t.split('['), t = ''
+		ff.forEach(f => {
+			if (f.indexOf(']') > 0) {
+				var p = f.replace(/\].*/, '')
+				var r = f.replace(/.+]/, '')
+				t += getdesc(p, false) + ' (' + p + ') ' + r
+				}
+			else t += f
+			})
+		}
+	if (sentence) t = t.charAt(0).toUpperCase() + t.substr(1)
+	return t
+	}
+</script>
