@@ -11,7 +11,7 @@ This page displays Egyptian hieroglyphs.
   font-family: 'NewGardiner';
   font-style: normal;
   font-weight: 400;
-  src: url(NewGardinerSMP.ttf) format('truetype');
+  src: url(/assets/NewGardinerSMP.ttf) format('truetype');
 	}
 input {margin: 0;}
 #latin {font-size: 24px; width: 100%;}
