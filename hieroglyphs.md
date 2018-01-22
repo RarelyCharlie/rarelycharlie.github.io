@@ -16,7 +16,7 @@ This page displays Egyptian hieroglyphs.
 input {margin: 0;}
 #latin {font-size: 24px; width: 100%;}
 #egypt {font-family: 'Noto Sans Egyptian Hieroglyphs';
-	font-size: 72px; line-height: 72px;
+	font-size: 72px; line-height: 120px;
 	overflow-wrap: break-word;
 	border: 1px solid #aaa; margin: 0;
 	border-radius: 12px; padding: 0 12px;
@@ -119,10 +119,10 @@ font = function (noto) {
 	var s = egypt.style 
 	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
 	s.letterSpacing = noto? '0' : '4px'
-	s.paddingTop = noto? '0' : '0'
-	s.paddingBottom = noto? '0' : '0'
-	s.minHeight = noto? '0' : '0'
-	s.lineHeight = noto? '0' : '0'
+	//s.paddingTop = noto? '0' : '0'
+	//s.paddingBottom = noto? '0' : '0'
+	//s.minHeight = noto? '0' : '0'
+	//s.lineHeight = noto? '0' : '0'
 	}
 font(true)
 	
