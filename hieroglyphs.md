@@ -20,7 +20,7 @@ input {margin: 0;}
 	overflow-wrap: break-word;
 	border: 1px solid #aaa; margin: 0;
 	border-radius: 12px; padding: 0 12px;
-	min-height: 1.65em; min-width: 1em; max-width: 800px;
+	min-height: 1em; min-width: 1em;
 	float: right; text-align: center;
 	transform: scaleX(-1);}
 #egypt+* {clear: both;}
@@ -118,9 +118,9 @@ flip(true)
 font = function (noto) {
 	var s = egypt.style 
 	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
-	s.paddingTop = noto? '32px' : '12px'
+	s.paddingTop = noto? '40px' : '12px'
 	s.paddingBottom = noto? '0' : '12px'
-	s.minHeight = noto? '1.65em' : '1em'
+	//s.minHeight = noto? '1.65em' : '1em'
 	s.letterSpacing = noto? '0' : '4px'
 	s.lineHeight = noto? '72px' : '96px'
 	}
