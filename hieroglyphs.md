@@ -16,7 +16,7 @@ This page displays Egyptian hieroglyphs.
 input {margin: 0;}
 #latin {font-size: 24px; width: 100%;}
 #egypt {font-family: 'Noto Sans Egyptian Hieroglyphs';
-	font-size: 72px;
+	font-size: 72px; line-height: 72px;
 	overflow-wrap: break-word;
 	border: 1px solid #aaa; margin: 0 0 16px 0;
 	border-radius: 12px; padding: 0 6px;
