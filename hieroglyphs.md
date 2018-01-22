@@ -4,7 +4,7 @@ layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 This page displays Egyptian hieroglyphs.
-
+<script src="/assets/hieromap.js"></script>
 <style>
 @import url(//fonts.googleapis.com/earlyaccess/notosansegyptianhieroglyphs.css);
 @font-face {
