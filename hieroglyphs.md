@@ -14,7 +14,6 @@ This page displays Egyptian hieroglyphs.
   src: url(NewGardinerSMP.ttf) format('truetype');
 	}
 
-body {width: 800px; margin: 0 auto;}
 #latin {font-size: 24px; width: 800px;}
 #egypt {font-family: 'Noto Sans Egyptian Hieroglyphs';
 	font-size: 72px;
