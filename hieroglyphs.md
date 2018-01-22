@@ -28,7 +28,7 @@ del {color: #f88; text-decoration: none;}
 .indent {margin-left: 2em;}
 .warning {color: #a00;}
 #english {min-height: 1em; width: 40em; border: 1px solid #aaa; padding: 4px;
-	max-height: 6.5em; overflow-y: auto;}
+	max-height: 6.5em; overflow-y: auto; margin: 0 0 1em 0;}
 hr {margin: 2px 0;}
 h3 {margin: 0;}
 </style>
@@ -117,7 +117,7 @@ flip = function (rtl) {
 font = function (noto) {
 	var s = egypt.style 
 	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
-	s.paddingTop = noto? '20px' : '20px'
+	s.paddingTop = noto? '32px' : '20px'
 	s.paddingBottom = noto? '0' : '20px'
 	s.minHeight = noto? '1.65em' : '1em'
 	s.letterSpacing = noto? '0' : '4px'
