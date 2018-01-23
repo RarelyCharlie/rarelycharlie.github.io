@@ -36,7 +36,7 @@ h3 {margin: 0;}
 <p>Gardiner codes and <em>Manuel de Codage</em> mnemonics:<br/>
 <input type="text" id="latin" autofocus autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/></p>
 
-<div id="egypt"></div></p>
+<div id="egypt"></div>
 
 ### Description
 <div id="english"></div>
