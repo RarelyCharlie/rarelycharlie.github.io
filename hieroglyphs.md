@@ -21,7 +21,7 @@ input {margin: 0;}
 	border: 1px solid #aaa; margin: 0;
 	border-radius: 12px; padding: 0 12px;
 	min-height: 120px; min-width: 1em;
-	float: right; text-align: center;
+	float: right;
 	transform: scaleX(-1);}
 #egypt+* {clear: both;}
 del {color: #f88; text-decoration: none;}
