@@ -98,7 +98,7 @@ addEventListener('keyup', () => {
 				else {
 					h += '<del>\u25ca</del>'
 					if (e) e += '<br/>'
-					e += '<span class="warning">' + p + ' — unknown</span>'
+					e += '<span class="warning">' + p + ': unknown</span>'
 					}
 				}
 			}) // foreach p
