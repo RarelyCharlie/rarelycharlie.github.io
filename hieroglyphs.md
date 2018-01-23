@@ -84,8 +84,8 @@ addEventListener('keyup', () => {
 		var h = '', e = ''
 		latin.value.split(/(?=[ !.-])/).forEach((p) => {
 			p = p.replace(/[ -]/, '')
-			if (p == '!') h += '<br/>', p = p.substr(1), e += '<hr/>'
-			else if (p == '.') h += '\u2002', p = p.substr(1), e += '<br/>'
+			if (p == '!') h += '<br/>', p = p.substr(1), e += '— — —'
+			else if (p == '.') h += '\u2002', p = p.substr(1), e += '.<br/>'
 			if (p == '') return
 			else {
 				if (p in mnemmap) p = mnemmap[p]
@@ -93,7 +93,7 @@ addEventListener('keyup', () => {
 				if (i >= 0) {
 					h += String.fromCodePoint(77824 + i)
 					if (e) e += '<br/>'
-					e += getdesc(p, true)
+					e += p + ': ' + getdesc(p, true)
 					}
 				else {
 					h += '<del>\u25ca</del>'
@@ -119,10 +119,6 @@ font = function (noto) {
 	var s = egypt.style 
 	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
 	s.letterSpacing = noto? '0' : '6px'
-	//s.paddingTop = noto? '0' : '0'
-	//s.paddingBottom = noto? '0' : '0'
-	//s.minHeight = noto? '0' : '0'
-	//s.lineHeight = noto? '0' : '0'
 	}
 font(true)
 	
