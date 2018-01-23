@@ -56,11 +56,11 @@ h3 {margin: 0;}
 ### Information
 This page converts Gardiner codes and <em>Manuel de Codage</em> mnemonics to Unicode hieroglyphs.
 
-All the available codes and hieroglyphs are listed here: [The 1071 hieroglyphs from Unicode 5.2](https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/tablemain.html) The 330 mnemonics are the phonetic codes described here: [Phonetic codes](http://www.catchpenny.org/codage/#phonetic).
+All the available codes and hieroglyphs are listed here: [The 1071 hieroglyphs from Unicode 5.2](https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/tablemain.html) The 330 mnemonics are the phonetic codes described here: [Manuel de Codage Appendix B](http://www.catchpenny.org/codage/#app2).
 
 Around 4,000 additional hieroglyphs exist, but they are not available here because they are not in Unicode. Groups of vertically stacked hieroglyphs are not currently possible here.
 
-Type spaces or hyphens between the codes and mnemonics. Type an exclamation mark, !, to start a new line of hieroglyphs. Type a full stop (period), . , to insert a space between hieroglyphs.
+Type spaces or hyphens between the codes and mnemonics. Type an exclamation mark, !, to start a new line of hieroglyphs. Type a full stop (period), . , to insert a space between hieroglyphs. No other formatting is supported.
 
 If you see the symbol <del>&#9674;</del>, it means you typed something that cannot be interpreted.
 
