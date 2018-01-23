@@ -84,8 +84,8 @@ addEventListener('keyup', () => {
 		var h = '', e = ''
 		latin.value.split(/(?=[ !.-])/).forEach((p) => {
 			p = p.replace(/[ -]/, '')
-			if (p == '!') h += '<br/>', p = p.substr(1), e += '— — —'
-			else if (p == '.') h += '\u2002', p = p.substr(1), e += '.<br/>'
+			if (p == '!') h += '<br/>', p = p.substr(1), e += '<br/>— — —<br/>'
+			else if (p == '.') h += '\u2002', p = p.substr(1), e += '<br/>·<br/>'
 			if (p == '') return
 			else {
 				if (p in mnemmap) p = mnemmap[p]
