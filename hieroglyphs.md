@@ -84,6 +84,14 @@ addEventListener('keyup', () => {
 		var h = '', e = ''
 		latin.value.split(/(?=[ !.-])/).forEach((p) => {
 			p = p.replace(/[ -]/, '')
+			var c
+			while ((c = p.codePointAt(0)) >127) {
+				p = p.substr(1)
+				if (c < 77824) continue
+				h += String.fromCodePoint(c)
+				if (e) e += '<br/>'
+				e += getdesc(codemap[c - 77824], true)
+				}
 			if (p == '!') h += '<br/>', p = p.substr(1), e += '<br/>— — —'
 			else if (p == '.') h += '\u2002', p = p.substr(1), e += '<br/>·'
 			if (p == '') return
