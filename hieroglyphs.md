@@ -101,7 +101,7 @@ addEventListener('keyup', () => {
 				if (i >= 0) {
 					h += String.fromCodePoint(77824 + i)
 					if (e) e += '<br/>'
-					e += p + ': ' + getdesc(p, true)
+					e += getdesc(p, true)
 					}
 				else {
 					h += '<del>\u25ca</del>'
