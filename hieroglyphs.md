@@ -121,7 +121,7 @@ flip = function (rtl) {
 	s.float = rtl? 'right' : 'left'
 	s.transform = rtl? 'scaleX(-1)' : 'none'
 	}
-flip(true)
+flip(false)
 	
 font = function (noto) {
 	var s = egypt.style 
@@ -143,7 +143,7 @@ getdesc = function (p, sentence) {
 			else t += f
 			})
 		}
-	if (sentence) t = t.charAt(0).toUpperCase() + t.substr(1)
+	if (sentence) t = p + ': ' + t.charAt(0).toUpperCase() + t.substr(1)
 	return t
 	}
 </script>
