@@ -43,8 +43,8 @@ h3 {margin: 0;}
 
 ### Direction
 <p class="indent">
-<label for="dirltr"><input type="radio" id="dirltr" name="dir" onclick="flip(false)">Left to right</label>&nbsp;
-<label for="dirrtl"><input type="radio" id="dirrtl" name="dir" checked onclick="flip(true)">Right to left</label>
+<label for="dirltr"><input type="radio" id="dirltr" name="dir" onclick="flip(false)" checked>Left to right</label>&nbsp;
+<label for="dirrtl"><input type="radio" id="dirrtl" name="dir" onclick="flip(true)">Right to left</label>
 </p>
 
 ### Font
