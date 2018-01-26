@@ -466,6 +466,9 @@ Short for KrinkTheMellowUnicorn, the ~~listener~~ name of ~~7 Cups~~ ~~staff~~ m
 
 ## L
 
+# L
+Abbreviation sometimes used for ~~listener.~~
+
 # LaraG
 ~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member and ~~therapist~~ ~~community~~ manager Lara Gregorio, who also has a ~~therapist~~ ~~account~~ named LaraGregorio. Not to be confused with ~~Iara~~.  _See:_ [@LaraG](http://7cups.com/@LaraG), [@LaraGregorio](http://7cups.com/@LaraGregorio)
 
