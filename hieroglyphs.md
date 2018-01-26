@@ -126,6 +126,11 @@ flip = function (rtl) {
 	s.transform = rtl? 'scaleX(-1)' : 'none'
 	}
 flip(false)
+
+vert = function (box) {
+	egypt.style.writingMode = box.checked? 'vertical-rl' : 'initial'
+	}
+vert({checked: false;})
 	
 font = function (noto) {
 	var s = egypt.style 
