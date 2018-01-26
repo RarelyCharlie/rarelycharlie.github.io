@@ -519,6 +519,9 @@ Listener support room. A ~~room~~ where ~~listeners/listener~~ can go to get sup
 
 ## M
 
+# M
+Abbreviation sometimes used for ~~member.~~
+
 # Marching Ahead
 13th of the twenty groups of ~~member~~ ~~levels./level~~
 
