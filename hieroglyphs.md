@@ -22,7 +22,8 @@ input {margin: 0;}
 	border-radius: 12px; padding: 0 12px;
 	min-height: 120px; min-width: 1em;
 	float: right; margin-bottom: 12px;
-	transform: scaleX(-1);}
+	transform: scaleX(-1);
+	writing-mode: vertical-rl;}
 #egypt+* {clear: both;}
 del {color: #f88; text-decoration: none;}
 .indent {margin-left: 2em;}
