@@ -84,8 +84,8 @@ addEventListener('keyup', () => {
 	pending = setTimeout(() => {
 		english.innerHTML = ''
 		var h = '', e = ''
-		latin.value.split(/(?=[ !.-])/).forEach((p) => {
-			p = p.replace(/[ -]/, '')
+		latin.value.split(/(?=[ \/-])/).forEach((p) => {
+			p = p.replace(/\s/, '')
 			var c
 			while ((c = p.codePointAt(0)) >127) {
 				p = p.substr(1)
