@@ -62,7 +62,7 @@ Around 4,000 additional hieroglyphs exist, but they are not available here becau
 
 Type spaces between codes and mnemonics. Spaces between hieroglyphs are optional.
 
-Type a slash, `/` , to start a new line of hieroglyphs. Type a hyphen, `-` , to insert a space between hieroglyphs. These formatting symbols do not require spaces around them. No other formatting symbols are currently supported, but further formatting options are planned.
+Type a slash, `/` , to start a new line of hieroglyphs. Type a hyphen, `-` , to insert a space between hieroglyphs. These formatting symbols may sometimes require spaces around them (this is a bug). No other formatting symbols are currently supported, but further formatting options are planned.
 
 In the hieroglyphs, if you see the symbol <big><del>&#9674;</del></big>, it means you typed something that cannot be interpreted.
 
