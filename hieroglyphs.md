@@ -54,7 +54,7 @@ h3 {margin: 0;}
 </p>
 
 ### Information
-This page converts any mixture of Unicode hieroglyphs (like X), Gardiner codes (like G1) and <em>Manuel de Codage</em> mnemonics (like pA) to Unicode hieroglyphs.
+This page converts any mixture of Unicode hieroglyphs (like 𓄿), Gardiner codes (like A1) and <em>Manuel de Codage</em> mnemonics (like pA) to Unicode hieroglyphs.
 
 All the available codes and hieroglyphs are listed here: [The 1071 hieroglyphs from Unicode 5.2](https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/tablemain.html) The 330 mnemonics are the phonetic codes described here: [Manuel de Codage Appendix B](http://www.catchpenny.org/codage/#app2).
 
@@ -94,8 +94,8 @@ addEventListener('keyup', () => {
 				if (e) e += '<br/>'
 				e += getdesc(codemap[c - 77824], true)
 				}
-			if (p == '!') h += '<br/>', p = p.substr(1), e += '<br/>— — —'
-			else if (p == '.') h += '\u2002', p = p.substr(1), e += '<br/>·'
+			if (p == '/') h += '<br/>', p = p.substr(1), e += '<br/>— — —'
+			else if (p == '-') h += '\u2002', p = p.substr(1), e += '<br/>·'
 			if (p == '') return
 			else {
 				if (p in mnemmap) p = mnemmap[p]
