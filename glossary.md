@@ -852,6 +852,9 @@ The goal (reached by the beginning of 2017) of sufficient income to make ~~7 Cup
 
 ## T
 
+# T
+Abbreviation sometimes used for ~~therapist,~~ or lowercase **t** for ~~teen.~~
+
 # tag
 A reference to an ~~account~~ made by prefixing its ~~name~~ with an @-sign. In ~~feed~~ ~~posts~~ and ~~forum~~ posts this creates an automatic ~~notification~~ to the account that was tagged. Also, a ~~hashtag~~.
 
