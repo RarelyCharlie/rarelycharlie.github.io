@@ -345,6 +345,9 @@ A ~~subscriber/subscription~~ in a ~~subcommunity.~~
 
 ## G
 
+# G
+Abbreviation sometimes used for ~~guest.~~
+
 # general request
 A request for a ~~1-to-1 chat~~ made by a ~~guest~~ or ~~member~~. Any ~~listener~~ can respond to the request, and responding starts a 1-to-1 chat.
 
