@@ -53,6 +53,9 @@ An administrator. Admins are paid ~~staff~~ of ~~7 Cups~~.
 # adult
 An ~~account~~ whose owner has registered as being 18 years old or older. Adult ~~listeners/listener~~ can only take ~~1-to-1 chats/1-to-1 chat~~ with adult ~~guests/guest~~ and ~~members,/member~~ but ~~teen and adult~~ listeners do not have this restriction.  _See also:_ ~~teen~~
 
+# adult teen listener
+A ~~teen and adult~~ listener.
+
 # Advanced
 10th of the 27 groups of ~~listener~~ ~~levels./level~~
 
@@ -96,6 +99,9 @@ A token awarded to a ~~listener~~ on progressing beyond the last ~~level~~ in a 
 
 # Apprentice
 5th of the 27 groups of ~~listener~~ ~~levels./level~~
+
+# ATL
+Abbreviation sometimes used for "adult teen listener" (a ~~teen and adult~~ listener).
 
 ## B
 
