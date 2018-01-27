@@ -189,6 +189,9 @@ A system that people can use to send ~~messages/message~~ to each other with ver
 # chatroom
 A system designed to allow many people to ~~chat~~ to each other at the same time. 7 Cups contains many chatrooms, each of them intended for particular topics or groups of participants.
 
+# Chatroom Moderator
+A ~~listener~~ who is a ~~mod~~ in the ~~chatrooms/chatroom~~ of a ~~subcommunity.~~
+
 # chatter
 Informal term for a ~~member~~ or ~~guest~~ who takes part in ~~chats/chat~~ for support, as opposed to a ~~listener.~~
 
@@ -199,7 +202,7 @@ A ~~forum~~ ~~thread~~ intended for people who have some common interest (for ex
 A point awarded for activity on ~~7 Cups~~. Cheers accumulate and form part of the system of ~~reputation~~. Some people have accumulated more than a million cheers. _See also:_ ~~compassion heart~~
 
 # community
-All the people involved in ~~7 Cups~~.
+All the people involved in ~~7 Cups~~. Sometimes used informally to mean a ~~subcommunity.~~
 
 # Community Guidelines
 ~~Rules/rule~~ and guidance that apply to behavior in the ~~community~~. There is a separate version for ~~listeners/listener~~.
@@ -208,6 +211,12 @@ _See:_ [Community Guidelines](https://docs.google.com/document/d/18gttZ4jy6oDFEt
 
 # Community Liaison
 A special ~~account~~ for answering questions about ~~7 Cups~~ that any ~~member~~ or ~~listener~~ may need to ask. The account is configured to look like a ~~listener~~ but it does not normally take chats and the questions are answered by a team of listeners. _See:_ [Community Liaison](https://www.7cups.com/@CommunityLiaison)
+
+# Community Mentor
+Someone who combines leading ~~discussions/discussion~~ with ~~moderating/mod~~ ~~forums~~ in a ~~subcommunity.~~
+
+# Community Mentor Leader
+Someone responsible for overseeing a ~~subcommunity.~~
 
 # community manager
 One of several members of ~~staff~~ responsible for the ~~community.~~ 
@@ -345,6 +354,12 @@ A ~~listener~~ with a special role in a ~~forum~~ in connection with some projec
 # Forum Member Leader
 A ~~member~~ who is a forum ~~mod~~.
 
+# Forum Mentor
+A ~~listener~~ who is a forum ~~mod~~.
+
+# Forum Supporter
+Someone who has a role initiating activities in the ~~forums/forum~~ of a ~~subcommunity.~~
+
 # friend
 A ~~subscriber/subscription~~ in a ~~subcommunity.~~
 
@@ -448,6 +463,9 @@ A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed 
 
 
 ## J
+
+# Junior Community Mentor
+Someone in a ~~subcommunity~~ who combines leading ~~discussions/discussion~~ with community activities in the ~~forums.~~
 
 # Junior Pupil
 7th of the 18 levels in the listener ~~certification~~ program.
@@ -705,7 +723,7 @@ The accumulation of ~~cheers/cheer~~ or of ~~steps/step~~ on a ~~growth path~~.
 7th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # project agent
-A ~~listener~~ designated as having a special role in the ~~community~~ as a member of a team that undertakes some activity.
+A ~~listener~~ designated as having a special role in the ~~community~~ as a member of a team that undertakes some activity, or anyone with a special role in projects within a ~~subcommunity.~~
 
 # PS
 ~~Peer support.~~
@@ -851,6 +869,12 @@ A system for receiving automatic ~~notification~~ whenever a particular ~~forum~
 
 # Supporter
 6th of the 27 groups of ~~listener~~ ~~levels/level~~. Also a ~~member~~ or listener with a special role in supporting the ~~community~~.
+
+# Support Session Leader
+Someone with a role in leading events in the ~~chatrooms/chatroom~~ of a ~~subcommunity.~~
+
+# Support Team Leader
+Someone responsble for all the ~~discussions/discussion~~ in a ~~subcommunity.~~
 
 # sustainability
 The goal (reached by the beginning of 2017) of sufficient income to make ~~7 Cups~~ financially sustainable in the long term.
