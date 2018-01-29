@@ -180,7 +180,7 @@ vert = function (box) {
 vert({checked: false})
 	
 font = function (noto) {
-	var s = egypt.style 
+	var s = document.getElementById('egypt').style
 	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
 	s.letterSpacing = noto? '0' : '6px'
 	}
