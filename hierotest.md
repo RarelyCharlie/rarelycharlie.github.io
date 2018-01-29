@@ -87,6 +87,9 @@ In the hieroglyphs, if you see the symbol <big><del>&#9674;</del></big>, it mean
 
 You can copy hieroglyphs from here and paste them in other places, but they will only look right on a computer that has an appropriate font installed in it, and they might only display correctly left-to-right.
 
+### Known problems
+There are currently many known problems with layout. Some individual glyphs are badly positioned, and this depends on the font. Vertically-stacked groups don't work at all when the overall layout is vertical. Some of these problems might be fixed in future versions.
+
 ### Sources
 The hieroglyphic fonts on this page are [Noto Sans Egyptian Hieroglyphs](https://www.google.com/get/noto/#sans-egyp) and [New Gardiner SMP](https://mjn.host.cs.st-andrews.ac.uk/egyptian/fonts/newgardiner.html).
 
