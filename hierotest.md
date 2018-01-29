@@ -177,6 +177,11 @@ stack = function () {
 		s0.style.top = '-' + topoffset + 'px'
 		s.style.width = s0.style.width = s1.style.width = w + 'px'
 		}
+	ss = document.getElementsByClassName('midline')
+	for (let s of ss) {
+		let m = metrics(s.textContent)
+		if (m.height < 64) s.style.top = (72 - m.height - m.base) / 2
+		}
 	}
 
 addEventListener('keyup', () => {
