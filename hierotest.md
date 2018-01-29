@@ -25,6 +25,9 @@ input {margin: 0;}
 	transform: scaleX(-1);
 	writing-mode: vertical-rl;}
 #egypt+* {clear: both;}
+span {position: relative; display: inline-block; margin: 0; padding: 0;}
+span.top {top: -34px; text-align: center;}
+span.bot {text-align: center;}
 del {color: #f88; text-decoration: none;}
 .indent {margin-left: 2em;}
 .warning {color: #a00;}
