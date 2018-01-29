@@ -183,6 +183,7 @@ font = function (noto) {
 	var s = document.getElementById('egypt').style
 	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
 	s.letterSpacing = noto? '0' : '6px'
+	stack()
 	}
 font(true)
 	
@@ -201,5 +202,10 @@ getdesc = function (p, sentence) {
 		}
 	if (sentence) t = p + ': ' + t.charAt(0).toUpperCase() + t.substr(1)
 	return t
+	}
+
+demo = function () {
+	latin.value = 'M17 G43 [D21/D36] N5 G17 [Q3 X1/N1]'
+	convert()
 	}
 </script>
