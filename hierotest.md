@@ -84,43 +84,87 @@ warning = document.getElementById('warning')
 english = document.getElementById('english')
 pending = null
 
-addEventListener('keyup', () => {
-	if (pending) clearTimeout(pending)
-	pending = setTimeout(() => {
-		english.innerHTML = ''
-		var h = '', e = ''
-		latin.value.split(/(?=[ \/-])/).forEach((p) => {
-			p = p.replace(/\s/, '')
-			var c
-			while ((c = p.codePointAt(0)) >127) {
-				p = p.substr(1)
-				if (c < 77824) continue
-				h += String.fromCodePoint(c)
-				if (e) e += '<br/>'
-				e += getdesc(codemap[c - 77824], true)
-				}
-			if (p == '/') h += '<br/>', p = p.substr(1), e += '<br/>— — —'
-			else if (p == '-') h += '\u2002', p = p.substr(1), e += '<br/>·'
-			if (p == '') return
-			else {
-				if (p in mnemmap) p = mnemmap[p]
-				var i = codemap.indexOf(p)
+egypt = '' // eventual output
+
+basemap = { // baseline adjustments...
+	N5: 18
+	}
+
+convert = function (input) { // this is the converter!
+	input = input.replace(/([-\/\[\]\(\)])/g, '$1 ')
+	egypt = ''
+	var cc = input.split(/(?=[ -\/\[\]\(\)])/)
+	level = 0 // 0 = normal, 1 = bottom, 2 = middle, 3 = top
+	for (let c of cc) {
+		c = c.trim()
+		switch (c) {
+			case '': continue
+			case '[': // switch to top
+				addspan(level = 3)
+				break
+			case ']': // switch to normal
+				addspan(level = 0)
+				break
+			case '/':
+				if (level == 3) addspan(level = 1) // switch to bottom
+				else egypt += '<br/>'
+				break
+			case '-':
+				egypt += '&nbsp;'
+				break
+			default:
+				if (c in mnemmap) c = mnemmap[c]
+				var i = codemap.indexOf(c)
 				if (i >= 0) {
-					h += String.fromCodePoint(77824 + i)
-					if (e) e += '<br/>'
-					e += getdesc(p, true)
+					let g = String.fromCodePoint(77824 + i)
+					if (c in basemap) egypt += '<span style="position: relative; top: ' + (-basemap[c]) + 'px;">' + g + '</span>'
+					else egypt += g
+					//if (e) e += '<br/>'
+					//e += getdesc(p, true)
 					}
 				else {
-					h += '<del>\u25ca</del>'
-					if (e) e += '<br/>'
-					e += '<span class="warning">' + p + ': unknown</span>'
-					}
-				}
-			}) // foreach p
-		egypt.innerHTML = h
-		english.innerHTML = e
-		english.scrollTop = english.scrollHeight
-		}, 600) // timeout
+					egypt += '<del>\u25ca</del>'
+					//if (e) e += '<br/>'
+					//e += '<span class="warning">' + p + ' — unknown</span>'
+					}				
+			}
+		
+		//let g = new Glyph(c, level)
+		}
+		
+	document.getElementById('egypt').innerHTML = egypt
+	}
+	
+addspan = function (level) {
+	switch (level) {
+		case 3:
+			egypt += '<span class="stack"><span class="top">'
+			break
+		case 2:
+			egypt += '</span><span class="mid">'
+			break
+		case 1:
+			egypt += '</span><span class="bot">'
+			break
+		case 0:
+			egypt += '</span></span>'
+			break			
+		}
+	}
+	
+stack = function () {
+	var ss = document.getElementsByClassName('stack')
+	for (let s of ss) {
+		let s0 = s.firstElementChild, s1 = s.lastElementChild
+		let w = Math.max(s0.offsetWidth, s1.offsetWidth)
+		s0.style.position = 'absolute'
+		s.style.width = s0.style.width = s1.style.width = w + 'px'
+		}
+	}
+
+addEventListener('keyup', () => {
+	if (pending) clearTimeout(pending)
+	pending = setTimeout(convert, 600)
 	}) // keypress
 	
 flip = function (rtl) {
