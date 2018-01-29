@@ -57,24 +57,35 @@ h3 {margin: 0;}
 <label for="fontg"><input type="radio" id="fontg" name="font" onclick="font(false)"> New Gardiner</label>
 </p>
 
+### Demonstration
+For a demonstration, press the Demo button. It displays this coded text: `M17 G43 [D21/D36] N5 G17 [Q3 X1/N1]` The English translation is, "*The Sun is in the sky.*" The conventional modern pronounciation is something like, "**"
+
+<button id="demo" onclick="demo()">Demo</button>
+
 ### Information
-This page converts any mixture of Unicode hieroglyphs (like 𓄿), Gardiner codes (like A1) and <em>Manuel de Codage</em> mnemonics (like pA) to Unicode hieroglyphs.
+This page converts any mixture of Unicode hieroglyphs (like 𓄿), Gardiner codes (like `A1`) and <em>Manuel de Codage</em> mnemonics (like `pA`) to Unicode hieroglyphs. It can create an approximate representation of some some simple hieroglyphic texts.
 
 All the available codes and hieroglyphs are listed here: [The 1071 hieroglyphs from Unicode 5.2](https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/tablemain.html) The 330 mnemonics are the phonetic codes described here: [Manuel de Codage Appendix B](http://www.catchpenny.org/codage/#app2).
 
-Around 4,000 additional hieroglyphs exist, but they are not available here because they are not in Unicode. Groups of vertically stacked hieroglyphs and other formatting are not currently possible here.
+Around 4,000 additional hieroglyphs exist, but they are not available here because they are not in Unicode.
 
-Type spaces between codes and mnemonics. Spaces between hieroglyphs are optional.
+### How to use this page
+Type any mixture of hieroglyphs, codes and mnemonics. Codes and mnemonics require spaces or punctuation between them, but hieroglyphs don't.
 
-Type a slash, `/` , to start a new line of hieroglyphs. Type a hyphen, `-` , to insert a space between hieroglyphs. These formatting symbols may sometimes require spaces around them (this is a bug). No other formatting symbols are currently supported, but further formatting options are planned.
+Type a slash, `/` , to start a new line of hieroglyphs.
+
+Type a hyphen, `-` , to insert a space between hieroglyphs.
+
+Type square brackets, `[]`, around vertically-stacked groups, with a slash, `/`, separating the top and bottom. Vertically stacked groups can only have two levels.
 
 In the hieroglyphs, if you see the symbol <big><del>&#9674;</del></big>, it means you typed something that cannot be interpreted.
 
-You can copy hieroglyphs from here and paste them in other places, but they will only look right on a computer that has an appropriate font installed in it, and they might only display left-to-right.
+You can copy hieroglyphs from here and paste them in other places, but they will only look right on a computer that has an appropriate font installed in it, and they might only display correctly left-to-right.
 
+### Sources
 The hieroglyphic fonts on this page are [Noto Sans Egyptian Hieroglyphs](https://www.google.com/get/noto/#sans-egyp) and [New Gardiner SMP](https://mjn.host.cs.st-andrews.ac.uk/egyptian/fonts/newgardiner.html).
 
-This page is partly based on the [Egyptology software](https://mjn.host.cs.st-andrews.ac.uk/egyptian/) by Mark-Jan Nederhof at the University of St. Andrews.
+This page is partly based on the [Egyptology software](https://mjn.host.cs.st-andrews.ac.uk/egyptian/) pages by Mark-Jan Nederhof at the University of St. Andrews.
 
 <script>
 latin = document.getElementById('latin')
