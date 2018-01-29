@@ -182,6 +182,11 @@ stack = function () {
 		let m = metrics(s.textContent)
 		if (m.height < 68) s.style.top = '' + ((m.height + m.base - 72) / 2) + 'px'
 		}
+	ss = document.getElementsByClassName('baseline')
+	for (let s of ss) {
+		let m = metrics(s.textContent)
+		if (Math.abs(m.base) > 2) s.style.top = '' + m.base + 'px'
+		}
 	}
 
 addEventListener('keyup', () => {
