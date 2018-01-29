@@ -141,7 +141,7 @@ convert = function () { // this is the converter!
 				else {
 					egypt += '<del>\u25ca</del>'
 					if (e) e += '<br/>'
-					e += (level > 0? '| &nbsp;' : '') + '<span class="warning">' + p + ' — unknown</span>'
+					e += (level > 0? '| &nbsp;' : '') + '<span class="warning">' + c + ' — unknown</span>'
 					}				
 			}
 
