@@ -84,10 +84,6 @@ pending = null
 egypt = '' // eventual output
 topoffset = 0 // font-dependent
 
-basemap = { // baseline adjustments...
-	N5: 18
-	}
-
 convert = function () { // this is the converter!
 	input = latin.value.replace(/([-\/\[\]\(\)])/g, '$1 ')
 	egypt = ''
@@ -116,7 +112,7 @@ convert = function () { // this is the converter!
 				if (i >= 0) {
 					let g = String.fromCodePoint(77824 + i)
 					if (level == 0 && c in basemap)
-					  egypt += '<span style="position: relative; top: ' 
+					  egypt += '<span data-code="' + c + '" style="position: relative; top: ' 
 					    + (-basemap[c]) + 'px;">' + g + '</span>'
 					else egypt += g
 					//if (e) e += '<br/>'
@@ -185,6 +181,7 @@ font = function (noto) {
 	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
 	s.letterSpacing = noto? '0' : '6px'
 	topoffset = noto? 48 : 34
+	basemap = noto? {N5: 12, X1: -12} : {N5: 18, X1: -12}
 	stack()
 	}
 font(true)
