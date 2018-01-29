@@ -26,8 +26,7 @@ input {margin: 0;}
 	writing-mode: vertical-rl;}
 #egypt+* {clear: both;}
 span {position: relative; display: inline-block; margin: 0; padding: 0;}
-span.top {top: -34px; text-align: center;}
-span.bot {text-align: center;}
+span.top, span.bot {text-align: center;}
 del {color: #f88; text-decoration: none;}
 .indent {margin-left: 2em;}
 .warning {color: #a00;}
@@ -83,6 +82,7 @@ warning = document.getElementById('warning')
 english = document.getElementById('english')
 pending = null
 egypt = '' // eventual output
+topoffset = 0 // font-dependent
 
 basemap = { // baseline adjustments...
 	N5: 18
@@ -158,6 +158,7 @@ stack = function () {
 		let s0 = s.firstElementChild, s1 = s.lastElementChild
 		let w = Math.max(s0.offsetWidth, s1.offsetWidth)
 		s0.style.position = 'absolute'
+		s0.style.top = '-' + topoffset + 'px'
 		s.style.width = s0.style.width = s1.style.width = w + 'px'
 		}
 	}
@@ -183,6 +184,7 @@ font = function (noto) {
 	var s = document.getElementById('egypt').style
 	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
 	s.letterSpacing = noto? '0' : '6px'
+	topoffset = noto? 40 : 34
 	stack()
 	}
 font(true)
