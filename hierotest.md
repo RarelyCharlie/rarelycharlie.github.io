@@ -180,7 +180,7 @@ stack = function () {
 	ss = document.getElementsByClassName('midline')
 	for (let s of ss) {
 		let m = metrics(s.textContent)
-		if (m.height < 64) s.style.top = '' + ((72 - m.height - m.base) / 2) + 'px'
+		if (m.height < 68) s.style.top = '' + ((m.height + m.base - 72) / 2) + 'px'
 		}
 	}
 
