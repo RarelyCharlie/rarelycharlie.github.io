@@ -42,7 +42,7 @@ h3 {margin: 0;}
 
 <div id="egypt"></div>
 
-### Description
+### Hieroglyphs and their descriptions
 <div id="english"></div>
 
 ### Direction
@@ -105,7 +105,7 @@ topoffset = 0 // font-dependent
 
 convert = function () { // this is the converter!
 	input = latin.value.replace(/([-\/\[\]\(\)])/g, '$1 ')
-	egypt = ''
+	egypt = '', e = ''
 	var cc = input.split(/(?=[ -\/\[\]\(\)])/)
 	level = 0 // 0 = normal, 1 = bottom, 2 = middle, 3 = top
 	for (let c of cc) {
@@ -134,13 +134,13 @@ convert = function () { // this is the converter!
 					  egypt += '<span data-code="' + c + '" style="position: relative; top: ' 
 					    + (-basemap[c]) + 'px;">' + g + '</span>'
 					else egypt += g
-					//if (e) e += '<br/>'
-					//e += getdesc(p, true)
+					if (e) e += '<br/>'
+					e += (level > 0? '&nbsp;' : '') + getdesc(c, true)
 					}
 				else {
 					egypt += '<del>\u25ca</del>'
-					//if (e) e += '<br/>'
-					//e += '<span class="warning">' + p + ' — unknown</span>'
+					if (e) e += '<br/>'
+					e += (level > 0? '&nbsp;' : '') + '<span class="warning">' + p + ' — unknown</span>'
 					}				
 			}
 
