@@ -34,6 +34,7 @@ del {color: #f88; text-decoration: none;}
 	max-height: 6.5em; overflow-y: auto; margin: 0 0 1em 0;}
 hr {margin: 2px 0;}
 h3 {margin: 0;}
+#demo {padding: 6px 12px; border-radius: 6px; background: #afa;}
 </style>
 
 <p><label for="latin">Hieroglyphs, Gardiner codes and <em>Manuel de Codage</em> mnemonics:</label><br/>
@@ -58,7 +59,7 @@ h3 {margin: 0;}
 </p>
 
 ### Demonstration
-For a demonstration, press the Demo button. It displays this coded text: `M17 G43 [D21/D36] N5 G17 [Q3 X1/N1]` The English translation is, "*The Sun is in the sky.*" The conventional modern pronounciation is something like, "**"
+For a demonstration, press the Demo button. It displays this coded text: `M17 G43 [D21/D36] N5 G17 [Q3 X1/N1]` The English translation is, "*The Sun is in the sky.*" The conventional modern pronounciation is something like, "*yew rgh em pet*" (but no one really knows what ancient Egyptian sounded like).
 
 <button id="demo" onclick="demo()">Demo</button>
 
