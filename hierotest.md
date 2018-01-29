@@ -148,6 +148,9 @@ convert = function () { // this is the converter!
 		
 	document.getElementById('egypt').innerHTML = egypt
 	stack()
+	
+	english.innerHTML = e
+	english.scrollTop = english.scrollHeight
 	}
 	
 addspan = function (level) {
@@ -181,7 +184,7 @@ stack = function () {
 addEventListener('keyup', () => {
 	if (pending) clearTimeout(pending)
 	pending = setTimeout(convert, 600)
-	}) // keypress
+	})
 
 flip = function (rtl) {
 	var s = document.getElementById('egypt').style
