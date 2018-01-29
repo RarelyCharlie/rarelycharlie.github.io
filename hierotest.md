@@ -168,14 +168,14 @@ addEventListener('keyup', () => {
 	}) // keypress
 	
 flip = function (rtl) {
-	var s = egypt.style
+	var s = document.getElementById('egypt').style
 	s.float = rtl? 'right' : 'left'
 	s.transform = rtl? 'scaleX(-1)' : 'none'
 	}
 flip(false)
 
 vert = function (box) {
-	egypt.style.writingMode = box.checked? 'vertical-rl' : 'initial'
+	document.getElementById('egypt').style.writingMode = box.checked? 'vertical-rl' : 'initial'
 	}
 vert({checked: false})
 	
