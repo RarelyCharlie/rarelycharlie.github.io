@@ -63,7 +63,7 @@ For a demonstration, press the Demo button. It displays this coded text:
 
 `M17 G43 [D21/D36] N5 G17 [Q3 X1/N1]`
 
-The conventional modern pronounciation is something like, "*yew rgh em pet*" (but no one really knows what ancient Egyptian sounded like). The English translation is, "*The Sun is in the sky.*"
+The conventional modern pronounciation is something like, "*yew rgh em pet *" (but no one really knows what ancient Egyptian sounded like). The English translation is, "*The Sun is in the sky.*"
 
 <button id="demo" onclick="demo()">Demo</button>
 
