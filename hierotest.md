@@ -132,9 +132,7 @@ convert = function () { // this is the converter!
 				var i = codemap.indexOf(c)
 				if (i >= 0) {
 					let g = String.fromCodePoint(77824 + i)
-					if (level == 0 && c in basemap)
-					  egypt += '<span data-code="' + c + '" style="position: relative; top: ' 
-					    + (-basemap[c]) + 'px;">' + g + '</span>'
+					if (level == 0) egypt += '<span class="base">' + g + '</span>'
 					else egypt += g
 					if (e) e += '<br/>'
 					e += (level > 0? '| &nbsp;' : '') + getdesc(c, true)
@@ -205,7 +203,6 @@ font = function (noto) {
 	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
 	s.letterSpacing = noto? '0' : '6px'
 	topoffset = noto? 48 : 34
-	basemap = noto? {N5: 12, X1: -12} : {N5: 18, X1: -12}
 	stack()
 	}
 font(true)
