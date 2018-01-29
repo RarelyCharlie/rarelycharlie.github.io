@@ -252,5 +252,7 @@ metrics = function (char) {
 
   return ({base: 150 - y0, height: y0 - y1})
   }
+
+dataindex = (x, y, width, height) => width * 4 * y + 4 * x + 3  
 </script>
 <canvas id="canvas"></canvas>
