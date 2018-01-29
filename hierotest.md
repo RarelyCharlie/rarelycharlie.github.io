@@ -212,7 +212,7 @@ font = function (noto) {
 	s.fontFamily = currentfont
 	s.letterSpacing = noto? '0' : '6px'
 	topoffset = noto? 48 : 34
-	stack()
+	convert()
 	}
 font(true)
 	
