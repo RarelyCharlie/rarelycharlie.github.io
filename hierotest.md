@@ -47,15 +47,15 @@ h3 {margin: 0;}
 
 ### Direction
 <p class="indent">
-<label for="dirltr"><input type="radio" id="dirltr" name="dir" onclick="flip(false)" checked>Left to right</label>&nbsp;
-<label for="dirrtl"><input type="radio" id="dirrtl" name="dir" onclick="flip(true)">Right to left</label><br/>
-<label for="dirvert"><input type="checkbox" id="dirvert" name="dirvert" onclick="vert(this)">Vertical</label>
+<label for="dirltr"><input type="radio" id="dirltr" name="dir" onclick="flip(false)" checked> Left to right</label>&nbsp;
+<label for="dirrtl"><input type="radio" id="dirrtl" name="dir" onclick="flip(true)"> Right to left</label><br/>
+<label for="dirvert"><input type="checkbox" id="dirvert" name="dirvert" onclick="vert(this)"> Vertical</label>
 </p>
 
 ### Font
 <p class="indent">
-<label for="fontn"><input type="radio" id="fontn" name="font" checked onclick="font(true)">Noto Sans</label>&nbsp;
-<label for="fontg"><input type="radio" id="fontg" name="font" onclick="font(false)">New Gardiner</label>
+<label for="fontn"><input type="radio" id="fontn" name="font" checked onclick="font(true)"> Noto Sans</label>&nbsp;
+<label for="fontg"><input type="radio" id="fontg" name="font" onclick="font(false)"> New Gardiner</label>
 </p>
 
 ### Information
@@ -128,11 +128,11 @@ convert = function () { // this is the converter!
 					//e += '<span class="warning">' + p + ' — unknown</span>'
 					}				
 			}
-		
-		//let g = new Glyph(c, level)
+
 		}
 		
 	document.getElementById('egypt').innerHTML = egypt
+	stack()
 	}
 	
 addspan = function (level) {
