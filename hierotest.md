@@ -104,6 +104,7 @@ english = document.getElementById('english')
 pending = null
 egypt = '' // eventual output
 topoffset = 0 // font-dependent
+currentfont = 'Noto Sans Egyptian Hieroglyphs'
 
 convert = function () { // this is the converter!
 	input = latin.value.replace(/([-\/\[\]\(\)])/g, '$1 ')
@@ -199,8 +200,9 @@ vert = function (box) {
 vert({checked: false})
 	
 font = function (noto) {
+	currentfont = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
 	var s = document.getElementById('egypt').style
-	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
+	s.fontFamily = currentfont
 	s.letterSpacing = noto? '0' : '6px'
 	topoffset = noto? 48 : 34
 	stack()
@@ -235,23 +237,20 @@ demo = function () {
 metrics = function (char) {
 	var width = 120, height = 200, canvas = document.getElementById('canvas')
 	canvas.width = width, canvas.height = height
-
 	var ctx = canvas.getContext('2d')
 	ctx.save()
-	ctx.font = '72px "Noto Sans Egyptian Hieroglyphs"'
+	ctx.font = '72px ' + currentfont
 	ctx.clearRect(0, 0, width, height)
 	ctx.fillText(char, 20, 150)
 	ctx.restore()
-
 	var data = ctx.getImageData(0, 0, width, height).data
 	var y0 = false, y1 = false
 	for (let y = 0; y < height; ++y)
 		for (let x = 0; (x < width) && (!y1); ++x) if (data[dataindex(x,y,width,height)] != 0) y1 = y
 	for (let y = height - 1; y >= 0; --y)
 		for(let x = width - 1; (x >= 0) && (!y0); --x) if (data[dataindex(x, y, width, height)] != 0) y0 = y
-
-  return ({base: 150 - y0, height: y0 - y1})
-  }
+	return ({base: 150 - y0, height: y0 - y1})
+	}
 
 dataindex = (x, y, width, height) => width * 4 * y + 4 * x + 3  
 </script>
