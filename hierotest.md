@@ -35,6 +35,8 @@ del {color: #f88; text-decoration: none;}
 hr {margin: 2px 0;}
 h3 {margin: 0;}
 #demo {padding: 6px 12px; border-radius: 6px; background: #afa;}
+canvas {width: 120px; height: 200px; position: absolute; top: -220px;
+	font-size: 72px; font-family: 'Noto Sans Egyptian Hieroglyphs';}
 </style>
 
 <p><label for="latin">Hieroglyphs, Gardiner codes and <em>Manuel de Codage</em> mnemonics:</label><br/>
@@ -232,4 +234,26 @@ demo = function () {
 	latin.value = 'M17 G43 [D21/D36] N5 G17 [Q3 X1/N1]'
 	convert()
 	}
+
+metrics = function (char) {
+	var width = 120, height = 200, canvas = document.getElementById('canvas')
+	canvas.width = width, canvas.height = height
+
+	var ctx = canvas.getContext('2d')
+	ctx.save()
+	ctx.font = '72px "Noto Sans Egyptian Hieroglyphs"'
+	ctx.clearRect(0, 0, width, height)
+	ctx.fillText(char, 20, 150)
+	ctx.restore()
+
+	var data = ctx.getImageData(0, 0, width, height).data
+	var y0 = false, y1 = false
+	for (let y = 0; y < height; ++y)
+		for (let x = 0; (x < width) && (!y1); ++x) if (data[dataindex(x,y,width,height)] != 0) y1 = y
+	for (let y = height - 1; y >= 0; --y)
+		for(let x = width - 1; (x >= 0) && (!y0); --x) if (data[dataindex(x, y, width, height)] != 0) y0 = y
+
+  return ({base: 150 - y0, height: y0 - y1})
+  }
 </script>
+<canvas id="canvas"></canvas>
