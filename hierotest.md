@@ -79,19 +79,17 @@ This page is partly based on the [Egyptology software](https://mjn.host.cs.st-an
 
 <script>
 latin = document.getElementById('latin')
-egypt = document.getElementById('egypt')
 warning = document.getElementById('warning')
 english = document.getElementById('english')
 pending = null
-
 egypt = '' // eventual output
 
 basemap = { // baseline adjustments...
 	N5: 18
 	}
 
-convert = function (input) { // this is the converter!
-	input = input.replace(/([-\/\[\]\(\)])/g, '$1 ')
+convert = function () { // this is the converter!
+	input = latin.value.replace(/([-\/\[\]\(\)])/g, '$1 ')
 	egypt = ''
 	var cc = input.split(/(?=[ -\/\[\]\(\)])/)
 	level = 0 // 0 = normal, 1 = bottom, 2 = middle, 3 = top
@@ -117,7 +115,9 @@ convert = function (input) { // this is the converter!
 				var i = codemap.indexOf(c)
 				if (i >= 0) {
 					let g = String.fromCodePoint(77824 + i)
-					if (c in basemap) egypt += '<span style="position: relative; top: ' + (-basemap[c]) + 'px;">' + g + '</span>'
+					if (level == 0 && c in basemap)
+					  egypt += '<span style="position: relative; top: ' 
+					    + (-basemap[c]) + 'px;">' + g + '</span>'
 					else egypt += g
 					//if (e) e += '<br/>'
 					//e += getdesc(p, true)
