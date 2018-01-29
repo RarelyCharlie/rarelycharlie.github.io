@@ -135,12 +135,12 @@ convert = function () { // this is the converter!
 					    + (-basemap[c]) + 'px;">' + g + '</span>'
 					else egypt += g
 					if (e) e += '<br/>'
-					e += (level > 0? '&nbsp;' : '') + getdesc(c, true)
+					e += (level > 0? '| &nbsp;' : '') + getdesc(c, true)
 					}
 				else {
 					egypt += '<del>\u25ca</del>'
 					if (e) e += '<br/>'
-					e += (level > 0? '&nbsp;' : '') + '<span class="warning">' + p + ' — unknown</span>'
+					e += (level > 0? '| &nbsp;' : '') + '<span class="warning">' + p + ' — unknown</span>'
 					}				
 			}
 
