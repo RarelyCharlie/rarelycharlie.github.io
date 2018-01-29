@@ -166,7 +166,7 @@ addEventListener('keyup', () => {
 	if (pending) clearTimeout(pending)
 	pending = setTimeout(convert, 600)
 	}) // keypress
-	
+
 flip = function (rtl) {
 	var s = document.getElementById('egypt').style
 	s.float = rtl? 'right' : 'left'
