@@ -184,7 +184,7 @@ font = function (noto) {
 	var s = document.getElementById('egypt').style
 	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
 	s.letterSpacing = noto? '0' : '6px'
-	topoffset = noto? 40 : 34
+	topoffset = noto? 48 : 34
 	stack()
 	}
 font(true)
