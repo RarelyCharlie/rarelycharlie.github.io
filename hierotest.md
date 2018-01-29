@@ -133,8 +133,8 @@ convert = function () { // this is the converter!
 				var i = codemap.indexOf(c)
 				if (i >= 0) {
 					let g = String.fromCodePoint(77824 + i)
-					if (level == 0) egypt += '<span class="base">' + g + '</span>'
-					else egypt += g
+					if (level == 0) egypt += '<span class="midline">' + g + '</span>'
+					else egypt += '<span class="baseline">' + g + '</span>'
 					if (e) e += '<br/>'
 					e += (level > 0? '| &nbsp;' : '') + getdesc(c, true)
 					}
@@ -144,12 +144,9 @@ convert = function () { // this is the converter!
 					e += (level > 0? '| &nbsp;' : '') + '<span class="warning">' + c + ' — unknown</span>'
 					}				
 			}
-
 		}
-		
 	document.getElementById('egypt').innerHTML = egypt
 	stack()
-	
 	english.innerHTML = e
 	english.scrollTop = english.scrollHeight
 	}
