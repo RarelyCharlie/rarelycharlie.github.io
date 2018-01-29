@@ -216,9 +216,9 @@ getdesc = function (p, sentence) {
 	}
 
 demo = function () {
-	document.getElementById('dirrtl').checked = true
-	document.getElementById('dirvert').checked = false
-	document.getElementById('fontg').checked = true
+	flip(true), document.getElementById('dirrtl').checked = true
+	vert(false), document.getElementById('dirvert').checked = false
+	font(false), document.getElementById('fontg').checked = true
 	latin.value = 'M17 G43 [D21/D36] N5 G17 [Q3 X1/N1]'
 	convert()
 	}
