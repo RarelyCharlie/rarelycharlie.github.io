@@ -102,7 +102,8 @@ warning = document.getElementById('warning')
 english = document.getElementById('english')
 pending = null
 egypt = '' // eventual output
-topoffset = 0 // font-dependent
+topoffset = 0, midoffset = 0 // font-dependent
+currentfont = 'Noto Sans Egyptian Hieroglyphs'
 
 convert = function () { // this is the converter!
 	input = latin.value.replace(/([-\/\[\]\(\)])/g, '$1 ')
@@ -131,25 +132,20 @@ convert = function () { // this is the converter!
 				var i = codemap.indexOf(c)
 				if (i >= 0) {
 					let g = String.fromCodePoint(77824 + i)
-					if (level == 0 && c in basemap)
-					  egypt += '<span data-code="' + c + '" style="position: relative; top: ' 
-					    + (-basemap[c]) + 'px;">' + g + '</span>'
-					else egypt += g
+					if (level == 0) egypt += '<span class="midline">' + g + '</span>'
+					else egypt += '<span class="baseline">' + g + '</span>'
 					if (e) e += '<br/>'
 					e += (level > 0? '| &nbsp;' : '') + getdesc(c, true)
 					}
 				else {
 					egypt += '<del>\u25ca</del>'
 					if (e) e += '<br/>'
-					e += (level > 0? '| &nbsp;' : '') + '<span class="warning">' + p + ' — unknown</span>'
+					e += (level > 0? '| &nbsp;' : '') + '<span class="warning">' + c + ' — unknown</span>'
 					}				
 			}
-
 		}
-		
 	document.getElementById('egypt').innerHTML = egypt
 	stack()
-	
 	english.innerHTML = e
 	english.scrollTop = english.scrollHeight
 	}
@@ -173,12 +169,27 @@ addspan = function (level) {
 	
 stack = function () {
 	var ss = document.getElementsByClassName('stack')
+	for (let stack of ss) {
+		let w = 0
+		for (let span of stack.children) {
+			if (span.offsetWidth > w) w = span.offsetWidth
+			if (span == stack.firstElementChild)
+				span.style.position = 'absolute', span.style.top = '-' + topoffset + 'px'
+			else if (span !== stack.lastElementChild)
+				span.style.position = 'absolute', span.style.top = '-' + midoffset + 'px'
+			}
+		stack.style.width = w + 'px'
+		for (let span of stack.children) span.style.width = w + 'px'
+		}
+	ss = document.getElementsByClassName('midline')
 	for (let s of ss) {
-		let s0 = s.firstElementChild, s1 = s.lastElementChild
-		let w = Math.max(s0.offsetWidth, s1.offsetWidth)
-		s0.style.position = 'absolute'
-		s0.style.top = '-' + topoffset + 'px'
-		s.style.width = s0.style.width = s1.style.width = w + 'px'
+		let m = metrics(s.textContent)
+		if (m.height < 68) s.style.top = '' + ((m.height + m.base - 72) / 2) + 'px'
+		}
+	ss = document.getElementsByClassName('baseline')
+	for (let s of ss) {
+		let m = metrics(s.textContent)
+		if (Math.abs(m.base) > 2) s.style.top = '' + m.base + 'px'
 		}
 	}
 
@@ -200,12 +211,13 @@ vert = function (box) {
 vert({checked: false})
 	
 font = function (noto) {
+	currentfont = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
 	var s = document.getElementById('egypt').style
-	s.fontFamily = noto? 'Noto Sans Egyptian Hieroglyphs' : 'NewGardiner'
+	s.fontFamily = currentfont
 	s.letterSpacing = noto? '0' : '6px'
 	topoffset = noto? 48 : 34
-	basemap = noto? {N5: 12, X1: -12} : {N5: 18, X1: -12}
-	stack()
+	midoffset = noto? 24 : 17
+	convert()
 	}
 font(true)
 	
@@ -233,4 +245,24 @@ demo = function () {
 	latin.value = 'M17 G43 [D21/D36] N5 G17 [Q3 X1/N1]'
 	convert()
 	}
+
+metrics = function (char) {
+	var width = 120, height = 200, canvas = document.getElementById('canvas')
+	canvas.width = width, canvas.height = height
+	var ctx = canvas.getContext('2d')
+	ctx.save()
+	ctx.font = '72px ' + currentfont
+	ctx.clearRect(0, 0, width, height)
+	ctx.fillText(char, 20, 150)
+	ctx.restore()
+	var data = ctx.getImageData(0, 0, width, height).data
+	var y0 = false, y1 = false
+	for (let y = 0; y < height; ++y)
+		for (let x = 0; (x < width) && (!y1); ++x) if (data[dataindex(x,y,width,height)] != 0) y1 = y
+	for (let y = height - 1; y >= 0; --y)
+		for(let x = width - 1; (x >= 0) && (!y0); --x) if (data[dataindex(x, y, width, height)] != 0) y0 = y
+	return ({base: 150 - y0, height: y0 - y1})
+	}
+
+dataindex = (x, y, width, height) => width * 4 * y + 4 * x + 3  
 </script>
