@@ -103,7 +103,7 @@ warning = document.getElementById('warning')
 english = document.getElementById('english')
 pending = null
 egypt = '' // eventual output
-topoffset = 0 // font-dependent
+topoffset = 0, midoffset = 0 // font-dependent
 currentfont = 'Noto Sans Egyptian Hieroglyphs'
 
 convert = function () { // this is the converter!
@@ -169,13 +169,17 @@ addspan = function (level) {
 	}
 	
 stack = function () {
-	var ss = document.getElementsByClassName('stack')
-	for (let s of ss) {
-		let s0 = s.firstElementChild, s1 = s.lastElementChild
-		let w = Math.max(s0.offsetWidth, s1.offsetWidth)
-		s0.style.position = 'absolute'
-		s0.style.top = '-' + topoffset + 'px'
-		s.style.width = s0.style.width = s1.style.width = w + 'px'
+	var ss = document.getElementsByClassName('stack'), w = 0
+	for (let stack of ss) {
+		for (let span of stack.children) {
+			if (span.style.width > w) w = span.style.width
+			if (span == s.firstElementChild)
+				span.style.position = 'absolute', span.style.top = '-' + topoffset + 'px'
+			else if (span !== s.lastElementChild)
+				span.style.position = 'absolute', span.style.top = '-' + midoffset + 'px'
+			}
+		stack.style.width = w
+		for (let span of stack.children) span.style.width = w
 		}
 	ss = document.getElementsByClassName('midline')
 	for (let s of ss) {
@@ -212,6 +216,7 @@ font = function (noto) {
 	s.fontFamily = currentfont
 	s.letterSpacing = noto? '0' : '6px'
 	topoffset = noto? 48 : 34
+	midoffset = noto? 24 : 17
 	convert()
 	}
 font(true)
