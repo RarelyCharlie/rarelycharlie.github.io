@@ -134,7 +134,7 @@ convert = function () { // this is the converter!
 				if (i >= 0) {
 					let g = String.fromCodePoint(77824 + i)
 					if (level == 0) egypt += '<span class="midline">' + g + '</span>'
-					else egypt += '<span class="baseline">' + g + '</span>'
+					else egypt += '<span class="layer">' + g + '</span>'
 					if (e) e += '<br/>'
 					e += (level > 0? '| &nbsp;' : '') + getdesc(c, true)
 					}
@@ -177,15 +177,12 @@ stack = function () {
 		s0.style.top = '-' + topoffset + 'px'
 		s.style.width = s0.style.width = s1.style.width = w + 'px'
 		}
-	ss = document.getElementsByClassName('midline')
+	ss = document.getElementsByClassName('layer')
 	for (let s of ss) {
 		let m = metrics(s.textContent)
-		if (m.height < 68) s.style.top = '' + ((m.height + m.base - 72) / 2) + 'px'
-		}
-	ss = document.getElementsByClassName('baseline')
-	for (let s of ss) {
-		let m = metrics(s.textContent)
-		if (Math.abs(m.base) > 2) s.style.top = '' + m.base + 'px'
+		if (s == s.parentNode.firstElementChild && m.height < 68)
+			s.style.top = '' + ((m.height + m.base - 72) / 2) + 'px'
+		else s.style.top = '' + m.base + 'px'
 		}
 	}
 
