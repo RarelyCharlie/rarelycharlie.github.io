@@ -173,14 +173,14 @@ stack = function () {
 	for (let stack of ss) {
 		let w = 0
 		for (let span of stack.children) {
-			if (span.style.width > w) w = span.style.width
+			if (span.offsetWidth > w) w = span.offsetWidth
 			if (span == stack.firstElementChild)
 				span.style.position = 'absolute', span.style.top = '-' + topoffset + 'px'
 			else if (span !== stack.lastElementChild)
 				span.style.position = 'absolute', span.style.top = '-' + midoffset + 'px'
 			}
-		stack.style.width = w
-		for (let span of stack.children) span.style.width = w
+		stack.style.width = w + 'px'
+		for (let span of stack.children) span.style.width = w + 'px'
 		}
 	ss = document.getElementsByClassName('midline')
 	for (let s of ss) {
