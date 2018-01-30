@@ -169,13 +169,14 @@ addspan = function (level) {
 	}
 	
 stack = function () {
-	var ss = document.getElementsByClassName('stack'), w = 0
+	var ss = document.getElementsByClassName('stack')
 	for (let stack of ss) {
+		let w = 0
 		for (let span of stack.children) {
 			if (span.style.width > w) w = span.style.width
-			if (span == s.firstElementChild)
+			if (span == stack.firstElementChild)
 				span.style.position = 'absolute', span.style.top = '-' + topoffset + 'px'
-			else if (span !== s.lastElementChild)
+			else if (span !== stack.lastElementChild)
 				span.style.position = 'absolute', span.style.top = '-' + midoffset + 'px'
 			}
 		stack.style.width = w
