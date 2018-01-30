@@ -36,6 +36,8 @@ del {color: #f88; text-decoration: none;}
 hr {margin: 2px 0;}
 h3 {margin: 0;}
 #demo {padding: 6px 12px; border-radius: 6px; background: #afa;}
+canvas {width: 120px; height: 200px; position: absolute; top: -220px;
+	font-size: 72px; font-family: 'Noto Sans Egyptian Hieroglyphs';}
 </style>
 
 <p><label for="latin">Hieroglyphs, Gardiner codes and <em>Manuel de Codage</em> mnemonics:</label><br/>
