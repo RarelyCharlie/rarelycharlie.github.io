@@ -3,7 +3,6 @@ title: Trauma
 info: A chat to illustrate empathy
 layout: chat
 feedback: https://www.7cups.com/@RarelyCharlie
-class: index
 ---
 In this fictional chat you shadow a listener called Morinda taking a general request.
 
