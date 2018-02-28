@@ -4,8 +4,8 @@ layout: guide
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 # Content plan
-PART I — General information for all listeners
--	Introduction: What this guide is for
+[PART I — General information for all listeners](#part-i)
+-	[Introduction: What this guide is for](#what-this-guide-is-for)
 -	The purpose and limitations of 7 Cups
 -	Self care
 -	Brief active listening refresher
@@ -30,6 +30,9 @@ PART II — Case studies (trigger warning)
 This document is a rough draft version of an unofficial training guide for listeners about chats involving harm. It is not a self-help guide for members.
 
 In this draft version there are no page breaks. In the final version each section will be on a separate page. Readers will mostly have to answer a quiz correctly in order to move to the next page.
+
+# Part I
+General information for all listeners.
 
 # What this guide is for
 This guide provides information for listeners on chatting with members who talk about harm.
