@@ -1,0 +1,64 @@
+---
+---
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/assets/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/assets/manifest.json">
+<link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/favicon.ico">
+<meta name="msapplication-config" content="/assets/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<title>{{ page.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,200,400,500">
+<style>
+html {padding-top: 80px; display: none;}
+body {font-size: 16px; line-height: 23px; font-family: Raleway; margin: 0;}
+body.keyboard {overflow: hidden;}
+#content h1 {font-size: 40px; line-height: normal; font-weight: 200; border-bottom: 1px solid #ccc; margin-bottom: .5ex;}
+#content h2 {font-size: 20px; font-weight: 500; margin-bottom: 0; z-index: 1; line-height: 26px; cursor: default;}
+#header {z-index: 1; position: relative; height: 80px; width: 100%; background: #159957 linear-gradient(to right, #1e90fe 0%, #73ccde 100%);}
+#footer {z-index: 9; position: fixed; bottom: 0; height: 32px; width: 100%; background: #2f4e7a linear-gradient(#2f4e7a, #181a30);}
+#version {color: #e8e8e8; display: inline;}
+#footer-menu {float: right;}
+#footer-content {color: white; max-width: 640px; margin: 0 auto; padding: 4px 1ex 0 1ex; font-size: 86%;}
+#footer-content a {display: inline-block; color: white; text-decoration: none;}
+#footer-content a:hover {color: #cdf;}
+#header {position: fixed; top: 0; text-align: center;}
+#header {font-weight: 400; margin: 0; font-size: 16px; line-height: 24px; color: white;}
+#header h2 {font-weight: 100; margin: 0; font-size: 40px; line-height: 40px;}
+#header span {display: inline-block; letter-spacing: 1px; position: relative; top: 4px; font-style: italic;}
+#content {max-width: 640px; margin: 0 auto; padding: 0 1ex 4em 1ex;}
+#content p {margin: 0 0 1em 0;}
+input {font-size: inherit; margin-left: 1ex; padding: 0 2px;}
+del {text-decoration: none; display: inline-block; color: #070; cursor: pointer;}
+del:hover {background: #afa; color: #00a;}
+.hidden {display: none;}
+.warning {color: #a00;}
+.faded {opacity: 0; transition: opacity 3s;}
+a[href] {color: #29f; text-decoration: none;}
+a[href]:hover {text-decoration: underline;}
+</style>
+<script>
+init = function () {}
+</script
+</head>
+<body onload="init()">
+<div id="header"><span>{{ layout.prefix }}</span><h2>{{ page.title }}</h2></div>
+<div id="content">
+{{ content }}
+</div>
+<div id="footer">
+<div id="footer-content">
+<div id="version">{{ layout.version }}</div>
+<div id="footer-menu">
+<a href="{{ page.feedback }}" title="Send feedback. (7 Cups login required.)">Feedback</a>
+</div>
+</div>
+</div>
+</body>
+</html>
