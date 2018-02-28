@@ -338,7 +338,7 @@ A sequence of ~~posts/post~~, which are personal statements by the owner of the 
 A reporting system for inappropriate content in ~~forum~~ ~~posts/post~~.
 
 # follow
-A way to read all the future ~~posts/post~~ in someone's ~~feed~~.
+A way to read all the future ~~posts/post~~ in someone's ~~feed~~. The posts of all the people you follow appear in your own feed.
 
 # forum
 A discussion system with a focus on a particular subject. ~~7 Cups~~ has forums on many subjects. Within a forum, each discussion is called a ~~thread~~.
