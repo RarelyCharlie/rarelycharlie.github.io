@@ -39,6 +39,9 @@ This guide provides information for listeners on chatting with members who talk 
 
 **Trigger warning:** Part I of this guide is intended to provide general information for all listeners. Part II contains examples that some listeners may find upsetting or triggering. 
 
+DECORATIVE IMAGE
+{:.deco}
+
 If you feel there is a possibility that you might be upset or triggered by reading about examples of harm, then you might want to consider stopping when you reach the end of Part I. There is a title page at the beginning of Part II that repeats this trigger warning.
 
 Harm includes harm in the past and present, and risk of harm in the future. It includes harm to members themselves and to others, also including harm to vulnerable people such as children, and harm that is a criminal offense.
