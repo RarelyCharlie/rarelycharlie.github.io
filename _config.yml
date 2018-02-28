@@ -10,3 +10,6 @@ collections:
   chat:
     layout: chat
     output: true
+  guide:
+    layout: guide
+    output: true
