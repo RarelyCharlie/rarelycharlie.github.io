@@ -6,7 +6,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 # Content plan
 [PART I](#part-i) — General information for all listeners
 -	[Introduction: What this guide is for](#what-this-guide-is-for)
--	[The purpose and limitations of 7 Cups](#the-purpose-and-limitations-of-7-cups)
+-	[The purpose and limitations of 7 Cups](#the-purpose-of-7-cups)
 -	Self care
 -	Brief active listening refresher
 -	Why some members talk about harm
@@ -55,7 +55,7 @@ The goals of this guide are to help ensure that, in the context of harm or risk 
 
 There are links to further information and to public resources that you can share with members.
 
-# The purpose and limitations of 7 Cups
+# The purpose of 7 Cups
 
 7 Cups exists because there is an unmet need in the world for emotional support:
 
