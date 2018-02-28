@@ -29,7 +29,7 @@ PART II — Case studies (trigger warning)
 # Preface
 This document is a rough draft version of an unofficial training guide for listeners about chats involving harm. It is not a self-help guide for members.
 
-In this draft version there are no page breaks. In the final version each section will be on a separate page. Readers will mostly have to answer a quiz correctly in order to move to the next page.<a href="0"></a>
+In this draft version there are no page breaks. In the final version each section will be on a separate page. Readers will mostly have to answer a quiz correctly in order to move to the next page.
 
 # Part I
 General information for all listeners.
