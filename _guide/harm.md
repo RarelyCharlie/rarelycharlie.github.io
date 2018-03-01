@@ -62,10 +62,12 @@ There are links to further information and to public resources that you can shar
 > **Our Goal:** We are living in a world with an immense love deficit, which means that none of us is receiving the love we need to reach our true potential, to truly thrive. Our goal is to build a support system, a web, that can hold every member of our world.  We believe that we can fill that love-gap for every person in the world, either because they are an active member of our community or because they are touched personally by someone who has been empowered by 7 Cups of Tea.
 	
 from [Our Mission](https://www.7cups.com/forum/GlensNook_84/OurVisionforaBetterWorld_334/OurMission_18219/1/)
+{:.right}
 
 > We do not judge or look down on people. We recognize that people make sense in the larger context or story of their lives. Sometimes it can seem like people are making choices that do not make sense, but this is likely because we do not have all of the details. We understand that people are complicated and that life is not simple or easy.
 	
 from [Our Key Values](https://www.7cups.com/about/values.php)
+{:.right}
 
 ### Limitations
 
