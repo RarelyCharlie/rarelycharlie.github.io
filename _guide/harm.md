@@ -8,7 +8,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[Introduction: What this guide is for](#what-this-guide-is-for)
 -	[The purpose of 7 Cups](#the-purpose-of-7-cups)
 -	[Self care](#self-care)
--	Brief active listening refresher
+-	[Brief active listening refresher](#brief-active-listening-refresher)
 -	Why some members talk about harm
 -	The difference between thoughts and actions
 -	Some unintended consequences of listening
@@ -139,6 +139,41 @@ After a chat that oversteps your personal boundaries, consider chatting to a pee
 If a chat affects you emotionally, and this in turn affects your real-life relationships or your ability to live your life normally, do not hesitate to switch to your member account and chat with an experienced listener about what happened and how it affected you.
 
 If you have a therapist or someone else in the real world you rely on for emotional support, be open with them about the effect volunteering as a listener at 7 Cups has on you, but do not share any details of any chat.
+
+QUIZ
+{:.dummyquiz}
+
+# Brief active listening refresher
+
+This guide assumes you are still familiar with the initial listener training. Here's a selection of exact quotes as reminders:
+
+- "Keep in mind that active listening is not counseling or advice giving."
+- "You shouldn’t try to solve their problems."
+- "Repeat back to the person the facts that they have just shared."
+- "Don’t add questions, commentary, or suggestions."
+- "Repeat back expressed emotions."
+- "Avoid making assumptions."
+- "It is important to not break confidentiality."
+- "Don’t hesitate to refer the person if they have needs that extend beyond listening."
+- "The primary reason we allow anonymity is because it allows people to seek help without fear of being judged."
+- "Being triggered is a normal part of life."
+- "Report inappropriate behavior."
+
+If any of these seem unfamiliar, take a few minutes right now to review the [Active Listening](https://www.7cups.com/listener/training/) guide before returning to this guide.
+
+### Emotional support
+
+The way listeners at 7 Cups provide emotional support is through active listening, allowing people to feel heard. Emotional support has a particular focus on feelings. The goal is to allow people to express their feelings and to know that their feelings have been heard.
+
+Realistically, life is not simple or easy. People have both positive and negative emotions in response to the events of their lives. Listeners should allow both the positive emotions and the negative emotions to be heard equally.
+
+In response to situations involving harm, people naturally have negative emotions. Listeners at 7 Cups allow people's negative emotions to be heard.
+
+Do not try to suppress members' negative emotions or supply positive emotions. If you do that, you might neutralize a member's natural negative emotions in response to harm, allowing the harm to continue.
+
+For example, if a member tells you they are worried about causing harm, repeat back the worry they have expressed, just like the listener training says. Do not neutralize the worry or change the subject to something positive—doing that risks giving a "green light" to the harm.
+
+Similarly, if a member tells you they are worried about being harmed, repeat back the worry they have expressed, just like the listener training says. Do not neutralize the worry or change the subject to something positive—doing that risks perpetuating the harm they are suffering.
 
 QUIZ
 {:.dummyquiz}
