@@ -55,7 +55,19 @@ li {margin-bottom: .5ex;}
 li:last-child {margin-bottom: 0;}
 </style>
 <script>
-init = function () {}
+scrollfix = function () {
+	setTimeout(function () {
+		let t = document.getElementById(location.hash.substr(1))
+		document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset =
+				t.offsetTop - document.getElementById('header').offsetHeight - 26
+		}, 0)
+	}
+addEventListener('click', function (evt) {
+	if (evt.target.tagName == 'A' && evt.target.getAttribute('href').charAt(0) == '#') scrollfix()
+	})
+init = function () {
+	if (location.hash.length > 1) scrollfix()
+	}
 </script
 </head>
 <body onload="init()">
