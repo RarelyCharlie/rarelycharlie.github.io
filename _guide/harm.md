@@ -121,7 +121,7 @@ When a chat goes beyond your personal boundaries, consider handing it over to an
 
 If the member does not agree at step 3, tell the member that you have to end the chat, and end the chat.
 
-If you cannot find any other listener at step 5, ask the member to message a suitable listener from the Browse Listeners page. Provide the link: `7cups.com/BrowseListeners/` Explain that the page has a More Filters button at the top, which is useful for finding appropriate listeners.
+If you cannot find any other listener at step 5, ask the member to message a suitable listener from the Browse Listeners page. Provide the link: `7cups.com/BrowseListeners` Explain that the page has a More Filters button at the top, which is useful for finding appropriate listeners.
 
 There is normally no need to block the member. They might want to chat with you about some other topic in the future.
 
