@@ -112,7 +112,7 @@ When a chat goes beyond your personal boundaries, consider handing it over to an
 
 1. Tell the member that you are unable to chat about this subject.
 2. Tell the member that another listener might be available.
-3. If the member agrees, go to the Listener Support Room (the question mark button <span style="display: inline-block; width: 1.2em; height: 1.2em; text-align: center; border: 1px solid #555; border-radius: .6em; color: #555; font-weight: bold;">?</span> at the top left of the chat.
+3. If the member agrees, go to the Listener Support Room (the question mark button <span style="display: inline-block; width: 1.2em; height: 1.2em; text-align: center; border: 1px solid #555; border-radius: .6em; color: #555; font-weight: bold;">?</span> at the top right of the chat.
 4. In five words or less, tell the room why you need to hand over the chat. Do not share more details of the chat.
 5. When you have identified another listener, provide the member with a link to the other listener's profile. In a chat this looks like `7cups.com/@NameOfListener`
 6. Tell the member to press the Leave Message or Chat Now button in the listener's profile.
