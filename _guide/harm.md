@@ -9,7 +9,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[The purpose of 7 Cups](#the-purpose-of-7-cups)
 -	[Self care](#self-care)
 -	[Brief active listening refresher](#brief-active-listening-refresher)
--	[Why some members talk about harm](#why-some-members-talk-about-harm)
+-	[Why members talk about harm](#why-members-talk-about-harm)
 -	The difference between thoughts and actions
 -	Some unintended consequences of listening
 -	Mental disorders and harm
@@ -178,7 +178,7 @@ Similarly, if a member tells you they are worried about being harmed, repeat bac
 QUIZ
 {:.dummyquiz}
 
-# Why some members talk about harm
+# Why members talk about harm
 
 Members talk about harm for a variety of reasons. They might be the person causing the harm, or they might be the person harmed, or they might be both.
 
