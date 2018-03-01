@@ -38,7 +38,7 @@ input {font-size: inherit; margin-left: 1ex; padding: 0 2px;}
 del {text-decoration: none; display: inline-block; color: #070; cursor: pointer;}
 del:hover {background: #afa; color: #00a;}
 .hidden {display: none;}
-.warning {color: #a00;}
+.warn {color: #a00;}
 .faded {opacity: 0; transition: opacity 3s;}
 a[href] {color: #29f; text-decoration: none;}
 a[href]:hover {text-decoration: underline;}
@@ -53,6 +53,8 @@ blockquote {margin: 0 40px; padding: 0 0 0 1ex; border-left: 2px solid #7bf; lin
     padding: 3em 0; color: green; border-radius: 1ex;}
 li {margin-bottom: .5ex;}
 li:last-child {margin-bottom: 0;}
+#content p.chat {margin-left: 80px;}
+#content p.chat::first-line {margin-left: -40px;}
 </style>
 <script>
 scrollfix = function () {
