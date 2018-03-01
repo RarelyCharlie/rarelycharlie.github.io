@@ -217,7 +217,7 @@ In some chats members do talk about real harm or real risk of future harm. In so
 
 As a listener, you cannot diagnose any medical disorder. It's easy to do the right thing: simply do not try to diagnose, and do not imagine that you can.
 
-As a listener, you cannot judge what is real, what is a member's fear and what is a member's fantasy. It's difficult to do the right thing. Your key skill as a listener is accurately reflecting the emotions that member expresses, without attempting to judge the facts.
+As a listener, you cannot judge what is real, what is a member's fear and what is a member's fantasy. It's difficult to do the right thing. Your key skill as a listener is accurately reflecting the emotions that a member expresses, without attempting to judge the facts.
 
 QUIZ
 {:.dummyquiz}
