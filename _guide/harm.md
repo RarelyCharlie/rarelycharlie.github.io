@@ -10,7 +10,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[Self care](#self-care)
 -	[Brief active listening refresher](#brief-active-listening-refresher)
 -	[Why members talk about harm](#why-members-talk-about-harm)
--	The difference between thoughts and actions
+-	[Thoughts and actions](#thoughts-and-actions)
 -	Some unintended consequences of listening
 -	Mental disorders and harm
 -	Fantasies and actual harm
@@ -221,3 +221,54 @@ As a listener, you cannot judge what is real, what is a member's fear and what i
 
 QUIZ
 {:.dummyquiz}
+
+# Thoughts and actions
+
+Thought-action fusion (TAF) is a cognitive impairment (a thinking problem) that affects many people in the population, both members and listeners. It causes thoughts to be confused with reality to some degree or other.
+
+For example, someone affected by TAF might believe thinking about a car crash before driving to work makes it more likely they will crash the car. Or they might believe mentioning the word cancer could make someone they care about more likely to develop cancer.
+
+Mostly, TAF is mild. When TAF causes significant distress it can easily be treated by a mental health professional.
+
+### Members
+
+When members are affected by TAF, it can make them genuinely believe they are causing harm, or at risk of causing harm, when the reality is they only have thoughts about imaginary harm.
+
+In severe cases this is symptomatic of a mental disorder, a form of obsessive-compulsive disorder (OCD). You can read more about OCD in this article from the journal *Advances in Psychiatric Treatment*: [Cognitive–behavioural therapy for obsessive–compulsive disorder](http://www.veale.co.uk/wp-content/uploads/2010/10/56-CBT-for-OCD-2007.pdf). The article includes a case study about a woman (Ella, page 442) who has obsessive thoughts about causing harm.
+
+Listeners cannot diagnose or treat any mental disorder, and even if a member experiences TAF mildly, a listener cannot try to solve the problem.
+
+When a member describes significant distress because of TAF, a listener cannot give advice or suggest how to solve the problem, but a listener can state a simple fact, like:
+
+*Member:* This is eating up my whole life. I virtually can't get in the car because I spend so much time worrying that I've killed someone.
+{:.chat}
+
+*Listener:* That's the kind of thing a professional can help with.
+{:.chat}
+
+### Listeners
+
+When listeners are affected by TAF, it can make them genuinely believe that a member who wants to talk about thoughts of harm is causing real harm, or is at risk of causing real harm.
+
+In more severe cases, a member doesn't mention harm at all but the listener imagines harm. Then the listener's TAF makes the imaginary harm seem real. This could make the listener say inappropriate things to the member.
+
+For example:
+
+*Member:* Since we broke up I've been feeling sad. When I was younger I would have harmed myself at times like this.
+{:.chat}
+
+(The listener imagines the member feeling so sad that she attempts suicide. TAF makes the listener think the member is really at risk of attempting suicide.)
+
+*Listener:* You should see a counselor and call a suicide helpline.
+{:.chat.warn}
+
+Do not give members advice in this way, especially when it is based on your own imagination. Instead, repeat back the member's feelings accurately:
+
+*Listener:* The breakup has caused you sadness, but it's not like when you were younger.
+{:.chat}
+
+If you are aware that you experience TAF to some extent, take particular care to distinguish carefully between your own thoughts and reality that can be verified.
+
+QUIZ
+{:.dummyquiz}
+
