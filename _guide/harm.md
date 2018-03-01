@@ -100,6 +100,9 @@ There are some reminders about exactly how listeners at 7 Cups go about providin
 
 You should think about your personal boundaries, and make decisions in advance about the kinds of chats you are personally willing to take.
 
+DECORATIVE IMAGE
+{:.decor}
+
 You have to make these decisions in advance, as far as possible, because a chat that starts out being about one subject can very quickly change to some other subject. You will need to be able to take action to protect yourself immediately there's a change of subject that goes beyond your personal boundaries.
 
 If you haven't already done so, take a few minutes right now to list the topics of conversation that lie outside your personal boundaries. You could write the list in your [Notes](https://www.7cups.com/notes.php). (The link provided here works for any listener, provided you are logged in to 7 Cups.) Check your list from time to time to remind yourself of it, and also to keep it updated.
