@@ -6,7 +6,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 # Content plan
 [PART I](#part-i) — General information for all listeners
 -	[Introduction: What this guide is for](#what-this-guide-is-for)
--	[The purpose and limitations of 7 Cups](#the-purpose-of-7-cups)
+-	[The purpose of 7 Cups](#the-purpose-of-7-cups)
 -	Self care
 -	Brief active listening refresher
 -	Why some members talk about harm
@@ -24,18 +24,18 @@ PART II — Case studies (trigger warning)
 -	Psychosis
 -	Personality disorder
 -	Paraphilia
--	Actual harm
+-	Domestic violence
 
-# Preface
-This document is a rough draft version of an unofficial training guide for listeners about chats involving harm. It is not a self-help guide for members.
+# *Preface*
+*This document is a rough draft version of an unofficial training guide for listeners about chats involving harm. It is not a self-help guide for members.*
 
-In this draft version there are no page breaks. In the final version each section will be on a separate page. Readers will mostly have to answer a quiz correctly in order to move to the next page.
+*In this draft version there are no page breaks. In the final version each section will be on a separate page. Readers will mostly have to answer a quiz correctly in order to move to the next page.*
 
 # Part I
 General information for all listeners.
 
 # What this guide is for
-This guide provides information for listeners on chatting with members who talk about harm.
+This guide provides information and guidance for those listeners who are willing to chat with with members who talk about harm.
 
 **Trigger warning:** Part I of this guide is intended to provide general information for all listeners. Part II contains examples that some listeners may find upsetting or triggering. 
 
@@ -59,13 +59,15 @@ There are links to further information and to public resources that you can shar
 
 7 Cups exists because there is an unmet need in the world for emotional support:
 
-> Our Goal: We are living in a world with an immense love deficit, which means that none of us is receiving the love we need to reach our true potential, to truly thrive. Our goal is to build a support system, a web, that can hold every member of our world.  We believe that we can fill that love-gap for every person in the world, either because they are an active member of our community or because they are touched personally by someone who has been empowered by 7 Cups of Tea.
+> **Our Goal:** We are living in a world with an immense love deficit, which means that none of us is receiving the love we need to reach our true potential, to truly thrive. Our goal is to build a support system, a web, that can hold every member of our world.  We believe that we can fill that love-gap for every person in the world, either because they are an active member of our community or because they are touched personally by someone who has been empowered by 7 Cups of Tea.
 	
 from [Our Mission](https://www.7cups.com/forum/GlensNook_84/OurVisionforaBetterWorld_334/OurMission_18219/1/)
 
 > We do not judge or look down on people. We recognize that people make sense in the larger context or story of their lives. Sometimes it can seem like people are making choices that do not make sense, but this is likely because we do not have all of the details. We understand that people are complicated and that life is not simple or easy.
 	
 from [Our Key Values](https://www.7cups.com/about/values.php)
+
+### Limitations
 
 However, 7 Cups imposes general limitations on the emotional support its listeners provide. If a member is actively harming themselves or someone else, you cannot continue the chat. You have no say in the matter. This is 7 Cups policy.
 
@@ -76,7 +78,11 @@ It is important to be aware that the word "actively" means "taking action". A th
 
 For example, someone might have thoughts about making carrot soup. They might clearly imagine the recipe or know exactly where to find it. But these things are not the same as buying the carrots, peeling them and chopping them. There's an essential difference between thoughts and actions.
 
+### Thoughts and actions
+
 Some people find the distinction between thoughts and actions obvious, and some people find it difficult. There's a recognised cognitive impairment called thought-action fusion that makes it difficult for people to distinguish between thoughts and actions easily, and if you suffer from it even slightly you might have to think more carefully than most people when trying to decide whether something is a thought or an action. There's more about thought-action fusion in a later section.
+
+### Outside help
 
 Listeners can sometimes provide members with factual information about sources of help outside 7 Cups, but there are reasons to be careful about doing this. For example, providing information can undermine the real purpose of 7 Cups. There will be more about this, too, later in the guide.
 
