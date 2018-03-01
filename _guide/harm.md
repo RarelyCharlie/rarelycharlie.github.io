@@ -9,7 +9,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[The purpose of 7 Cups](#the-purpose-of-7-cups)
 -	[Self care](#self-care)
 -	[Brief active listening refresher](#brief-active-listening-refresher)
--	Why some members talk about harm
+-	[Why some members talk about harm](#why-some-members-talk-about-harm)
 -	The difference between thoughts and actions
 -	Some unintended consequences of listening
 -	Mental disorders and harm
@@ -174,6 +174,50 @@ Do not try to suppress members' negative emotions or supply positive emotions. I
 For example, if a member tells you they are worried about causing harm, repeat back the worry they have expressed, just like the listener training says. Do not neutralize the worry or change the subject to something positive—doing that risks giving a "green light" to the harm.
 
 Similarly, if a member tells you they are worried about being harmed, repeat back the worry they have expressed, just like the listener training says. Do not neutralize the worry or change the subject to something positive—doing that risks perpetuating the harm they are suffering.
+
+QUIZ
+{:.dummyquiz}
+
+# Why some members talk about harm
+
+Members talk about harm for a variety of reasons. They might be the person causing the harm, or they might be the person harmed, or they might be both.
+
+Part II of this guide looks at examples of several reasons members might talk about harm. They are not necessarily the only reasons, but they illustrate the kinds of situations that members often find themselves in. For the purposes of this guide, the reasons fall into three broad groups.
+
+### Mental disorders
+
+DECORATIVE IMAGE
+{:.decor}
+
+Members who suffer from mental disorders are the first group. Mental disorders are, roughly speaking, disturbances in thinking, emotions and relationships that don't have an identifiable physical cause. An example is obsessive-compulsive disorder (OCD).
+
+When members with mental disorders talk about harm, the harm might not necessarily be real. This is because mental disorders can cause disturbances in thinking, and in some cases the disturbances are very severe. Members might be unaware that they have a mental disorder, or unaware of its precise effects.
+
+### Neurological disorders
+
+Members who suffer from certain neurological disorders are the second group. Neurological disorders are, roughly speaking, disturbances in perception, thinking and relationships that are thought to have a physical cause in the nervous system (which includes the brain). For the purpose of this guide the relevant neurological disorders can be thought of as brain damage.
+
+DECORATIVE IMAGE
+{:.decol}
+
+When members with neurological disorders talk about harm, the harm might not necessarily be real. This is because neurological disorders can also cause disturbances in thinking, and in some cases the disturbances are very severe. Members might be unaware that they have a neurological disorder, or unaware of its precise effects.
+
+### Fantasy and truth
+
+Members who are fantasizing or telling the truth are the third group. Fantasy and truth are grouped together here because in each case the member knows what is true and what is false, but the listener doesn't. These members do not have any relevant medical disorder affecting their thinking. Some of these members might mix fantasy and truth in the same chat.
+
+DECORATIVE IMAGE
+{:.decor}
+
+All of this means that no matter what the member's reason for talking about harm might be, a listener cannot rely on the harm being real. Equally, a listener cannot rely on the harm being false.
+
+In some chats members do talk about real harm or real risk of future harm. In some chats members talk about fears and fantasies. In some chats members are not able to distinguish between what is real, what is fear, and what is a fantasy. And in some chats parts of all three are mixed together.
+
+### Your key skill
+
+As a listener, you cannot diagnose any medical disorder. It's easy to do the right thing: simply do not try to diagnose, and do not imagine that you can.
+
+As a listener, you cannot judge what is real, what is a member's fear and what is a member's fantasy. It's difficult to do the right thing. Your key skill as a listener is accurately reflecting the emotions that member expresses, without attempting to judge the facts.
 
 QUIZ
 {:.dummyquiz}
