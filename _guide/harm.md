@@ -12,7 +12,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[Why members talk about harm](#why-members-talk-about-harm)
 -	[Thoughts and actions](#thoughts-and-actions)
 -	[Unintended consequences](#unintended-consequences)
--	Mental disorders and harm
+-	[Mental disorders and harm](#mental-disorders-and-harm)
 -	Fantasies and actual harm
 -	Do's and dont's
 -	External resources
@@ -340,3 +340,69 @@ To avoid unintended consequences, be very careful not to introduce new ideas fro
 QUIZ
 {:.dummyquiz}
 
+# Mental disorders and harm
+
+This section looks at five categories of mental disorder that can be associated with chats about harm. This is just an overview. There are further examples in Part II because the details might be upsetting or triggering to some listeners.
+
+### Depression
+
+Depression is a very common emotional disorder. It affects how people feel about themselves and about life, making them unable to imagine the future in a positive and hopeful way. In a severe case, a depressed person might not be able to imagine tomorrow.
+
+When depression is associated with harm, it's usually about the depressed person causing real or imaginary harm to themselves. They come to 7 Cups and talk about the harm they have caused or feel they might cause.
+
+Do not let your imagination make you think a member is at risk of harming themselves when in reality they have a disorder that makes it difficult for them to imagine the future, and they want their feelings to be heard.
+
+### OCD
+
+OCD is obsessive-compulsive disorder. It is usually considered to be a thought disorder. It affects how people think about certain risks, different risks for each OCD sufferer. In a typical case, a person has uncontrollable thoughts (obsessions) about some risk, combined with thought-action fusion (TAF, described in a previous section of this guide).
+
+The thought disorder makes them confuse thoughts about risk with real risk. So they behave in ways (compulsions) that they think will reduce the risk and keep them safe. But although the behaviors do reduce real risk, they have no effect on the obsessive thoughts, and a cycle of thoughts and compulsions is the result. 
+
+When OCD is associated with harm, it's usually because the OCD sufferer has thoughts about some risk of harm to themselves or others. The thought disorder makes them confuse thoughts about risk with real risk. They come to 7 Cups and talk about what they consider to be real risks of harm.
+
+Do not let your imagination make you think a member is at risk of causing harm when in reality they have a disorder that makes them compulsively avoid causing harm, and they need their feelings about it to be heard.
+
+### PTSD
+
+Post-traumatic stress disorder, PTSD, is a disorder affecting perceptions, thoughts and feelings. It is the result of actual harm (trauma) in the past. There might be continuing risk of real harm in the present and the future, and there might be continuing fears about possible harm in the present and the future whether or not there is real risk.
+
+PTSD sufferers can experience a very wide range of symptoms and difficulties, especially if the PTSD is the result of multiple traumas or a persistent period of trauma.
+
+Not all PTSD sufferers are aware that they suffer from PTSD, and the diagnosis sometimes emerges during therapy for some other condition, such as depression or OCD. However, not all people who experience events that seem like they might be traumatic ever develop PTSD at all.
+
+Do not make assumptions about whether or not a member has PTSD, and do not either reinforce or challenge a member's own thoughts about whether or not they have PTSD. Listeners should not get involved in diagnosis.
+
+### Psychosis
+
+Psychosis is a disorder in the way people keep track of reality. It makes telling the difference between reality and imagination more difficult, or in severe cases impossible. Many of us have had the experience of waking from a dream and not being sure, for a moment, whether we are awake or this is still the dream. Psychosis is like that but all the time, or all the time on and off. And very often the dream is a nightmare.
+
+When psychosis is associated with harm, it's usually because the psychosis sufferer imagines doing harm or being harmed but genuinely thinks it's real, or isn't sure. The harm might be in the past, present or future.
+
+People who suffer from psychosis might come to 7 Cups to talk about the harm they have caused or might cause. It's sometimes because they feel guilt, or fear criminal liability, and sometimes because they are trying to work out whether the harm in their thoughts is real.
+
+Do not let your imagination make you think a member is doing harm or is being harmed, when in reality they have a disorder that makes them unsure what's real, and they want their fears to be heard.
+
+At the same time, people who suffer from psychosis sometimes do cause harm, or are harmed by others. Sometimes what they fear is real. At 7 Cups what we provide is for their fears to be heard, whether real or not.
+
+### Personality disorders
+
+Personality disorders are effectively disorders of relationships. People who suffer from these disorders think and behave in unusual and ineffective or harmful ways towards other people. There is a wide range of personality disorders, and although current classifications do group them in categories, there isn't complete agreement on whether the categories are all that useful.
+
+When personality disorders are associated with harm, it might be because the sufferer causes harm to others without being fully aware of how harmful it is. Or it might be because the sufferer causes harm to themselves. Or it might be because other people cause harm to the sufferer in retaliation for the way the sufferer treats them.
+
+Harm described by people with personality disorders might often be real, but as a listener you have no way to be sure. As usual, ensure that members' feeling are heard and that you reflect them accurately without adding thoughts of your own. 
+
+### Paraphilic disorder
+
+Paraphilic disorder is a disorder of sexuality. It affects sexual fantasies, urges or behaviors (but not necessarily all three in the same person). When paraphilic disorder is mild, and the sufferer is able to live a normal life, it is known as paraphilia (not a mental disorder). When paraphilia involves children as the target, it is known as pedophilia.
+
+When these disorders do affect behaviors they are often associated with criminal acts. However, the association between paraphilia and criminality is not all that strong. For example, most people convicted of sexual crimes do not suffer from this kind of disorder (although they might or might not suffer from other disorders).
+
+When paraphilic disorder is associated with harm, it might be fantasy or actual harm. Listeners are unable to judge what is fantasy and what is actual harm.
+
+People with paraphilic disorder might come to 7 Cups to talk about their fantasies, urges or behaviors. Listeners cannot make the judgement that fantasies and urges will result in behaviors.
+
+Many listeners choose not to take chats that deal with sexual fantasies, urges or behaviors. If you do choose to take these chats, avoid positive judgements and also avoid negative judgements. Ensure that members who express their emotions are heard, and that their emotions are accurately reflected.
+
+QUIZ
+{:.dummyquiz}
