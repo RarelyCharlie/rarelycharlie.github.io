@@ -270,3 +270,60 @@ If you are aware that you experience TAF to some extent, take particular care to
 QUIZ
 {:.dummyquiz}
 
+# Unintended consequences
+
+If listeners do not stick closely to the techniques described in the initial listener training, they risk unintended consequences for members who have certain memory impairments.
+
+Memory impairments are universal in the general population. They affect members and listeners. For the purposes of this guide, the significant memory impairments are the ones that affect members.
+
+These memory impairments are often associated with brain injury. For example, a member might have suffered a blow to the head in an accident, causing brain injury. Or the member's mother might have drunk alcohol while she was pregnant, causing damage to the member's brain (fetal alcohol syndrome).
+
+Similar effects are also associated with mental disorders that involve psychosis. A member who experiences psychosis may find it difficult to distinguish between reality and imagination, so if you suggest something and they imagine it, they might start to think it's real.
+
+### Suggestibility
+
+Suggestibility causes people to incorporate information that they see or hear into their own thinking. For example, a member has a red car:
+
+*Member:* I love my car!
+{:.chat}
+
+*Listener:* That's great! Is it a white car?
+{:.chat}
+
+(At this point the member imagines a white car, because that's what the listener suggested. Now the member cannot remember what color their car really is, because their memory impairment allows the image of a white car to dominate.)
+
+*Member:* Yes, I love my white car!
+{:.chat}
+	
+Listeners must not sneak suggestions into chats, because some members are vulnerable to suggestion. Of course, if it's just the color of a car it's not very important. If the chat is about some form of harm it can be very important.
+
+### Confabulation
+
+Confabulation causes people to invent information that fills gaps in their memory. People who confabulate may invent different information at different times, making them tell you inconsistent things.
+
+For a detailed description of confabulation, with examples, see [What is confabulation?](), an introductory chapter from a book on the subject.   
+
+For example, a member who has a memory impairment is distressed because her father is becoming frail in old age:
+
+*Member:* It makes me so unhappy that he isn't able do as much for himself as he used to.
+{:.chat}
+
+(The listener imagines the member is unhappy because she has to do the things her father can't do.)
+
+*Listener:* It's not fair. What ways have you tried to get him to do his share?
+{:.chat}
+
+(Now the member imagines herself trying to get her father to do his share, even though that's just the listener's fantasy.)
+
+*Member:* I shout at him.
+{:.chat}
+
+(But this is not true. She feels sorry for him and never shouts at him. The listener's leading question, combined with her memory impairment, caused her to confabulate.)
+
+### Avoiding unintended consequences
+
+To avoid unintended consequences, be very careful not to introduce new ideas from your own imagination into member's chats. This is particularly important when there is possible harm, or risk of harm.
+
+QUIZ
+{:.dummyquiz}
+
