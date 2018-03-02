@@ -15,9 +15,8 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[Mental disorders and harm—I](#mental-disorders-and-harmi)
 -	[Mental disorders and harm—II](#mental-disorders-and-harmii)
 -	[Fantasies and actual harm](#fantasies-and-actual-harm)
+-	[External resources](#external-resources)
 -	Do's and dont's
--	External resources
--	Summary
 	
 PART II — Case studies (trigger warning)
 -	Depression
@@ -451,6 +450,78 @@ Members who are really causing harm, or at risk of causing harm, might chat to a
 You don't have any way to distinguish between the member who is telling a lie to test how judgemental 7 Cups is, and the member who is telling the truth to find out how guilty they should feel. Your only option, therefore, is to believe and accept the person without giving the "green light" to possible harmful behavior.
 
 Members who are really causing harm, or at risk of causing harm, are very likely not to admit to it at all. They chat about something else entirely. Do not change the subject of any chat to satisfy your curiosity about whether a member might be causing harm but not telling you.
+
+QUIZ
+{:.dummyquiz}
+
+# External resources
+
+It is sometimes appropriate to provide a member with a link to a resource outside 7 Cups.
+
+The best way for this to happen is if they can search the Internet themselves for a helpline or website that is local to them and specific to their needs. There are thousands of services globally, and no central directory other than Internet search. 
+
+Listeners at 7 Cups are not required to provide Internet search services to members, no matter what the circumstances are.
+
+DECORATIVE IMAGE
+{:.decor}
+
+Do not provide any external resource link to a member unless they have clearly indicated their need for it. In particular, do not provide a resource link based on something you yourself said to the member earlier in the chat, or something in your imagination.
+
+Members who have known medical conditions often have their own information about local resources they can access. Do not provide international or national resources to members who have access to more appropriate local services.
+
+Helpline numbers found on the Internet are often out of date or operate restricted hours. Finding a helpline number does not mean the member can get help there.
+
+While a member contacts an external resource, offer to keep the chat open, if possible. Offer to chat again later to provide emotional support (but not to chat about a topic that lies outside your boundaries).
+
+Do not contact external resources yourself on behalf of a member.
+
+### Countries
+
+DECORATIVE IMAGE
+{:.decol}
+
+People from all over the world use 7 Cups. The top three countries in terms of visitors per month are the US, India and the UK. About 40% of visitors are from other countries.
+
+Before you provide a national resource link, ask the member what country they are in. Ask carefully, because this question might make a member suspicious you are trying to trace them.
+
+Do not give a member a resource link in the wrong country. In particular, do not provide a resource link in your own country to a member who might be in some other country.
+
+### National resources
+
+Immediate risk of death or serious injury (local emergency services)
+- US: 9-1-1
+- India: 112
+- UK: 999
+	
+Suicidal thoughts
+- US: 1-800-SUICIDE (1-800-784-2433) or 1-800-273-TALK (1-800-273-8255) 
+- India: *no national service*
+- UK: 116 123 (Samaritans)
+
+Mental health helplines
+- US: [Mental health hotline numbers](https://www.healthyplace.com/other-info/resources/mental-health-hotline-numbers-and-referral-resources/)
+- India: [Mental health helplines](https://www.youthkiawaaz.com/2015/10/mental-health-helpline/)
+- UK: [Helplines](https://www.getselfhelp.co.uk/helplines.htm)
+
+### International resources
+
+[Suicide helplines directory](http://suicide.org/suicide-hotlines.html)
+
+[Children's helplines directory](https://www.childhelplineinternational.org/child-helplines/child-helpline-network/)
+
+### Mandatory reporting
+
+Some organizations and some legal jurisdictions require certain people to report certain crimes to the authorities if they come across evidence or have suspicion about them.
+
+7 Cups does not have any mandatory reporting.
+
+Your local laws might make reporting mandatory in some situations, but 7 Cups is not aware of any legal jurisdiction that has mandatory reporting for 7 Cups listeners.
+
+If you think your local laws do make reporting mandatory, check with a local lawyer to establish whether it applies to listening at 7 Cups. Note that at 7 Cups you have no information about who any member is or where on the planet they are.
+
+If you are a member of a professional body, the body might have a mandatory reporting requirement. Check whether it still applies when you are a volunteer at 7 Cups, not working in any professional capacity, and not in contact with identifiable members.
+
+If you can establish beyond doubt that you are subject to a mandatory reporting requirement, tell 7 Cups by e-mail, from the address you used to sign up as a listener to community@7cups.com.
 
 QUIZ
 {:.dummyquiz}
