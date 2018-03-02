@@ -68,7 +68,7 @@ Everywhere this guide uses the word "members", the information also applies to g
 from [Our Mission](https://www.7cups.com/forum/GlensNook_84/OurVisionforaBetterWorld_334/OurMission_18219/1/)
 {:.right}
 
-7 Cups has values that describe how we relate to people. Thay have since been simplified, but our original values included:
+7 Cups has values that describe how we relate to people. They have since been simplified, but our original values included:
 
 > We do not judge or look down on people. We recognize that people make sense in the larger context or story of their lives. Sometimes it can seem like people are making choices that do not make sense, but this is likely because we do not have all of the details. We understand that people are complicated and that life is not simple or easy.
 	
