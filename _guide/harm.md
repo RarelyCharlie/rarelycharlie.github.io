@@ -357,6 +357,9 @@ Do not let your imagination make you think a member is at risk of harming themse
 
 OCD is obsessive-compulsive disorder. It is usually considered to be a thought disorder. It affects how people think about certain risks, different risks for each OCD sufferer. In a typical case, a person has uncontrollable thoughts (obsessions) about some risk, combined with thought-action fusion (TAF, described in a previous section of this guide).
 
+DECORATIVE IMAGE
+{:.decol}
+
 The thought disorder makes them confuse thoughts about risk with real risk. So they behave in ways (compulsions) that they think will reduce the risk and keep them safe. But although the behaviors do reduce real risk, they have no effect on the obsessive thoughts, and a cycle of thoughts and compulsions is the result. 
 
 When OCD is associated with harm, it's usually because the OCD sufferer has thoughts about some risk of harm to themselves or others. The thought disorder makes them confuse thoughts about risk with real risk. They come to 7 Cups and talk about what they consider to be real risks of harm.
@@ -372,6 +375,8 @@ PTSD sufferers can experience a very wide range of symptoms and difficulties, es
 Not all PTSD sufferers are aware that they suffer from PTSD, and the diagnosis sometimes emerges during therapy for some other condition, such as depression or OCD. However, not all people who experience events that seem like they might be traumatic ever develop PTSD at all.
 
 Do not make assumptions about whether or not a member has PTSD, and do not either reinforce or challenge a member's own thoughts about whether or not they have PTSD. Listeners should not get involved in diagnosis.
+
+In all cases when a member might have a mental disorder, you cannot be sure whether they have a disorder or not, and if they do have a disorder you cannot be sure what it is. Ensure that you accurately reflect members' feelings without judging them, either positively or negatively, and without diagnosing.
 
 QUIZ
 {:.dummyquiz}
@@ -394,6 +399,9 @@ At the same time, people who suffer from psychosis sometimes do cause harm, or a
 
 ### Personality disorders
 
+DECORATIVE IMAGE
+{:.decor}
+
 Personality disorders are effectively disorders of relationships. People who suffer from these disorders think and behave in unusual and ineffective or harmful ways towards other people. There is a wide range of personality disorders, and although current classifications do group them in categories, there isn't complete agreement on whether the categories are all that useful.
 
 When personality disorders are associated with harm, it might be because the sufferer causes harm to others without being fully aware of how harmful it is. Or it might be because the sufferer causes harm to themselves. Or it might be because other people cause harm to the sufferer in retaliation for the way the sufferer treats them.
@@ -411,6 +419,9 @@ When paraphilic disorder is associated with harm, it might be fantasy or actual 
 People with paraphilic disorder might come to 7 Cups to talk about their fantasies, urges or behaviors. Listeners cannot make the judgement that fantasies and urges will result in behaviors.
 
 Many listeners choose not to take chats that deal with sexual fantasies, urges or behaviors. If you do choose to take these chats, avoid positive judgements and also avoid negative judgements. Ensure that members who express their emotions are heard, and that their emotions are accurately reflected.
+
+Remember that in all cases when a member might have a mental disorder, you cannot be sure whether they have a disorder or not, and if they do have a disorder you cannot be sure what it is. Ensure that you accurately reflect members' feelings without judging them, either positively or negatively, and without diagnosing.
+
 
 QUIZ
 {:.dummyquiz}
