@@ -14,7 +14,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[Unintended consequences](#unintended-consequences)
 -	[Mental disorders and harm—I](#mental-disorders-and-harmi)
 -	[Mental disorders and harm—II](#mental-disorders-and-harmii)
--	Fantasies and actual harm
+-	[Fantasies and actual harm](#fantasies-and-actual-harm)
 -	Do's and dont's
 -	External resources
 -	Summary
@@ -422,6 +422,35 @@ Many listeners choose not to take chats that deal with sexual fantasies, urges o
 
 Remember that in all cases when a member might have a mental disorder, you cannot be sure whether they have a disorder or not, and if they do have a disorder you cannot be sure what it is. Ensure that you accurately reflect members' feelings without judging them, either positively or negatively, and without diagnosing.
 
+QUIZ
+{:.dummyquiz}
+
+# Fantasies and actual harm
+
+Members sometimes describe harmful events that might be fantasies or truth, or some mixture of fantasies and truth. Listeners are usually unable to judge what is the truth and what isn't.
+
+Sometimes, however, very outrageous fantasies are obviously fantasies. Sometimes fantasies are based on well-known works of fiction, such as movies and TV shows, and these might sometimes be obvious to listeners.
+
+### Reasons for sharing fantasies
+
+Members' reasons for sharing fantasies are not usually clear. One reason might sometimes be loneliness and lack of self-worth, because they feel a fantasy about harm is sure to get attention but if they are just themselves no one would want to chat to them.
+
+DECORATIVE IMAGE
+{:.decor}
+
+Sometimes fantasies contain elements of truth. The situation might be that a member feels the truth difficult to talk about, so they talk about a fantasy first, and then mix in parts of the thing they really want to talk about. So at the start the chat can feel very uncomfortable because you feel you're just being told a fantasy, but if you stay with it sometimes you end up in a very real chat about something the member finds difficult.
+
+Another reason members sometimes chat about fantasies of harm is as a deliberate hoax, maybe to overcome feelings of inferiority.
+
+And another reason is to test 7 Cups to see whether they are believed and accepted when they mention something shocking like harm. If 7 Cups passes the test, and they are believed and accepted, then they might return using a different identity to chat about what's really troubling them.
+
+### Reasons for sharing the truth
+
+Members who are really causing harm, or at risk of causing harm, might chat to a listener about it hoping to get advice on how bad it really is and how guilty they should feel.
+
+You don't have any way to distinguish between the member who is telling a lie to test how judgemental 7 Cups is, and the member who is telling the truth to find out how guilty they should feel. Your only option, therefore, is to believe and accept the person without giving the "green light" to possible harmful behavior.
+
+Members who are really causing harm, or at risk of causing harm, are very likely not to admit to it at all. They chat about something else entirely. Do not change the subject of any chat to satisfy your curiosity about whether a member might be causing harm but not telling you.
 
 QUIZ
 {:.dummyquiz}
