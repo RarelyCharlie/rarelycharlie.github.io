@@ -246,6 +246,9 @@ When a member describes significant distress because of TAF, a listener cannot g
 
 ### Listeners
 
+DECORATIVE IMAGE
+{:.decor}
+
 When listeners are affected by TAF, it can make them genuinely believe that a member who wants to talk about thoughts of harm is causing real harm, or is at risk of causing real harm.
 
 In more severe cases, a member doesn't mention harm at all but the listener imagines harm. Then the listener's TAF makes the imaginary harm seem real. This could make the listener say inappropriate things to the member.
@@ -273,6 +276,9 @@ QUIZ
 # Unintended consequences
 
 If listeners do not stick closely to the techniques described in the initial listener training, they risk unintended consequences for members who have certain memory impairments.
+
+DECORATIVE IMAGE
+{:.decol}
 
 Memory impairments are universal in the general population. They affect members and listeners. For the purposes of this guide, the significant memory impairments are the ones that affect members.
 
