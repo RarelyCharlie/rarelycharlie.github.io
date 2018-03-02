@@ -18,7 +18,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[External resources](#external-resources)
 -	[Do's and dont's](#dos-and-donts)
 	
-PART II — Case studies (trigger warning)
+[PART II](#part-ii) — Examples (trigger warning)
 -	Depression
 -	OCD
 -	PTSD
