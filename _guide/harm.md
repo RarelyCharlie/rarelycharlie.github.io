@@ -511,17 +511,44 @@ Mental health helplines
 
 ### Mandatory reporting
 
-Some organizations and some legal jurisdictions require certain people to report certain crimes to the authorities if they come across evidence or have suspicion about them.
+Some organizations and some legal jurisdictions require certain people to report certain crimes to the authorities if they come across evidence or have suspicion of them.
 
 7 Cups does not have any mandatory reporting.
 
-Your local laws might make reporting mandatory in some situations, but 7 Cups is not aware of any legal jurisdiction that has mandatory reporting for 7 Cups listeners.
+In theory, your local laws might make reporting mandatory in some situations, but 7 Cups is not aware of any legal jurisdiction that has mandatory reporting for 7 Cups listeners.
 
-If you think your local laws do make reporting mandatory, check with a local lawyer to establish whether it applies to listening at 7 Cups. Note that at 7 Cups you have no information about who any member is or where on the planet they are.
+If you think your local laws do make reporting mandatory, check with a local lawyer or legal advice service to establish whether it applies to listening at 7 Cups. Note that at 7 Cups you have no information about who any member is or where on the planet they are.
 
-If you are a member of a professional body, the body might have a mandatory reporting requirement. Check whether it still applies when you are a volunteer at 7 Cups, not working in any professional capacity, and not in contact with identifiable members.
+If you are a member of a professional body, the body might have a mandatory reporting requirement. Check with the body's legal department whether the requirement applies when you are a volunteer at 7 Cups, not working in any professional capacity, and not in contact with identifiable individuals.
 
-If you can establish beyond doubt that you are subject to a mandatory reporting requirement, tell 7 Cups by e-mail, from the address you used to sign up as a listener to community@7cups.com.
+If you can establish beyond doubt, based on written evidence, that you are subject to a mandatory reporting requirement, tell 7 Cups by e-mail, from the address you used to sign up as a listener, to `community@7cups.com`.
+
+QUIZ
+{:.dummyquiz}
+
+# Do's and dont's
+
+This section is a checklist of seven things to do and seven things not to do:
+
+### Do's
+
+- Do care for yourself first.
+- Do establish your boundaries in advance.
+- Do refer a member to another listener immediately you need to.
+- Do reflect members' feelings accurately.
+- Do distinguish accurately between thoughts and actions.
+- Do provide links to external resources when members agree they want them.
+- Do immediately refer any chat about actual harm in the present, and end the chat.
+
+### Dont's
+
+- Don't sneak anything from your own imagination into a member's chat.
+- Don't diagnose medical disorders, or challenge existing diagnoses.
+- Don't imagine you can always distinguish facts from fantasies. 
+- Don't give advice, or anything that could be mistaken for advice.
+- Don't make positive or negative judgements.
+- Don't refer members without their consent.
+- Don't share details of any chat with anyone for any reason.
 
 QUIZ
 {:.dummyquiz}
