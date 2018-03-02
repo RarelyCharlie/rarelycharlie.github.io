@@ -406,7 +406,7 @@ Personality disorders are effectively disorders of relationships. People who suf
 
 When personality disorders are associated with harm, it might be because the sufferer causes harm to others without being fully aware of how harmful it is. Or it might be because the sufferer causes harm to themselves. Or it might be because other people cause harm to the sufferer in retaliation for the way the sufferer treats them.
 
-Harm described by people with personality disorders might often be real, but as a listener you have no way to be sure. As usual, ensure that members' feeling are heard and that you reflect them accurately without adding thoughts of your own. 
+Harm described by people with personality disorders might often be real, but as a listener you have no way to be sure. As usual, ensure that members' feelings are heard and that you reflect them accurately without adding thoughts of your own. 
 
 ### Paraphilic disorder
 
