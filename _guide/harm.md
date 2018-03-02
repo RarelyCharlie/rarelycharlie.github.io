@@ -21,6 +21,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 PART II — Case studies (trigger warning)
 -	Depression
 -	OCD
+-	PTSD
 -	Psychosis
 -	Personality disorder
 -	Paraphilia
