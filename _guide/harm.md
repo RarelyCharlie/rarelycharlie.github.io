@@ -234,9 +234,7 @@ Mostly, TAF is mild. When TAF causes significant distress it can easily be treat
 
 When members are affected by TAF, it can make them genuinely believe they are causing harm, or at risk of causing harm, when the reality is they only have thoughts about imaginary harm.
 
-In severe cases this is symptomatic of a mental disorder, a form of obsessive-compulsive disorder (OCD). You can read more about OCD in this article from the journal *Advances in Psychiatric Treatment*: [Cognitive–behavioural therapy for obsessive–compulsive disorder](http://www.veale.co.uk/wp-content/uploads/2010/10/56-CBT-for-OCD-2007.pdf). The article includes a case study about a woman (Ella, page 442) who has obsessive thoughts about causing harm.
-
-Listeners cannot diagnose or treat any mental disorder, and even if a member experiences TAF mildly, a listener cannot try to solve the problem.
+In severe cases this is symptomatic of a mental disorder, a form of obsessive-compulsive disorder (OCD). The is more information about OCD in Part II of this guide. Listeners cannot diagnose or treat any mental disorder. Even if a member experiences TAF mildly, a listener cannot try to solve the problem.
 
 When a member describes significant distress because of TAF, a listener cannot give advice or suggest how to solve the problem, but a listener can state a simple fact, like:
 
