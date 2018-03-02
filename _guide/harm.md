@@ -283,7 +283,7 @@ DECORATIVE IMAGE
 
 Memory impairments are universal in the general population. They affect members and listeners. For the purposes of this guide, the significant memory impairments are the ones that affect members.
 
-These memory impairments are often associated with brain injury. For example, a member might have suffered a blow to the head in an accident, causing brain injury. Or the member's mother might have drunk alcohol while she was pregnant, causing damage to the member's brain (fetal alcohol syndrome).
+These memory impairments are often associated with brain injury. For example, a member might have suffered a blow to the head in an accident, causing brain injury. Or the member's mother might have drunk excessive alcohol while she was pregnant, causing damage to the member's brain (fetal alcohol syndrome).
 
 Similar effects are also associated with mental disorders that involve psychosis. A member who experiences psychosis may find it difficult to distinguish between reality and imagination, so if you suggest something and they imagine it, they might start to think it's real.
 
@@ -295,7 +295,7 @@ Suggestibility causes people to incorporate information that they see or hear in
 {:.chat}
 
 *Listener:* That's great! Is it a white car?
-{:.chat}
+{:.chat.warn}
 
 (At this point the member imagines a white car, because that's what the listener suggested. Now the member cannot remember what color their car really is, because their memory impairment allows the image of a white car to dominate.)
 
@@ -303,6 +303,9 @@ Suggestibility causes people to incorporate information that they see or hear in
 {:.chat}
 	
 Listeners must not sneak suggestions into chats, because some members are vulnerable to suggestion. Of course, if it's just the color of a car it's not very important. If the chat is about some form of harm it can be very important.
+
+*Listener:* Your car makes you feel good <i class="fa fa-smile"></i>
+{:.chat.ok}
 
 ### Confabulation
 
@@ -316,7 +319,7 @@ For example, a member who has a memory impairment is distressed because her fath
 (The listener imagines the member is unhappy because she has to do the things her father can't do.)
 
 *Listener:* It's not fair. What ways have you tried to get him to do his share?
-{:.chat}
+{:.chat.warn}
 
 (Now the member imagines herself trying to get her father to do his share, even though that's just the listener's fantasy.)
 
@@ -324,6 +327,11 @@ For example, a member who has a memory impairment is distressed because her fath
 {:.chat}
 
 (But this is not true. She feels sorry for him and never shouts at him. The listener's leading question, combined with her memory impairment, caused her to confabulate.)
+
+Remember to reflect the things members tell you accurately:
+
+*Listener:* You're sad because he can't do things for himself so much now.
+{:.chat.ok}
 
 ### Avoiding unintended consequences
 
