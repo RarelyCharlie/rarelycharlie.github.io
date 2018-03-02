@@ -268,7 +268,7 @@ For example:
 Do not give members advice in this way, especially when it is based on your own imagination. Instead, repeat back the member's feelings accurately:
 
 *Listener:* The breakup has caused you sadness, but it's not like when you were younger.
-{:.chat}
+{:.chat.ok}
 
 If you are aware that you experience TAF to some extent, take particular care to distinguish carefully between your own thoughts and reality that can be verified.
 
