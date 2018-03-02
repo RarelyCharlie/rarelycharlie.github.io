@@ -40,6 +40,8 @@ del {text-decoration: none; display: inline-block; color: #070; cursor: pointer;
 del:hover {background: #afa; color: #00a;}
 .hidden {display: none;}
 .warn {color: #a00;}
+.warn::after {content: "\f00d"; font-family: FontAwesome; color: #e00;}
+.ok::after {content: "\f00c"; font-family: FontAwesome; color: #4e4;}
 .faded {opacity: 0; transition: opacity 3s;}
 a[href] {color: #29f; text-decoration: none;}
 a[href]:hover {text-decoration: underline;}
