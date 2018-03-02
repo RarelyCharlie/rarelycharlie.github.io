@@ -234,7 +234,7 @@ Mostly, TAF is mild. When TAF causes significant distress it can easily be treat
 
 When members are affected by TAF, it can make them genuinely believe they are causing harm, or at risk of causing harm, when the reality is they only have thoughts about imaginary harm.
 
-In severe cases this is symptomatic of a mental disorder, a form of obsessive-compulsive disorder (OCD). The is more information about OCD in Part II of this guide. Listeners cannot diagnose or treat any mental disorder. Even if a member experiences TAF mildly, a listener cannot try to solve the problem.
+In severe cases this is symptomatic of a mental disorder, a form of obsessive-compulsive disorder (OCD). There is more information about OCD in Part II of this guide. Listeners cannot diagnose or treat any mental disorder. Even if a member experiences TAF mildly, a listener cannot try to solve the problem.
 
 When a member describes significant distress because of TAF, a listener cannot give advice or suggest how to solve the problem, but a listener can state a simple fact, like:
 
@@ -306,8 +306,6 @@ Listeners must not sneak suggestions into chats, because some members are vulner
 ### Confabulation
 
 Confabulation causes people to invent information that fills gaps in their memory. People who confabulate may invent different information at different times, making them tell you inconsistent things.
-
-For a detailed description of confabulation, with examples, see [What is confabulation?](), an introductory chapter from a book on the subject.   
 
 For example, a member who has a memory impairment is distressed because her father is becoming frail in old age:
 
