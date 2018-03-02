@@ -16,7 +16,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[Mental disorders and harm—II](#mental-disorders-and-harmii)
 -	[Fantasies and actual harm](#fantasies-and-actual-harm)
 -	[External resources](#external-resources)
--	Do's and dont's
+-	[Do's and dont's](#dos-and-donts)
 	
 PART II — Case studies (trigger warning)
 -	Depression
@@ -552,3 +552,10 @@ This section is a checklist of seven things to do and seven things not to do:
 
 QUIZ
 {:.dummyquiz}
+
+# Part I
+Examples
+
+**Trigger warning**: This section of the guide describes fictional scenarios that may possibly involve harm. Some listeners might find some of these scenarios upsetting or triggering.
+
+If you are aware that you might be upset by some of the subject matter here, proceed with caution. You can skip any of these sections without completing the quiz.
