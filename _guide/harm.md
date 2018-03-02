@@ -12,7 +12,8 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[Why members talk about harm](#why-members-talk-about-harm)
 -	[Thoughts and actions](#thoughts-and-actions)
 -	[Unintended consequences](#unintended-consequences)
--	[Mental disorders and harm](#mental-disorders-and-harm)
+-	[Mental disorders and harm—I](#mental-disorders-and-harm-i)
+-	[Mental disorders and harm—II](#mental-disorders-and-harm-ii)
 -	Fantasies and actual harm
 -	Do's and dont's
 -	External resources
@@ -340,9 +341,9 @@ To avoid unintended consequences, be very careful not to introduce new ideas fro
 QUIZ
 {:.dummyquiz}
 
-# Mental disorders and harm
+# Mental disorders and harm—I
 
-This section looks at five categories of mental disorder that can be associated with chats about harm. This is just an overview. There are further examples in Part II because the details might be upsetting or triggering to some listeners.
+This section and the next look at six categories of mental disorder that can be associated with chats about harm. This is just an overview. There are further examples in Part II because the details might be upsetting or triggering to some listeners. First, depression, OCD and PTSD.
 
 ### Depression
 
@@ -371,6 +372,13 @@ PTSD sufferers can experience a very wide range of symptoms and difficulties, es
 Not all PTSD sufferers are aware that they suffer from PTSD, and the diagnosis sometimes emerges during therapy for some other condition, such as depression or OCD. However, not all people who experience events that seem like they might be traumatic ever develop PTSD at all.
 
 Do not make assumptions about whether or not a member has PTSD, and do not either reinforce or challenge a member's own thoughts about whether or not they have PTSD. Listeners should not get involved in diagnosis.
+
+QUIZ
+{:.dummyquiz}
+
+# Mental disorders and harm—II
+
+This section continues the previous section, looking at three more types of mental disorder that can be associated with chats about harm: psychosis, personality disorders, and paraphilic disorder.
 
 ### Psychosis
 
