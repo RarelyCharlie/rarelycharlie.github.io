@@ -12,8 +12,8 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[Why members talk about harm](#why-members-talk-about-harm)
 -	[Thoughts and actions](#thoughts-and-actions)
 -	[Unintended consequences](#unintended-consequences)
--	[Mental disorders and harm—I](#mental-disorders-and-harm-i)
--	[Mental disorders and harm—II](#mental-disorders-and-harm-ii)
+-	[Mental disorders and harm—I](#mental-disorders-and-harmi)
+-	[Mental disorders and harm—II](#mental-disorders-and-harmii)
 -	Fantasies and actual harm
 -	Do's and dont's
 -	External resources
