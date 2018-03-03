@@ -591,7 +591,8 @@ This limited selection of scenarios is intended to illustrate some of the very w
 *Member:* Constant worry, yes.
 {:.chat}
 
-* * *(long pause)*
+* * *(long pause)*
+{:.chat}
 
 *Member:* My doctor says everyone feels this way.
 {:.chat}
