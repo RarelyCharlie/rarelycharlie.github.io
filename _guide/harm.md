@@ -624,10 +624,10 @@ For some people in developed countries there is, in fact, help for people like t
 You can read more about OCD in this article from the journal *Advances in Psychiatric Treatment*: [Cognitive–behavioural therapy for obsessive–compulsive disorder](http://www.veale.co.uk/wp-content/uploads/2010/10/56-CBT-for-OCD-2007.pdf).
 
 > The most common obsessions concern:
-- the prevention of harm to the self or others
-- resulting from contamination (e.g. dirt, germs, bodily fluids or faeces, dangerous chemicals)
+- the prevention of harm to the self or others resulting from contamination (e.g. dirt, germs, bodily fluids or faeces, dangerous chemicals)
 - the prevention of harm resulting from making a mistake (e.g. a door not being locked)
-- intrusive religious or blasphemous thoughts intrusive sexual thoughts (e.g. of being a paedophile)
+- intrusive religious or blasphemous thoughts
+- intrusive sexual thoughts (e.g. of being a paedophile)
 - intrusive thoughts of violence or aggression (e.g. of stabbing one’s baby)
 - the need for order or symmetry.
 
