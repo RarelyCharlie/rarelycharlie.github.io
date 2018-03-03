@@ -19,7 +19,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[Do's and dont's](#dos-and-donts)
 	
 [PART II](#part-ii) — Examples (trigger warning)
--	Depression
+-	[Depression](#depression)
 -	OCD
 -	PTSD
 -	Psychosis
@@ -93,7 +93,7 @@ Some people find the distinction between thoughts and actions obvious, and some 
 
 Listeners can sometimes provide members with factual information about sources of help outside 7 Cups, but there are reasons to be careful about doing this. For example, providing information can undermine the real purpose of 7 Cups. There will be more about this, too, later in the guide.
 
-There are some reminders about exactly how listeners at 7 Cups go about providing emotional support later in this guide.
+Also later in the guide, there are some reminders about exactly how listeners at 7 Cups go about providing emotional support.
 
 # Self care
 
@@ -558,4 +558,57 @@ Examples
 
 **Trigger warning**: This section of the guide describes fictional scenarios that may possibly involve harm. Some listeners might find some of these scenarios upsetting or triggering.
 
-If you are aware that you might be upset by some of the subject matter here, proceed with caution. You can skip any of these sections without completing the quiz.
+If you are aware that you might be upset by some of the subject matter here, proceed with caution. You can skip any of these sections without completing a quiz.
+
+This limited selection of scenarios is intended to illustrate some of the very wide range of circumstances in which chats can involve harm. Although their titles are medical diagnoses, this does not imply that listeners can diagnose.
+
+# Depression
+
+*Member:* I really can't do this. There's something wrong. I just know I'm going to end up harming my baby.
+{:.chat}
+
+*Listener:* You have a definite feeling you're going to harm your baby.
+{:.chat}
+
+*Member:* Yes.
+{:.chat}
+
+*Listener:* In what way do you feel your baby might be harmed?
+{:.chat}
+
+*Member:* I don't know. I'm just so worried all the time that she'll come to harm and it will be my fault.
+{:.chat}
+
+*Listener:* There's nothing specific that you think might happen to her, but you have this constant worry.
+{:.chat}
+
+*Member:* Constant worry, yes.
+{:.chat}
+
+* * *(long pause)*
+
+*Member:* My doctor says everyone feels this way.
+{:.chat}
+
+*Listener:* It's like your doctor doesn't take your worry very seriously.
+{:.chat}
+
+*Member:* Yeah. He's a good doctor but idk.
+{:.chat}
+
+Postnatal depression often affects mothers of young babies. Listeners cannot diagnose or try to solve the problem.
+
+In this chat the member reports thoughts about the baby coming to harm, but does not report any actions that could harm the baby. A doctor is aware of the situation, and there's no indication he's concerned.
+
+The listener doesn't confuse thoughts with actions, doesn't start imagining things, and accurately reflects what the member says. This is just a normal chat where a member shares her feelings and a listener listens.
+
+### Further information
+
+You can find out more about postnatal depression by watching this video, made for World Mental Health Day 2016 (5 minutes):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YnaXlRCeoOI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+> Somebody was finally understanding me.
+
+Listeners at 7 Cups are here to understand.
+
