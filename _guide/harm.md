@@ -289,21 +289,19 @@ Similar effects are also associated with mental disorders that involve psychosis
 
 Suggestibility causes people to incorporate information that they see or hear into their own thinking. For example, a member has a red car:
 
-*Member:* I love my car!
+|Member:|I love my car!
+|Listener:|*That's great! Is it a white car?*{:.warn}
 {:.chat}
-
-*Listener:* That's great! Is it a white car?
-{:.chat.warn}
 
 (At this point the member imagines a white car, because that's what the listener suggested. Now the member cannot remember what color their car really is, because their memory impairment allows the image of a white car to dominate.)
 
-*Member:* Yes, I love my white car!
+|Member:|Yes, I love my white car!
 {:.chat}
 	
 Listeners must not sneak suggestions into chats, because some members are vulnerable to suggestion. Of course, if it's just the color of a car it's not very important. If the chat is about some form of harm it can be very important.
 
-*Listener:* Your car makes you feel good ![:)](https://d37v7cqg82mgxu.cloudfront.net/img/emoticons/smile.png)
-{:.chat.ok}
+|Listener:|*Your car makes you feel good ![:)](https://d37v7cqg82mgxu.cloudfront.net/img/emoticons/smile.png)*{:.ok}
+{:.chat}
 
 ### Confabulation
 
@@ -311,25 +309,25 @@ Confabulation causes people to invent information that fills gaps in their memor
 
 For example, a member who has a memory impairment is distressed because her father is becoming frail in old age:
 
-*Member:* It makes me so unhappy that he isn't able do as much for himself as he used to.
+|Member:|It makes me so unhappy that he isn't able do as much for himself as he used to.
 {:.chat}
 
 (The listener imagines the member is unhappy because she has to do the things her father can't do.)
 
-*Listener:* It's not fair. What ways have you tried to get him to do his share?
-{:.chat.warn}
+|Listener:|*It's not fair. What ways have you tried to get him to do his share?*{:.warn}
+{:.chat}
 
 (Now the member imagines herself trying to get her father to do his share, even though that's just the listener's fantasy.)
 
-*Member:* I shout at him.
+|Member:|I shout at him.
 {:.chat}
 
 (But this is not true. She feels sorry for him and never shouts at him. The listener's leading question, combined with her memory impairment, caused her to confabulate.)
 
 Remember to reflect the things members tell you accurately:
 
-*Listener:* You're sad because he can't do things for himself so much now.
-{:.chat.ok}
+|Listener:|*You're sad because he can't do things for himself so much now.*{:.ok}
+{:.chat}
 
 ### Avoiding unintended consequences
 
