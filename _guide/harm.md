@@ -624,25 +624,13 @@ QUIZ
 
 # OCD
 
-*Member:* There's no help for people like me. I just can't control my thoughts when I'm around young boys. I'm only telling you because I know this can't be traced.
-{:.chat}
-
-*Listener:* Yes, it's safe to tell us anything here. What kind of thoughts do you find yourself needing to control?
-{:.chat}
-
-*Member:* Well, sexual thoughts. The irony is, because I'm a woman everyone trusts me. I have to be so careful not to get into in a situation where I might do something.
-{:.chat}
-
-*Listener:* It's a constant worry that you might do something sexual.
-{:.chat}
-
-*Member:* Yes.
-{:.chat}
-
-*Listener:* Because you have sexual thoughts that you might not be able to control.
-{:.chat}
-
-*Member:* I can't control them. Believe me, I try.
+|Member:|There's no help for people like me. I just can't control my thoughts when I'm around young boys. I'm only telling you because I know this can't be traced.
+|Listener:|Yes, it's safe to tell us anything here. What kind of thoughts do you find yourself needing to control?
+|Member:|Well, sexual thoughts. The irony is, because I'm a woman everyone trusts me. I have to be so careful not to get into in a situation where I might do something.
+|Listener|It's a constant worry that you might do something sexual.
+|Member:|Yes.
+|Listener:|Because you have sexual thoughts that you might not be able to control.
+|Member:|I can't control them. Believe me, I try.
 {:.chat}
 
 Harm OCD, and specifically pedophile-themed OCD, are types of obsessive-compulsive disorder in which people fear causing harm and suffer from obsessive thoughts about it. Because of their obsessions, they compulsively avoid any possibility of causing harm. Listeners cannot diagnose or try to solve the problem.
