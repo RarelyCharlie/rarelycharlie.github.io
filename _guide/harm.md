@@ -239,10 +239,8 @@ In severe cases this is symptomatic of a mental disorder, a form of obsessive-co
 
 When a member describes significant distress because of TAF, a listener cannot give advice or suggest how to solve the problem, but a listener can state a simple fact, like:
 
-*Member:* This is eating up my whole life. I virtually can't get in the car because I spend so much time worrying that I've killed someone.
-{:.chat}
-
-*Listener:* That's the kind of thing a professional can help with.
+|Member:|This is eating up my whole life. I virtually can't get in the car because I spend so much time worrying that I've killed someone.
+|Listener:|That's the kind of thing a professional can help with.
 {:.chat}
 
 ### Listeners
@@ -256,17 +254,17 @@ In more severe cases, a member doesn't mention harm at all but the listener imag
 
 For example:
 
-*Member:* Since we broke up I've been feeling sad. When I was younger I would have harmed myself at times like this.
+|Member:|Since we broke up I've been feeling sad. When I was younger I would have harmed myself at times like this.
 {:.chat}
 
 (The listener imagines the member feeling so sad that she attempts suicide. TAF makes the listener think the member is really at risk of attempting suicide.)
 
-*Listener:* You should see a counselor and call a suicide helpline.
-{:.chat.warn}
+|Listener:|You should see a counselor and call a suicide helpline.{:.warn}
+{:.chat}
 
 Do not give members advice in this way, especially when it is based on your own imagination. Instead, repeat back the member's feelings accurately:
 
-*Listener:* The breakup has caused you sadness, but it's not like when you were younger.
+|Listener:|The breakup has caused you sadness, but it's not like when you were younger.
 {:.chat.ok}
 
 If you are aware that you experience TAF to some extent, take particular care to distinguish carefully between your own thoughts and reality that can be verified.
