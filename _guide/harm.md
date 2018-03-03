@@ -345,6 +345,7 @@ QUIZ
 This section and the next look at six categories of mental disorder that can be associated with chats about harm. This is just an overview. There are further examples in Part II because the details might be upsetting or triggering to some listeners. First, depression, OCD and PTSD.
 
 ### Depression
+{:#depressionx}
 
 Depression is a very common emotional disorder. It affects how people feel about themselves and about life, making them unable to imagine the future in a positive and hopeful way. In a severe case, a depressed person might not be able to imagine tomorrow.
 
@@ -353,6 +354,7 @@ When depression is associated with harm, it's usually about the depressed person
 Do not let your imagination make you think a member is at risk of harming themselves when in reality they have a disorder that makes it difficult for them to imagine the future, and they want their feelings to be heard.
 
 ### OCD
+{:#ocdx}
 
 OCD is obsessive-compulsive disorder. It is usually considered to be a thought disorder. It affects how people think about certain risks, different risks for each OCD sufferer. In a typical case, a person has uncontrollable thoughts (obsessions) about some risk, combined with thought-action fusion (TAF, described in a previous section of this guide).
 
@@ -366,6 +368,7 @@ When OCD is associated with harm, it's usually because the OCD sufferer has thou
 Do not let your imagination make you think a member is at risk of causing harm when in reality they have a disorder that makes them compulsively avoid causing harm, and they need their feelings about it to be heard.
 
 ### PTSD
+{:#ptsdx}
 
 Post-traumatic stress disorder, PTSD, is a disorder affecting perceptions, thoughts and feelings. It is the result of actual harm (trauma) in the past. There might be continuing risk of real harm in the present and the future, and there might be continuing fears about possible harm in the present and the future whether or not there is real risk.
 
@@ -385,6 +388,7 @@ QUIZ
 This section continues the previous section, looking at three more types of mental disorder that can be associated with chats about harm: psychosis, personality disorders, and paraphilic disorder.
 
 ### Psychosis
+{:#psychosisx}
 
 Psychosis is a disorder in the way people keep track of reality. It makes telling the difference between reality and imagination more difficult, or in severe cases impossible. Many of us have had the experience of waking from a dream and not being sure, for a moment, whether we are awake or this is still the dream. Psychosis is like that but all the time, or all the time on and off. And very often the dream is a nightmare.
 
@@ -397,6 +401,7 @@ Do not let your imagination make you think a member is doing harm or is being ha
 At the same time, people who suffer from psychosis sometimes do cause harm, or are harmed by others. Sometimes what they fear is real. At 7 Cups what we provide is for their fears to be heard, whether real or not.
 
 ### Personality disorders
+{:#personalityx}
 
 DECORATIVE IMAGE
 {:.decor}
@@ -408,6 +413,7 @@ When personality disorders are associated with harm, it might be because the suf
 Harm described by people with personality disorders might often be real, but as a listener you have no way to be sure. As usual, ensure that members' feelings are heard and that you reflect them accurately without adding thoughts of your own. 
 
 ### Paraphilic disorder
+{:#paraphilicx}
 
 Paraphilic disorder is a disorder of sexuality. It affects sexual fantasies, urges or behaviors (but not necessarily all three in the same person). When paraphilic disorder is mild, and the sufferer is able to live a normal life, it is known as paraphilia (not a mental disorder). When paraphilia involves children as the target, it is known as pedophilia.
 
