@@ -566,37 +566,17 @@ This limited selection of scenarios is intended to illustrate some of the very w
 
 # Depression
 
-*Member:* I really can't do this. There's something wrong. I just know I'm going to end up harming my baby.
-{:.chat}
-
-*Listener:* You have a definite feeling you're going to harm your baby.
-{:.chat}
-
-*Member:* Yes.
-{:.chat}
-
-*Listener:* In what way do you feel your baby might be harmed?
-{:.chat}
-
-*Member:* I don't know. I'm just so worried all the time that she'll come to harm and it will be my fault.
-{:.chat}
-
-*Listener:* There's nothing specific that you think might happen to her, but you have this constant worry.
-{:.chat}
-
-*Member:* Constant worry, yes.
-{:.chat}
-
-* * *(long pause)*
-{:.chat}
-
-*Member:* My doctor says everyone feels this way.
-{:.chat}
-
-*Listener:* It's like your doctor doesn't take your worry very seriously.
-{:.chat}
-
-*Member:* Yeah. He's a good doctor but idk.
+|Member:|I really can't do this. There's something wrong. I just know I'm going to end up harming my baby.
+|Listener:|You have a definite feeling you're going to harm your baby.
+|Member:|Yes.
+|Listener:|In what way do you feel your baby might be harmed?
+|Member:|I don't know. I'm just so worried all the time that she'll come to harm and it will be my fault.
+|Listener:|There's nothing specific that you think might happen to her, but you have this constant worry.
+|Member:|Constant worry, yes.
+||*(long pause)*
+|Member:|My doctor says everyone feels this way.
+|Listener:|It's like your doctor doesn't take your worry very seriously.
+|Member:|Yeah. He's a good doctor but idk.
 {:.chat}
 
 Postnatal depression often affects mothers of young babies. Listeners cannot diagnose or try to solve the problem.
