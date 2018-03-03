@@ -20,7 +20,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 	
 [PART II](#part-ii) — Examples (trigger warning)
 -	[Depression](#depression)
--	OCD
+-	[OCD](#ocd)
 -	PTSD
 -	Psychosis
 -	Personality disorder
@@ -612,3 +612,51 @@ You can find out more about postnatal depression by watching this video, made fo
 
 Listeners at 7 Cups are here to understand.
 
+# OCD
+
+*Member:* There's no help for people like me. I just can't control my thoughts when I'm around young boys. I'm only telling you because I know this can't be traced.
+{:.chat}
+
+*Listener:* Yes, it's safe to tell us anything here. What kind of thoughts do you find yourself needing to control?
+{:.chat}
+
+*Member:* Well, sexual thoughts. The irony is, because I'm a woman everyone trusts me. I have to be so careful not to get into in a situation where I might do something.
+{:.chat}
+
+*Listener:* It's a constant worry that you might do something sexual.
+{:.chat}
+
+*Member:* Yes.
+{:.chat}
+
+*Listener:* Because you have sexual thoughts that you might not be able to control.
+{:.chat}
+
+*Member:* I can't control them. Believe me, I try.
+{:.chat}
+
+Harm OCD, and specifically pedophile-themed OCD, are types of obsessive-compulsive disorder in which people fear causing harm and suffer from obsessive thoughts about it. Because of their obsessions, they compulsively avoid any possibility of causing harm. Listeners cannot diagnose or try to solve the problem.
+
+In this chat the member reports thoughts about harm but not actions. The listener doesn't confuse thoughts with actions, doesn't start imagining things, and accurately reflects what the member says, for the most part.
+
+The listener makes one small slip at the end by saying "might not" when the member already said she "can't" control her thoughts. This makes the member think the listener is trying to play down the seriousness of her problem, so she corrects the listener.
+
+This is just a normal chat where a member shares her feelings and a listener listens.
+
+For some people in developed countries there is, in fact, help for people like this member, but listeners do not try to solve members' problems.
+
+### Further information
+
+You can read more about OCD in this article from the journal *Advances in Psychiatric Treatment*: [Cognitive–behavioural therapy for obsessive–compulsive disorder](http://www.veale.co.uk/wp-content/uploads/2010/10/56-CBT-for-OCD-2007.pdf).
+
+> The most common obsessions concern:
+- the prevention of harm to the self or others
+- resulting from contamination (e.g. dirt, germs, bodily fluids or faeces, dangerous chemicals)
+- the prevention of harm resulting from making a mistake (e.g. a door not being locked)
+- intrusive religious or blasphemous thoughts intrusive sexual thoughts (e.g. of being a paedophile)
+- intrusive thoughts of violence or aggression (e.g. of stabbing one’s baby)
+- the need for order or symmetry.
+
+The article includes a case study about a woman (Ella, page 442) who has obsessive thoughts about causing being a pedophile.
+
+Note that the paper is written for professionals and is included here only for information. Listeners must not try to provide psychotherapy.
