@@ -631,7 +631,7 @@ You can read more about OCD in this article from the journal *Advances in Psychi
 - intrusive thoughts of violence or aggression (e.g. of stabbing one’s baby)
 - the need for order or symmetry.
 
-The article includes a case study about a woman (Ella, page 442) who has obsessive thoughts about causing being a pedophile.
+The article includes a case study about a woman (Ella, page 442) who has obsessive thoughts about being a pedophile.
 
 Note that the paper is written for professionals and is included here only for information. Listeners must not try to provide psychotherapy.
 
