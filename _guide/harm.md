@@ -619,6 +619,9 @@ You can find out more about postnatal depression by watching this video, made fo
 
 Listeners at 7 Cups are here to understand.
 
+QUIZ
+{:.dummyquiz}
+
 # OCD
 
 *Member:* There's no help for people like me. I just can't control my thoughts when I'm around young boys. I'm only telling you because I know this can't be traced.
@@ -667,3 +670,6 @@ You can read more about OCD in this article from the journal *Advances in Psychi
 The article includes a case study about a woman (Ella, page 442) who has obsessive thoughts about causing being a pedophile.
 
 Note that the paper is written for professionals and is included here only for information. Listeners must not try to provide psychotherapy.
+
+QUIZ
+{:.dummyquiz}
