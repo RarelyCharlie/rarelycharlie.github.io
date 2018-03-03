@@ -259,13 +259,13 @@ For example:
 
 (The listener imagines the member feeling so sad that she attempts suicide. TAF makes the listener think the member is really at risk of attempting suicide.)
 
-|Listener:|You should see a counselor and call a suicide helpline.{:.warn}
+|Listener:|*You should see a counselor and call a suicide helpline.*{:.warn}
 {:.chat}
 
 Do not give members advice in this way, especially when it is based on your own imagination. Instead, repeat back the member's feelings accurately:
 
-|Listener:|The breakup has caused you sadness, but it's not like when you were younger.
-{:.chat.ok}
+|Listener:|*The breakup has caused you sadness, but it's not like when you were younger.*{:.ok}
+{:.chat}
 
 If you are aware that you experience TAF to some extent, take particular care to distinguish carefully between your own thoughts and reality that can be verified.
 
