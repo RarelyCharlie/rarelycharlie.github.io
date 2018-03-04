@@ -58,6 +58,8 @@ There are links to further information and to public resources that you can shar
 
 Everywhere this guide uses the word "members", the information also applies to guests.
 
+The next section is a reminder about the purpose of 7 Cups.
+
 # The purpose of 7 Cups
 
 7 Cups exists because there is an unmet need in the world for emotional support:
@@ -94,6 +96,11 @@ Some people find the distinction between thoughts and actions obvious, and some 
 Listeners can sometimes provide members with factual information about sources of help outside 7 Cups, but there are reasons to be careful about doing this. For example, providing information can undermine the real purpose of 7 Cups. There will be more about this, too, later in the guide.
 
 Also later in the guide, there are some reminders about exactly how listeners at 7 Cups go about providing emotional support.
+
+After the quiz, the next section is a reminder about caring for yourself.
+
+QUIZ
+{:.dummyquiz}
 
 # Self care
 
@@ -141,6 +148,8 @@ If a chat affects you emotionally, and this in turn affects your real-life relat
 
 If you have a therapist or someone else in the real world you rely on for emotional support, be open with them about the effect volunteering as a listener at 7 Cups has on you, but do not share any details of any chat.
 
+After the quiz, the next section is a reminder about active listening.
+
 QUIZ
 {:.dummyquiz}
 
@@ -175,6 +184,8 @@ Do not try to suppress members' negative emotions or supply positive emotions. I
 For example, if a member tells you they are worried about causing harm, repeat back the worry they have expressed, just like the listener training says. Do not neutralize the worry or change the subject to something positive—doing that risks giving a "green light" to the harm.
 
 Similarly, if a member tells you they are worried about being harmed, repeat back the worry they have expressed, just like the listener training says. Do not neutralize the worry or change the subject to something positive—doing that risks perpetuating the harm they are suffering.
+
+After the quiz, the next section looks at why members sometimes talk about harm.
 
 QUIZ
 {:.dummyquiz}
@@ -219,6 +230,8 @@ In some chats members do talk about real harm or real risk of future harm. In so
 As a listener, you cannot diagnose any medical disorder. It's easy to do the right thing: simply do not try to diagnose, and do not imagine that you can.
 
 As a listener, you cannot judge what is real, what is a member's fear and what is a member's fantasy. It's difficult to do the right thing. Your key skill as a listener is accurately reflecting the emotions that a member expresses, without attempting to judge the facts.
+
+After the quiz, the next section looks in detail about thoughts and actions, and why they are sometimes confused.
 
 QUIZ
 {:.dummyquiz}
@@ -268,6 +281,8 @@ Do not give members advice in this way, especially when it is based on your own 
 {:.chat}
 
 If you are aware that you experience TAF to some extent, take particular care to distinguish carefully between your own thoughts and reality that can be verified.
+
+After the quiz, the next section looks at some unintended consequences that can occur when member have memory impairments.
 
 QUIZ
 {:.dummyquiz}
@@ -333,6 +348,8 @@ Remember to reflect the things members tell you accurately:
 
 To avoid unintended consequences, be very careful not to introduce new ideas from your own imagination into member's chats. This is particularly important when there is possible harm, or risk of harm.
 
+After the quiz, the next section looks at three categories of mental disorder that can be associated with chats about harm.
+
 QUIZ
 {:.dummyquiz}
 
@@ -375,6 +392,8 @@ Not all PTSD sufferers are aware that they suffer from PTSD, and the diagnosis s
 Do not make assumptions about whether or not a member has PTSD, and do not either reinforce or challenge a member's own thoughts about whether or not they have PTSD. Listeners should not get involved in diagnosis.
 
 In all cases when a member might have a mental disorder, you cannot be sure whether they have a disorder or not, and if they do have a disorder you cannot be sure what it is. Ensure that you accurately reflect members' feelings without judging them, either positively or negatively, and without diagnosing.
+
+After the quiz, the next section looks at three more categories of mental disorder that can be associated with chats about harm.
 
 QUIZ
 {:.dummyquiz}
@@ -423,6 +442,8 @@ Many listeners choose not to take chats that deal with sexual fantasies, urges o
 
 Remember that in all cases when a member might have a mental disorder, you cannot be sure whether they have a disorder or not, and if they do have a disorder you cannot be sure what it is. Ensure that you accurately reflect members' feelings without judging them, either positively or negatively, and without diagnosing.
 
+After the quiz, the next section looks at chats based on fantasy, and chats about actual harm.
+
 QUIZ
 {:.dummyquiz}
 
@@ -452,6 +473,8 @@ Members who are really causing harm, or at risk of causing harm, might chat to a
 You don't have any way to distinguish between the member who is telling a lie to test how judgemental 7 Cups is, and the member who is telling the truth to find out how guilty they should feel. Your only option, therefore, is to believe and accept the person without giving the "green light" to possible harmful behavior.
 
 Members who are really causing harm, or at risk of causing harm, are very likely not to admit to it at all. They chat about something else entirely. Do not change the subject of any chat to satisfy your curiosity about whether a member might be causing harm but not telling you.
+
+After the quiz, the next section looks at resources you can provide to members.
 
 QUIZ
 {:.dummyquiz}
@@ -525,6 +548,8 @@ If you are a member of a professional body, the body might have a mandatory repo
 
 If you can establish beyond doubt, based on written evidence, that you are subject to a mandatory reporting requirement, tell 7 Cups by e-mail, from the address you used to sign up as a listener, to `community@7cups.com`.
 
+After the quiz, the next section is a checklist of do's and dont's.
+
 QUIZ
 {:.dummyquiz}
 
@@ -552,6 +577,8 @@ This section is a checklist of seven things to do and seven things not to do:
 - Don't refer members without their consent.
 - Don't share details of any chat with anyone for any reason.
 
+That's the end of Part I of this guide. After the quiz, Part II contains some detailed information that might be distressing or triggering for some listeners.
+
 QUIZ
 {:.dummyquiz}
 
@@ -565,6 +592,8 @@ If you are aware that you might be upset by some of the subject matter here, pro
 This limited selection of scenarios is intended to illustrate some of the very wide range of circumstances in which chats can involve harm. Although their titles are medical diagnoses, this does not imply that listeners can diagnose.
 
 # Depression
+
+A member is chatting about motherhood:
 
 |Member:|I really can't do this. There's something wrong. I just know I'm going to end up harming my baby.
 |Listener:|You have a definite feeling you're going to harm your baby.
