@@ -704,7 +704,7 @@ This is just a normal chat where a member shares his feelings and a listener lis
 
 Here's a complex paper for professionals that discusses PTSD and Borderline Personality Disorder in terms of human attachment. It is included here only for information: [Post-traumatic stress disorder and attachment](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E101C751F384F7188DD2832C7D7E896E/S1355514600005629a.pdf/posttraumatic_stress_disorder_and_attachment_possible_links_with_borderline_personality_disorder.pdf)
 
-The peper includes some case vignettes, and here is one of them (page 174):
+The paper includes some case vignettes, and here is one of them (page 174):
 
 > A Kurdish woman from Turkey with a diagnosis of complex PTSD presented to us with her small son,
 who had been referred to social services for failure to thrive. The mother had been severely beaten by the child’s father and, unfortunately for this little boy, when he became distressed, his eyes resembled those of his father. This triggered in his mother a reliving of her past experience of domestic violence, with all the anger and fear that this involved, rather than the comforting maternal behaviour the child needed.
