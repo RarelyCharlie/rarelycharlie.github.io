@@ -21,7 +21,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 [PART II](#part-ii) — Examples (trigger warning)
 -	[Depression](#depression)
 -	[OCD](#ocd)
--	PTSD
+-	[PTSD](#ptsd)
 -	Psychosis
 -	Personality disorder
 -	Paraphilia
@@ -634,6 +634,58 @@ You can read more about OCD in this article from the journal *Advances in Psychi
 The article includes a case study about a woman (Ella, page 442) who has obsessive thoughts about being a pedophile.
 
 Note that the paper is written for professionals and is included here only for information. Listeners must not try to provide psychotherapy.
+
+QUIZ
+{:.dummyquiz}
+
+# PTSD
+
+A member is chatting about "relationship stress":
+
+|Member:|I can't bring myself to talk to her about it.
+|Listener:|Something within you prevents you telling her.
+|Member:|Yeah. It's like I don't trust her
+||But that's not right. I do trust her. I just have this feeling that I shouldn't trust her.
+|Listener:|You trust her really, but you have this feeling you shouldn't.
+|Member:|Yeah. I trust her really.
+|Listener:|But you still can't talk to her.
+|Member:|No.
+||Story of my life, really.
+|Listener:|It's always been like this?
+|Member:|Pretty much ever since I can remember, yes.
+|Listener:|That feeling of not being able to trust goes way back.
+|Member:|I suppose.
+|Listener:|How did it affect you back then?
+|Member:|I don't like to think about it, really. 
+||I don't like to remember stuff.
+||A lot of things were done to me but it was long ago and I don't want to dredge all that up.
+|Listener:|Things people did to you in your past that you prefer not to remember.
+|Member:|Yeah.
+{:.chat}
+
+Many people struggle with present-day difficulties because of harm they suffered in the past, and an inability to trust is just one of many common symptoms of past trauma. Listeners cannot diagnose PTSD or try to solve the problem.
+
+In this chat the member hints at being harmed in the past, but there's no indication that anyone is being harmed right now. The listener avoids imagining things and accurately reflects what the member says.
+
+Towards the end the listener asks an open question inviting the member to talk about past events, but the member backs off, and again the listener accurately reflects that.
+
+This is just a normal chat where a member shares his feelings and a listener listens.
+ 
+### Further information
+
+Here's a complex paper for professionals that discusses PTSD and Borderline Personality Disorder in terms of human attachment. It is included here only for information: [Post-traumatic stress disorder and attachment](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E101C751F384F7188DD2832C7D7E896E/S1355514600005629a.pdf/posttraumatic_stress_disorder_and_attachment_possible_links_with_borderline_personality_disorder.pdf)
+
+The peper includes some case vignettes, and here is one of them (page 174):
+
+> A Kurdish woman from Turkey with a diagnosis of complex PTSD presented to us with her small son,
+who had been referred to social services for failure to thrive. The mother had been severely beaten by the child’s father and, unfortunately for this little boy, when he became distressed, his eyes resembled those of his father. This triggered in his mother a reliving of her past experience of domestic violence, with all the anger and fear that this involved, rather than the comforting maternal behaviour the child needed.
+
+People who have suffered trauma often need to talk about anger, fear and harm. 
+
+> If we understand PTSD as resulting from the disruption of the attachment system, we can also
+understand why the lack of social support is the most important risk factor for this disorder.
+
+Listeners must not try to provide psychotherapy, but listeners can provide vital social support.
 
 QUIZ
 {:.dummyquiz}
