@@ -22,7 +22,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[Depression](#depression)
 -	[OCD](#ocd)
 -	[PTSD](#ptsd)
--	Psychosis
+-	[Psychosis](#psychosis)
 -	Personality disorder
 -	Paraphilia
 -	Domestic violence
@@ -715,6 +715,56 @@ People who have suffered trauma often need to talk about anger, fear and harm.
 understand why the lack of social support is the most important risk factor for this disorder.
 
 Listeners must not try to provide psychotherapy, but listeners can provide vital social support.
+
+QUIZ
+{:.dummyquiz}
+
+# Psychosis
+
+A man is chatting about loneliness:
+
+|Member:|I stay away from people mostly, in case things happen.
+|Listener:|What things might happen?
+|Member:|Well, I never know. I'm basically bad and it's best to be on the safe side.
+|Listener:|You can't tell what might happen, because you're a bad person, and you don't want to take the risk.
+||*(long pause)*
+|Member:|I think I killed someone on Sunday at around 4 a.m.
+|Listener:|You think you killed someone?
+|Member:|Yes, it was in the paper.
+|Listener:|The paper said you killed someone.
+|Member:|No, the murder was in the paper. I don't really remember doing it, but I'm pretty sure I must have pushed her in.
+||In the canal.
+|Listener:|You're pretty sure you murdered her by pushing her into the canal. 
+|Member:|I've been sort of numb ever since I realized I must have done it.
+||You're the only person I've told.
+||Will you report me to the police.
+|Listener:|At 7 Cups we can't report anyone.
+|Member:|I could report it myself but the police they never believe me.
+|Listener:|They didn't believe you before.
+|Member:|No.
+||I've confessed to three murders. One last year, one in 2013 and one in 2011. 
+|Listener:|You don't think they'll believe you this time either.
+|Member:|No.
+||I should never have gone to the canal. I don't know why I did it.
+|Listener:|You don't know why you went to the canal?
+|Member:|I used to go there with my dad.
+||He was a good man, my dad.
+{:.chat}
+
+Psychosis is a symptom of various mental disorders that cause people difficulty telling the difference between imagination and reality at times. Sufferers might be completely normal between episodes, or they might have difficulties all the time. Stories in newspapers and on TV can trigger fantasies that then start to seem real, especially if there is a strong emotional aspect to the story, like fear or guilt.
+
+In this chat the member feels he is guilty four murders but the police never believe him. The listener avoids imagining things and accurately reflects what the member says. The chat soon moves on to reminiscences about the member's dad.
+
+A psychotherapist might wonder whether the member's feeling that he is a bad man and his dad was a good man is significant in some way, but listeners are not psychotherapists and should only listen.
+
+### Further information
+
+A person who suffers from schizophrenia wrote an article about confusion between thoughts and actions: Thought-Action-Fusion
+https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbv057/2503366
+
+> During my episodes there were quirks and involuntary movements I was experiencing and disliked that I believed were a direct result of my thoughts. Sometimes I moved into people when I had no desire to move into them at all. I strove to filter and control every single thought I had and became extremely paranoid if I began thinking anything unscrupulous for fear it would become an action. It was odd I had an irrational fear of unscrupulous actions because I never made any major mistakes at any point before or during my episodes which could incriminate me on any level or cause me or anyone else any harm but this is just an example of how people with mental illness can develop extremely irrational thoughts because of fear.
+
+Members who suffer from this degree of confusion can be difficult to relate to, but active listening allows them to process their thoughts and emotions in a supportive chat with a listener who is not trying to solve their problem for them.
 
 QUIZ
 {:.dummyquiz}
