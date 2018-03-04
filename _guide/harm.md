@@ -753,14 +753,14 @@ A man is chatting about loneliness:
 
 Psychosis is a symptom of various mental disorders that cause people difficulty telling the difference between imagination and reality at times. Sufferers might be completely normal between episodes, or they might have difficulties all the time. Stories in newspapers and on TV can trigger fantasies that then start to seem real, especially if there is a strong emotional aspect to the story, like fear or guilt.
 
-In this chat the member feels he is guilty four murders but the police never believe him. The listener avoids imagining things and accurately reflects what the member says. The chat soon moves on to reminiscences about the member's dad.
+In this chat the member feels he is guilty of four murders but the police never believe him. The listener avoids imagining things and accurately reflects what the member says. The chat soon moves on to reminiscences about the member's dad.
 
 A psychotherapist might wonder whether the member's feeling that he is a bad man and his dad was a good man is significant in some way, but listeners are not psychotherapists and should only listen.
 
 ### Further information
 
-A person who suffers from schizophrenia wrote an article about confusion between thoughts and actions: Thought-Action-Fusion
-https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbv057/2503366
+A person who suffers from schizophrenia wrote an article about confusion between thoughts and actions: [Thought-Action-Fusion](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbv057/2503366)
+
 
 > During my episodes there were quirks and involuntary movements I was experiencing and disliked that I believed were a direct result of my thoughts. Sometimes I moved into people when I had no desire to move into them at all. I strove to filter and control every single thought I had and became extremely paranoid if I began thinking anything unscrupulous for fear it would become an action. It was odd I had an irrational fear of unscrupulous actions because I never made any major mistakes at any point before or during my episodes which could incriminate me on any level or cause me or anyone else any harm but this is just an example of how people with mental illness can develop extremely irrational thoughts because of fear.
 
