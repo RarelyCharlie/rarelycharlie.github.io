@@ -23,7 +23,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[OCD](#ocd)
 -	[PTSD](#ptsd)
 -	[Psychosis](#psychosis)
--	Personality disorder
+-	[Personality disorder](#personality-disorder)
 -	Paraphilia
 -	Domestic violence
 
@@ -765,6 +765,60 @@ A person who suffers from schizophrenia wrote an article about confusion between
 > During my episodes there were quirks and involuntary movements I was experiencing and disliked that I believed were a direct result of my thoughts. Sometimes I moved into people when I had no desire to move into them at all. I strove to filter and control every single thought I had and became extremely paranoid if I began thinking anything unscrupulous for fear it would become an action. It was odd I had an irrational fear of unscrupulous actions because I never made any major mistakes at any point before or during my episodes which could incriminate me on any level or cause me or anyone else any harm but this is just an example of how people with mental illness can develop extremely irrational thoughts because of fear.
 
 Members who suffer from this degree of confusion can be difficult to relate to, but active listening allows them to process their thoughts and emotions in a supportive chat with a listener who is not trying to solve their problem for them.
+
+QUIZ
+{:.dummyquiz}
+
+# Personality disorder
+
+**Wednesday, 7 p.m.**
+
+A member has been chatting about her eating disorder:
+
+|Member:|So, I have all the pills here now.
+||My little collection.
+|Listener:|You have your collection of pills with you right now.
+|Member:|Yeah. Last time I took too many and they all came up.
+||So that's a mistake to avoid.
+||I don't plan on waking up this time.
+|Listener:|You hope to die this time? 
+|Member:|Yeah. Sure do.
+||That's twelve I've popped out. Do you think that's enough?
+|Listener:|I am not allowed to continue this chat.
+||Do you have the number of a local suicide helpline?
+|Member:|Befrienders crap? Haha!
+|Listener:|If you tell me what country you're in I can look up the number for you.
+|Member:|Like I'm going to tell you where I am. You must be mad.
+|Listener:|Or you can go to suicide.org and look it up.
+|Member:|24 seems about right.
+|Listener:|I have to end this chat now.
+||*Ends the chat*
+{:.chat}
+
+**Thursday, 9 p.m.**
+
+The member is online again:
+
+|Listener:|Hi! We chatted yesterday. How are things?
+||*Blocked*
+
+Listeners cannot diagnose, and it's impossible to tell whether any member really has a personality disorder or not. Some members do communicate in ways that seem to prevent any effective human contact with listeners, and it's possible that some of those members are suffering from severe personality disorders.
+
+In this chat the member describes counting out pills, which is an action and not just a thought. She says she doesn't plan on waking up and she has made a previous attempt. She says these things herself—they are not the listener's imagination or the result of the listener's suggestions.
+
+This member is actively suicidal—taking action right now to end her life. 7 Cups does not allow listeners to continue chats in these circumstances.
+
+In the second chat the listener learns that the member is apparently still alive, and still unable to communicate effectively, but it is not possible to know what happened the day before.
+
+### Further information
+
+In this short video (less than 5 minutes) a professor of psychology at Toronto University, who is also a very experienced psychotherapist, talks about how to help difficult people:
+
+<iframe width="560" height="315" style="margin-bottom: 1em;" src="https://www.youtube.com/embed/CdSaUVldSjc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+> If you're offering something and it's not taken, then perhaps you should be offering it somewhere else. And sometimes, if you offer a hand and the person won't take it you have to stop offering the hand.
+
+There are limits to what active listening can achieve.
 
 QUIZ
 {:.dummyquiz}
