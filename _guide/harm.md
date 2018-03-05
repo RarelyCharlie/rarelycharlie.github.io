@@ -856,7 +856,7 @@ In popular journalism, including popular psychology websites, the term pedophile
 
 It has not been possible to estimate the numbers of people in each group, partly because stigma prevents people who experience paraphilia from admitting it, and partly because people who commit sex crimes often lie about their motivation.
 
-In this chat the member describes his pedophilia, which he considers harmless even though he has been convicted of a crime. The listener reflects what the member says accurately, asks questions to understand the member's situation better, and achieves a degree of trust from the member, allowing him to open up about his feelings.
+In this chat the member describes his pedophilia, which he considers harmless even though he has been convicted of a crime. The listener reflects what the member says accurately, asks questions to understand the member's situation better, and achieves a degree of trust from the member, allowing him to open up about his feelings. The listener avoids making either positive or negative judgements.
 
 ### Further information
 
