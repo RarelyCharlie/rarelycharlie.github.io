@@ -24,7 +24,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[PTSD](#ptsd)
 -	[Psychosis](#psychosis)
 -	[Personality disorder](#personality-disorder)
--	Paraphilia
+-	[Paraphilia](#paraphilia)
 -	Domestic violence
 
 # *Preface*
@@ -823,3 +823,47 @@ There are limits to what active listening can achieve.
 
 QUIZ
 {:.dummyquiz}
+
+# Paraphilia
+
+A member has been chatting about stress at work:
+
+|Member:|Living on my own doesn't help.
+|Listener:|Loneliness adds to the stress.
+|Member:|Yes, the office is my only contact with people. My only real contact. As opposed to imaginary contact.
+|Listener:|You imagine contact with people.
+|Member:|Yes, it's all I can do, in fact.
+|Listener:|Really? How come imagining is all you can do?
+|Member:|Well.
+||I'm on a register.
+||Of sex offenders.
+|Listener:|Oh I see. You committed a sex crime.
+|Member:|I didn't do any harm. I would never cause harm.
+|Listener:|How come you were convicted, then?
+|Member:|It's just that I was seen. In the wrong place at the wrong time. Now people assume I'm a threat. I'm not bitter about that. I can understand it. But I'm just not a threat. Never have been.
+|Listener:|People don't understand you the way you understand yourself.
+|Member:|No.
+||People will never understand. But I can still imagine.
+|Listener:|What do you imagine?
+|Member:|I imagine being close to little girls. Playing. Telling stories. Being trusted. Being hugged. Things like that. It turns me on just imagining.
+|Listener:|You imagine being loved.
+|Member:|You could put it like that, yes.
+{:.chat}
+
+The clinical term for inappropriate sexual arousal is paraphilia, and when children are the target the term is pedophilia. Paraphilia and pedophilia are not mental disorders unless they significantly interfere with normal life. Some people who experience paraphilia or pedophilia commit crimes as a result, and some don't. Most people who commit sex crimes do not experience these conditions.
+
+In popular journalism, including popular psychology websites, the term pedophile is often used loosely to to include people who commit sex crimes together with people who only have sexual thoughts, as if they are a single group. Medical professionals, however, are clear that they are two distinct but overlapping groups.
+
+It has not been possible to estimate the numbers of people in each group, partly because stigma prevents people who experience paraphilia from admitting it, and partly because people who commit sex crimes often lie about their motivation.
+
+In this chat the member describes his pedophilia, which he considers harmless even though he has been convicted of a crime. The listener reflects what the member says accurately, asks questions to understand the member's situation better, and achieves a degree of trust from the member, allowing him to open up about his feelings.
+
+### Further information
+
+For some more thoughts about these highly controversial issues, here's an article that discusses the latest edition of the official classification (in the US) of mental disorders, the DSM-5. The article is only an opinion piece, but it's an informed opinion: [Of Kinks, Crimes, and Kinds](https://www.thehastingscenter.org/of-kinks-crimes-and-kinds-the-paraphilias-proposal-for-the-dsm-5/)
+
+> Drunkenness was once understood simply to be a sin. Then it became a crime. Then a medical problem... A drinking problem can, after all, lead to real harm to oneself and to others. The very reason recovering alcoholics embrace the identity is because they recognize alcoholism as a serious disorder. It might make a lot of sense to think of sexual interests like pedophilia as being akin to alcoholism.
+
+QUIZ
+{:.dummyquiz}
+
