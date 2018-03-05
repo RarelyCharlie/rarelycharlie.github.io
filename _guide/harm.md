@@ -25,7 +25,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[Psychosis](#psychosis)
 -	[Personality disorder](#personality-disorder)
 -	[Paraphilia](#paraphilia)
--	Domestic violence
+-	[Domestic abuse](#domestic-abuse)
 
 # *Preface*
 *This document is a rough draft version of an unofficial training guide for listeners about chats involving harm. It is not a self-help guide for members.*
@@ -867,3 +867,43 @@ For some more thoughts about these highly controversial issues, here's an articl
 QUIZ
 {:.dummyquiz}
 
+# Domestic abuse
+
+A member is chatting about relationship stress:
+
+|Member:|It's difficult, you know, to have a good relationship when I only see them once a fortnight.
+|Listener:|Once a fortnight is not often enough to have a good relationship.
+|Member:|I get very anxious when that time comes round, and it's difficult to control my drinking.
+|Listener:|You turn to drink when you're anxious.
+|Member:|Yes, my case worker says that's what the drinking is all about. I need it to be able to cope.
+||And now the girls tell me their mum is pregnant by her new boyfriend.
+||So she won't come near me because she says she's afraid for the baby.
+|Listener:|Do you feel you might harm the baby?
+|Member:|Well, of course I wouldn't harm the baby. I mean, what happened before was a one off. That could never happen again.
+|Listener:|What did happen before?
+|Member:|They said I tried to strangle her. But that was just
+||It didn't happen like that. She just wouldn't shut up.
+||It was a very stressful time for me back then.
+|Listener:|You were very stressed at the time, and it could never happen again now.
+|Member:|Yeah. Definitely not.
+{:.chat}
+
+This situation contains several risk factors for domestic abuse, but listeners cannot carry out a risk assessment or try to solve the problem, and there is nothing to indicate actual harm happening right now. The best outcome is that the member gets effective emotional support allowing him to reduce his stress. This is exactly what listeners can provide.
+
+In this chat the member seems to feel comfortable providing information to the listener, and the listener avoids making either positive or negative judgements.
+
+### Further information
+
+Here's a summary of risk factors for domestic abuse, on a UK charity website: Identifying Risk Indicators
+http://www.reducingtherisk.org.uk/cms/content/identifying-risk-indicators
+
+> The indicators...are research based and are known to be indicative of increased risk to the victim. They in themselves are not a measure of the likelihood of, or indeed the type of, violence that may be carried out.
+
+Listeners must not think that reading a list on a website makes them trained to assess potentially harmful situations. Listeners must always beware of making positive judgements, which could be mistaken a a "green light" for harmful behaviors. And listeners must always beware of making negative judgements, which could prevent a member from getting effective emotional support.
+
+QUIZ
+{:.dummyquiz}
+
+# Conclusion
+
+You have now completed the guide.
