@@ -99,11 +99,11 @@ Also later in the guide, there are some reminders about exactly how listeners at
 
 After the quiz, the next section is a reminder about caring for yourself.
 
-- Mark each question true or false:
-- Everyone's emotional needs should be met by professionals.
-- Listeners must understand that some people just make no sense.
-- Listeners must be prepared to do anything for members.
+- Mark each statement true or false:
+- Everyone with emotional needs should only be helped by licensed professionals.
 - 7 Cups imposes limitations on the support that listeners can provide.
+- Listeners must understand that some people just make no sense at all.
+- Listeners must be prepared to do anything for their members.
 - Some people tend to confuse thoughts with actions.
 {:.quiz}
 
