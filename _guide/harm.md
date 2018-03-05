@@ -99,15 +99,13 @@ Also later in the guide, there are some reminders about exactly how listeners at
 
 After the quiz, the next section is a reminder about caring for yourself.
 
-<div class="quiz">
-Mark each question true or false:
-
+- Mark each question true or false:
 - Everyone's emotional needs should be met by professionals.
 - Listeners must understand that some people just make no sense.
 - Listeners must be prepared to do anything for members.
 - 7 Cups imposes limitations on the support that listeners can provide.
 - Some people tend to confuse thoughts with actions.
-</div>
+{:.quiz}
 
 # Self care
 
