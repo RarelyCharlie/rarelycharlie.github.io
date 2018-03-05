@@ -737,7 +737,7 @@ A man is chatting about loneliness:
 |Listener:|You're pretty sure you murdered her by pushing her into the canal. 
 |Member:|I've been sort of numb ever since I realized I must have done it.
 ||You're the only person I've told.
-||Will you report me to the police.
+||Will you report me to the police?
 |Listener:|At 7 Cups we can't report anyone.
 |Member:|I could report it myself but the police they never believe me.
 |Listener:|They didn't believe you before.
