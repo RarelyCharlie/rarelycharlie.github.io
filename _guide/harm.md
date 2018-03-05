@@ -894,8 +894,7 @@ In this chat the member seems to feel comfortable providing information to the l
 
 ### Further information
 
-Here's a summary of risk factors for domestic abuse, on a UK charity website: Identifying Risk Indicators
-http://www.reducingtherisk.org.uk/cms/content/identifying-risk-indicators
+Here's a summary of risk factors for domestic abuse, on a UK charity website: [Identifying Risk Indicators](http://www.reducingtherisk.org.uk/cms/content/identifying-risk-indicators)
 
 > The indicators...are research based and are known to be indicative of increased risk to the victim. They in themselves are not a measure of the likelihood of, or indeed the type of, violence that may be carried out.
 
