@@ -114,8 +114,7 @@ After the quiz, the next section is a reminder about caring for yourself.
 
 You should think about your personal boundaries, and make decisions in advance about the kinds of chats you are personally willing to take.
 
-DECORATIVE IMAGE
-{:.decor}
+![decoration](\assets\guide\decoe0.png){:.decor}
 
 You have to make these decisions in advance, as far as possible, because a chat that starts out being about one subject can very quickly change to some other subject. You will need to be able to take action to protect yourself immediately there's a change of subject that goes beyond your personal boundaries.
 
@@ -185,8 +184,7 @@ If any of these seem unfamiliar, take a few minutes right now to review the [Act
 
 ### Emotional support
 
-DECORATIVE IMAGE
-{:.decor}
+![decoration](\assets\guide\decoe0.png){:.decor}
 
 The way listeners at 7 Cups provide emotional support is through active listening, allowing people to feel heard. Emotional support has a particular focus on feelings. The goal is to allow people to express their feelings and to know that their feelings have been heard.
 
@@ -218,8 +216,7 @@ Part II of this guide looks at examples of several reasons members might talk ab
 
 ### Mental disorders
 
-DECORATIVE IMAGE
-{:.decor}
+![decoration](\assets\guide\decoe0.png){:.decor}
 
 Members who suffer from mental disorders are the first group. Mental disorders are, roughly speaking, disturbances in thinking, emotions and relationships that don't have an identifiable physical cause. An example is obsessive-compulsive disorder (OCD).
 
@@ -238,8 +235,7 @@ When members with neurological disorders talk about harm, the harm might not nec
 
 Members who are fantasizing or telling the truth are the third group. Fantasy and truth are grouped together here because in each case the member knows what is true and what is false, but the listener doesn't. These members do not have any relevant medical disorder affecting their thinking. Some of these members might mix fantasy and truth in the same chat.
 
-DECORATIVE IMAGE
-{:.decor}
+![decoration](\assets\guide\decoe0.png){:.decor}
 
 All of this means that no matter what the member's reason for talking about harm might be, a listener cannot rely on the harm being real. Equally, a listener cannot rely on the harm being false.
 
@@ -283,8 +279,7 @@ When a member describes significant distress because of TAF, a listener cannot g
 
 ### Listeners
 
-DECORATIVE IMAGE
-{:.decor}
+![decoration](\assets\guide\decoe0.png){:.decor}
 
 When listeners are affected by TAF, it can make them genuinely believe that a member who wants to talk about thoughts of harm is causing real harm, or is at risk of causing real harm.
 
