@@ -83,7 +83,7 @@ from [Our Key Values](https://web.archive.org/web/20170710164036/https://www.7cu
 
 However, 7 Cups imposes general limitations on the emotional support its listeners provide. If a member is actively harming themselves or someone else, you cannot continue the chat. You have no say in the matter. This is 7 Cups policy.
 
-![decoration](\assets\guide\decom0.png){:.decol style="margin-bottom: 1em;"}
+![decoration](\assets\guide\decom0.png){:.decol style="margin-bottom: 2em;"}
 
 It is important to be aware that the word "actively" means "taking action". A thought or fantasy is not an action. Planning to take action is not the same as taking action.
 
