@@ -689,6 +689,8 @@ Listeners at 7 Cups are here to understand.
 
 # OCD
 
+A member is chatting about her anxiety:
+
 |Member:|There's no help for people like me. I just can't control my thoughts when I'm around young boys. I'm only telling you because I know this can't be traced.
 |Listener:|Yes, it's safe to tell us anything here. What kind of thoughts do you find yourself needing to control?
 |Member:|Well, sexual thoughts. The irony is, because I'm a woman everyone trusts me. I have to be so careful not to get into in a situation where I might do something.
