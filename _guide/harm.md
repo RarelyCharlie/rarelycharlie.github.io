@@ -471,9 +471,9 @@ When these disorders do affect behaviors they are often associated with criminal
 
 When paraphilic disorder is associated with harm, it might be fantasy or actual harm. Listeners are unable to judge what is fantasy and what is actual harm.
 
-People with paraphilic disorder might come to 7 Cups to talk about their fantasies, urges or behaviors. Listeners cannot make the judgement that fantasies and urges will result in behaviors.
+People with paraphilic disorder might come to 7 Cups to talk about their fantasies, urges or behaviors. Listeners cannot make the judgment that fantasies and urges will result in behaviors.
 
-Many listeners choose not to take chats that deal with sexual fantasies, urges or behaviors. If you do choose to take these chats, avoid positive judgements and also avoid negative judgements. Ensure that members who express their emotions are heard, and that their emotions are accurately reflected.
+Many listeners choose not to take chats that deal with sexual fantasies, urges or behaviors. If you do choose to take these chats, avoid positive judgments and also avoid negative judgments. Ensure that members who express their emotions are heard, and that their emotions are accurately reflected.
 
 Remember that in all cases when a member might have a mental disorder, you cannot be sure whether they have a disorder or not, and if they do have a disorder you cannot be sure what it is. Ensure that you accurately reflect members' feelings without judging them, either positively or negatively, and without diagnosing.
 
@@ -510,7 +510,7 @@ And another reason is to test 7 Cups to see whether they are believed and accept
 
 Members who are really causing harm, or at risk of causing harm, might chat to a listener about it hoping to get advice on how bad it really is and how guilty they should feel.
 
-You don't have any way to distinguish between the member who is telling a lie to test how judgemental 7 Cups is, and the member who is telling the truth to find out how guilty they should feel. Your only option, therefore, is to believe and accept the person without giving the "green light" to possible harmful behavior.
+You don't have any way to distinguish between the member who is telling a lie to test how judgmental 7 Cups is, and the member who is telling the truth to find out how guilty they should feel. Your only option, therefore, is to believe and accept the person without giving the "green light" to possible harmful behavior.
 
 Members who are really causing harm, or at risk of causing harm, are very likely not to admit to it at all. They chat about something else entirely. Do not change the subject of any chat to satisfy your curiosity about whether a member might be causing harm but not telling you.
 
@@ -623,7 +623,7 @@ This section is a checklist of seven things to do and seven things not to do:
 - Don't diagnose medical disorders, or challenge existing diagnoses.
 - Don't imagine you can always distinguish facts from fantasies. 
 - Don't give advice, or anything that could be mistaken for advice.
-- Don't make positive or negative judgements.
+- Don't make positive or negative judgments.
 - Don't refer members without their consent.
 - Don't share details of any chat with anyone for any reason.
 
@@ -936,7 +936,7 @@ In popular journalism, including popular psychology websites, the term pedophile
 
 It has not been possible to estimate the numbers of people in each group, partly because stigma prevents people who experience paraphilia from admitting it, and partly because people who commit sex crimes often lie about their motivation.
 
-In this chat the member describes his pedophilia, which he considers harmless even though he has been convicted of a crime. The listener reflects what the member says accurately, asks questions to understand the member's situation better, and achieves a degree of trust from the member, allowing him to open up about his feelings. The listener avoids making either positive or negative judgements.
+In this chat the member describes his pedophilia, which he considers harmless even though he has been convicted of a crime. The listener reflects what the member says accurately, asks questions to understand the member's situation better, and achieves a degree of trust from the member, allowing him to open up about his feelings. The listener avoids making either positive or negative judgments.
 
 ### Further information
 
@@ -975,7 +975,7 @@ A member is chatting about relationship stress:
 
 This situation contains several risk factors for domestic abuse, but listeners cannot carry out a risk assessment or try to solve the problem, and there is nothing to indicate actual harm happening right now. The best outcome is that the member gets effective emotional support allowing him to reduce his stress. This is exactly what listeners can provide.
 
-In this chat the member seems to feel comfortable providing information to the listener, and the listener avoids making either positive or negative judgements.
+In this chat the member seems to feel comfortable providing information to the listener, and the listener avoids making either positive or negative judgments.
 
 ### Further information
 
@@ -983,13 +983,13 @@ Here's a summary of risk factors for domestic abuse, on a UK charity website: [I
 
 > The indicators...are research based and are known to be indicative of increased risk to the victim. They in themselves are not a measure of the likelihood of, or indeed the type of, violence that may be carried out.
 
-Listeners must not think that reading a list on a website makes them trained to assess potentially harmful situations. Listeners must always beware of making positive judgements, which could be mistaken a a "green light" for harmful behaviors. And listeners must always beware of making negative judgements, which could prevent a member from getting effective emotional support.
+Listeners must not think that reading a list on a website makes them trained to assess potentially harmful situations. Listeners must always beware of making positive judgments, which could be mistaken a a "green light" for harmful behaviors. And listeners must always beware of making negative judgments, which could prevent a member from getting effective emotional support.
 
 - Mark each statement true or false:
 - A listener can seek support from another listener after a difficult chat, as long as they do not share details of the chat. 
 - Listeners who suspect there is a risk someone could be harmed must immediately search the Internet for an appropriate risk assessment checklist.
-- Listeners should avoid making positive judgements.
-- Listeners should avoid making negative judgements.
+- Listeners should avoid making positive judgments.
+- Listeners should avoid making negative judgments.
 - Emotional support is helpful to members even in the most risky and difficult situations.
 {:.quiz}
 
