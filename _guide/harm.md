@@ -155,8 +155,13 @@ If you have a therapist or someone else in the real world you rely on for emotio
 
 After the quiz, the next section is a reminder about active listening.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- Every listener at 7 Cups must be willing to chat about every possible subject.
+- You can use your notes to keep a record of your personal boundaries within 7 Cups.
+- A listener can decide not to have any restrictions on what they are willing to chat about.
+- You can discuss members' problems with other listeners. 
+- Caring for members must be your priority. Caring for yourself comes second.
+{:.quiz}
 
 # Brief active listening refresher
 
@@ -192,8 +197,13 @@ Similarly, if a member tells you they are worried about being harmed, repeat bac
 
 After the quiz, the next section looks at why members sometimes talk about harm.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- When a member says something that expresses emotion, the best thing to do is to say it back to them without suggesting how they can deal with it.
+- 7 Cups encourages positive emotions and discourages negative emotions.
+- Listeners should not try to solve members' problems for them.
+- Active listening is the best way to provide members with good advice.
+- Listeners must allow members to express their feelings. 
+{:.quiz}
 
 # Why members talk about harm
 
@@ -238,8 +248,13 @@ As a listener, you cannot judge what is real, what is a member's fear and what i
 
 After the quiz, the next section looks in detail about thoughts and actions, and why they are sometimes confused.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- Members sometimes come to 7 Cups to talk about their fantasies.
+- Members sometimes have mental disorders that they are not aware of.
+- Members sometimes have medical conditions that listeners can diagnose for them, but only if the listeners are experts in that area.
+- Members sometimes talk about harmful things that they do to themselves.
+- Members who are unsure of themselves need listeners they can rely on to judge what is harmful.
+{:.quiz}
 
 # Thoughts and actions
 
@@ -289,8 +304,13 @@ If you are aware that you experience TAF to some extent, take particular care to
 
 After the quiz, the next section looks at some unintended consequences that can occur when member have memory impairments.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- Thought-action fusion is a rare form of mental illness that makes thoughts seem like actions.
+- Talking about earthquakes tends to make earthquakes more likely.
+- When a member describes a problem, the listener should try to imagine the worst that could happen, so they can warn the member about it.
+- Members are sometimes distressed because they fear they might cause harm.
+- Sadness almost always leads to attempted suicide.
+{:.quiz}
 
 # Unintended consequences
 
@@ -355,8 +375,13 @@ To avoid unintended consequences, be very careful not to introduce new ideas fro
 
 After the quiz, the next section looks at three categories of mental disorder that can be associated with chats about harm.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- People who have suffered brain damage in the past sometimes have problems remembering things clearly.
+- When listeners imagine there's a possibility a member might cause harm, they must be careful not to mention it to the member.
+- Members sometimes have incomplete memories of things that have happened to them.
+- Listeners must be careful not to cause brain injury to vulnerable members who experience negative confabulation
+- Listeners who understand how to solve members' problems can avoid giving advice by sneaking helpful suggestions into chats.
+{:.quiz}
 
 # Mental disorders and harm—I
 
@@ -400,8 +425,13 @@ In all cases when a member might have a mental disorder, you cannot be sure whet
 
 After the quiz, the next section looks at three more categories of mental disorder that can be associated with chats about harm.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- Members who have mental disorders are sometimes distressed about things that are only imaginary.
+- Members who have mental disorders are sometimes distressed about things that are real.
+- Members who suffer from depression need to have their feelings corrected so that they will not harm themselves.
+- Members who suffer from OCD behave in ways that are intended to reduce the risk of harm.
+- People who have PTSD because they suffered harm in the past sometimes fear further harm in the future.  
+{:.quiz}
 
 # Mental disorders and harm—II
 
@@ -449,8 +479,13 @@ Remember that in all cases when a member might have a mental disorder, you canno
 
 After the quiz, the next section looks at chats based on fantasy, and chats about actual harm.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- People who have psychosis are sometimes unsure whether what they fear is real or imaginary.
+- Most people who commit sexual crimes have a mental disorder known as paraphilia.
+- A listener must accurately determine whether a member has a mental disorder before suggesting ways to solve the member's problems. 
+- Listeners cannot be sure which members have mental disorders.
+- When a member describes having a mental disorder, the listener should reflect the members' feelings about it accurately.
+{:.quiz}
 
 # Fantasies and actual harm
 
@@ -481,8 +516,13 @@ Members who are really causing harm, or at risk of causing harm, are very likely
 
 After the quiz, the next section looks at resources you can provide to members.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- Some members tell listeners about their fantasies, but these sometimes contain elements of truth.
+- Some members tell different things to different listeners.
+- Members who are causing harm to other people almost always admit it when they chat to a listener on 7 Cups, because 7 Cups is anonymous.
+- Listeners are usually unable to tell whether a member is at real risk of harm.
+- Listeners should encourage all members to feel positive about themselves and their behavior.
+{:.quiz}
 
 # External resources
 
@@ -555,8 +595,13 @@ If you can establish beyond doubt, based on written evidence, that you are subje
 
 After the quiz, the next section is a checklist of do's and dont's.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- The goal of active listening is to help members find the best sources of advice on the Internet.
+- A listener who is concerned about a member should call emergency services, who will be able to trace the member's exact location.
+- The number to call for emergency services can be different in different countries.
+- No listener can have a member arrested and interrogated by police, not even when the listener thinks the member might have committed a crime. 
+- People from all over the world use 7 Cups. 
+{:.quiz}
 
 # Do's and dont's
 
@@ -584,8 +629,13 @@ This section is a checklist of seven things to do and seven things not to do:
 
 That's the end of Part I of this guide. After the quiz, Part II contains some detailed information that might be distressing or triggering for some listeners.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- Listeners should learn to have confidence in their ability to distinguish facts from fantasies.
+- Listeners should establish their boundaries in advance, as far as possible.
+- Listeners should learn how to diagnose common medical disorders, because members from around the world may not always have access to healthcare.
+- Listeners should reflect members' feelings accurately, because members need to feel heard.
+- Listeners should distinguish accurately between thoughts and actions.
+{:.quiz}
 
 # Part II
 Examples
@@ -629,8 +679,13 @@ You can find out more about postnatal depression by watching this video, made fo
 
 Listeners at 7 Cups are here to understand.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- Listeners can learn to diagnose depression by watching videos on YouTube.
+- Postnatal depression can cause worrying thoughts about babies coming to harm. 
+- Members with depression value feeling understood by listeners.
+- Listeners should tell members who feel depressed to call their local emergency services, and then end the chat immediately.
+- Members who experience depression should be reported to community@7cups.com
+{:.quiz}
 
 # OCD
 
@@ -669,8 +724,13 @@ The article includes a case study about a woman (Ella, page 442) who has obsessi
 
 Note that the paper is written for professionals and is included here only for information. Listeners must not try to provide psychotherapy.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- People who are diagnosed with OCD cannot stop themselves compulsively causing harm to others.
+- Listeners should encourage members to tell them the facts and avoid talking about their feelings, because feelings can be harmful.
+- Intrusive sexual thoughts are a common obsession in people who suffer from OCD.
+- Listeners must not try to provide psychotherapy for OCD.
+- When a member confuses thoughts about risk with actual risk, causing the member terrible distress, the member might have OCD.
+{:.quiz}
 
 # PTSD
 
@@ -721,8 +781,13 @@ understand why the lack of social support is the most important risk factor for 
 
 Listeners must not try to provide psychotherapy, but listeners can provide vital social support.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- PTSD is a general term for a very wide range of symptoms and difficulties caused by past events.
+- When a member thinks they have PTSD, but the listener disagrees, the listener should challenge the diagnosis.
+- PTSD can affect members' perceptions and thoughts.
+- Some listeners choose to hand chats about PTSD over to other listeners, because self care is important. 
+- One reason members are anonymous is so that they don't need to fear being judged.
+{:.quiz}
 
 # Psychosis
 
@@ -771,8 +836,13 @@ A person who suffers from schizophrenia wrote an article about confusion between
 
 Members who suffer from this degree of confusion can be difficult to relate to, but active listening allows them to process their thoughts and emotions in a supportive chat with a listener who is not trying to solve their problem for them.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- Listeners provide emotional support using active listening, because it allows members to feel heard.
+- Members' negative emotions must be replaced with positive emotions, because otherwise members might cause harm.
+- Members who suffer from psychosis sometimes seem unsure whether their thoughts represent reality.
+- Members who suffer from psychosis sometimes seem perfectly sure their thoughts represent reality.
+- When members who suffer from psychosis experience problems, listeners cannot solve the problems.
+{:.quiz}
 
 # Personality disorder
 
@@ -826,8 +896,13 @@ In this short video (less than 5 minutes) a professor of psychology at Toronto U
 
 There are limits to what active listening can achieve.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- Personality disorder is one of the easiest mental disorders for listeners to diagnose.
+- 7 Cups does not allow listeners to chat with any member who is taking action to end their life.
+- Personality disorder can cause a member to experience difficulty relating to listeners.
+- Listeners must avoid asking leading questions, because some members easily become confused about their thoughts and feelings.
+- A listener who is finding a chat very difficult and upsetting for any reason can hand the chat over to another listener.
+{:.quiz}
 
 # Paraphilia
 
@@ -869,8 +944,13 @@ For some more thoughts about these highly controversial issues, here's an articl
 
 > Drunkenness was once understood simply to be a sin. Then it became a crime. Then a medical problem... A drinking problem can, after all, lead to real harm to oneself and to others. The very reason recovering alcoholics embrace the identity is because they recognize alcoholism as a serious disorder. It might make a lot of sense to think of sexual interests like pedophilia as being akin to alcoholism.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- Listeners can rely on journalists at popular psychology websites to explain complex issues in psychiatry accurately.
+- Paraphilia is a mental disorder that affects sexual arousal.
+- Sometimes criminals tell lies.
+- In the US there is an official classification of mental disorders known as DSM-5.
+- Members who suffer from mental disorders and have thoughts about causing harm always end up acting out their thoughts and causing real harm.
+{:.quiz}
 
 # Domestic abuse
 
@@ -905,8 +985,13 @@ Here's a summary of risk factors for domestic abuse, on a UK charity website: [I
 
 Listeners must not think that reading a list on a website makes them trained to assess potentially harmful situations. Listeners must always beware of making positive judgements, which could be mistaken a a "green light" for harmful behaviors. And listeners must always beware of making negative judgements, which could prevent a member from getting effective emotional support.
 
-QUIZ
-{:.dummyquiz}
+- Mark each statement true or false:
+- A listener can seek support from another listener after a difficult chat, as long as they do not share details of the chat. 
+- Listeners who suspect there is a risk someone could be harmed must immediately search the Internet for an appropriate risk assessment checklist.
+- Listeners should avoid making positive judgements.
+- Listeners should avoid making negative judgements.
+- Emotional support is helpful to members even in the most risky and difficult situations.
+{:.quiz}
 
 # Conclusion
 
