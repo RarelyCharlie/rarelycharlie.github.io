@@ -40,8 +40,7 @@ This guide provides information and guidance for those listeners who are willing
 
 **Trigger warning:** Part I of this guide is intended to provide general information for all listeners. Part II contains examples that some listeners may find upsetting or triggering. 
 
-DECORATIVE IMAGE
-{:.decor}
+![decoration](\assets\guide\decoe0.png){:.decor}
 
 If you feel there is a possibility that you might be upset or triggered by reading about examples of harm, then you might want to consider stopping when you reach the end of Part I. There is a title page at the beginning of Part II that repeats this trigger warning.
 
