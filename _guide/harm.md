@@ -413,7 +413,9 @@ Do not let your imagination make you think a member is at risk of causing harm w
 ### PTSD
 {:#ptsdx}
 
-Post-traumatic stress disorder, PTSD, is a disorder affecting perceptions, thoughts and feelings. It is the result of actual harm (trauma) in the past. There might be continuing risk of real harm in the present and the future, and there might be continuing fears about possible harm in the present and the future whether or not there is real risk.
+Post-traumatic stress disorder, PTSD, is a disorder affecting perceptions, thoughts and feelings. It is the result of actual harm (trauma) in the past. The name means "disorder that happens after traumatic stress".
+
+There might be continuing risk of real harm in the present and the future, and there might be continuing fears about possible harm in the present and the future whether or not there is real risk.
 
 PTSD sufferers can experience a very wide range of symptoms and difficulties, especially if the PTSD is the result of multiple traumas or a persistent period of trauma.
 
