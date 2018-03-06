@@ -79,8 +79,7 @@ from [Our Key Values](https://web.archive.org/web/20170710164036/https://www.7cu
 
 However, 7 Cups imposes general limitations on the emotional support its listeners provide. If a member is actively harming themselves or someone else, you cannot continue the chat. You have no say in the matter. This is 7 Cups policy.
 
-DECORATIVE IMAGE
-{:.decol}
+![decoration](\assets\guide\decom0.png){:.decol}
 
 It is important to be aware that the word "actively" means "taking action". A thought or fantasy is not an action. Planning to take action is not the same as taking action.
 
@@ -137,8 +136,7 @@ When a chat goes beyond your personal boundaries, consider handing it over to an
 
 If the member does not agree at step 3, tell the member that you have to end the chat, and end the chat.
 
-DECORATIVE IMAGE
-{:.decol}
+![decoration](\assets\guide\decom0.png){:.decol}
 
 If you cannot find any other listener at step 5, ask the member to message a suitable listener from the Browse Listeners page. Provide the link: `7cups.com/BrowseListeners` Explain that the page has a More Filters button at the top, which is useful for finding appropriate listeners.
 
@@ -226,8 +224,7 @@ When members with mental disorders talk about harm, the harm might not necessari
 
 Members who suffer from certain neurological disorders are the second group. Neurological disorders are, roughly speaking, disturbances in perception, thinking and relationships that are thought to have a physical cause in the nervous system (which includes the brain). For the purpose of this guide the relevant neurological disorders can be thought of as brain damage.
 
-DECORATIVE IMAGE
-{:.decol}
+![decoration](\assets\guide\decom0.png){:.decol}
 
 When members with neurological disorders talk about harm, the harm might not necessarily be real. This is because neurological disorders can also cause disturbances in thinking, and in some cases the disturbances are very severe. Members might be unaware that they have a neurological disorder, or unaware of its precise effects.
 
@@ -316,8 +313,7 @@ After the quiz, the next section looks at some unintended consequences that can 
 
 If listeners do not stick closely to the techniques described in the initial listener training, they risk unintended consequences for members who have certain memory impairments.
 
-DECORATIVE IMAGE
-{:.decol}
+![decoration](\assets\guide\decom0.png){:.decol}
 
 Memory impairments are universal in the general population. They affect members and listeners. For the purposes of this guide, the significant memory impairments are the ones that affect members.
 
@@ -401,8 +397,7 @@ Do not let your imagination make you think a member is at risk of harming themse
 
 OCD is obsessive-compulsive disorder. It is usually considered to be a thought disorder. It affects how people think about certain risks, different risks for each OCD sufferer. In a typical case, a person has uncontrollable thoughts (obsessions) about some risk, combined with thought-action fusion (TAF, described in a previous section of this guide).
 
-DECORATIVE IMAGE
-{:.decol}
+![decoration](\assets\guide\decom0.png){:.decol}
 
 The thought disorder makes them confuse thoughts about risk with real risk. So they behave in ways (compulsions) that they think will reduce the risk and keep them safe. But although the behaviors do reduce real risk, they have no effect on the obsessive thoughts, and a cycle of thoughts and compulsions is the result. 
 
@@ -455,8 +450,7 @@ At the same time, people who suffer from psychosis sometimes do cause harm, or a
 ### Personality disorders
 {:#personalityx}
 
-DECORATIVE IMAGE
-{:.decor}
+![decoration](\assets\guide\decoe0.png){:.decor}
 
 Personality disorders are effectively disorders of relationships. People who suffer from these disorders think and behave in unusual and ineffective or harmful ways towards other people. There is a wide range of personality disorders, and although current classifications do group them in categories, there isn't complete agreement on whether the categories are all that useful.
 
@@ -499,8 +493,7 @@ Sometimes, however, very outrageous fantasies are obviously fantasies. Sometimes
 
 Members' reasons for sharing fantasies are not usually clear. One reason might sometimes be loneliness and lack of self-worth, because they feel a fantasy about harm is sure to get attention but if they are just themselves no one would want to chat to them.
 
-DECORATIVE IMAGE
-{:.decor}
+![decoration](\assets\guide\decoe0.png){:.decor}
 
 Sometimes fantasies contain elements of truth. The situation might be that a member feels the truth difficult to talk about, so they talk about a fantasy first, and then mix in parts of the thing they really want to talk about. So at the start the chat can feel very uncomfortable because you feel you're just being told a fantasy, but if you stay with it sometimes you end up in a very real chat about something the member finds difficult.
 
@@ -534,8 +527,7 @@ The best way for this to happen is if they can search the Internet themselves fo
 
 Listeners at 7 Cups are not required to provide Internet search services to members, no matter what the circumstances are.
 
-DECORATIVE IMAGE
-{:.decor}
+![decoration](\assets\guide\decoe0.png){:.decor}
 
 Do not provide any external resource link to a member unless they have clearly indicated their need for it. In particular, do not provide a resource link based on something you yourself said to the member earlier in the chat, or something in your imagination.
 
@@ -549,8 +541,7 @@ Do not contact external resources yourself on behalf of a member.
 
 ### Countries
 
-DECORATIVE IMAGE
-{:.decol}
+![decoration](\assets\guide\decom0.png){:.decol}
 
 People from all over the world use 7 Cups. The top three countries in terms of visitors per month are the US, India and the UK. About 40% of visitors are from other countries.
 
