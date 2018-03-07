@@ -37,7 +37,7 @@ General information for all listeners.
 
 *This unofficial guide is by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).*
 
-*The comic strip characters are [Mimi and Eunice](http://mimiandeunice.com/) adapted from originals ♡ CC-BY-SA Nina Paley.*
+*The comic strip characters are [Mimi and Eunice](http://mimiandeunice.com/)<br/>adapted from originals ♡ CC-BY-SA Nina Paley.*
 
 ![decoration](\assets\guide\decow0.png){:.decow2}
 
