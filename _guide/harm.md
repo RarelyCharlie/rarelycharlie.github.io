@@ -495,7 +495,7 @@ After the quiz, the next section looks at chats based on fantasy, and chats abou
 - People who have psychosis are sometimes unsure whether what they fear is real or imaginary.#Psychosis makes people unsure of reality.
 - Most people who commit sexual crimes have a mental disorder known as paraphilia.# Paraphilia is not a mental disorder, and most people who commit sex crimes do not have paraphilia.
 - A listener must accurately determine whether a member has a mental disorder before suggesting ways to solve the member's problems.# Listeners should not diagnose or try to solve problems.  
-- Listeners cannot be sure which members have mental disorders.# Listeners cannot diagnose, and sometimes members have disorders without knowing it themselves.
+- Listeners cannot be sure which members have mental disorders.#Listeners cannot diagnose, and sometimes members have disorders without knowing it themselves.
 - When a member describes having a mental disorder, the listener should reflect the members' feelings about it accurately.#Listeners should always reflect members' feelings accurately.
 - A member who has a personality disorder is very likely to be easy to chat to about their disorder.# Personality disorders generally make relationships difficult, and sufferers might not even be aware they have a disorder.
 - When a member is difficult to chat to, the listener can assume the member has a mental disorder.# Listeners cannot diagnose or judge, and they should not make assumptions about members.  
