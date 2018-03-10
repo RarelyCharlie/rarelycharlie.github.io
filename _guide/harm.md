@@ -697,11 +697,12 @@ You can find out more about postnatal depression by watching this video, made fo
 Listeners at 7 Cups are here to understand.
 
 - Mark each statement true or false:
-- Listeners can learn to diagnose depression by watching videos on YouTube.
-- Postnatal depression can cause worrying thoughts about babies coming to harm. 
-- Members with depression value feeling understood by listeners.
-- Listeners should tell members who feel depressed to call their local emergency services, and then end the chat immediately.
-- Members who experience depression should be reported to community@7cups.com
+- Listeners can learn to diagnose depression by watching videos on YouTube.# Listeners should not try to diagnose.
+- Postnatal depression can cause worrying thoughts about babies coming to harm.#Mothers with postnatal depression often feel unable to look after their babies well.
+- Members with depression value feeling understood by listeners.#All members value feeling understood by listeners.
+- Listeners should tell members who feel depressed to call their local emergency services, and then end the chat immediately.# Depression is not an emergency, and listeners should listen to members' feelings.
+- Members who experience depression should be reported to community@7cups.com# Members who experience depression should be listened to and their feelings reflected accurately.
+- Members who are depressed sometimes feel hopeless about the future.#Depression often makes it difficult to people to imagine the future in a positive way. 
 {:.quiz}
 
 # OCD
@@ -744,11 +745,12 @@ The article includes a case study about a woman (Ella, page 442) who has obsessi
 Note that the paper is written for professionals and is included here only for information. Listeners must not try to provide psychotherapy.
 
 - Mark each statement true or false:
-- People who are diagnosed with OCD cannot stop themselves compulsively causing harm to others.
-- Listeners should encourage members to tell them the facts and avoid talking about their feelings, because feelings can be harmful.
-- Intrusive sexual thoughts are a common obsession in people who suffer from OCD.
-- Listeners must not try to provide psychotherapy for OCD.
-- When a member confuses thoughts about risk with actual risk, causing the member terrible distress, the member might have OCD.
+- People who are diagnosed with OCD cannot stop themselves compulsively causing harm to others.# OCD makes people compulsively avoid causing harm.
+- Listeners should encourage members to tell them the facts and avoid talking about their feelings, because feelings can be harmful.# Listeners should encourage members to talk about their feelings, because 7 Cups is for emotional support.
+- Intrusive sexual thoughts are a common obsession in people who suffer from OCD.#They are one of several common obsessions.
+- Listeners must not try to provide psychotherapy for OCD.#Listeners provide active listening, not any kind of counselling or therapy.
+- When a member confuses thoughts about risk with actual risk, causing the member terrible distress, the member might have OCD.#OCD does cause distress in this way, although listeners cannot diagnose.
+- Members who experience OCD might be unaware that the thoughts and behaviors that trouble them are caused by OCD.#People with mental disorders are sometimes unaware they have any disorder.
 {:.quiz}
 
 # PTSD
@@ -801,11 +803,12 @@ understand why the lack of social support is the most important risk factor for 
 Listeners must not try to provide psychotherapy, but listeners can provide vital social support.
 
 - Mark each statement true or false:
-- PTSD is a general term for a very wide range of symptoms and difficulties caused by past events.
-- When a member thinks they have PTSD, but the listener disagrees, the listener should challenge the diagnosis.
-- PTSD can affect members' perceptions and thoughts.
-- Some listeners choose to hand chats about PTSD over to other listeners, because self care is important. 
-- One reason members are anonymous is so that they don't need to fear being judged.
+- PTSD is a general term for a very wide range of symptoms and difficulties caused by past events.#Traumatic stress in the past is the cause of PTSD.
+- When a member thinks they have PTSD, but the listener disagrees, the listener should challenge the diagnosis.# Listeners should not get involved in diagnosis at all.
+- PTSD can affect members' perceptions and thoughts.#PTSD means someone's perceptions, thoughts, emotions and behaviors are severely affected by traumatic stress in the past.
+- Some listeners choose to hand chats about PTSD over to other listeners, because self care is important.#Each listener can choose not to chat about certain topics, and had these chats over to other listeners. 
+- One reason members are anonymous is so that they don't need to fear being judged.#7 Cups provides anonymity partly to protect members from the possibility of judgment, although listeners should not judge in any case.
+- Members who say they are troubled and that they suffered harm in the past might have PTSD without realizing it.#People with mental disorders are sometimes unaware they have any disorder (but listeners cannot diagnose).
 {:.quiz}
 
 # Psychosis
@@ -856,11 +859,12 @@ A person who suffers from schizophrenia wrote an article about confusion between
 Members who suffer from this degree of confusion can be difficult to relate to, but active listening allows them to process their thoughts and emotions in a supportive chat with a listener who is not trying to solve their problem for them.
 
 - Mark each statement true or false:
-- Listeners provide emotional support using active listening, because it allows members to feel heard.
-- Members' negative emotions must be replaced with positive emotions, because otherwise members might cause harm.
-- Members who suffer from psychosis sometimes seem unsure whether their thoughts represent reality.
-- Members who suffer from psychosis sometimes seem perfectly sure their thoughts represent reality.
-- When members who suffer from psychosis experience problems, listeners cannot solve the problems.
+- Listeners provide emotional support using active listening, because it allows members to feel heard.#This is the whole point of active listening, and of 7 Cups.
+- Members' negative emotions must be replaced with positive emotions, because otherwise members might cause harm.# In some cases, negative emotions protect against harm.
+- Members who suffer from psychosis sometimes seem unsure whether their thoughts represent reality.#Psychosis affects the ability to tell the difference between fantasy and reality.
+- Members who suffer from psychosis sometimes seem perfectly sure their thoughts represent reality.#Psychosis affects the ability to tell the difference between fantasy and reality.
+- When members who suffer from psychosis experience problems, listeners cannot solve the problems.#Listeners should not try to solve problems under any circumstances.
+- Members who say they are causing actual harm to another person right now cannot receive support at 7 Cups.#7 Cups' terms of service do not allow people who are causing actual harm to receive support.
 {:.quiz}
 
 # Personality disorder
