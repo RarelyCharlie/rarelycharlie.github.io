@@ -315,7 +315,7 @@ If you are aware that you experience TAF to some extent, take particular care to
 After the quiz, the next section looks at some unintended consequences that can occur when member have memory impairments.
 
 - Mark each statement true or false:
-- Thought-action fusion is a rare form of mental illness that makes thoughts seem like actions.#Thought-action fusion is not a mental illness, and it is common.
+- Thought-action fusion is a rare form of mental illness that makes thoughts seem like actions.# Thought-action fusion is not a mental illness, and it is common.
 - Talking about earthquakes tends to make earthquakes more likely.# Talking about any fear does not make the feared thing more likely to happen.
 - When a member describes a problem, the listener should try to imagine the worst that could happen, so they can warn the member about it.# Listeners should not allow their imaginations to interfere with chats.
 - Members are sometimes distressed because they fear they might cause harm.#Fear of causing harm is one of the things that can distress people.
