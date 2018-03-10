@@ -1013,8 +1013,8 @@ Listeners must not think that reading a list on a website makes them trained to 
 - Mark each statement true or false:
 - A listener can seek support from another listener after a difficult chat, as long as they do not share details of the chat.#Listeners should care for themselves by getting support from other listeners, but they must not share details of chats. 
 - Listeners who suspect there is a risk someone could be harmed must immediately search the Internet for an appropriate risk assessment checklist.# Listeners should employ active listening to ensure members' feelings are heard. They should not make judgments about risk.
-- Listeners should avoid making positive judgements.#Listeners should not make any kind of judgments.
-- Listeners should avoid making negative judgements.#Listeners should not make any kind of judgments.
+- Listeners should avoid making positive judgments.#Listeners should not make any kind of judgments.
+- Listeners should avoid making negative judgments.#Listeners should not make any kind of judgments.
 - Emotional support is helpful to members even in the most risky and difficult situations.#Emotional support is always helpful to people in any situation.
 - Listeners should sensitively assess members who may be causing harm within their own family, because these members need accurate advice.# Listeners should not make judgments or give advice.
 {:.quiz}
