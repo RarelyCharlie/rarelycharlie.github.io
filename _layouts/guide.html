@@ -130,7 +130,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	Persist.init()
 	section = Persist.section
 	
-	review = true // <<<<<< location.hash == '#reviewall'
+	review = location.hash != '#testing'
 	if (review) {
 		$('ul.quiz>li').each(function () {
 			var q = $(this)
