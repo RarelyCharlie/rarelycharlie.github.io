@@ -40,7 +40,7 @@ The listener agreement places irrational restrictions on offsite contact. It say
 
 This says that if you interact with someone on 7 Cups, then you cannot later have any contact with the same person in real life or on other websites. This is irrational, because you cannot control who you meet in real life or on other websites.
 
-The 7 Cups community also depends on contact between listeners and members on platforms such as Google docs (and, indeed, the page your are reading now).
+The 7 Cups community also depends on contact between listeners and members on platforms such as Google docs (and, indeed, the page you are reading now).
 
 For a more rational approach to offsite contact, see: [How to Manage Offsite Contact](https://rarelycharlie.github.io/howto/offsite)
 
