@@ -37,6 +37,8 @@ General information for all listeners.
 
 *This unofficial guide is by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).*
 
+*Parts of this guide describe good practice in the opinion of the author, but are not necessarily consistent with other guidance at 7 Cups.*
+
 ![decoration](\assets\guide\decow0.png){:.decow2}
 
 *The comic strip characters are [Mimi and Eunice](http://mimiandeunice.com/)<br/>adapted from originals ♡ CC-BY-SA Nina Paley.*
