@@ -170,7 +170,7 @@ After the quiz, the next section is a reminder about active listening.
 - A listener can decide not to have any restrictions on what they are willing to chat about.#Listeners can chat about any subject except active harm being done in the present.
 - You can discuss members' problems with other listeners.# Listeners must not share the details of any chat. 
 - Caring for members must be your priority. Caring for yourself comes second.# Listeners' priority must be to care for themselves.
-- A listeners who needs to hand a chat over to another listener should try to get the member's consent first.#The member might prefer to continue with the original listener, if that is possible. 
+- A listener who needs to hand a chat over to another listener should try to get the member's consent first.#The member might prefer to continue with the original listener, if that is possible. 
 {:.quiz}
 
 # Brief active listening refresher
@@ -210,11 +210,12 @@ Similarly, if a member tells you they are worried about being harmed, repeat bac
 After the quiz, the next section looks at why members sometimes talk about harm.
 
 - Mark each statement true or false:
-- When a member says something that expresses emotion, the best thing to do is to say it back to them without suggesting how they can deal with it.
-- 7 Cups encourages positive emotions and discourages negative emotions.
-- Listeners should not try to solve members' problems for them.
-- Active listening is the best way to provide members with good advice.
-- Listeners must allow members to express their feelings. 
+- When a member says something that expresses emotion, the best thing to do is to say it back to them without suggesting how they can deal with it.#Reflecting emotions accurately is at the heart of active listening.
+- 7 Cups encourages positive emotions and discourages negative emotions.# Listeners should not make judgments about what is positive and what is negative.
+- Listeners should not try to solve members' problems for them.#Listeners provide emotional support. They do not solve problems.
+- Active listening is the best way to provide members with good advice.# Active listening provides emotional support, not advice.
+- Listeners must allow members to express their feelings.#Active listening is a way for members to know that their feelings are being heard and understood.
+- Listeners must remember to ask members appropriate questions, make wise comments, and suggest effective solutions.# Listeners should not add questions, comments or suggestions when they reflect what members tell them.
 {:.quiz}
 
 # Why members talk about harm
@@ -258,11 +259,12 @@ As a listener, you cannot judge what is real, what is a member's fear and what i
 After the quiz, the next section looks in detail about thoughts and actions, and why they are sometimes confused.
 
 - Mark each statement true or false:
-- Members sometimes come to 7 Cups to talk about their fantasies.
-- Members sometimes have mental disorders that they are not aware of.
-- Members sometimes have medical conditions that listeners can diagnose for them, but only if the listeners are experts in that area.
-- Members sometimes talk about harmful things that they do to themselves.
-- Members who are unsure of themselves need listeners they can rely on to judge what is harmful.
+- Members sometimes come to 7 Cups to talk about their fantasies.#Members can come to 7 Cups to talk about anything at all.
+- Members sometimes have mental disorders that they are not aware of.#Not everyone who has a mental disorder is aware of it.
+- Members sometimes have medical conditions that listeners can diagnose for them, but only if the listeners are experts in that area.# Listeners must not diagnose.
+- Members sometimes talk about harmful things that they do to themselves.#Members can come to 7 Cups to talk about anything at all.
+- Members who are unsure of themselves need listeners they can rely on to judge what is harmful.#Listeners do not make judgments.
+- Members who talk about harming themselves need their feelings to be heard.#All members need their feelings to be heard.
 {:.quiz}
 
 # Thoughts and actions
@@ -313,11 +315,12 @@ If you are aware that you experience TAF to some extent, take particular care to
 After the quiz, the next section looks at some unintended consequences that can occur when member have memory impairments.
 
 - Mark each statement true or false:
-- Thought-action fusion is a rare form of mental illness that makes thoughts seem like actions.
-- Talking about earthquakes tends to make earthquakes more likely.
-- When a member describes a problem, the listener should try to imagine the worst that could happen, so they can warn the member about it.
-- Members are sometimes distressed because they fear they might cause harm.
-- Sadness almost always leads to attempted suicide.
+- Thought-action fusion is a rare form of mental illness that makes thoughts seem like actions.#Thought-action fusion is not a mental illness, and it is common.
+- Talking about earthquakes tends to make earthquakes more likely.# Talking about any fear does not make the feared thing more likely to happen.
+- When a member describes a problem, the listener should try to imagine the worst that could happen, so they can warn the member about it.# Listeners should not allow their imaginations to interfere with chats.
+- Members are sometimes distressed because they fear they might cause harm.#Fear of causing harm is one of the things that can distress people.
+- Sadness almost always leads to attempted suicide.# Sadness is an emotion, and no emotion in itself can lead to attempted suicide.
+- The more a member thinks about coming to harm, the more likely they are to come to harm.# Thoughts about harm do not necessarily lead to actual harm.
 {:.quiz}
 
 # Unintended consequences
