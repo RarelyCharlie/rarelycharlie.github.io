@@ -96,7 +96,7 @@ For example, someone might have thoughts about making carrot soup. They might cl
 
 ### Distinguishing thoughts from actions
 
-Some people find the distinction between thoughts and actions obvious, and some people find it difficult. There's a recognised cognitive impairment called thought-action fusion that makes it difficult for people to distinguish between thoughts and actions easily, and if you suffer from it even slightly you might have to think more carefully than most people when trying to decide whether something is a thought or an action. There's more about thought-action fusion in a later section.
+Some people find the distinction between thoughts and actions obvious, and some people find it difficult. There's a recognized cognitive impairment called thought-action fusion that makes it difficult for people to distinguish between thoughts and actions easily, and if you suffer from it even slightly you might have to think more carefully than most people when trying to decide whether something is a thought or an action. There's more about thought-action fusion in a later section.
 
 ### Outside help
 
