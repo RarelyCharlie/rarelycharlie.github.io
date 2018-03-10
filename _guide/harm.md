@@ -263,7 +263,7 @@ After the quiz, the next section looks in detail about thoughts and actions, and
 - Members sometimes have mental disorders that they are not aware of.#Not everyone who has a mental disorder is aware of it.
 - Members sometimes have medical conditions that listeners can diagnose for them, but only if the listeners are experts in that area.# Listeners must not diagnose.
 - Members sometimes talk about harmful things that they do to themselves.#Members can come to 7 Cups to talk about anything at all.
-- Members who are unsure of themselves need listeners they can rely on to judge what is harmful.#Listeners do not make judgments.
+- Members who are unsure of themselves need listeners they can rely on to judge what is harmful.# Listeners do not make judgments.
 - Members who talk about harming themselves need their feelings to be heard.#All members need their feelings to be heard.
 {:.quiz}
 
