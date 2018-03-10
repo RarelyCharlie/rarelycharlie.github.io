@@ -390,7 +390,7 @@ After the quiz, the next section looks at three categories of mental disorder th
 - When listeners imagine there's a possibility a member might cause harm, they must be careful not to mention it to the member.#Listeners should not allow their imaginations to interfere with chats.
 - Members sometimes have incomplete memories of things that have happened to them.#No one's memory of events is ever perfect.
 - Listeners must be careful not to cause brain injury to vulnerable members who experience negative confabulation# This is complete nonsense!
-- Listeners who understand how to solve members' problems can avoid giving advice by sneaking helpful suggestions into chats.#Listeners should not try to solve problems, and they should not sneak their own ideas into chats.
+- Listeners who understand how to solve members' problems can avoid giving advice by sneaking helpful suggestions into chats.# Listeners should not try to solve problems, and they should not sneak their own ideas into chats.
 - Sometimes members chat about things that they cannot really remember clearly.#No one has perfectly clear memories of everything.
 {:.quiz}
 
