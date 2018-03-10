@@ -440,7 +440,7 @@ After the quiz, the next section looks at three more categories of mental disord
 - Mark each statement true or false:
 - Members who have mental disorders are sometimes distressed about things that are only imaginary.#People in general are sometimes distressed about things that are only imaginary.
 - Members who have mental disorders are sometimes distressed about things that are real.#People in general are sometimes distressed about things that are real.
-- Members who suffer from depression need to have their feelings corrected so that they will not harm themselves.#Depression does not by itself lead to self harm, and members' feelings need to be heard and understood, not corrected.
+- Members who suffer from depression need to have their feelings corrected so that they will not harm themselves.# Depression does not by itself lead to self harm, and members' feelings need to be heard and understood, not corrected.
 - Members who suffer from OCD behave in ways that are intended to reduce the risk of harm.#People who suffer from OCD compulsively avoid the risk of harm.
 - People who have PTSD because they suffered harm in the past sometimes fear further harm in the future.#Suffering harm in the past can make anyone fear harm in the future.
 - When a member mentions being depressed, the listener can assume there is high risk of self harm or even suicide.# Listeners should not make assumptions or judgments about risk.
