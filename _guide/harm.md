@@ -386,11 +386,12 @@ To avoid unintended consequences, be very careful not to introduce new ideas fro
 After the quiz, the next section looks at three categories of mental disorder that can be associated with chats about harm.
 
 - Mark each statement true or false:
-- People who have suffered brain damage in the past sometimes have problems remembering things clearly.
-- When listeners imagine there's a possibility a member might cause harm, they must be careful not to mention it to the member.
-- Members sometimes have incomplete memories of things that have happened to them.
-- Listeners must be careful not to cause brain injury to vulnerable members who experience negative confabulation
-- Listeners who understand how to solve members' problems can avoid giving advice by sneaking helpful suggestions into chats.
+- People who have suffered brain damage in the past sometimes have problems remembering things clearly.#Brain damage can affect thinking and remembering.
+- When listeners imagine there's a possibility a member might cause harm, they must be careful not to mention it to the member.#Listeners should not allow their imaginations to interfere with chats.
+- Members sometimes have incomplete memories of things that have happened to them.#No one's memory of events is ever perfect.
+- Listeners must be careful not to cause brain injury to vulnerable members who experience negative confabulation# This is complete nonsense!
+- Listeners who understand how to solve members' problems can avoid giving advice by sneaking helpful suggestions into chats.#Listeners should not try to solve problems, and they should not sneak their own ideas into chats.
+- Sometimes members chat about things that they cannot really remember clearly.#No one has perfectly clear memories of everything.
 {:.quiz}
 
 # Mental disorders and harm—I
@@ -437,11 +438,12 @@ In all cases when a member might have a mental disorder, you cannot be sure whet
 After the quiz, the next section looks at three more categories of mental disorder that can be associated with chats about harm.
 
 - Mark each statement true or false:
-- Members who have mental disorders are sometimes distressed about things that are only imaginary.
-- Members who have mental disorders are sometimes distressed about things that are real.
-- Members who suffer from depression need to have their feelings corrected so that they will not harm themselves.
-- Members who suffer from OCD behave in ways that are intended to reduce the risk of harm.
-- People who have PTSD because they suffered harm in the past sometimes fear further harm in the future.  
+- Members who have mental disorders are sometimes distressed about things that are only imaginary.#People in general are sometimes distressed about things that are only imaginary.
+- Members who have mental disorders are sometimes distressed about things that are real.#People in general are sometimes distressed about things that are real.
+- Members who suffer from depression need to have their feelings corrected so that they will not harm themselves.#Depression does not by itself lead to self harm, and members' feelings need to be heard and understood, not corrected.
+- Members who suffer from OCD behave in ways that are intended to reduce the risk of harm.#People who suffer from OCD compulsively avoid the risk of harm.
+- People who have PTSD because they suffered harm in the past sometimes fear further harm in the future.#Suffering harm in the past can make anyone fear harm in the future.
+- When a member mentions being depressed, the listener can assume there is high risk of self harm or even suicide.# Listeners should not make assumptions or judgments about risk.
 {:.quiz}
 
 # Mental disorders and harm—II
@@ -490,11 +492,13 @@ Remember that in all cases when a member might have a mental disorder, you canno
 After the quiz, the next section looks at chats based on fantasy, and chats about actual harm.
 
 - Mark each statement true or false:
-- People who have psychosis are sometimes unsure whether what they fear is real or imaginary.
-- Most people who commit sexual crimes have a mental disorder known as paraphilia.
-- A listener must accurately determine whether a member has a mental disorder before suggesting ways to solve the member's problems. 
-- Listeners cannot be sure which members have mental disorders.
-- When a member describes having a mental disorder, the listener should reflect the members' feelings about it accurately.
+- People who have psychosis are sometimes unsure whether what they fear is real or imaginary.#Psychosis makes people unsure of reality.
+- Most people who commit sexual crimes have a mental disorder known as paraphilia.# Paraphilia is not a mental disorder, and most people who commit sex crimes do not have paraphilia.
+- A listener must accurately determine whether a member has a mental disorder before suggesting ways to solve the member's problems.# Listeners should not diagnose or try to solve problems.  
+- Listeners cannot be sure which members have mental disorders.# Listeners cannot diagnose, and sometimes members have disorders without knowing it themselves.
+- When a member describes having a mental disorder, the listener should reflect the members' feelings about it accurately.#Listeners should always reflect members' feelings accurately.
+- A member who has a personality disorder is very likely to be easy to chat to about their disorder.# Personality disorders generally make relationships difficult, and sufferers might not even be aware they have a disorder.
+- When a member is difficult to chat to, the listener can assume the member has a mental disorder.# Listeners cannot diagnose or judge, and they should not make assumptions about members.  
 {:.quiz}
 
 # Fantasies and actual harm
