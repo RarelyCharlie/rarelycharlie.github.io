@@ -107,11 +107,12 @@ Also later in the guide, there are some reminders about exactly how listeners at
 After the quiz, the next section is a reminder about caring for yourself.
 
 - Mark each statement true or false:
-- Everyone with emotional needs should only be helped by licensed professionals.
-- 7 Cups imposes limitations on the support that listeners can provide.
-- Listeners must understand that some people just make no sense at all.
-- Listeners must be prepared to do anything for their members.
-- Some people tend to confuse thoughts with actions.
+- Everyone's emotional needs should be met by professionals.| Listeners use active listening to help meet members' emotional needs.
+- 7 Cups imposes limitations on the support that listeners can provide.|7 Cups does not allow listeners to support anyone who is actively causing harm.
+- Listeners must understand that some people just make no sense.| At 7 Cups we believe everyone makes sense in the context of their lives.
+- Listeners must be prepared to do anything for members.| Listeners must care for themselves and set personal boundaries.
+- Some people tend to confuse thoughts with actions.|This is known as thought-action fusion, and it is a common thinking problem.
+- 7 Cups' goal is to build a support system for everyone.|Our mission is exactly this.
 {:.quiz}
 
 # Self care
@@ -164,11 +165,12 @@ If you have a therapist or someone else in the real world you rely on for emotio
 After the quiz, the next section is a reminder about active listening.
 
 - Mark each statement true or false:
-- Every listener at 7 Cups must be willing to chat about every possible subject.
-- You can use your notes to keep a record of your personal boundaries within 7 Cups.
-- A listener can decide not to have any restrictions on what they are willing to chat about.
-- You can discuss members' problems with other listeners. 
-- Caring for members must be your priority. Caring for yourself comes second.
+- Every listener at 7 Cups must be willing to chat about every possible subject.| Listeners can choose not to chat about subjects they find upsetting or triggering.
+- You can use your notes to keep a record of your personal boundaries within 7 Cups.|You can use your notes for any records you want to keep.
+- A listener can decide not to have any restrictions on what they are willing to chat about.|Listeners can chat about any subject except active harm being done in the present.
+- You can discuss members' problems with other listeners.| Listeners must not share the details of any chat. 
+- Caring for members must be your priority. Caring for yourself comes second.| Listeners' priority must be to care for themselves.
+- A listeners who needs to hand a chat over to another listener should try to get the member's consent first.|The member might prefer to continue with the original listener, if that is possible. 
 {:.quiz}
 
 # Brief active listening refresher
