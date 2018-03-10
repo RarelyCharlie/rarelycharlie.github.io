@@ -920,11 +920,12 @@ In this short video (less than 5 minutes) a professor of psychology at Toronto U
 There are limits to what active listening can achieve.
 
 - Mark each statement true or false:
-- Personality disorder is one of the easiest mental disorders for listeners to diagnose.
-- 7 Cups does not allow listeners to chat with any member who is taking action to end their life.
-- Personality disorder can cause a member to experience difficulty relating to listeners.
-- Listeners must avoid asking leading questions, because some members easily become confused about their thoughts and feelings.
-- A listener who is finding a chat very difficult and upsetting for any reason can hand the chat over to another listener.
+- Personality disorder is one of the easiest mental disorders for listeners to diagnose.# Listeners should not try to diagnose any disorder, and personality disorders are generally difficult for professionals to diagnose.
+- 7 Cups does not allow listeners to chat with any member who is taking action to end their life.#7 Cups cannot support members while they are actively suicidal.
+- Personality disorder can cause a member to experience difficulty relating to listeners.#Personality disorders cause wide ranging difficulties relating to other people. 
+- Listeners must avoid asking leading questions, because some members easily become confused about their thoughts and feelings.#Listeners should not sneak suggestions into chats in any way.
+- A listener who is finding a chat very difficult and upsetting for any reason can hand the chat over to another listener.#Listeners should care for themselves by handing over any chat they cannot cope with.
+- Sometimes members who have personality disorders have been harmed by other people, and may be at risk of further harm.#Any members at all may have been harmed or be at risk of harm.
 {:.quiz}
 
 # Paraphilia
@@ -968,11 +969,12 @@ For some more thoughts about these highly controversial issues, here's an articl
 > Drunkenness was once understood simply to be a sin. Then it became a crime. Then a medical problem... A drinking problem can, after all, lead to real harm to oneself and to others. The very reason recovering alcoholics embrace the identity is because they recognize alcoholism as a serious disorder. It might make a lot of sense to think of sexual interests like pedophilia as being akin to alcoholism.
 
 - Mark each statement true or false:
-- Listeners can rely on journalists at popular psychology websites to explain complex issues in psychiatry accurately.
-- Paraphilia is a mental disorder that affects sexual arousal.
-- Sometimes criminals tell lies.
-- In the US there is an official classification of mental disorders known as DSM-5.
-- Members who suffer from mental disorders and have thoughts about causing harm always end up acting out their thoughts and causing real harm.
+- Listeners can rely on journalists at popular psychology websites to explain complex issues in psychiatry accurately.# Complex issues in psychiatry are often misunderstood by people who are not experienced mental health professionals.
+- Paraphilia is a mental disorder that affects sexual arousal.# Paraphilia does involve sexual arousal but it is not a mental disorder.
+- Sometimes criminals tell lies.#Criminals do not always like to admit they are criminals.
+- In the US there is an official classification of mental disorders known as DSM-5.#DSM-5 is currently the standard classification of mental disorders in the US.
+- Members who suffer from mental disorders and have thoughts about causing harm always end up acting out their thoughts and causing real harm.# Thoughts do not necessarily lead to actions, not even the thoughts of people who have mental illnesses.
+- Members who have sexual fantasies cause harm to others, because they have a mental disorder.# Sexual fantasies, causing harm, and mental disorders are three unrelated things.
 {:.quiz}
 
 # Domestic abuse
@@ -1009,11 +1011,12 @@ Here's a summary of risk factors for domestic abuse, on a UK charity website: [I
 Listeners must not think that reading a list on a website makes them trained to assess potentially harmful situations. Listeners must always beware of making positive judgments, which could be mistaken a a "green light" for harmful behaviors. And listeners must always beware of making negative judgments, which could prevent a member from getting effective emotional support.
 
 - Mark each statement true or false:
-- A listener can seek support from another listener after a difficult chat, as long as they do not share details of the chat. 
-- Listeners who suspect there is a risk someone could be harmed must immediately search the Internet for an appropriate risk assessment checklist.
-- Listeners should avoid making positive judgments.
-- Listeners should avoid making negative judgments.
-- Emotional support is helpful to members even in the most risky and difficult situations.
+- A listener can seek support from another listener after a difficult chat, as long as they do not share details of the chat.#Listeners should care for themselves by getting support from other listeners, but they must not share details of chats. 
+- Listeners who suspect there is a risk someone could be harmed must immediately search the Internet for an appropriate risk assessment checklist.# Listeners should employ active listening to ensure members' feelings are heard. They should not make judgments about risk.
+- Listeners should avoid making positive judgements.#Listeners should not make any kind of judgments.
+- Listeners should avoid making negative judgements.#Listeners should not make any kind of judgments.
+- Emotional support is helpful to members even in the most risky and difficult situations.#Emotional support is always helpful to people in any situation.
+- Listeners should sensitively assess members who may be causing harm within their own family, because these members need accurate advice.# Listeners should not make judgments or give advice.
 {:.quiz}
 
 # Conclusion
