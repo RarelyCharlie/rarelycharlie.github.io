@@ -969,7 +969,7 @@ For some more thoughts about these highly controversial issues, here's an articl
 > Drunkenness was once understood simply to be a sin. Then it became a crime. Then a medical problem... A drinking problem can, after all, lead to real harm to oneself and to others. The very reason recovering alcoholics embrace the identity is because they recognize alcoholism as a serious disorder. It might make a lot of sense to think of sexual interests like pedophilia as being akin to alcoholism.
 
 - Mark each statement true or false:
-- Listeners can rely on journalists at popular psychology websites to explain complex issues in psychiatry accurately.# Complex issues in psychiatry are often misunderstood by people who are not experienced mental health professionals.
+- Listeners can rely on the writers at popular psychology websites to explain complex issues in psychiatry accurately.# Complex issues in psychiatry are often misunderstood by people who are not experienced mental health professionals.
 - Paraphilia is a mental disorder that affects sexual arousal.# Paraphilia does involve sexual arousal but it is not a mental disorder.
 - Sometimes criminals tell lies.#Criminals do not always like to admit they are criminals.
 - In the US there is an official classification of mental disorders known as DSM-5.#DSM-5 is currently the standard classification of mental disorders in the US.
