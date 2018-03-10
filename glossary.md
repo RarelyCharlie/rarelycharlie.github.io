@@ -387,6 +387,9 @@ A ~~guest~~ or member who requests a ~~1-to-1 chat~~ but who does not respond wh
 # gratitude journal
 A regular record of the things you are grateful for, often kept privately in your ~~notes,~~ or publicly in your ~~feed~~ using the ~~hashtag~~ #gratitude.
 
+# group
+A ~~chatroom,~~ or the chatrooms in general.
+
 # group chat
 A ~~chat~~ in a ~~chatroom~~.
 
@@ -900,8 +903,14 @@ _See also:_ ~~adult~~
 # teen and adult
 An ~~adult~~ ~~listener~~ ~~account~~ with authorization for ~~1-to-1 chats/1-to-1 chat~~ with ~~teens/teen~~ (in addition to adults).
 
+# Teen Mod Zone
+A ~~chatroom~~ for ~~teen~~ ~~group~~ ~~mods.~~
+
 # Teen Star
 A ~~teen~~ with a leadership role in the ~~community~~ similar to a ~~Mentor~~.
+
+# Teen Stars and Leaders
+A ~~chatroom~~ for ~~Teen Stars/~~ and ~~Support Team Leaders/~~
 
 # terms of service
 A set of terms and conditions that each person using ~~7 Cups~~ agrees to. The terms of service for each type of ~~account~~ are different.
