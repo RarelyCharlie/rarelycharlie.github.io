@@ -37,9 +37,10 @@ General information for all listeners.
 
 *This unofficial guide is by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).*
 
-*The comic strip characters are [Mimi and Eunice](http://mimiandeunice.com/)<br/>adapted from originals ♡ CC-BY-SA Nina Paley.*
-
 ![decoration](\assets\guide\decow0.png){:.decow2}
+
+*The comic strip characters are [Mimi and Eunice](http://mimiandeunice.com/)<br/>adapted from originals ♡ CC-BY-SA Nina Paley.*
+{:.style="margin: 0 auto 1em auto;"}
 
 # What this guide is for
 This guide provides information and guidance for those listeners who are willing to chat with with members who talk about harm.
