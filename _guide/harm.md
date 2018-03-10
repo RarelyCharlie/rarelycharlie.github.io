@@ -530,11 +530,13 @@ Members who are really causing harm, or at risk of causing harm, are very likely
 After the quiz, the next section looks at resources you can provide to members.
 
 - Mark each statement true or false:
-- Some members tell listeners about their fantasies, but these sometimes contain elements of truth.
-- Some members tell different things to different listeners.
-- Members who are causing harm to other people almost always admit it when they chat to a listener on 7 Cups, because 7 Cups is anonymous.
-- Listeners are usually unable to tell whether a member is at real risk of harm.
-- Listeners should encourage all members to feel positive about themselves and their behavior.
+- Some members tell listeners about their fantasies, but these sometimes contain elements of truth.#Members sometimes mix truth and fantasy.
+- Some members tell different things to different listeners.#Members remember different things or fantasize different things depending on who they are talking to.
+- Members who are causing harm to other people almost always admit it when they chat to a listener on 7 Cups, because 7 Cups is anonymous.# People who are causing harm often conceal it.
+- Listeners are usually able to tell whether a member is at real risk of harm.# Listeners should not judge, because they only know part of any member's story.
+- Listeners should encourage all members to feel positive about themselves and their behavior.# Listeners should not judge what is positive and what is negative, because there is a possibility of harm to the member or to someone else.
+- Members who say very shocking things must be telling the truth.# Some members say shocking things because they are fantasies, or to test 7 Cups, or for other reasons.
+- Members who say very shocking things must be telling lies.# Some members say things that are shocking but true. Listeners cannot judge.
 {:.quiz}
 
 # External resources
@@ -607,11 +609,13 @@ If you can establish beyond doubt, based on written evidence, that you are subje
 After the quiz, the next section is a checklist of do's and dont's.
 
 - Mark each statement true or false:
-- The goal of active listening is to help members find the best sources of advice on the Internet.
-- A listener who is concerned about a member should call emergency services, who will be able to trace the member's exact location.
-- The number to call for emergency services can be different in different countries.
-- No listener can have a member arrested and interrogated by police, not even when the listener thinks the member might have committed a crime. 
-- People from all over the world use 7 Cups. 
+- The goal of active listening is to help members find the best sources of advice on the Internet.# The goal of active listening is to provide emotional support.
+- A listener who is concerned about a member should call emergency services, who will be able to trace the member's exact location.# Listeners should never call emergency services on behalf of members, and no one can trace members.
+- The number to call for emergency services can be different in different countries.#Several different emergency numbers are in use around the world.
+- No listener can have a member arrested and interrogated by police, not even when the listener thinks the member might have committed a crime.#Listeners never have real evidence of any crime, and they cannot report members to police. 
+- People from all over the world use 7 Cups.#7 Cups is available everywhere.
+- All telephone helplines worldwide are required to operate 24 hours every day.# Many telephone helplines operate at restricted times.
+- All telephone helplines worldwide are required to be staffed by expert professionals.# Many telephone helplines are staffed by volunteers and trainee professionals.
 {:.quiz}
 
 # Do's and dont's
@@ -641,11 +645,13 @@ This section is a checklist of seven things to do and seven things not to do:
 That's the end of Part I of this guide. After the quiz, Part II contains some detailed information that might be distressing or triggering for some listeners.
 
 - Mark each statement true or false:
-- Listeners should learn to have confidence in their ability to distinguish facts from fantasies.
-- Listeners should establish their boundaries in advance, as far as possible.
-- Listeners should learn how to diagnose common medical disorders, because members from around the world may not always have access to healthcare.
-- Listeners should reflect members' feelings accurately, because members need to feel heard.
-- Listeners should distinguish accurately between thoughts and actions.
+- Listeners should learn to have confidence in their ability to distinguish facts from fantasies.# Listeners almost never have enough information to be able to distinguish facts from fantasies.
+- Listeners should establish their boundaries in advance, as far as possible.#Establishing boundaries in advance helps listeners to respond quickly when a boundary is crossed.
+- Listeners should learn how to diagnose common medical disorders, because members from around the world may not always have access to healthcare.# Listener should not try to diagnose.
+- Listeners should reflect members' feelings accurately, because members need to feel heard.#The purpose of active listening is allowing members to feel heard.
+- Listeners should distinguish accurately between thoughts and actions.#Confusing thoughts with actions can be misleading, especially when they are thoughts about harm.
+- Listeners should always give clear advice to members who talk about harm to themselves or other people.# Listeners should not give advice.
+- Listeners should always interpret members' feelings in a positive way so that members avoid thinking about harm.# Listeners should reflect members' feeling accurately, without judging whether they are positive or negative.
 {:.quiz}
 
 # Part II
