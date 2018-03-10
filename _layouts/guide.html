@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	if (review) {
 		$('ul.quiz>li').each(function () {
 			var q = $(this)
-			q.text(q.text().replace(/\|\s.+/, ' (False)').replace(/\|.+/, ' (True)'))
+			q.text(q.text().replace(/#\s.+/, ' (False)').replace(/#.+/, ' (True)'))
 			})
 		$('#content>*').show()
 		}
@@ -159,7 +159,6 @@ machinery = function () { // add quiz machinery...
 		}
 	
 	if (section < Persist.section) { // reviewing, no quiz...
-		console.log('+++ Reviewing, no quiz')
 		base.after(
 			'<p class="reviewing"><em>You have already completed this quiz.</em></p>'
 			+ '<button onclick="nextpage()">Next Section</button>'
@@ -180,7 +179,7 @@ machinery = function () { // add quiz machinery...
 		Math.seedrandom('rc_' + Persist.retry)
 		these.sort(() => Math.random() > .5? 1 : -1)
 		for (let i = 0; i < qcount; ++i) {
-			let q = bank.eq(these[i]).text().split('|')
+			let q = bank.eq(these[i]).text().split('#')
 			quizbody.append('<tr data-a="' + q[1] + '">'
 				+ '<td><input type="radio" id="y' + i + '" name="q' + i + '">'
 			  	+ '<label for="y' + i + '" title="True"></label></td>'
