@@ -20,8 +20,12 @@
 html {padding-top: 80px;}
 body {font-size: 16px; line-height: 23px; font-family: Raleway; margin: 0;}
 body.keyboard {overflow: hidden;}
+#content>* {display: none;}
+#content>p.reviewing, #content>p.prompt, #content>h3.quizhead, #next {display: block;}
+#content>button {display: block; margin: 1em 0 0 0;}
+#quiz {display: table;}
 #content h3 {clear: both;}
-#content h3, #content strong {font-weight: 500;color: #000;}
+#content h3, #content strong {color: #444;}
 #content h1 {font-size: 40px; line-height: normal; font-weight: 200; border-bottom: 1px solid #ccc; margin-bottom: .5ex;}
 #content h2 {font-size: 20px; font-weight: 500; margin-bottom: 0; z-index: 1; line-height: 26px; cursor: default;}
 #header {z-index: 1; position: relative; height: 80px; width: 100%; background: #159957 linear-gradient(to right, #1e90fe 0%, #73ccde 100%);}
@@ -49,7 +53,6 @@ a[href] {color: #29f; text-decoration: none;}
 a[href]:hover {text-decoration: underline;}
 img.decol {float: left; margin: 0 1em 1ex 0; width: 180px; height: 180px; box-shadow: 2px 2px 2px #ccc;}
 img.decor {float: right; margin: 0 0 1ex 1em; width: 180px; height: 180px; box-shadow: 2px 2px 2px #ccc;}
-img.decow2 {display: block; margin: 0 auto 1em auto; width: 300px; height: 180px; box-shadow: 2px 2px 2px #ccc;}
 #content p.decol {box-sizing: border-box; margin: 0 1em 1ex 0; width: 180px; height: 180px; background: #bbe;
     float: left; text-align: center; padding: 3em 0; color: green; box-shadow: 2px 2px 2px #ccc;}
 #content p.decor {box-sizing: border-box; margin: 0 0 1ex 1em; width: 180px; height: 180px; background: #ebb;
@@ -57,9 +60,7 @@ img.decow2 {display: block; margin: 0 auto 1em auto; width: 300px; height: 180px
 #content p.right {float: right; margin-right: 40px;}
 #content p.right+* {clear: both;}
 blockquote {margin: 0 40px; padding: 0 0 0 1ex; border-left: 2px solid #7bf; line-height: 26px;}
-#content p.dummyquiz {border: 1px solid green; background: #ded; text-align: center;
-    padding: 3em 0; color: green; border-radius: 1ex;}
-ul.quiz {border: 1px solid green; background: #efe; padding: 1ex 1ex 1ex 3em; border-radius: 1ex;}
+ul.quiz {display: none; border: 1px solid green; background: #efe; padding: 1ex 1ex 1ex 3em; border-radius: 1ex;}
 ul.quiz>li:first-child {list-style: none; margin-left: -2em;}
 li {margin-bottom: .5ex;}
 li:last-child {margin-bottom: 0;}
@@ -68,8 +69,189 @@ table.chat tr {margin-bottom: 1ex;}
 table.chat td {vertical-align: top; padding-right: 0 1.5em 0 0;}
 table.chat td:first-child {font-style: italic; width: 5em; padding: 0;}
 em.warn, em.ok {font-style: normal;}
+td {vertical-align: top; position: relative;}
+input {opacity: 0;}
+label {display: block;
+  height: 20px; width: 20px;
+  position: absolute; top: 0; left: 0;
+  font-weight: 200;
+  font-size: 1.35em;
+  border: 2px solid #bbb;
+  border-radius: 4px;
+  z-index: 2;
+  cursor: pointer;
+  -webkit-transition: all 0.25s linear;
+  }
+input:focus+label, button:focus {box-shadow: 0 0 1px 1px #37f;}
+label::before {font-family: FontAwesome; font-size: 24px; line-height: 20px; position: relative;}
+input[id^=y]:checked + label::before {content: '\f00c'; color: #0b0; left: -2px; top: -1px;}
+input[id^=n]:checked + label::before {content: '\f00d'; color: #b00; left: 0; top: -2px;}
+button {font-size: inherit; font-family: inherit; padding: 4px 20px; border: 1px solid gray; border-radius: 4px;
+  color: inherit; background: #afa; box-shadow: 2px 2px 4px #ccc; cursor: pointer;}
+button:disabled {color: #888; background: #ddd; border: 1px solid #ccc; box-shadow: none;}
+.explain {font-style: italic; color: #777;}
+td, th {min-width: 36px; text-align: left;}
+tr.right *, tr.wrong * {cursor: default;}
+tr.wrong .explain {font-weight: 600; color: #000;}
+tr.wrong label::before {color: #ccc !important;}
+i.fa-star {color: gold; margin-right: 2px;}
 </style>
 <script>
+Persist = {
+	retry: null,
+	section: null,
+	r: Math.floor(67108864 * Math.random()) & 67043839,
+	init: function () {
+		this.r0 = Math.floor(31 * Math.random())
+		this.r1 = Math.floor(16383 * Math.random())
+		var d = JSON.parse(localStorage.getItem('rc_harm'))
+		if (d) {
+			this.retry = d[0]
+			this.section = d[1] >> 9 & 127
+			}
+		else {
+			this.retry = Math.floor(1e8 * Math.random())
+			this.section = 0
+			this.save()
+			}
+		},
+	save: function () {
+		localStorage.setItem('rc_harm', JSON.stringify([this.retry, this.r | this.section << 9]))
+		}
+	}
+	
+var section, review // this section, whether reviewing
+const qcount = 4 // show this many questions in each quiz
+
+document.addEventListener('DOMContentLoaded', function () {
+	Persist.init()
+	section = Persist.section
+	
+	review = true // <<<<<< location.hash == '#reviewall'
+	if (review) {
+		$('ul.quiz>li').each(function () {
+			var q = $(this)
+			q.text(q.text().replace(/\|\s.+/, ' (False)').replace(/\|.+/, ' (True)'))
+			})
+		$('#content>*').show()
+		}
+	else {
+		$('#toc').nextUntil('#part-i').addBack().remove()
+		nextpage(section)
+		$('#content').show()
+		}
+	})
+	
+machinery = function () { // add quiz machinery...
+	var h1 = $('#content h1').eq(section),
+		base = h1.nextUntil('h1').last()
+		quiz = h1.nextUntil('h1', 'ul.quiz')
+
+	if (!quiz.length) { // no quiz here...
+		console.log('+++ No quiz here')
+		++Persist.section
+		Persist.save()
+		base.after('<button onclick="nextpage()">Next Section</button>')
+		return
+		}
+	
+	if (section < Persist.section) { // reviewing, no quiz...
+		console.log('+++ Reviewing, no quiz')
+		base.after(
+			'<p class="reviewing"><em>You have already completed this quiz.</em></p>'
+			+ '<button onclick="nextpage()">Next Section</button>'
+			)
+		quiz.remove()
+		return
+		}
+		
+		base.after('<h3 class="quizhead">Quiz</h3><p class="prompt">' + quiz.children().first().text() + '</p>')
+		
+		h1.nextUntil('h1').last().after('<table id="quiz">'
+			+ '<tbody><tr><th>True</th><th>False</th><th></th></tr></tbody>'
+			+ '</table>')
+		var quizbody = $('#quiz>tbody')
+		var bank = quiz.children()
+		var these = []
+		for (let i = 1; i < bank.length; ++i) these.push(i)
+		Math.seedrandom('rc_' + Persist.retry)
+		these.sort(() => Math.random() > .5? 1 : -1)
+		for (let i = 0; i < qcount; ++i) {
+			let q = bank.eq(these[i]).text().split('|')
+			quizbody.append('<tr data-a="' + q[1] + '">'
+				+ '<td><input type="radio" id="y' + i + '" name="q' + i + '">'
+			  	+ '<label for="y' + i + '" title="True"></label></td>'
+				+ '<td><input type="radio" id="n' + i + '" name="q' + i + '">'
+			  	+ '<label for="n' + i + '" title="False"></label></td>'
+				+ '<td>' + q[0] + '<br/><span class="explain">&nbsp;</span></td>'
+				+ '</tr>')
+			}
+	
+		$('#quiz').after('<p class="prompt"><button id="score" disabled onclick="score()">Score</button></p>'
+  		+ '<p class="prompt" id="report"></p>'
+  		+ '<p id="next"></p>')
+	
+	$('input').on('click', function () {
+		$('#score').attr('disabled', $('#quiz').hasClass('scored') || $('input:checked').length < qcount)
+		})
+	$('input').get(0).focus()
+	}
+
+score = function () {
+	var ok = true, correct = 0, opt = ['True', 'False']
+	$('input:checked').each(function () {
+		var tr = this.parentNode.parentNode
+		var d = tr.getAttribute('data-a'),
+			t = d.charAt(0) == ' '? 'n' : 'y',
+			a
+		if (t == this.id.substr(0, 1)) ++correct, tr.className = 'right', a = '<i class="fa fa-star" title="Correct"></i>'
+		else ok = false, tr.className = 'wrong', a = opt[t == 'y'? 0 : 1] + '. '
+		tr.lastChild.lastChild.innerHTML = a + d.trim()
+		console.log('+++ ' + t)
+		})
+	$('input').attr('disabled', 'true')
+	$('#quiz').addClass('scored')
+	$('#score').attr('disabled', "true")
+	for (var i = 0, stars = ''; i < correct; ++i) stars += '<i class="fa fa-star"></i>'
+	$('#report').html(ok? stars + 'All correct. After reviewing your answers you can go to the next section.'
+	  : stars + ' ' + (correct == 0? 'None' : 'Only ' + correct) + ' correct, but you can review this section and try again.')
+	$('#next').append(ok? '<button onclick="nextpage()">Next Section</button>'
+		: '<button onclick="reviewpage()">Review This Section</button>')
+	with ($('#next button').get(0)) focus(), scrollIntoView({behavior: "smooth", block: "start" })
+	++Persist[ok? "section" : "retry"]
+	Persist.save()
+	}
+
+showpage = function (p, show) {
+	$('h3.quizhead').nextUntil('h1').addBack().remove()
+	var h1 = $('#content h1').eq(p)
+	show? h1.show() : h1.hide()
+	show? h1.nextUntil('h1').not('.quiz').show() : h1.nextUntil('h1').hide()
+	}
+
+nextpage = function (s) {
+	showpage(section, false)
+	if ($.isNumeric(s)) section == s
+	else ++section
+	showpage(section, true)
+	machinery()
+	setTimeout(pagetop, 0)
+	}
+
+pagetop = function () {
+	var h = $('h1')[0]
+	document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset =
+		h.offsetTop - document.getElementById('header').offsetHeight - 32
+	}
+
+reviewpage = function () {
+	$('h3.quizhead').nextUntil('h1').addBack().remove()
+	machinery()
+	pagetop()
+	//setTimeout(function () {location.reload()}, 0)
+	}
+
+	
 scrollfix = function () {
 	setTimeout(function () {
 		let t = document.getElementById(location.hash.substr(1))
