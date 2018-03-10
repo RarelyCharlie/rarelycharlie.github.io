@@ -903,6 +903,9 @@ _See also:_ ~~adult~~
 # teen and adult
 An ~~adult~~ ~~listener~~ ~~account~~ with authorization for ~~1-to-1 chats/1-to-1 chat~~ with ~~teens/teen~~ (in addition to adults).
 
+# Teen Leadership Room
+A ~~chatroom~~ for ~~teen~~ ~~leaders./leader~~
+
 # Teen Mod Zone
 A ~~chatroom~~ for ~~teen~~ ~~group~~ ~~mods.~~
 
@@ -910,7 +913,13 @@ A ~~chatroom~~ for ~~teen~~ ~~group~~ ~~mods.~~
 A ~~teen~~ with a leadership role in the ~~community~~ similar to a ~~Mentor~~.
 
 # Teen Stars and Leaders
-A ~~chatroom~~ for ~~Teen Stars/~~ and ~~Support Team Leaders/~~
+A ~~chatroom~~ for ~~Teen Stars/Teen Star~~ and ~~Support Team Leaders/Support Team Leader~~
+
+# Teen Stars and Mentors
+A ~~chatroom~~ for ~~Teen Stars,/Teen Star~~ ~~Support Team Leaders/Support Team Leader~~ and ~~mentors./mentor~~
+
+# Teen Starship
+A ~~chatroom~~ for ~~Teen Stars./Teen Star~~
 
 # terms of service
 A set of terms and conditions that each person using ~~7 Cups~~ agrees to. The terms of service for each type of ~~account~~ are different.
