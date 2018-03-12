@@ -32,11 +32,11 @@ General information for all listeners.
 
 This guide is an unofficial training guide for listeners about chats involving harm. It is not a self-help guide for members. If you are not a listener you can still read this guide, but becoming a listener first is recommended as a starting point.
 
-The guide is in many short sections. Part I is intended for all listeners and it has no detailed descriptions of harm. Part II contains more detailed examples and information that some listeners might find upsetting or triggering. It is OK to stop reading at the end of Part I.
-
-Most sections have a quiz at the end. You must correctly complete the quiz before you can move to the next section. There is no limit to the number of times you can retry each quiz.
+The guide is in many short sections. Most sections have a quiz at the end. You must correctly complete the quiz before you can move to the next section. There is no limit to the number of times you can retry each quiz.
 
 To navigate back to a section you have completed, use the little square links along the top of each page.
+
+**Trigger warning:** Part I is intended for all listeners and it has no detailed descriptions of harm. Part II contains more detailed examples and information that some listeners might find upsetting or triggering. It is OK to stop reading at the end of Part I.
 
 *Author: [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).*
 
@@ -48,13 +48,10 @@ To navigate back to a section you have completed, use the little square links al
 {:style="text-align: center;"}
 
 # What this guide is for
-This guide provides information and guidance for those listeners who are willing to chat with with members who talk about harm.
-
-**Trigger warning:** Part I of this guide is intended to provide general information for all listeners. Part II contains examples that some listeners may find upsetting or triggering. 
 
 ![decoration](\assets\guide\decoe0.png){:.decor}
 
-If you feel there is a possibility that you might be upset or triggered by reading about examples of harm, then you might want to consider stopping when you reach the end of Part I. There is a title page at the beginning of Part II that repeats this trigger warning.
+This guide provides information and guidance for those listeners who are willing to chat with with members who talk about harm.
 
 Harm includes harm in the past and present, and risk of harm in the future. It includes harm to members themselves and to others, also including harm to vulnerable people such as children, and harm that is a criminal offense.
 
