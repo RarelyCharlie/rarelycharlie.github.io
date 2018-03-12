@@ -30,8 +30,6 @@ feedback: https://www.7cups.com/@RarelyCharlie
 # *Preface*
 *This document is the final draft version of an unofficial training guide for listeners about chats involving harm. It is not a self-help guide for members.*
 
-*In this draft version there are no page breaks. In the final version each section will be on a separate page. Readers will mostly have to answer a quiz correctly in order to move to the next page.*
-
 # Part I
 General information for all listeners.
 
