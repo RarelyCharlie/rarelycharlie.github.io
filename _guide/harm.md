@@ -898,7 +898,8 @@ A member has been chatting about her eating disorder:
 The member is online again:
 
 |Listener:|Hi! We chatted yesterday. How are things?
-||*Blocked*
+||*This user is unavailable to chat with you, please select another.*{:.blocked}
+||*(Conversation blocked)*
 {:.chat}
 
 Listeners cannot diagnose, and it's impossible to tell whether any member really has a personality disorder or not. Some members do communicate in ways that seem to prevent any effective human contact with listeners, and it's possible that some of those members are suffering from severe personality disorders.
