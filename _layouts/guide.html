@@ -243,7 +243,7 @@ machinery = function () { // add quiz machinery...
 		Math.seedrandom('rc_' + Persist.retry)
 		these.sort(() => Math.random() > .5? 1 : -1)
 		for (let i = 0; i < qcount; ++i) {
-			let q = bank.eq(these[i]).text().split('|')
+			let q = bank.eq(these[i]).text().split('#')
 			quizbody.append('<tr data-a="' + q[1] + '">'
 				+ '<td><input type="radio" id="y' + i + '" name="q' + i + '">'
 			  	+ '<label for="y' + i + '" title="True"></label></td>'
