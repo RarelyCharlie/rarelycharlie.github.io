@@ -34,7 +34,7 @@ This guide is an unofficial training guide for listeners about chats involving h
 
 The guide is in many short sections. Part I is intended for all listeners and it has no detailed descriptions of harm. Part II contains more detailed examples and information that some listeners might find upsetting or triggering. It is OK to stop reading at the end of Part I.
 
-Most sections have a quiz at the end. You must correctly complete the quiz before you can move to the next section. There is no limit to the numbers of times you can retry each quiz.
+Most sections have a quiz at the end. You must correctly complete the quiz before you can move to the next section. There is no limit to the number of times you can retry each quiz.
 
 To navigate back to a section you have completed, use the little square links along the top of each page.
 
