@@ -195,7 +195,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		$('#content>*').show()
 		}
 	else {
-		$('#toc').nextUntil('#part-i').addBack().remove()
+		$('#contents').nextUntil('#part-i').addBack().remove()
 		var last = $('#content h1').length - 1
 		showme(Persist.section == last? 0 : Persist.section)
 		$('#content').show()
