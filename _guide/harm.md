@@ -891,6 +891,7 @@ A member has been chatting about her eating disorder:
 |Member:|24 seems about right.
 |Listener:|I have to end this chat now.
 ||*Ends the chat*
+||*<i class="fa fa-comments-o"></i>  Select a conversation.*{:.ended}
 {:.chat}
 
 **Thursday, 9 p.m.**
