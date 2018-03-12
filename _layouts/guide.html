@@ -104,6 +104,58 @@ tr.wrong label::before {color: #ccc !important;}
 i.fa-star {color: gold; margin-right: 2px;}
 </style>
 <script>
+Crumbs = {
+	init: function () {
+		var s = '<style>'
+			+ '#crumbtray {position: absolute; top: -20px; width: 100%; text-align: center;}'
+			+ '#crumbs {height: 12px; background: transparent;  margin: 0 auto; font-size: 16px; line-height: 16px; font-weight: normal; color: #000;}'
+			+ '.crumb {display: inline-block; width: 12px; height: 12px; border: 1px solid #aaa; margin: 0 2px; background: #ddd; border-radius: 2px; position: relative; top: 2px;}'
+			+ '.crumb.part {width: auto; height: auto; border: none; background: transparent; top: 0; margin: 0 4px 0 6px;}'
+			+ '.crumb.shown {background: #9cf; border-color: #46a;}'
+			+ '.crumb.part.shown {background: transparent;}'
+			+ '.crumb[data-n] {cursor: pointer;}'
+			+ '.crumb[data-n]:hover {background: #68f;}'
+			+ '.crumb.showing {box-shadow: 0 0 12px 6px blue;}'
+			+ '</style>'
+		$('head').append(s)
+		$('body').on('click', '.crumb', function (evt) {
+			if (!evt.target.hasAttribute('data-n')) return
+			var n = evt.target.getAttribute('data-n')
+			if (n == section) return
+			showme(n)
+			})
+		},
+	show: function () {
+		var c = '<div class="machinery" id="crumbtray"><div id="crumbs">',
+			active = Persist.section
+		$('#content h1').each(function (i) {
+			var txt = $(this).text(),
+				part = (txt == 'Part I' || txt == 'Part II')
+			var link = (i > active || i == section)? '' : ' data-n="' + i + '"',
+				classes = ' class="crumb'
+					+ (part? ' part' : '')
+					+ (i <= active? ' shown' : '')
+					+ (i == active? ' active' : '')
+					+ (i == section? ' showing' : '')
+					+ '"',
+				title = i <= active? '" title="' + txt + '"' : ''
+				c += '<div' + link + classes + title + '>'
+					+ (part? txt + ':' : '')
+					+ '</div>'
+			})
+		c += '</div></div>'
+		var h1 = $('#content h1').eq(section)
+		h1.css('position', 'relative')
+		h1.append(c)
+		setTimeout(function () {
+			$('.crumb.showing').css('transition', 'box-shadow 1s')
+			setTimeout(function () {
+				$('.crumb.showing').css('box-shadow', 'none')
+				}, 0)
+			}, 250)
+		}
+	}
+
 Persist = {
 	retry: null,
 	section: null,
@@ -127,53 +179,55 @@ Persist = {
 		}
 	}
 	
-var section, review // this section, whether reviewing
+var section = null, review = false // this section, whether reviewing
 const qcount = 4 // show this many questions in each quiz
 
 document.addEventListener('DOMContentLoaded', function () {
 	Persist.init()
-	section = Persist.section
+	Crumbs.init()
 	
-	review = location.hash != '#testing'
+	review = location.hash == '#reviewall'
 	if (review) {
 		$('ul.quiz>li').each(function () {
 			var q = $(this)
-			q.text(q.text().replace(/#\s.+/, ' (False)').replace(/#.+/, ' (True)'))
+			q.text(q.text().replace(/\|\s.+/, ' (False)').replace(/\|.+/, ' (True)'))
 			})
 		$('#content>*').show()
 		}
 	else {
 		$('#toc').nextUntil('#part-i').addBack().remove()
-		nextpage(section)
+		var last = $('#content h1').length - 1
+		showme(Persist.section == last? 0 : Persist.section)
 		$('#content').show()
 		}
 	})
-	
+
 machinery = function () { // add quiz machinery...
 	var h1 = $('#content h1').eq(section),
 		base = h1.nextUntil('h1').last()
 		quiz = h1.nextUntil('h1', 'ul.quiz')
 
-	if (!quiz.length) { // no quiz here...
-		console.log('+++ No quiz here')
-		++Persist.section
-		Persist.save()
-		base.after('<button onclick="nextpage()">Next Section</button>')
+	if (section < Persist.section) { // reviewing, no quiz...
+		if (quiz.length) {
+			base.after('<p class="reviewing machinery"><em>You have already completed this quiz.</em></p>')
+			quiz.remove()
+			}
+		return
+		}
+
+	if (!quiz.length) { // current section but no quiz here...
+		if (section == Persist.section && h1.attr('id') != 'conclusion') { // current section, not last
+			++Persist.section // no Score button, so do this immediately
+			Persist.save()
+			base.after('<button class="machinery" onclick="showme(' + Persist.section + ')">Next Section</button>')
+			}
 		return
 		}
 	
-	if (section < Persist.section) { // reviewing, no quiz...
-		base.after(
-			'<p class="reviewing"><em>You have already completed this quiz.</em></p>'
-			+ '<button onclick="nextpage()">Next Section</button>'
-			)
-		quiz.remove()
-		return
-		}
+		// construct a quiz...
+		base.after('<h3 class="quizhead machinery">Quiz</h3><p class="prompt">' + quiz.children().first().text() + '</p>')
 		
-		base.after('<h3 class="quizhead">Quiz</h3><p class="prompt">' + quiz.children().first().text() + '</p>')
-		
-		h1.nextUntil('h1').last().after('<table id="quiz">'
+		h1.nextUntil('h1').last().after('<table class="machinery" id="quiz">'
 			+ '<tbody><tr><th>True</th><th>False</th><th></th></tr></tbody>'
 			+ '</table>')
 		var quizbody = $('#quiz>tbody')
@@ -183,7 +237,7 @@ machinery = function () { // add quiz machinery...
 		Math.seedrandom('rc_' + Persist.retry)
 		these.sort(() => Math.random() > .5? 1 : -1)
 		for (let i = 0; i < qcount; ++i) {
-			let q = bank.eq(these[i]).text().split('#')
+			let q = bank.eq(these[i]).text().split('|')
 			quizbody.append('<tr data-a="' + q[1] + '">'
 				+ '<td><input type="radio" id="y' + i + '" name="q' + i + '">'
 			  	+ '<label for="y' + i + '" title="True"></label></td>'
@@ -193,9 +247,9 @@ machinery = function () { // add quiz machinery...
 				+ '</tr>')
 			}
 	
-		$('#quiz').after('<p class="prompt"><button id="score" disabled onclick="score()">Score</button></p>'
-  		+ '<p class="prompt" id="report"></p>'
-  		+ '<p id="next"></p>')
+		$('#quiz').after('<p class="prompt machinery"><button id="score" disabled onclick="score()">Score</button></p>'
+  		+ '<p class="prompt machinery" id="report"></p>'
+  		+ '<p class="machinery" id="next"></p>')
 	
 	$('input').on('click', function () {
 		$('#score').attr('disabled', $('#quiz').hasClass('scored') || $('input:checked').length < qcount)
@@ -213,7 +267,6 @@ score = function () {
 		if (t == this.id.substr(0, 1)) ++correct, tr.className = 'right', a = '<i class="fa fa-star" title="Correct"></i>'
 		else ok = false, tr.className = 'wrong', a = opt[t == 'y'? 0 : 1] + '. '
 		tr.lastChild.lastChild.innerHTML = a + d.trim()
-		console.log('+++ ' + t)
 		})
 	$('input').attr('disabled', 'true')
 	$('#quiz').addClass('scored')
@@ -221,27 +274,30 @@ score = function () {
 	for (var i = 0, stars = ''; i < correct; ++i) stars += '<i class="fa fa-star"></i>'
 	$('#report').html(ok? stars + 'All correct. After reviewing your answers you can go to the next section.'
 	  : stars + ' ' + (correct == 0? 'None' : 'Only ' + correct) + ' correct, but you can review this section and try again.')
-	$('#next').append(ok? '<button onclick="nextpage()">Next Section</button>'
+	$('#next').append(ok? '<button onclick="showme(' + (Number(section) + 1) + ')">Next Section</button>'
 		: '<button onclick="reviewpage()">Review This Section</button>')
 	with ($('#next button').get(0)) focus(), scrollIntoView({behavior: "smooth", block: "start" })
 	++Persist[ok? "section" : "retry"]
 	Persist.save()
 	}
 
-showpage = function (p, show) {
-	$('h3.quizhead').nextUntil('h1').addBack().remove()
-	var h1 = $('#content h1').eq(p)
-	show? h1.show() : h1.hide()
-	show? h1.nextUntil('h1').not('.quiz').show() : h1.nextUntil('h1').hide()
-	}
-
-nextpage = function (s) {
-	showpage(section, false)
-	if ($.isNumeric(s)) section == s
-	else ++section
-	showpage(section, true)
+showme = function (s) { // show a section...
+	var h1
+	$('#content').hide()
+	if ($.isNumeric(section)) { // hide current section...
+		h1 = $('#content h1').eq(section)
+		h1.hide()
+		h1.nextUntil('h1').hide()
+		$('.machinery').remove()
+		}
+	section = s
+	Crumbs.show()
+	h1 = $('#content h1').eq(section)
+	h1.show()
+	h1.nextUntil('h1').not('.quiz').show()
 	machinery()
 	setTimeout(pagetop, 0)
+	setTimeout(function () {$('#content').show()}, 200)
 	}
 
 pagetop = function () {
@@ -254,9 +310,7 @@ reviewpage = function () {
 	$('h3.quizhead').nextUntil('h1').addBack().remove()
 	machinery()
 	pagetop()
-	//setTimeout(function () {location.reload()}, 0)
 	}
-
 	
 scrollfix = function () {
 	setTimeout(function () {
