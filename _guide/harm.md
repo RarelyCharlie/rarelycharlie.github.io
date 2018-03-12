@@ -1024,3 +1024,8 @@ Listeners must not think that reading a list on a website makes them trained to 
 # Conclusion
 
 You have now completed the guide.
+
+To review the guide, use the links across the top of each page. You do not have to answer the quizzes.
+
+To reset the guide and answer the quizzes again, click here: <a href='#' onclick="Persist.reset()">Reset</a>
+
