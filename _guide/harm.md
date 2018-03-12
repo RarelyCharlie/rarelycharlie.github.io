@@ -27,13 +27,12 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[Paraphilia](#paraphilia)
 -	[Domestic abuse](#domestic-abuse)
 
-# *Preface*
-*This document is the final draft version of an unofficial training guide for listeners about chats involving harm. It is not a self-help guide for members.*
-
 # Part I
 General information for all listeners.
 
-*This unofficial guide is by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).*
+This guide is an unofficial training guide for listeners about chats involving harm. It is not a self-help guide for members. If you are not a listener you can still read this guide, but becoming a listener first is recommended as a starting point.
+
+*This guide is by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).*
 
 *Parts of this guide describe good practice in the opinion of the author, but are not necessarily consistent with other guidance at 7 Cups.*
 
