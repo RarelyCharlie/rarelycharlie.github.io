@@ -1029,3 +1029,23 @@ To review the guide, use the links across the top of each page. You do not have 
 
 To reset the guide and answer the quizzes again, click here: <a href='#' onclick="Persist.reset()">Reset</a>
 
+### References
+
+Here are some links to further reading. Most of these links appear in the guide and are repeated here for convenience. A few additional links are not in the guide. Some of this material was originally intended for professionals.
+
+- 7 Cups mission: [Our Mission](https://www.7cups.com/forum/GlensNook_84/OurVisionforaBetterWorld_334/OurMission_18219/1/)
+- 7 Cups original values: [Our Key Values](https://web.archive.org/web/20170710164036/https://www.7cups.com/about/values.php) (archived)
+- Listener training: [Active Listening](https://www.7cups.com/listener/training/)
+- OCD: [Cognitive–behavioural therapy for obsessive–compulsive disorder](http://www.veale.co.uk/wp-content/uploads/2010/10/56-CBT-for-OCD-2007.pdf)
+- PTSD and BPD: [Post-traumatic stress disorder and attachment](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E101C751F384F7188DD2832C7D7E896E/S1355514600005629a.pdf/posttraumatic_stress_disorder_and_attachment_possible_links_with_borderline_personality_disorder.pdf)
+- TAF: [Thought-Action-Fusion](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbv057/2503366)
+- [Confabulation: A Guide for Mental Health Professionals](https://clinmedjournals.org/articles/ijnn/international-journal-of-neurology-and-neurotherapy-ijnn-4-070.pdf)
+- [What is confabulation?](https://mitpress.mit.edu/sites/default/files/titles/content/9780262582711_sch_0001.pdf)
+- [Depression: key facts](http://www.rcpsych.ac.uk/healthadvice/problemsanddisorders/depressionkeyfacts.aspx)
+- [Postnatal Depression](http://www.rcpsych.ac.uk/healthadvice/problemsanddisorders/postnataldepression.aspx)
+- [Psychosis: Information for young people](http://www.rcpsych.ac.uk/healthadvice/parentsandyoungpeople/youngpeople/psychosis.aspx)
+- [Personality Disorder: key facts](http://www.rcpsych.ac.uk/healthadvice/problemsanddisorders/personalitydisordersfacts.aspx)
+- Paraphilia and DSM-5: [Of Kinks, Crimes, and Kinds](https://www.thehastingscenter.org/of-kinks-crimes-and-kinds-the-paraphilias-proposal-for-the-dsm-5/)
+- Domestic abuse: [Identifying Risk Indicators](http://www.reducingtherisk.org.uk/cms/content/identifying-risk-indicators)
+{:.references}
+
