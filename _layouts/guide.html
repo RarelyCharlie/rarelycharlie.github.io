@@ -141,7 +141,7 @@ Crumbs = {
 					+ '"',
 				title = i <= active? '" title="' + txt + '"' : ''
 				c += '<div' + link + classes + title + '>'
-					+ (part? txt + ':' : '')
+					+ (part? ' ' + txt + ':' : '')
 					+ '</div>'
 			})
 		c += '</div></div>'
