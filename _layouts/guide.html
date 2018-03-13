@@ -289,17 +289,19 @@ score = function () {
 	}
 
 showme = function (s) { // show a section...
-	var h1
+	var h1s = $('#content h1'), h1 = null
 	$('#content').hide()
 	if ($.isNumeric(section)) { // hide current section...
-		h1 = $('#content h1').eq(section)
+		h1 = h1s.eq(section)
 		h1.hide()
 		h1.nextUntil('h1').hide()
 		$('.machinery').remove()
 		}
+	if (s === Infinity) s = h1s.length - 1 // for skip link
+	else if (s > h1s.length - 1) s = 0 // for possible overrun
 	section = s
 	Crumbs.show()
-	h1 = $('#content h1').eq(section)
+	h1 = h1s.eq(section)
 	h1.show()
 	h1.nextUntil('h1').not('.quiz').show()
 	machinery()
