@@ -661,6 +661,8 @@ Examples
 
 If you are aware that you might be upset by some of the subject matter here, proceed with caution.
 
+To skip to the end of the guide, where there are some links to further reading, click here: <a href="#" onclick="showme(Infinity)">Skip to Conclusion</a>
+
 This limited selection of scenarios is intended to illustrate some of the very wide range of circumstances in which chats can involve harm. Although many of their titles are also medical diagnoses, this does not imply that listeners can diagnose.
 
 # Depression
