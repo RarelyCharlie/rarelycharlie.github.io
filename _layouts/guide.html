@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	if (review) {
 		$('ul.quiz>li').each(function () {
 			var q = $(this)
-			q.text(q.text().replace(/\|\s.+/, ' (False)').replace(/\|.+/, ' (True)'))
+			q.text(q.text().replace(/#\s.+/, ' (False)').replace(/#.+/, ' (True)'))
 			})
 		$('#content>*').show()
 		}
