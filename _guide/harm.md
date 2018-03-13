@@ -659,7 +659,7 @@ Examples
 
 **Trigger warning**: This section of the guide describes fictional scenarios that may possibly involve harm. Some listeners might find some of these scenarios upsetting or triggering.
 
-If you are aware that you might be upset by some of the subject matter here, proceed with caution. You can skip any of these sections without completing a quiz.
+If you are aware that you might be upset by some of the subject matter here, proceed with caution.
 
 This limited selection of scenarios is intended to illustrate some of the very wide range of circumstances in which chats can involve harm. Although many of their titles are also medical diagnoses, this does not imply that listeners can diagnose.
 
