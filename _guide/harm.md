@@ -123,7 +123,7 @@ After the quiz, the next section is a reminder about caring for yourself.
 
 You should think about your personal boundaries, and make decisions in advance about the kinds of chats you are personally willing to take.
 
-![decoration](\assets\guide\decoe0.png){:.decor}
+![decoration](\assets\guide\decoe1.png){:.decor}
 
 You have to make these decisions in advance, as far as possible, because a chat that starts out being about one subject can very quickly change to some other subject. You will need to be able to take action to protect yourself immediately there's a change of subject that goes beyond your personal boundaries.
 
@@ -193,7 +193,7 @@ If any of these seem unfamiliar, take a few minutes right now to review the [Act
 
 ### Emotional support
 
-![decoration](\assets\guide\decoe0.png){:.decor}
+![decoration](\assets\guide\decoe2.png){:.decor}
 
 The way listeners at 7 Cups provide emotional support is through active listening, allowing people to feel heard. Emotional support has a particular focus on feelings. The goal is to allow people to express their feelings and to know that their feelings have been heard.
 
@@ -226,7 +226,7 @@ Part II of this guide looks at examples of several reasons members might talk ab
 
 ### Mental disorders
 
-![decoration](\assets\guide\decoe0.png){:.decor}
+![decoration](\assets\guide\decoe3.png){:.decor}
 
 Members who suffer from mental disorders are the first group. Mental disorders are, roughly speaking, disturbances in thinking, emotions and relationships that don't have an identifiable physical cause. An example is obsessive-compulsive disorder (OCD).
 
@@ -244,7 +244,7 @@ When members with neurological disorders talk about harm, the harm might not nec
 
 Members who are fantasizing or telling the truth are the third group. Fantasy and truth are grouped together here because in each case the member knows what is true and what is false, but the listener doesn't. These members do not have any relevant medical disorder affecting their thinking. Some of these members might mix fantasy and truth in the same chat.
 
-![decoration](\assets\guide\decoe0.png){:.decor}
+![decoration](\assets\guide\decoe4.png){:.decor}
 
 All of this means that no matter what the member's reason for talking about harm might be, a listener cannot rely on the harm being real. Equally, a listener cannot rely on the harm being false.
 
@@ -289,7 +289,7 @@ When a member describes significant distress because of TAF, a listener cannot g
 
 ### Listeners
 
-![decoration](\assets\guide\decoe0.png){:.decor}
+![decoration](\assets\guide\decoe5.png){:.decor}
 
 When listeners are affected by TAF, it can make them genuinely believe that a member who wants to talk about thoughts of harm is causing real harm, or is at risk of causing real harm.
 
@@ -466,7 +466,7 @@ At the same time, people who suffer from psychosis sometimes do cause harm, or a
 ### Personality disorders
 {:#personalityx}
 
-![decoration](\assets\guide\decoe0.png){:.decor}
+![decoration](\assets\guide\decoe6.png){:.decor}
 
 Personality disorders are effectively disorders of relationships. People who suffer from these disorders think and behave in unusual and ineffective or harmful ways towards other people. There is a wide range of personality disorders, and although current classifications do group them in categories, there isn't complete agreement on whether the categories are all that useful.
 
@@ -511,7 +511,7 @@ Sometimes, however, very outrageous fantasies are obviously fantasies. Sometimes
 
 Members' reasons for sharing fantasies are not usually clear. One reason might sometimes be loneliness and lack of self-worth, because they feel a fantasy about harm is sure to get attention but if they are just themselves no one would want to chat to them.
 
-![decoration](\assets\guide\decoe0.png){:.decor}
+![decoration](\assets\guide\decoe7.png){:.decor}
 
 Sometimes fantasies contain elements of truth. The situation might be that a member feels the truth difficult to talk about, so they talk about a fantasy first, and then mix in parts of the thing they really want to talk about. So at the start the chat can feel very uncomfortable because you feel you're just being told a fantasy, but if you stay with it sometimes you end up in a very real chat about something the member finds difficult.
 
@@ -547,7 +547,7 @@ The best way for this to happen is if they can search the Internet themselves fo
 
 Listeners at 7 Cups are not required to provide Internet search services to members, no matter what the circumstances are.
 
-![decoration](\assets\guide\decoe0.png){:.decor}
+![decoration](\assets\guide\decoe1.png){:.decor}
 
 Do not provide any external resource link to a member unless they have clearly indicated their need for it. In particular, do not provide a resource link based on something you yourself said to the member earlier in the chat, or something in your imagination.
 
