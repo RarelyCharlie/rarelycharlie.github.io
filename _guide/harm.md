@@ -648,19 +648,17 @@ Here is a checklist of seven things to do and seven things not to do:
 
 ### Issues
 
+![decoration](\assets\guide\decom7.png){:.decol}
+
 This guide attempts to give clear and consistent guidance about matters that are not always clearly or consistently explained elsewhere at 7 Cups. In particular, other guidance and advice to listeners may sometimes conflict with this guide:
 
 - Problem solving: Some listeners try to solve members' problems even though the listener training says not to.
-
 - Advice: Some listeners give advice on matters they feel they have expert knowledge about, perhaps disguising their advice as suggestions, options or explanations.
-
 - Suicide: Some listeners deny emotional support to members who have thoughts about suicide, even when they are just thoughts and not actions.
-
 - Negative judgments: Some listeners make negative judgments about members, or deny them emotional support, when members mention things that upset the listener.
-
 - Positive judgments: Some listeners make positive judgments about members, even when they might be causing harm to themselves or others (giving a "green light" to harm).
-
 - External referrals: Some listeners refer members to external resources or services (for example, to emergency services) based on the listener's personal judgment or diagnosis.
+{:style="clear:both;"}
 
 That's the end of Part I of this guide. After the quiz, there is an introduction to Part II.
 
