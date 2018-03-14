@@ -160,6 +160,8 @@ After a chat that oversteps your personal boundaries, consider chatting to a pee
 
 If a chat affects you emotionally, and this in turn affects your real-life relationships or your ability to live your life normally, do not hesitate to switch to your member account and chat with an experienced listener about what happened and how it affected you.
 
+![decoration](\assets\guide\decoe6.png){:.decor}
+
 If you have a therapist or someone else in the real world you rely on for emotional support, be open with them about the effect volunteering as a listener at 7 Cups has on you, but do not share any details of any chat.
 
 After the quiz, the next section is a reminder about active listening.
@@ -468,7 +470,7 @@ At the same time, people who suffer from psychosis sometimes do cause harm, or a
 ### Personality disorders
 {:#personalityx}
 
-![decoration](\assets\guide\decoe6.png){:.decor}
+![decoration](\assets\guide\decoe1.png){:.decor}
 
 Personality disorders are effectively disorders of relationships. People who suffer from these disorders think and behave in unusual and ineffective or harmful ways towards other people. There is a wide range of personality disorders, and although current classifications do group them in categories, there isn't complete agreement on whether the categories are all that useful.
 
