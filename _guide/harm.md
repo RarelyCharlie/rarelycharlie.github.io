@@ -16,7 +16,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 -	[Mental disorders and harm—II](#mental-disorders-and-harmii)
 -	[Fantasies and actual harm](#fantasies-and-actual-harm)
 -	[External resources](#external-resources)
--	[Do's and dont's](#dos-and-donts)
+-	[Do's, dont's and issues](#dos-donts-and-issues)
 	
 [PART II](#part-ii) — Examples (trigger warning)
 -	[Depression](#depression)
@@ -610,7 +610,7 @@ If you are a member of a professional body, the body might have a mandatory repo
 
 If you can establish beyond doubt, based on written evidence, that you are subject to a mandatory reporting requirement, tell 7 Cups by e-mail, from the address you used to sign up as a listener, to `community@7cups.com`.
 
-After the quiz, the next section is a checklist of do's and dont's.
+After the quiz, the next section contains a checklist of do's and dont's.
 
 - Mark each statement true or false:
 - The goal of active listening is to help members find the best sources of advice on the Internet.# The goal of active listening is to provide emotional support.
@@ -622,9 +622,9 @@ After the quiz, the next section is a checklist of do's and dont's.
 - All telephone helplines worldwide are required to be staffed by expert professionals.# Many telephone helplines are staffed by volunteers and trainee professionals.
 {:.quiz}
 
-# Do's and dont's
+# Do's, dont's and issues
 
-This section is a checklist of seven things to do and seven things not to do:
+Here is a checklist of seven things to do and seven things not to do:
 
 ### Do's
 
@@ -646,7 +646,23 @@ This section is a checklist of seven things to do and seven things not to do:
 - Don't refer members without their consent.
 - Don't share details of any chat with anyone for any reason.
 
-That's the end of Part I of this guide. After the quiz, Part II contains some detailed information that might be distressing or triggering for some listeners.
+### Issues
+
+This guide attempts to give clear and consistent guidance about matters that are not always clearly or consistently explained elsewhere at 7 Cups. In particular, other guidance and advice to listeners may sometimes conflict with this guide:
+
+- Problem solving: Some listeners try to solve members' problems even though the listener training says not to.
+
+- Advice: Some listeners give advice on matters they feel they have expert knowledge about, perhaps disguising their advice as suggestions, options or explanations.
+
+- Suicide: Some listeners deny emotional support to members who have thoughts about suicide, even when they are just thoughts and not actions.
+
+- Negative judgments: Some listeners make negative judgments about members, or deny them emotional support, when members mention things that upset the listener.
+
+- Positive judgments: Some listeners make positive judgments about members, even when they might be causing harm to themselves or others (giving a "green light" to harm).
+
+- External referrals: Some listeners refer members to external resources or services (for example, to emergency services) based on the listener's personal judgment or diagnosis.
+
+That's the end of Part I of this guide. After the quiz, there is an introduction to Part II.
 
 - Mark each statement true or false:
 - Listeners should learn to have confidence in their ability to distinguish facts from fantasies.# Listeners almost never have enough information to be able to distinguish facts from fantasies.
