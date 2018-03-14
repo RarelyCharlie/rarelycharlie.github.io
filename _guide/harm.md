@@ -650,7 +650,9 @@ Here is a checklist of seven things to do and seven things not to do:
 
 ![decoration](\assets\guide\decom7.png){:.decol}
 
-This guide attempts to give clear and consistent guidance about matters that are not always clearly or consistently explained elsewhere at 7 Cups. In particular, other guidance and advice to listeners may sometimes conflict with this guide:
+This guide attempts to give clear and consistent guidance about matters that are not always clearly or consistently explained elsewhere at 7 Cups.
+
+Other guidance and advice to listeners may sometimes conflict with this guide, and with each other. In particular, the following issues are not universally agreed:
 
 - Problem solving: Some listeners try to solve members' problems even though the listener training says not to.
 - Advice: Some listeners give advice on matters they feel they have expert knowledge about, perhaps disguising their advice as suggestions, options or explanations.
