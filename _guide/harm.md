@@ -271,6 +271,8 @@ After the quiz, the next section looks in detail about thoughts and actions, and
 
 Thought-action fusion (TAF) is a cognitive impairment (a thinking problem) that affects many people in the population, both members and listeners. It causes thoughts to be confused with reality to some degree or other.
 
+![decoration](\assets\guide\decom6.png){:.decol}
+
 For example, someone affected by TAF might believe thinking about a car crash before driving to work makes it more likely they will crash the car. Or they might believe mentioning the word cancer could make someone they care about more likely to develop cancer.
 
 Mostly, TAF is mild. When TAF causes significant distress it can easily be treated by a mental health professional.
