@@ -86,7 +86,7 @@ from [Our Key Values](https://web.archive.org/web/20170710164036/https://www.7cu
 
 ### Limitations
 
-However, 7 Cups imposes general limitations on the emotional support its listeners provide. If a member is actively harming themselves or someone else, you cannot continue the chat. You have no say in the matter. This is 7 Cups policy.
+However, 7 Cups imposes general limitations on the emotional support its listeners provide. If a member clearly says they are actively harming themselves or someone else, then it is generally felt at 7 Cups that you cannot continue the chat.
 
 ![decoration](\assets\guide\decom0.png){:.decol style="margin-bottom: 2em;"}
 
@@ -657,6 +657,7 @@ Other guidance and advice to listeners may sometimes conflict with this guide, a
 - Problem solving: Some listeners try to solve members' problems even though the listener training says not to.
 - Advice: Some listeners give advice on matters they feel they have expert knowledge about, perhaps disguising their advice as suggestions, options or explanations.
 - Suicide: Some listeners deny emotional support to members who have thoughts about suicide, even when they are just thoughts and not actions.
+- Active harm: Some listeners confuse thoughts about harm with active harm, and they might at times encourage other listeners to share the same confusion.
 - Negative judgments: Some listeners make negative judgments about members, or deny them emotional support, when members mention things that upset the listener.
 - Positive judgments: Some listeners make positive judgments about members, even when they might be causing harm to themselves or others (giving a "green light" to harm).
 - External referrals: Some listeners refer members to external resources or services (for example, to emergency services) based on the listener's personal judgment or diagnosis.
