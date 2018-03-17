@@ -1033,7 +1033,7 @@ Here's a summary of risk factors for domestic abuse, on a UK charity website: [I
 
 > The indicators...are research based and are known to be indicative of increased risk to the victim. They in themselves are not a measure of the likelihood of, or indeed the type of, violence that may be carried out.
 
-Listeners must not think that reading a list on a website makes them trained to assess potentially harmful situations. Listeners must always beware of making positive judgments, which could be mistaken a a "green light" for harmful behaviors. And listeners must always beware of making negative judgments, which could prevent a member from getting effective emotional support.
+Listeners must not think that reading a list on a website makes them trained to assess potentially harmful situations. Listeners must always beware of making positive judgments, which could be mistaken as a "green light" for harmful behaviors. And listeners must always beware of making negative judgments, which could prevent a member from getting effective emotional support.
 
 - Mark each statement true or false:
 - A listener can seek support from another listener after a difficult chat, as long as they do not share details of the chat.#Listeners should care for themselves by getting support from other listeners, but they must not share details of chats. 
