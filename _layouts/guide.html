@@ -234,7 +234,7 @@ machinery = function () { // add quiz machinery...
 		}
 	
 		// construct a quiz...
-		base.after('<h3 class="quizhead machinery">Quiz</h3><p class="prompt">' + quiz.children().first().text() + '</p>')
+		base.after('<h3 class="quizhead machinery">Quiz</h3><p class="prompt machinery">' + quiz.children().first().text() + '</p>')
 		
 		h1.nextUntil('h1').last().after('<table class="machinery" id="quiz">'
 			+ '<tbody><tr><th>True</th><th>False</th><th></th></tr></tbody>'
