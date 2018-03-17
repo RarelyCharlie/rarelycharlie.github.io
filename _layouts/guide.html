@@ -176,11 +176,11 @@ Persist = {
 			this.save()
 			}
 		},
-	reset: function () {
+	reset: function (quiet) {
 		++this.retry
 		this.section = 0
 		this.save()
-		location.reload()
+		if (!quiet) location.reload()
 		},
 	save: function () {
 		localStorage.setItem('rc_harm', JSON.stringify([this.retry, this.r | this.section << 9]))
@@ -192,9 +192,10 @@ const qcount = 4 // show this many questions in each quiz
 
 document.addEventListener('DOMContentLoaded', function () {
 	Persist.init()
+	if (location.search == '?reset') Persist.reset(true)
 	Crumbs.init()
 	
-	review = location.hash == '#reviewall'
+	review = location.search == '?galley'
 	if (review) {
 		$('ul.quiz>li').each(function () {
 			var q = $(this)
