@@ -218,7 +218,8 @@ machinery = function () { // add quiz machinery...
 
 	if (section < Persist.section) { // reviewing, no quiz...
 		if (quiz.length) {
-			base.after('<p class="reviewing machinery"><em>You have already completed this quiz.</em></p>')
+			base.after('<p class="reviewing machinery"><em>You have already completed this quiz.</em></p>'
+			  + '<button class="machinery" onclick="showme(' + (Number(section) + 1) + ')">Next Section</button>')
 			quiz.remove()
 			}
 		return
