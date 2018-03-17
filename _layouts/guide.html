@@ -217,9 +217,9 @@ machinery = function () { // add quiz machinery...
 		quiz = h1.nextUntil('h1', 'ul.quiz')
 
 	if (section < Persist.section) { // reviewing, no quiz...
+		base.after('<button class="machinery" onclick="showme(' + (Number(section) + 1) + ')">Next Section</button>')
 		if (quiz.length) {
-			base.after('<p class="reviewing machinery"><em>You have already completed this quiz.</em></p>'
-			  + '<button class="machinery" onclick="showme(' + (Number(section) + 1) + ')">Next Section</button>')
+			base.after('<p class="reviewing machinery"><em>You have already completed this quiz.</em></p>')
 			quiz.remove()
 			}
 		return
@@ -234,32 +234,32 @@ machinery = function () { // add quiz machinery...
 		return
 		}
 	
-		// construct a quiz...
-		base.after('<h3 class="quizhead machinery">Quiz</h3><p class="prompt machinery">' + quiz.children().first().text() + '</p>')
+	// construct a quiz...
+	base.after('<h3 class="quizhead machinery">Quiz</h3><p class="prompt machinery">' + quiz.children().first().text() + '</p>')
 		
-		h1.nextUntil('h1').last().after('<table class="machinery" id="quiz">'
-			+ '<tbody><tr><th>True</th><th>False</th><th></th></tr></tbody>'
-			+ '</table>')
-		var quizbody = $('#quiz>tbody')
-		var bank = quiz.children()
-		var these = []
-		for (let i = 1; i < bank.length; ++i) these.push(i)
-		Math.seedrandom('rc_' + Persist.retry)
-		these.sort(() => Math.random() > .5? 1 : -1)
-		for (let i = 0; i < qcount; ++i) {
-			let q = bank.eq(these[i]).text().split('#')
-			quizbody.append('<tr data-a="' + q[1] + '">'
-				+ '<td><input type="radio" id="y' + i + '" name="q' + i + '">'
-			  	+ '<label for="y' + i + '" title="True"></label></td>'
-				+ '<td><input type="radio" id="n' + i + '" name="q' + i + '">'
-			  	+ '<label for="n' + i + '" title="False"></label></td>'
-				+ '<td>' + q[0] + '<br/><span class="explain">&nbsp;</span></td>'
-				+ '</tr>')
-			}
+	h1.nextUntil('h1').last().after('<table class="machinery" id="quiz">'
+		+ '<tbody><tr><th>True</th><th>False</th><th></th></tr></tbody>'
+		+ '</table>')
+	var quizbody = $('#quiz>tbody')
+	var bank = quiz.children()
+	var these = []
+	for (let i = 1; i < bank.length; ++i) these.push(i)
+	Math.seedrandom('rc_' + Persist.retry)
+	these.sort(() => Math.random() > .5? 1 : -1)
+	for (let i = 0; i < qcount; ++i) {
+		let q = bank.eq(these[i]).text().split('#')
+		quizbody.append('<tr data-a="' + q[1] + '">'
+		  + '<td><input type="radio" id="y' + i + '" name="q' + i + '">'
+		  + '<label for="y' + i + '" title="True"></label></td>'
+		  + '<td><input type="radio" id="n' + i + '" name="q' + i + '">'
+		  + '<label for="n' + i + '" title="False"></label></td>'
+		  + '<td>' + q[0] + '<br/><span class="explain">&nbsp;</span></td>'
+		  + '</tr>')
+		}
 	
-		$('#quiz').after('<p class="prompt machinery"><button id="score" disabled onclick="score()">Score</button></p>'
-  		+ '<p class="prompt machinery" id="report"></p>'
-  		+ '<p class="machinery" id="next"></p>')
+	$('#quiz').after('<p class="prompt machinery"><button id="score" disabled onclick="score()">Score</button></p>'
+  	  + '<p class="prompt machinery" id="report"></p>'
+  	  + '<p class="machinery" id="next"></p>')
 	
 	$('input').on('click', function () {
 		$('#score').attr('disabled', $('#quiz').hasClass('scored') || $('input:checked').length < qcount)
