@@ -316,7 +316,7 @@ Do not give members advice in this way, especially when it is based on your own 
 
 If you are aware that you experience TAF to some extent, take particular care to distinguish carefully between your own thoughts and reality that can be verified.
 
-After the quiz, the next section looks at some unintended consequences that can occur when member have memory impairments.
+After the quiz, the next section looks at some unintended consequences that can occur when members have memory impairments.
 
 - Mark each statement true or false:
 - Thought-action fusion is a rare form of mental illness that makes thoughts seem like actions.# Thought-action fusion is not a mental illness, and it is common.
