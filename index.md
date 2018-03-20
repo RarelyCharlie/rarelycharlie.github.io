@@ -21,8 +21,13 @@ A training course for new listeners is available as a draft version.
 ## [Chats](/chat/ 'Go to the index of chats')
 Fictional chats that illustrate some things about active listening.
 
-## [How-to guides](/howto/ 'Go to the index of guides')
-A collection of how-to guides is currently in development but not available yet.
+## [Guides](/guide/ 'Go to the index of general guides')
+General guides.
+
+## [How-to guides](/howto/ 'Go to the index of how-to guides')
+Guides that tell you how to do specific things.
+
+{% comment %}
 
 ## Site and app index
 An alphabetical index of the 7 Cups website and app is planned for the future.
@@ -32,3 +37,5 @@ Training modules to help 7 Cups users learn skills are planned, but work on them
 
 ## Chatbot
 A robot that answers your questions about 7 Cups is planned, but work on it has not started yet.
+
+{% endcomment %}
