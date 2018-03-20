@@ -8,8 +8,7 @@ layout: default
   #content h2 {color: gray;}
 </style>
 *The 8th Cup* is an unofficial companion to [7 Cups](https://www.7cups.com/), providing
-7 Cups users with information and help. It is currently under development. Only the 
-glossary is complete.
+7 Cups users with information and help. It is constantly under development.
 
 ## [Glossary](/glossary 'Go to the glossary')
 The glossary explains the terminology used at 7 Cups. You can search this list of terms
