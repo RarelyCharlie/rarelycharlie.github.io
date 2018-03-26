@@ -668,11 +668,11 @@ That's the end of Part I of this guide. After the quiz, there is an introduction
 - Mark each statement true or false:
 - Listeners should learn to have confidence in their ability to distinguish facts from fantasies.# Listeners almost never have enough information to be able to distinguish facts from fantasies.
 - Listeners should establish their boundaries in advance, as far as possible.#Establishing boundaries in advance helps listeners to respond quickly when a boundary is crossed.
-- Listeners should learn how to diagnose common medical disorders, because members from around the world may not always have access to healthcare.# Listener should not try to diagnose.
+- Listeners should learn how to diagnose common medical disorders, because members from around the world may not always have access to healthcare.# Listeners should not try to diagnose.
 - Listeners should reflect members' feelings accurately, because members need to feel heard.#The purpose of active listening is allowing members to feel heard.
 - Listeners should distinguish accurately between thoughts and actions.#Confusing thoughts with actions can be misleading, especially when they are thoughts about harm.
 - Listeners should always give clear advice to members who talk about harm to themselves or other people.# Listeners should not give advice.
-- Listeners should always interpret members' feelings in a positive way so that members avoid thinking about harm.# Listeners should reflect members' feeling accurately, without judging whether they are positive or negative.
+- Listeners should always interpret members' feelings in a positive way so that members avoid thinking about harm.# Listeners should reflect members' feelings accurately, without judging whether they are positive or negative.
 {:.quiz}
 
 # Part II
@@ -771,7 +771,7 @@ Note that the paper is written for professionals and is included here only for i
 - People who are diagnosed with OCD cannot stop themselves compulsively causing harm to others.# OCD makes people compulsively avoid causing harm.
 - Listeners should encourage members to tell them the facts and avoid talking about their feelings, because feelings can be harmful.# Listeners should encourage members to talk about their feelings, because 7 Cups is for emotional support.
 - Intrusive sexual thoughts are a common obsession in people who suffer from OCD.#They are one of several common obsessions.
-- Listeners must not try to provide psychotherapy for OCD.#Listeners provide active listening, not any kind of counselling or therapy.
+- Listeners must not try to provide psychotherapy for OCD.#Listeners provide active listening, not any kind of counseling or therapy.
 - When a member confuses thoughts about risk with actual risk, causing the member terrible distress, the member might have OCD.#OCD does cause distress in this way, although listeners cannot diagnose.
 - Members who experience OCD might be unaware that the thoughts and behaviors that trouble them are caused by OCD.#People with mental disorders are sometimes unaware they have any disorder.
 {:.quiz}
@@ -914,7 +914,7 @@ A member has been chatting about her eating disorder:
 |Member:|24 seems about right.
 |Listener:|I have to end this chat now.
 ||*Ends the chat*
-||*<i class="fa fa-comments-o"></i>  Select a conversation.*{:.ended}
+||*<i class="fa fa-comments-o"></i>  Select a Conversation.*{:.ended}
 {:.chat}
 
 **Thursday, 9 p.m.**
@@ -1048,7 +1048,7 @@ Listeners must not think that reading a list on a website makes them trained to 
 
 You have now completed the guide.
 
-To review the guide, use the links across the top of each page. You do not have to answer the quizzes.
+To review the guide, use the links across the top of each page. You do not have to answer the quizzes again.
 
 To reset the guide and answer the quizzes again, click here: <a href='#' onclick="Persist.reset()">Reset</a>
 
