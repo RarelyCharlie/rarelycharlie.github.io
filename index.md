@@ -15,16 +15,19 @@ The glossary explains the terminology used at 7 Cups. You can search this list o
 to find out what they all mean.
 
 ## [Listener training](/listen/ 'Go to the listener training')
-A training course for new listeners is available as a draft version.
+A alternative training course for new listeners is available as a draft version.
 
 ## [Chats](/chat/ 'Go to the index of chats')
-Fictional chats that illustrate some things about active listening.
+Some fictional chats that illustrate some things about active listening.
 
 ## [Guides](/guide/ 'Go to the index of general guides')
-General guides.
+Some general guides.
 
 ## [How-to guides](/howto/ 'Go to the index of how-to guides')
-Guides that tell you how to do specific things.
+Some guides that tell you how to do specific things.
+
+## [Cuddles](/cuddle 'Go to Burt's Cuddle Button')
+Wise old bear Burt provides cuddles that you can send to anyone at 7 Cups.
 
 {% comment %}
 
