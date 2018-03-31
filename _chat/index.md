@@ -16,3 +16,6 @@ The chats are designed to illustrate some aspects of active listening. Not all a
 
 {{ chat.info }}
 {% endif %}{% endfor %}
+
+## [Boris](http://philome.la/RarelyCharlie/a-chat-with-boris/play 'A Chat with Boris')
+Boris is a feeble listener bot that you can chat to. But when you chat to Boris, he ignores everything you say.
