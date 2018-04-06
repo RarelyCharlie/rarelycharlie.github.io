@@ -25,7 +25,7 @@ The app provides a reduced set of features compared to the website, with the exc
 
 7 Cups is available worldwide, and communication within 7 Cups can be in any of the world's written languages, regardless of the user interface language. Even so, most communication within 7 Cups is in English.
 
-![7 Cups logo](/assets/guide/countries.png){: style="height: 255px; width: 593px; display: block; margin: 1em auto 0 auto;"}
+![Countries](/assets/guide/countries.png){: style="height: 255px; width: 593px; display: block; margin: 1em auto 0 auto;"}
 
 16,348 unique visitors daily, according to siteprice.org in March 2018
 {: style="text-align: center; margin-top: 0; font-size: 80%;"}
@@ -91,7 +91,7 @@ People using guest accounts have limited access to 7 Cups. In order to benefit m
 
 A guest account is shown within 7 Cups as a square icon with sharp corners and a two-letter abbreviation of the name in it. The color of the icon is determined by the first letter of the name. For example, the guest @carefulPear7220 has the icon:
 
-![7 Cups logo](/assets/guide/guest icon.png){: style="height: 38px; width: 38px; display: block; margin: 1em auto 0 auto;"}
+![Guest icon](/assets/guide/guest icon.png){: style="height: 38px; width: 38px; display: block; margin: 1em auto 0 auto;"}
 
 Guest icon
 {: style="text-align: center; margin-top: 0; font-size: 80%;"}
@@ -106,7 +106,7 @@ Members have more access than guests to the support available, although some fea
 
 A member account is shown within 7 Cups as a square icon with rounded corners. Members can use a custom name and icon, but some members keep the name and icon they originally had as guests.
 
-![7 Cups logo](/assets/guide/member icon.png){: style="height: 38px; width: 38px; display: block; margin: 1em auto 0 auto;"}
+![Member icon](/assets/guide/member icon.png){: style="height: 38px; width: 38px; display: block; margin: 1em auto 0 auto;"}
 
 Member icon
 {: style="text-align: center; margin-top: 0; font-size: 80%;"}
@@ -130,7 +130,7 @@ Listeners' profiles are also public, and 7 Cups provides a way to search them at
 
 A listener account is shown within 7 Cups as a round icon. For example:
 
-![7 Cups logo](/assets/guide/listener icon.png){: style="height: 38px; width: 38px; display: block; margin: 1em auto 0 auto;"}
+![Listener icon](/assets/guide/listener icon.png){: style="height: 38px; width: 38px; display: block; margin: 1em auto 0 auto;"}
 
 Listener icon
 {: style="text-align: center; margin-top: 0; font-size: 80%;"}
@@ -169,7 +169,7 @@ A team of "social soldiers" also publicizes 7 Cups on social media.
 
 On visiting the main page of the website, or on starting the app, a process of "onboarding" encourages a new user to sign up as a member and to specify the issue they need support with.
 
-![7 Cups logo](/assets/guide/onboarding.png){: style="height: 160px; width: 275px; display: block; margin: 1em auto 0 auto;"}
+![Onboarding](/assets/guide/onboarding.png){: style="height: 160px; width: 275px; display: block; margin: 1em auto 0 auto;"}
 
 Onboarding front page
 {: style="text-align: center; margin-top: 0; font-size: 80%;"}
@@ -226,7 +226,7 @@ To help manage behavior that violates the guidelines, there is a points system, 
 
 Members and listeners are offered sequences of activities known as growth paths. Each activity is rewarded with a point known as a growth point or step. Members' and listeners' paths contain somewhat different activities.
 
-![7 Cups logo](/assets/guide/path.png){: style="height: 200px; width: 216px; display: block; margin: 1em auto 0 auto;"}
+![Growth path](/assets/guide/path.png){: style="height: 200px; width: 216px; display: block; margin: 1em auto 0 auto;"}
 
 The start of a growth path
 {: style="text-align: center; margin-top: 0; font-size: 80%;"}
@@ -365,7 +365,7 @@ Some listeners specialize in long term support and refer to the members they are
 
 Noni is a bot that greets guests and members when they have requested a listener and are waiting in the general request queue. Noni also chats to members and listeners at any time they wish.
 
-![7 Cups logo](https://www.7cups.com/cloudfront/img/noniCup.jpg){: style="height: 125px; width: 125px; display: block; margin: 0 auto 1em auto; border-radius: 62.5px;"}
+![Noni](https://www.7cups.com/cloudfront/img/noniCup.jpg){: style="height: 125px; width: 125px; display: block; margin: 0 auto 1em auto; border-radius: 62.5px;"}
 
 Noni, a bot
 {: style="width: 125px; text-align: center; margin-top: 0; font-size: 80%;"}
@@ -374,7 +374,7 @@ In the general request queue, Noni has a script that obtains some information ab
 
 Sophia is a bot that greets members who choose to sign up for paid therapy. Sophia follows an inflexible script to obtain the necessary information from the member.
 
-![7 Cups logo](https://www.7cups.com/cloudfront/img/sophiaProfile.jpg){: style="height: 125px; width: 125px; display: block; margin: 0 auto 1em auto; border-radius: 62.5px;"}
+![Sophia](https://www.7cups.com/cloudfront/img/sophiaProfile.jpg){: style="height: 125px; width: 125px; display: block; margin: 0 auto 1em auto; border-radius: 62.5px;"}
 
 Sophia, a bot
 {: style="width: 125px; text-align: center; margin-top: 0; font-size: 80%;"}
