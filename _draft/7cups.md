@@ -91,6 +91,11 @@ People using guest accounts have limited access to 7 Cups. In order to benefit m
 
 A guest account is shown within 7 Cups as a square icon with sharp corners and a two-letter abbreviation in it. The color of the icon is determined by the first letter of the name. For example, the guest @carefulPear7220 has the icon: [ICON]
 
+![7 Cups logo](/assets/guide/guest icon.png){: style="height: 38px; width: 38px; display: block; margin: 1em auto 0 auto;"}
+
+Guest icon
+{: style="text-align: center; margin-top: 0; font-size: 80%;"}
+
 ### Members
 
 Any guest can sign up to convert their account to a member account, which has a password and a profile. The password means the account can be used from more than one device.
@@ -99,7 +104,7 @@ A member's profile is public. It can be seen by anyone who visits 7cups.com/@Som
 
 Members have more access than guests to the support available, although some features are further restricted to members with certain status.
 
-A member account is shown within 7 Cups as a square icon with rounded corners. Members can use a custom name and icon, although some members keep the name and icon they originally had as guests. For example, a member icon might look like: [ICON]
+A member account is shown within 7 Cups as a square icon with rounded corners. Members can use a custom name and icon, although some members keep the name and icon they originally had as guests.[ICON]
 
 Each member's profile contains:
 - Information about their activity and reputation on 7 Cups
@@ -199,10 +204,6 @@ Members and listeners can write confidential notes within the 7 Cups system, and
 Community guidelines provide everyone who uses 7 Cups with rules for good behavior on the site. Read them here: [Community Guidelines](https://www.7cups.com/about/communityGuidelines.php)
 
 To help manage behavior that violates the guidelines, there is a points system, and within the chatrooms there is another system that tracks warnings given by moderators.
-
-
-
-
 
 # Self-help
 
