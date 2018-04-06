@@ -157,7 +157,7 @@ Members and listeners also earn badges that represent various achievements. Ther
 
 For more information, see:  [Listener Reputation](https://www.7cups.com/about/faqBadgesCheers.php) and [Member Reputation](https://www.7cups.com/about/memberReputation.php)
 
-# Onboarding, age ranges and agreements
+# Onboarding and agreements
 
 Incoming referrals to 7 Cups come from a variety of sources. Members and listeners are encouraged to provide referral links on social media and elsewhere.
 
