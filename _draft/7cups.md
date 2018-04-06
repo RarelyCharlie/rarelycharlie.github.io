@@ -200,7 +200,7 @@ At the time of writing this guide (April 2018) the agreements are out of date an
 
 ### Privacy policy
 
-A privacy policy, separate from the agreements, also covers use of 7 Cups.
+A [privacy policy](https://www.7cups.com/privacy.php), separate from the agreements, also covers use of 7 Cups.
 
 7 Cups generally describes the service as "anonymous" but it uses this term in an odd way to mean that you have a name on 7 Cups but it's probably not your real name.
 
