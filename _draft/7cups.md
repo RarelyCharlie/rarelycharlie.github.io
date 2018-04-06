@@ -365,7 +365,7 @@ Some listeners specialize in long term support and refer to the members they are
 
 Noni is a bot that greets guests and members when they have requested a listener and are waiting in the general request queue. Noni also chats to members and listeners at any time they wish.
 
-![7 Cups logo](https://www.7cups.com/cloudfront/img/Noni.jpg){: style="height: 125px; width: 125px; display: block; margin: 0 auto 1em auto; border-radius: 62.5px;"}
+![7 Cups logo](https://www.7cups.com/cloudfront/img/noniCup.jpg){: style="height: 125px; width: 125px; display: block; margin: 0 auto 1em auto; border-radius: 62.5px;"}
 
 Noni, a bot
 {: style="width: 125px; text-align: center; margin-top: 0; font-size: 80%;"}
