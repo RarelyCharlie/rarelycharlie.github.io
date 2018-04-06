@@ -66,9 +66,13 @@ The websites, and probably the app, contain trackers originating from a number o
 
 ### Mission
 
-7 Cups’ original mission is explained by its founder, Glen Moriarty, in a forum post from ???? ????:
+7 Cups’ original mission is explained by its founder, Glen Moriarty, in a [forum post](https://www.7cups.com/forum/GlensNook_84/OurVisionforaBetterWorld_334/OurMission_18219/1/) from February 2015:
 
-[QUOTE MISSION HERE]
+<blockquote style="margin: 0 2em; border-left: 2px solid #7bf; padding-left: 1ex;">
+7 Cups of Tea is for anyone who wants to live in a world where the human experience is free from stigma and stereotypes and rich with love and support. A world where all 7 billion of us can grow and feel like we truly belong.
+
+We believe that each one of us is inherently valuable. We do not measure people based on where they are from, what they look like, or what position they hold. We recognize that people make sense in the larger story of their lives. We understand that people are complicated and that life is not simple or easy.
+</blockquote>
 
 Another take on the mission is described in this video (under 2 minutes):
 
