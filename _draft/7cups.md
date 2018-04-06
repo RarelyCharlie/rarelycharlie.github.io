@@ -7,6 +7,7 @@ class: index
 # Introduction
 
 ![7 Cups logo](/assets/guide/7cups.png)
+{: style="height: 135px; width: 115px;"}
 
 This is a guide to 7 Cups written for therapists, although anyone can read it.
 
