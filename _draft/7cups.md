@@ -293,7 +293,7 @@ Chatrooms are sometimes like drop-in centers, but sometimes they run structured 
 
 Many chatrooms are associated with subcommunities.
 
-The conversations that take place in chatrooms are sometimes leaderless, and sometimes formally led. Sometimes they are about serious subject, and sometimes they are social events or games.
+The conversations that take place in chatrooms are sometimes leaderless, and sometimes formally led. Sometimes they are about serious subjects, and sometimes they are social events or games.
 
 Formally led sessions in a chatroom are known as discussions or support sessions.
 
