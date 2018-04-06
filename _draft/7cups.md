@@ -321,9 +321,7 @@ To progress to higher and higher roles in the hierarchy, members and listeners s
 
 The people currently in these various roles are listed at [Our Team](https://www.7cups.com/about/ourteam.php).
 
-A variety of collaborative projects are ongoing in the community at any time. They mostly involve listeners, but sometimes they can also involve members.
-
-
+A variety of collaborative projects are ongoing in the community at any time. They mostly involve listeners, but sometimes they can also involve members. For example, the development of the [wiki](https://www.7cups.com/wiki/) as an information repository involves members and listeners (and possibly some therapists, too).
 
 # Individual support
 
