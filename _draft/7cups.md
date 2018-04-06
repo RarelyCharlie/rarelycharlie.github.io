@@ -54,11 +54,11 @@ For scheduling purposes 7 Cups time is defined as US Eastern Time. All users are
 
 7 Cups began in around 2013 as a telephone service for people seeking anonymous emotional support. When text chat was added soon afterwards, the text chat proved more popular and it was much cheaper to operate, so the telephone system was dropped.
 
-The company was initially funded by venture capital through the Silicon Valley organization [Y Combinator](http://www.ycombinator.com) in their Summer 2013 batch of startups. By January 2017 it had grown to the point where its business model had become self-sustaining.
+The company was initially funded by venture capital through the Silicon Valley organization [Y Combinator](http://www.ycombinator.com) in their Summer 2013 batch of startups.
 
 The original support model was that certain people, designated as listeners, provided the support. Listeners could be volunteers, or they could be paid by the members they supported. The model has changed considerably since then.
 
-Payments to listeners were dropped, and for a while the service relied on donations. Donations still form part of the income stream and are known as the Compassion Campaign. Paid therapy was added to the model in 2016 ???
+Payments to listeners were dropped, and for a while the service relied on donations. Donations still form part of the income stream and are known as the Compassion Campaign. Paid therapy was added to the model in early 2016, and by January 2017 the business had grown to the point where its business model had become self-sustaining.
 
 There has never been any explicit advertising within 7 Cups, except for 7 Cups' own sources of income—donations and paid therapy.
 
