@@ -194,9 +194,9 @@ There is a category of listeners who are aged 35 or over, but it has no great si
 	
 ### Agreements
 
-Guests and members are required to agree to the member agreement before interacting with other people at 7 Cups. Listeners are required to agree to the listener agreement. These agreements are also known as terms of service (ToS), terms of use, and other variations.
+Guests and members are required to agree to the [member agreement](https://www.7cups.com/inc/memberTOS.html) before interacting with other people at 7 Cups. Listeners are required to agree to the [listener agreement](https://www.7cups.com/listenerAgreement.php). These agreements are also known as terms of service (ToS), terms of use, and other variants.
 
-At the time of writing this guide (April 2018) the agreements are out of date and very misleading.
+At the time of writing this guide (April 2018) the agreements are out of date and in some ways very misleading.
 
 ### Privacy policy
 
