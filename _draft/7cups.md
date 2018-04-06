@@ -401,7 +401,7 @@ The headline level that a listener has, perhaps something like  Apprentice 7, in
 
 The Verified Listener badge is a key indicator of listener quality. Listeners who have this badge get a big purple check mark at the top of their profile. However, the badge has to be applied for and only a minority of eligible listeners choose to become verified.
 
-![Verified](/assets/guide/verified.png){: style="height: 126px; width: 390px; display: block; margin: 0 auto 1em auto; border-radius: 62.5px;"}
+![Verified](/assets/guide/verified.png){: style="height: 126px; width: 390px; display: block; margin: 0 auto 1em auto;"}
 
 Verified listener
 {: style="text-align: center; margin-top: 0; font-size: 80%;"}
