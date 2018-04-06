@@ -161,7 +161,7 @@ For more information, see:  [Listener Reputation](https://www.7cups.com/about/fa
 
 Incoming referrals to 7 Cups come from a variety of sources. Members and listeners are encouraged to provide referral links on social media and elsewhere.
 
-A referral link contains a reference number that secretly credits the owner of the link. All referral links link directly to the front page at 7cups.com so the the person who clicks the link cannot tell who, within 7 Cups, owns the link. This helps to keep members' and listeners' onsite and offsite identities separate.
+A referral link contains a reference number that secretly credits the owner of the link. All referral links link directly to the front page at 7cups.com so the person who clicks the link cannot tell who, within 7 Cups, owns the link. This helps to keep members' and listeners' onsite and offsite identities separate.
 
 A team of "social soldiers" also publicizes 7 Cups on social media.
 
