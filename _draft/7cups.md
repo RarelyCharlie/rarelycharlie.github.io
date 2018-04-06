@@ -89,7 +89,7 @@ The guest account persists on the device unless the user takes steps to clear it
 
 People using guest accounts have limited access to 7 Cups. In order to benefit more fully from 7 Cups, a member account is needed.
 
-A guest account is shown within 7 Cups as a square icon with sharp corners and a two-letter abbreviation in it. The color of the icon is determined by the first letter of the name. For example, the guest @carefulPear7220 has the icon: [ICON]
+A guest account is shown within 7 Cups as a square icon with sharp corners and a two-letter abbreviation of the name in it. The color of the icon is determined by the first letter of the name. For example, the guest @carefulPear7220 has the icon:
 
 ![7 Cups logo](/assets/guide/guest icon.png){: style="height: 38px; width: 38px; display: block; margin: 1em auto 0 auto;"}
 
@@ -104,7 +104,12 @@ A member's profile is public. It can be seen by anyone who visits 7cups.com/@Som
 
 Members have more access than guests to the support available, although some features are further restricted to members with certain status.
 
-A member account is shown within 7 Cups as a square icon with rounded corners. Members can use a custom name and icon, although some members keep the name and icon they originally had as guests.[ICON]
+A member account is shown within 7 Cups as a square icon with rounded corners. Members can use a custom name and icon, but some members keep the name and icon they originally had as guests.
+
+![7 Cups logo](/assets/guide/member icon.png){: style="height: 38px; width: 38px; display: block; margin: 1em auto 0 auto;"}
+
+Member icon
+{: style="text-align: center; margin-top: 0; font-size: 80%;"}
 
 Each member's profile contains:
 - Information about their activity and reputation on 7 Cups
@@ -123,7 +128,12 @@ Listeners are intended to provide support to members. They also support each oth
 
 Listeners' profiles are also public, and 7 Cups provides a way to search them at 7cups.com/BrowseListeners.php. Listeners' profiles contain similar information to members' profiles, although the details are different.
 
-A listener account is shown within 7 Cups as a round icon. For example: [ICON]
+A listener account is shown within 7 Cups as a round icon. For example:
+
+![7 Cups logo](/assets/guide/listener icon.png){: style="height: 38px; width: 38px; display: block; margin: 1em auto 0 auto;"}
+
+Listener icon
+{: style="text-align: center; margin-top: 0; font-size: 80%;"}
 
 ### Therapists
 
