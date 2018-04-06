@@ -25,7 +25,7 @@ The app provides a reduced set of features compared to the website, with the exc
 
 7 Cups is available worldwide, and communication within 7 Cups can be in any of the world's written languages, regardless of the user interface language. Even so, most communication within 7 Cups is in English.
 
-![7 Cups logo](/assets/guide/countries.png){: style="height: 127.5px; width: 296.5px; display: block; margin: 1em auto 0 auto;"}
+![7 Cups logo](/assets/guide/countries.png){: style="height: 255px; width: 593px; display: block; margin: 1em auto 0 auto;"}
 
 16,348 unique visitors daily, according to siteprice.org in March 2018
 {: style="text-align: center; margin-top: 0; font-size: 80%;"}
