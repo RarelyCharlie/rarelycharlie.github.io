@@ -52,9 +52,9 @@ For scheduling purposes 7 Cups time is defined as US Eastern Time. All users are
 
 ### History and business model
 
-7 Cups began in 2013 ??? as a telephone service for people seeking anonymous emotional support. When text chat was added soon afterwards, the text chat proved more popular and it was much cheaper to operate, so the telephone system was dropped.
+7 Cups began in around 2013 as a telephone service for people seeking anonymous emotional support. When text chat was added soon afterwards, the text chat proved more popular and it was much cheaper to operate, so the telephone system was dropped.
 
-The company was initially funded by venture capital through the Silicon Valley organization Y Combinator. By 2016 ??? 7 Cups had grown to the point where its business model had become self-sustaining.
+The company was initially funded by venture capital through the Silicon Valley organization [Y Combinator](http://www.ycombinator.com) in their Summer 2013 batch of startups. By 2016 ??? 7 Cups had grown to the point where its business model had become self-sustaining.
 
 The original support model was that certain people, designated as listeners, provided the support. Listeners could be volunteers, or they could be paid by the members they supported. The model has changed considerably since then.
 
@@ -73,13 +73,6 @@ The websites, and probably the app, contain trackers originating from a number o
 Another take on the mission is described in this video (under 2 minutes):
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/0RVw5nvDG18?t=5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
-
-
-
-
-
 
 # The four types of account
 
