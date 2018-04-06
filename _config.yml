@@ -13,3 +13,7 @@ collections:
   guide:
     layout: guide
     output: true
+  draft:
+    layout: default
+    output: true
+    
