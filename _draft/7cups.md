@@ -371,10 +371,10 @@ In the general request queue, Noni has a script that obtains some information ab
 
 Sophia is a bot that greets members who choose to sign up for paid therapy. Sophia follows an inflexible script to obtain the necessary information from the member.
 
-![7 Cups logo](https://www.7cups.com/cloudfront/img/sophiaProfile.jpg){: style="height: 125px; width: 125px; display: block; margin: 1em auto 0 auto; border-radius: 62.5px;"}
+![7 Cups logo](https://www.7cups.com/cloudfront/img/sophiaProfile.jpg){: style="height: 125px; width: 125px; display: block; margin: 1em 1em 0 0; border-radius: 62.5px; float: left;"}
 
-Sopia, a bot
-{: style="text-align: center; margin-top: 0; font-size: 80%;"}
+Sophia, a bot
+{: style=" margin-right: 1em; width: 125px; text-align: center; margin-top: 0; font-size: 80%; float: left;"}
 
 ### Referrals
 
