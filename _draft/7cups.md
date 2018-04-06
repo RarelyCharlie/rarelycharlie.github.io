@@ -226,7 +226,10 @@ To help manage behavior that violates the guidelines, there is a points system, 
 
 Members and listeners are offered sequences of activities known as growth paths. Each activity is rewarded with a point known as a growth point or step. Members' and listeners' paths contain somewhat different activities.
 
-[IMAGE GROWTH PATH]
+![7 Cups logo](/assets/guide/path.png){: style="height: 200px; width: 216px; display: block; margin: 1em auto 0 auto;"}
+
+The start of a growth path
+{: style="text-align: center; margin-top: 0; font-size: 80%;"}
 
 A member's growth path is tailored to the issue that they specify on joining. It is also possible for a member to pay for a personalized growth path, but there is little indication that many members do this. The personalized paths are listed here: [Start Feeling Better Today](https://www.7cups.com/backus/upgrade7cups.php)
 
