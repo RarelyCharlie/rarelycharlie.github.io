@@ -159,13 +159,15 @@ Crumbs = {
 	}
 
 Persist = {
+	key: '',
 	retry: null,
 	section: null,
 	r: Math.floor(67108864 * Math.random()) & 67043839,
 	init: function () {
+		this.key = 'rc_' + location.pathname.replace(/.+\//, '').replace(/\.\*$/, '')
 		this.r0 = Math.floor(31 * Math.random())
 		this.r1 = Math.floor(16383 * Math.random())
-		var d = JSON.parse(localStorage.getItem('rc_harm'))
+		var d = JSON.parse(localStorage.getItem(this.key)
 		if (d) {
 			this.retry = d[0]
 			this.section = d[1] >> 9 & 127
@@ -183,7 +185,7 @@ Persist = {
 		if (!quiet) location.reload()
 		},
 	save: function () {
-		localStorage.setItem('rc_harm', JSON.stringify([this.retry, this.r | this.section << 9]))
+		localStorage.setItem(this.key, JSON.stringify([this.retry, this.r | this.section << 9]))
 		}
 	}
 	
