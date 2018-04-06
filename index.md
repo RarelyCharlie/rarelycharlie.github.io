@@ -14,6 +14,9 @@ layout: default
 The glossary explains the terminology used at 7 Cups. You can search this list of terms
 to find out what they all mean.
 
+## Time zone conversion
+[7 Cups Date & Time](https://rarelycharlie.github.io/7cupstime) performs time zone conversion between your time zone and 7 Cups' time zone.
+
 ## [Listener training](/listen/ 'Go to the listener training')
 A alternative training course for new listeners is available as a draft version.
 
