@@ -365,16 +365,19 @@ Some listeners specialize in long term support and refer to the members they are
 
 Noni is a bot that greets guests and members when they have requested a listener and are waiting in the general request queue. Noni also chats to members and listeners at any time they wish.
 
-[IMAGE NONI]
+![7 Cups logo](https://www.7cups.com/cloudfront/img/Noni.jpg){: style="height: 125px; width: 125px; display: block; margin: 0 auto 1em auto; border-radius: 62.5px;"}
+
+Noni, a bot
+{: style="width: 125px; text-align: center; margin-top: 0; font-size: 80%;"}
 
 In the general request queue, Noni has a script that obtains some information about the guest's or member's reason for coming to 7 Cups. When chatting in other circumstances, Noni has a large repertoire of canned responses that are triggered by whatever the member or listener says.
 
 Sophia is a bot that greets members who choose to sign up for paid therapy. Sophia follows an inflexible script to obtain the necessary information from the member.
 
-![7 Cups logo](https://www.7cups.com/cloudfront/img/sophiaProfile.jpg){: style="height: 125px; width: 125px; display: block; margin: 1em 1em 0 0; border-radius: 62.5px; float: left;"}
+![7 Cups logo](https://www.7cups.com/cloudfront/img/sophiaProfile.jpg){: style="height: 125px; width: 125px; display: block; margin: 0 auto 1em auto; border-radius: 62.5px;"}
 
 Sophia, a bot
-{: style=" margin-right: 1em; width: 125px; text-align: center; margin-top: 0; font-size: 80%; float: left;"}
+{: style="width: 125px; text-align: center; margin-top: 0; font-size: 80%;"}
 
 ### Referrals
 
