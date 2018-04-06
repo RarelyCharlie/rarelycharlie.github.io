@@ -25,9 +25,10 @@ The app provides a reduced set of features compared to the website, with the exc
 
 7 Cups is available worldwide, and communication within 7 Cups can be in any of the world's written languages, regardless of the user interface language. Even so, most communication within 7 Cups is in English.
 
-[IMAGE WORLDWIDE STATS]
-http://www.siteprice.org
-Daily Unique Visitors :	16,348
+![7 Cups logo](/assets/guide/7 Cups.png){: style="height: 127.5px; width: 296.5px; display: block; margin: 1em auto 0 auto;"}
+
+16,348 unique visitors daily, according to siteprice.org in March 2018
+{: style="text-align: center; margin-top: 0; font-size: 80%;"}
 
 The 7 Cups platform provides for four types of support: self help, 1-to-1 text chats, chatrooms where many people can chat to each other in real time, and forums for interaction over a longer period of time. Paid therapy at 7 Cups makes use of the platform's 1-to-1 text chats.
 
