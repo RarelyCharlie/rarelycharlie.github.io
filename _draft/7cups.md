@@ -169,7 +169,10 @@ A team of "social soldiers" also publicizes 7 Cups on social media.
 
 On visiting the main page of the website, or on starting the app, a process of "onboarding" encourages a new user to sign up as a member and to specify the issue they need support with.
 
-[IMAGE ONBOARDING]
+![7 Cups logo](/assets/guide/onboarding.png){: style="height: 160px; width: 275px; display: block; margin: 1em auto 0 auto;"}
+
+Onboarding front page
+{: style="text-align: center; margin-top: 0; font-size: 80%;"}
 
 However, visitors to the site also arrive from Internet searches and various other direct links. These guests can use parts of the site that do not involve interacting with other people, but before interaction with other people they have to either log in or declare their age range and agree to 7 Cups' terms of service and privacy policy.
 
