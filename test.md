@@ -1,6 +1,6 @@
 ---
 title: Test Jekyll
-layout: default
+layout: test
 ---
 # Foo bar
 
