@@ -1,5 +1,3 @@
----
----
 # Mackerel included
 
 |Me|Herring and stuff|
