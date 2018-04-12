@@ -1,5 +1,5 @@
 ---
 title: Test Jekyll in IFRAME
-layout: test
+layout: test-framed
 ---
 {% include test.md %}
