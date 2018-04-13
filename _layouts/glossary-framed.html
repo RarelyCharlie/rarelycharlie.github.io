@@ -48,6 +48,7 @@ del:hover {background: #afa; color: #00a;}
 a[href] {color: #29f; text-decoration: none;}
 a[href]:hover {text-decoration: underline;}
 #nav a[href] {color: #00e; text-decoration: underline;}
+form {position: fixed; top: 0; background: #fff; width: 100%; height: 40px; padding-top: 8px;}
 </style>
 <script>
 wait = null
@@ -59,6 +60,7 @@ keypress = function () {
 		clearTimeout(cleanup)
 		cleanup = null
 		}
+	return event.keyCode != 13
 	}
 gloss = function (term) {
 	var inp = document.getElementById("find")
@@ -71,10 +73,12 @@ gloss = function (term) {
 		let t = tt.item(i)
 		let c = t.id || normalize(t.innerHTML)
 		if (c.substr(0, f.length) != f) continue
-/**		setTimeout(function () {
+		let h = document.getElementById('header'),
+			ho = h? h.offsetHeight : 0
+		setTimeout(function () {
 			document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset =
-				t.offsetTop - document.getElementById('header').offsetHeight - 12
-			}, 0) **/
+				t.offsetTop - ho - 48
+			}, 0)
 		if (cleanup) clearTimeout(cleanup)
 		cleanup = setTimeout(function () {inp.value = ''}, 4000)
 		return true
@@ -127,7 +131,7 @@ document.addEventListener('DOMContentLoaded', function () {
 <body>
 <div id="content">
 <form action="javascript:void()">
-<p>Find:<input id="find" type="search" size="24" onkeypress="keypress()" autofocus autocapitalize="none"></p>
+<p>Find:<input id="find" type="search" size="24" onkeypress="return keypress(event)" autofocus autocapitalize="none"></p>
 </form>
 <p id="nohash" class="hidden">The hashtag <span id="badhash"></span> cannot be found.</p>
 {{ content }}
