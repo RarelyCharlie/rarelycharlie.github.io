@@ -54,6 +54,12 @@ onload = function() {
   parent.postMessage('height ' + document.body.scrollHeight, '*');
   }
 
+addEventListener('message', function (event) {
+	var d = event.data.split(' ')
+	if (d[0] == 'gloss') console.log('gloss ' + d[1])
+		
+	})
+
 gloss = function (term) {
 	var inp = document.getElementById("find")
 	if ('ontouchstart' in window) inp.blur()
