@@ -12,9 +12,13 @@ rc_keypress = function () {
 	return event.keyCode != 13
 	}
  
-rc_gloss = function () {
-  console.log('rc_gloss')
-  }
+rc_gloss = function (term) {
+	var inp = document.getElementById("rc-find")
+	if ('ontouchstart' in window) inp.blur()
+	if (!term) term = inp.value
+	if (!term) return
+	document.getElementById('rc-glossary').contentWindow.postMessage('gloss ' + term, '*')
+	}
   
 addEventListener('message', function (event) {
 	var d = event.data.split(' ')
