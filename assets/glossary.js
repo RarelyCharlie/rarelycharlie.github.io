@@ -17,5 +17,6 @@ rc_gloss = function () {
   }
   
 addEventListener('message', function (event) {
-	console.log('message ' + event.data)
+	var d = event.data.split(' ')
+	if (d[0] == 'height') document.getElementById('rc-glossary').height = d[1] + 40
 	})
