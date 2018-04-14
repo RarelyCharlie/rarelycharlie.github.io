@@ -50,17 +50,10 @@ a[href]:hover {text-decoration: underline;}
 form {position: fixed; top: 0; background: #f4f4f4; width: 100%; height: 40px; padding-top: 8px;}
 </style>
 <script>
-wait = null
-cleanup = null
-keypress = function () {
-	if (wait) clearTimeout(wait)
-	wait = setTimeout(gloss, 850)
-	if (cleanup) {
-		clearTimeout(cleanup)
-		cleanup = null
-		}
-	return event.keyCode != 13
-	}
+onload = function() {
+  parent.postMessage('height' + document.body.scrollHeight);
+  }
+
 gloss = function (term) {
 	var inp = document.getElementById("find")
 	if ('ontouchstart' in window) inp.blur()
