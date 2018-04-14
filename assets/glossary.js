@@ -16,3 +16,6 @@ rc_gloss = function () {
   console.log('rc_gloss')
   }
   
+addEventListener('message', function (event) {
+	console.log('message ' + event.data)
+	})
