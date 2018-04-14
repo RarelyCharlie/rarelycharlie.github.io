@@ -56,14 +56,11 @@ onload = function() {
 
 addEventListener('message', function (event) {
 	var d = event.data.split(' ')
-	if (d[0] == 'gloss') console.log('gloss ' + d[1])
-		
+	if (d[0] == 'gloss') gloss(d[1])
 	})
 
 gloss = function (term) {
-	var inp = document.getElementById("find")
-	if ('ontouchstart' in window) inp.blur()
-	var f = term? term : normalize(inp.value)
+	var f = normalize(term)
 	if (f == '') return
 	var h = f.length == 1? 'h2' : 'h1'
 	var tt = document.getElementsByTagName(h)
@@ -77,8 +74,6 @@ gloss = function (term) {
 			document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset =
 				t.offsetTop - ho - 48
 			}, 0)
-		if (cleanup) clearTimeout(cleanup)
-		cleanup = setTimeout(function () {inp.value = ''}, 4000)
 		return true
 		}
 	return false
