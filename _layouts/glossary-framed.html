@@ -55,6 +55,7 @@ onload = function() {
   }
 
 addEventListener('message', function (event) {
+	console.log('message ' + event.data)
 	var d = event.data.split(' ')
 	if (d[0] == 'gloss') gloss(d[1])
 	})
