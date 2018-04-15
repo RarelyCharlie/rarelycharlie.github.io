@@ -71,10 +71,9 @@ gloss = function (term) {
 		if (c.substr(0, f.length) != f) continue
 		let h = document.getElementById('header'),
 			ho = h? h.offsetHeight : 0
-		setTimeout(function () {
-			document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset =
-				t.offsetTop - ho - 48
-			}, 0)
+		console.log('scrollto ' + t.textContent())
+//			document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset =
+//				t.offsetTop - ho - 48
 		return true
 		}
 	return false
