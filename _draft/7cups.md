@@ -12,25 +12,33 @@ This is a guide to 7 Cups written for therapists, although anyone can read it.
 
 The guide is an overview that covers the many parts of 7 Cups, to explain how it works without going into a lot of detail. It is intended to provide 7 Cups therapists with basic information about the rest of 7 Cups.
 
-Therapists who need some information about therapy at 7 Cups can read the separate guide: [Ethics & Online Therapy](https://www.7cups.com/ethics-and-online-therapy/)
+Therapists who need some information about therapy at 7 Cups can read the separate guide: [Ethics & Online Therapy](https://www.7cups.com/ethics-and-online-therapy/) (but this link only works if you are logged in as a 7 Cups therapist).
 
 
 # What is 7 Cups?
 
 7 Cups is a US business that provides both free and paid Internet services in the areas of mental health and emotional support.
 
-It does this through an Internet platform where people can both receive and give support—primarily support for mental health issues, but also support for other common challenges of life. The platform is available as a website at 7cups.com and as an app on Android and iOS. There is no Microsoft app.
+It does this through an Internet platform where people can both receive and give support—primarily support for mental health issues, but also support for other common challenges of life. The platform is available as a website at [7cups.com](https://www.7cups.com/) and as an app on Android and iOS. There is no Microsoft app.
 
-The app provides a reduced set of features compared to the website, with the exception of translations. The app's user interface is available in many languages, but the website is only available in English. There is a second website at lite.7cups.com that is functionally identical to the app, including its translations.
+The app provides a reduced set of features compared to the website, with the exception of translations. The app's user interface is available in many languages, but the website is only available in English. There is a second website at [lite.7cups.com](https://lite.7cups.com/) that is functionally identical to the app, including its translations.
 
 7 Cups is available worldwide, and communication within 7 Cups can be in any of the world's written languages, regardless of the user interface language. Even so, most communication within 7 Cups is in English.
+
+Here's the breakdown of visitors to the website by country at the time of writing (March 2018):
 
 ![Countries](/assets/guide/countries.png){: style="height: 255px; width: 593px; display: block; margin: 1em auto 0 auto;"}
 
 16,348 unique visitors daily, according to siteprice.org in March 2018
 {: style="text-align: center; margin-top: 0; font-size: 80%;"}
 
-The 7 Cups platform provides for four types of support: self help, 1-to-1 text chats, chatrooms where many people can chat to each other in real time, and forums for interaction over a longer period of time. Paid therapy at 7 Cups makes use of the platform's 1-to-1 text chats.
+The 7 Cups platform provides for four types of support: 
+- self help
+- 1-to-1 text chats
+- chatrooms where many people can chat to each other in real time
+- forums for interaction over a longer period of time.
+
+Paid therapy at 7 Cups makes use of the platform's 1-to-1 text chats.
 
 ### Platform support
 
