@@ -144,6 +144,10 @@ A personal rule (as opposed to a ~~community rule/rule~~).
 # break
 A period of time when someone deliberately stops using 7 Cups, or parts of 7 Cups.
 
+# bridge
+No longer in use. At one time a phone bridge system provided for anonymous phone calls between ~~listeners/~~ and ~~members./~~
+
+
 # buddy
 Someone paired with someone else, typically in order to provide each other with support. ~~7 Cups~~ has various buddy schemes for different purposes.
 
@@ -691,6 +695,9 @@ _See:_ ~~PM./pm~~
 
 # personal request
 A request for a ~~1-to-1 chat~~ made to one particular ~~listener~~. Listeners should normally respond to personal requests, but they are not forced to.
+
+# phone bridge
+No longer in use. At one time a phone bridge system provided for anonymous phone calls between ~~listeners/~~ and ~~members./~~
 
 # Pinnacle
 26th of the 27 groups of ~~listener~~ ~~levels./level~~
