@@ -259,6 +259,9 @@ To turn an ~~account~~ off temporarily so that its ~~name~~ becomes ~~Unknown~~,
 # DevTeam
 A ~~listener~~ ~~name~~ reserved for use by ~~7 Cups'~~ development team.
 
+# directory
+A listing of ~~therapists/~~ at ~~7 Cups~~ who provide online ~~therapy~~ or ~~counseling~~ for a fee.
+
 # Disciplined Learner
 10th of the 18 levels in the listener ~~certification~~ program.
 
@@ -402,7 +405,7 @@ A ~~cheer~~.
 Guest Support. A ~~chatroom~~. The only chatroom that ~~guests/guest~~ can use.
 
 # guest
-An ~~account~~ created automatically that can be used without a password, or a person using such an account. Guest accounts have restricted access to ~~7 Cups'/7 Cups~~ features. Intended only for people needing ~~emotional support~~ who do not have a member account.
+A person whose ~~account~~ at 7 Cups was created automatically, without any password. Guest accounts have restricted access to ~~7 Cups'/7 Cups~~ features. Intended only for people needing ~~emotional support~~ who do not have a ~~member~~ account.
 
 # Guest Support
 A ~~chatroom~~. The only chatroom that ~~guests/guest~~ can use.
@@ -519,7 +522,7 @@ Listener Hangout Room. A ~~room~~ where ~~listeners/listener~~ can go to meet ot
 ~~Community Liaison~~
 
 # listener
-A password-protected ~~account~~ that persists across devices and browser sessions, and used by someone who has completed the training in ~~active listening~~, or a person using such an account.
+A person using a type of ~~account~~ intended for providing ~~emotionsal support,~~ and who has completed the training in ~~active listening.~~ A listener account is password-protected, and it persists across devices and browser sessions.
 
 # listener quality
 The overall rating of ~~listeners/listener~~, calculated from individual ratings given by ~~guests/guest~~ and ~~members/member~~ during or after ~~chats/chat~~.
@@ -573,7 +576,7 @@ A meeting arranged in advance at a particular time and place, usually in a ~~cha
 A ~~member~~ designated as having an important role in the ~~community~~. Also a ~~badge~~ denoting such a member.
 
 # member
-A password-protected ~~account~~ that persists across devices and browser sessions, or a person using such an account. Intended for anyone needing ~~emotional support~~, even for people who also have ~~listener~~ or ~~therapist~~ accounts.
+A person using a type of ~~account~~ indended for obtaining ~~emotional support.~~ A member account is password-protected, and it persists across devices and browser sessions. Members can also have ~~listener~~ or ~~therapist~~ accounts.
 
 # Mentor
 A ~~listener~~ designated as having a leadership role in the ~~community~~. Also a ~~badge~~ denoting a mentor.
@@ -921,7 +924,7 @@ A ~~chatroom~~ for ~~Teen Stars./Teen Star~~
 A set of terms and conditions that each person using ~~7 Cups~~ agrees to. The terms of service for each type of ~~account~~ are different.
 
 # therapist
-A password-protected ~~account~~ that persists across devices and browser sessions, owned by a professional who is qualified and licensed to practise ~~psychotherapy/therapy~~ or ~~counseling~~ in the part of the world where they work. Therapists can optionally register at ~~7 Cups~~ to provide online therapy for a fee.
+A professional who is qualified and licensed to practise ~~psychotherapy/therapy~~ or ~~counseling~~ in the part of the world where they work, and who is using an ~~account~~ intended for that purpose. A therapist account is password-protected, and it persists across devices and browser sessions. Therapists can optionally register to be included in a directory at ~~7 Cups~~ sothey can provide online therapy for a fee.
 
 # therapy
 Any of various professional methodologies for helping people with mental or emotional difficulties, particularly, but not exclusively, for mental illness as opposed to the ordinary difficulties of life. Also known as psychotherapy to distinguish it from physical therapies. _See also:_ ~~counseling~~
