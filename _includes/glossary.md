@@ -91,6 +91,9 @@ A token awarded to a ~~listener~~ on progressing beyond the last ~~level~~ in a 
 # Apprentice
 5th of the 27 groups of ~~listener~~ ~~levels./level~~
 
+# article
+A document in the ~~wiki.~~
+
 # ATL
 Abbreviation sometimes used for "adult teen listener" (a ~~teen and adult~~ listener).
 
@@ -163,7 +166,7 @@ A ~~status~~ setting indicating that a ~~listener~~ is active on 7 Cups but not 
 ![](https://www.7cups.com/cloudfront/img/zodiac/icon-04.png) The ~~animal cohort~~ for the month of April.
 
 # category
-One of 32 topics that a ~~listener~~ can specialize in and that ~~Noni~~ asks about. Also one of the groups of ~~forums./forum~~
+One of the topics that a ~~listener~~ can specialize in and that ~~Noni~~ asks about. Also one of the groups of ~~forums./forum~~ Also a group of ~~articles/~~ in the ~~wiki.~~
 
 # censor
 An automatic system intended to prevent the use of certain words or phrases. Also, to edit certain words and phrases after they have been used to make it look as if they were not used, or to delete information after it has been published to make it look as if it was not published.
@@ -415,6 +418,8 @@ A ~~self-help guide~~, or some other guidance published in a ~~forum~~.
 
 # hashtag
 A ~~tag~~ beginning with a hash symbol, ~~\#/\#-sign~~. Used in ~~feed~~ ~~posts/post~~ to classify the content of the post. Anyone can follow any hashtag at 7cups.com/~whatever-the-tag-is (using a tilde character, ~, in place of the hash character, \#).
+
+Also used in the ~~wiki~~ to classify ~~articles/~~ (separately from feed posts). Look up a hshtag in the wiki at 7cups.com/wiki/~whatever-the-tag-is
 
 # heart
 A ~~compassion heart~~, or a sign of approval for a ~~message~~ in a ~~1-to-1 chat~~ or ~~chatroom~~, or in a ~~feed~~ ~~post~~. Also a heart-shaped ~~smiley~~.
@@ -998,6 +1003,9 @@ The web site at 7cups.com (as opposed to the ~~app~~).
 
 # widget
 Code that can be inserted in other websites so that users of those websites can choose and link to ~~listeners/listener~~ who are available to ~~chat~~ at ~~7 Cups~~.
+
+# wiki
+Part of the ~~website~~ containing a library of ~~articles/~~ maintained by the ~~community.~~
 
 # World Changer
 The highest of the 18 levels in the listener ~~certification~~ program.
