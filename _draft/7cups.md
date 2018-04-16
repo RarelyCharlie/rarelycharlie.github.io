@@ -50,13 +50,13 @@ Three models of support are implemented on the platform:
 
 The platform also supports personal feeds, which are a little like blogs. They are public and they can be indexed by Internet search engines.
 
-It has a restricted-access wiki for reference information. The wiki can be read but not edited by the public, and it can be indexed by Internet search engines. Part of the wiki can only be accessed by listeners.
+It has a restricted-access wiki for reference information. The wiki can mostly be read, but not edited, by the public. The public part is indexed by Internet search engines. The private part of the wiki can only be accessed by listeners.
 
-Some essential platform support is not available onsite at the time of writing (April 2018), notably calendars (currently provided by Tockify) and forms (currently provided by Google).
+Some essential platform support is not available onsite at the time of writing (April 2018), notably calendars (currently provided by [Tockify](https://tockify.com/)) and forms (currently provided by [Google Forms](https://www.google.com/forms/about/)).
 
 Collaborative projects often use Google services for communication between project members, because the onsite alternatives, a forum or the wiki, would be public.
 
-For scheduling purposes 7 Cups time is defined as US Eastern Time. All users are strongly advised to use US Eastern Time when they refer to a time anywhere on the site, so as to minimize confusion about world time zones. The platform does not provide a converter, but there's an unofficial one here: [LINK NEEDED]
+For scheduling purposes 7 Cups time is defined as US Eastern Time. All users are strongly advised to use US Eastern Time when they refer to a time anywhere on the site, so as to minimize confusion about world time zones. The platform does not provide a converter, but there's an unofficial one here: [7 Cups Date and Time](https://rarelycharlie.github.io/7cupstime)
 
 ### History and business model
 
