@@ -349,9 +349,9 @@ Listeners have three status options that they set manually: online, busy and off
 
 A few listeners use booking systems to arrange chats. 7 Cups does not provide any booking system—they are on other websites like [you can book me](https://youcanbook.me/).
 
-![youcanbookme](https://youcanbook.me/resources/pics/ycbm-button.png)
+![youcanbookme](https://youcanbook.me/resources/pics/ycbm-button.png) {: style="height: 100px; width: 100px; display: block; margin: 1em auto 0 auto;"}
 
-*you can book me* button
+An inactive *you can book me* button
 {: style="text-align: center; margin-top: 0; font-size: 80%;"}
 
 Listeners who have a certain level of experience can initiate 1-to-1 chats with members. For example, if a member posts in a forum or participates in a chatroom, a listener can follow up by initiating a 1-to-1 chat. Members can choose not to allow these listener-initiated chats, but few members use this option.
