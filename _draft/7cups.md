@@ -134,7 +134,7 @@ Anyone can sign up to become a listener by completing a short online training mo
 
 Listeners are intended to provide support to members. They also support each other in the work of being a listener. Listeners are encouraged to have a separate member account to use when they need support for their own personal issues. The platform supports easy switching between the two accounts.
 
-Listeners' profiles are also public, and 7 Cups provides a way to search them at 7cups.com/BrowseListeners.php. Listeners' profiles contain similar information to members' profiles, although the details are different.
+Listeners' profiles are also public, and 7 Cups provides a way to search them on the [Browse Listeners](https://www.7cups.com/BrowseListeners.php) page. Listeners' profiles contain similar kinds of information to members' profiles, although the details are different.
 
 A listener account is shown within 7 Cups as a round icon. For example:
 
