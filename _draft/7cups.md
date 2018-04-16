@@ -441,20 +441,16 @@ When a chat reaches 30 messages, the listener is awarded a step on their growth 
 
 ### Interns
 
-There is an internship program that allows listeners and work towards structured targets over a fixed period. It is mainly intended for sudents, but anyone can take part. For more information, see: [7 Cups Internship Program](https://www.7cups.com/about/internships.php)
+There is an internship program that allows listeners to work towards structured targets over a fixed period. It is mainly intended for sudents, but anyone can take part. For more information, see: [7 Cups Internship Program](https://www.7cups.com/about/internships.php)
 
 There is also a less formal program of certification for listeners, but it is not much used.
 
 # Conclusion
 You have now completed the guide.
-### References
-Links in the body of the guide are repeated here for convenience:
 
-[LIST OF LINKS]
+To review any part of the guide, use the little squares at the top of each page to navigate the sections.
+
+If you notice errors or omissions in this draft guide, please message the editor with details, [@RarelyChalie](https://www.7cups.com/@RarelyCharlie).
 
 ### Acknowledgements
 Thanks to the following members and listeners who contributed to the making of this guide: @Alex, @bunnypants, @ChaoticGood, @colourfulSpring22, @LaraG, @Laura, @littlepony, @MajesticBear, @Melody293, @Nada, @niamh333, @PhoenixAsh, @RainbowTrie, @Rose, @sairita, @Silversun14, @SunFern, @tazcares.
-
-Artwork: [????????????????]
-
-Editor: @RarelyChalie
