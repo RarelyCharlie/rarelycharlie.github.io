@@ -522,7 +522,7 @@ Listener Hangout Room. A ~~room~~ where ~~listeners/listener~~ can go to meet ot
 ~~Community Liaison~~
 
 # listener
-A person using a type of ~~account~~ intended for providing ~~emotionsal support,~~ and who has completed the training in ~~active listening.~~ A listener account is password-protected, and it persists across devices and browser sessions.
+A person using a type of ~~account~~ intended for providing ~~emotional support,~~ and who has completed the training in ~~active listening.~~ A listener account is password-protected, and it persists across devices and browser sessions.
 
 # listener quality
 The overall rating of ~~listeners/listener~~, calculated from individual ratings given by ~~guests/guest~~ and ~~members/member~~ during or after ~~chats/chat~~.
@@ -924,7 +924,7 @@ A ~~chatroom~~ for ~~Teen Stars./Teen Star~~
 A set of terms and conditions that each person using ~~7 Cups~~ agrees to. The terms of service for each type of ~~account~~ are different.
 
 # therapist
-A professional who is qualified and licensed to practise ~~psychotherapy/therapy~~ or ~~counseling~~ in the part of the world where they work, and who is using an ~~account~~ intended for that purpose. A therapist account is password-protected, and it persists across devices and browser sessions. Therapists can optionally register to be included in a directory at ~~7 Cups~~ sothey can provide online therapy for a fee.
+A professional who is qualified and licensed to practise ~~psychotherapy/therapy~~ or ~~counseling~~ in the part of the world where they work, and who is using an ~~account~~ intended for that purpose. A therapist account is password-protected, and it persists across devices and browser sessions. Therapists can optionally register to be included in a ~~directory~~ at ~~7 Cups~~ so that they can provide online therapy for a fee.
 
 # therapy
 Any of various professional methodologies for helping people with mental or emotional difficulties, particularly, but not exclusively, for mental illness as opposed to the ordinary difficulties of life. Also known as psychotherapy to distinguish it from physical therapies. _See also:_ ~~counseling~~
