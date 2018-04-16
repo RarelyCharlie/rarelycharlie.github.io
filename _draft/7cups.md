@@ -358,7 +358,7 @@ Listeners who have a certain level of experience can initiate 1-to-1 chats with 
 
 Some listeners indicate in their profiles that they don't take 1-to-1 chats at all at the present time.
 
-Listeners can formally take a break from 7 Cups at any time, but when they do this their profile disappears from view and no one can tell what happened to them. As a result, many listeners who take a break do it in a less formal way with an explanatory message in their profile.
+Listeners can formally take a break from 7 Cups whenever they like, but when they do this their profile disappears from view and no one can tell what happened to them. As a result, many listeners who take a break do it in a less formal way with an explanatory message in their profile.
 
 ### Ending chats
 
