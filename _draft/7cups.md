@@ -271,7 +271,7 @@ Anyone with a feed can follow someone else's feed, so that posts from that other
 
 There is an overall 7 Cups feed that mostly re-posts items from other feeds. [7 Cups Feed](https://www.7cups.com/member/feed.php)
 
-Feed posts can include hashtags, and any hashtag can be followed at 7cups.com/~hashtag (replacing the hash sign with a tilde). For example, to follow #selfcare go to: 7cups.com/~selfcare
+Feed posts can include hashtags, and any hashtag can be followed at 7cups.com/~hashtag (replacing the hash sign with a tilde). For example, to follow #selfcare go to: [7cups.com/~selfcare](https://www.7cups.com/~selfcare)
 
 Some members use a diary thread in a forum to post personal material, instead of using their feed, or in addition. Using a diary thread allows for discussion, and it's perhaps more likely to be read by others in a subcommunity.
 
