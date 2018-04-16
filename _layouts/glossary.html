@@ -88,9 +88,12 @@ document.addEventListener('DOMContentLoaded', function () {
 	var dd = document.getElementsByTagName('DEL')
 	for (let i = 0; i < dd.length; ++i) {
 		let d = dd.item(i)
-		let t = d.innerHTML.split('/')
-		if (!t[1]) t[1] = t[0]
-		else d.innerHTML = t[0]
+		let t = d.textContent, p = t.indexOf('/')
+		if (p < 0) t = t + '/' + t
+		else if (p === 0) t = t.substr(1) + '/' + t.toLowerCase()
+		else if (p == t.length - 1) t += t.replace(/s\/$/, '')
+		t = t.split('/')
+		d.textContent = t[0]
 		d.setAttribute('title', 'Find ' + t[1].replace(/\W*$/, ''))
 		d.setAttribute('onclick', 'gloss(\'' + normalize(t[1]) + '\')')
 		}
