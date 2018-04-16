@@ -291,7 +291,7 @@ Threads in the forums are used for a variety of purposes in addition to discussi
 
 Posts in the forums can be upvoted (but not downvoted). Doing this causes the poster to be notified of the upvote. Inappropriate posts can be flagged for a moderator's attention.
 
-Mentioning someone's name in the forums (with the @-sign at the start of the name) causes them to be notified automatically. This is known as tagging. (The forums do not support hashtags.) Some forum posts tag people secretly by writing their names in white on the white background.
+Mentioning someone's name in the forums (with the @-sign at the start of the name) causes them to be notified automatically. This is known as tagging. (The forums do not support hashtags.) Some forum posts tag people secretly by including their names in white on the white background.
 
 ### Chatrooms
 
@@ -347,7 +347,12 @@ Listeners who are not free to chat are shown with a Leave Message button, which 
 
 Listeners have three status options that they set manually: online, busy and offline. Online means free to accept personal requests. Busy means logged in but not free to accept personal requests. Offline means the same as busy, or it can mean really offline (logged out). Listeners who are busy or offline can still take chats.
 
-A few listeners use booking systems to arrange chats. 7 Cups does not provide any booking system—they are on other websites like ???
+A few listeners use booking systems to arrange chats. 7 Cups does not provide any booking system—they are on other websites like [you can book me](https://youcanbook.me/).
+
+![youcanbookme](https://youcanbook.me/resources/pics/ycbm-button.png)
+
+*you can book me* button
+{: style="text-align: center; margin-top: 0; font-size: 80%;"}
 
 Listeners who have a certain level of experience can initiate 1-to-1 chats with members. For example, if a member posts in a forum or participates in a chatroom, a listener can follow up by initiating a 1-to-1 chat. Members can choose not to allow these listener-initiated chats, but few members use this option.
 
