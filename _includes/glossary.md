@@ -69,7 +69,7 @@ The highest level of leadership role in the ~~community~~.
 ~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member and assistant ~~community~~ manager Amelia Winsby. _See:_ [@Amelia](http://7cups.com/@Amelia)
 
 # Animal Cohort
-A group of ~~member,~~ ~~listener,~~ and ~~therapist~~ accounts that were registered (or, in some cases, reinstated after a break) in the same calendar month, regarless of the year. Represented by an icon that represents a creature, not necessarily an animal. See: ~~Dolphin,~~ ~~Penguin,~~ ~~Horse,~~ ~~Camel,~~ ~~Elephant,~~ ~~Kangaroo,~~ ~~Starfish,~~ ~~Fish,~~ ~~Bunny,~~ ~~Eagle,~~ ~~Butterfly,~~ ~~Turtle~~.
+A group of ~~member,~~ ~~listener,~~ and ~~therapist~~ accounts that were registered (or, in some cases, reinstated after a break) in the same calendar month, regardless of the year. Represented by an icon that represents a creature, not necessarily an animal. See: ~~Dolphin,~~ ~~Penguin,~~ ~~Horse,~~ ~~Camel,~~ ~~Elephant,~~ ~~Kangaroo,~~ ~~Starfish,~~ ~~Fish,~~ ~~Bunny,~~ ~~Eagle,~~ ~~Butterfly,~~ ~~Turtle~~.
 
 # announcement
 A ~~notification~~ sent manually to the ~~community~~ or to part of the community (as opposed to an automatic notification).
