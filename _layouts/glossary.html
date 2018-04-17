@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		let t = d.textContent, p = t.indexOf('/')
 		if (p < 0) t = t + '/' + t
 		else if (p === 0) t = t.substr(1) + '/' + t.toLowerCase()
-		else if (p == t.length - 1) t += t.replace(/s\/$/, '')
+		else if (p == t.length - 1) t += t.replace(/s\W*\/$/, '')
 		t = t.split('/')
 		d.textContent = t[0]
 		d.setAttribute('title', 'Find ' + t[1].replace(/\W*$/, ''))
