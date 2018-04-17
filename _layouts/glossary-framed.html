@@ -34,7 +34,7 @@ body.keyboard {overflow: hidden;}
 #header {font-weight: 400; margin: 0; font-size: 16px; line-height: 24px; color: white;}
 #header h2 {font-weight: 100; margin: 0; font-size: 40px; line-height: 40px;}
 #header span {letter-spacing: 1px; position: relative; top: 4px; font-style: italic;}
-#content {max-width: 640px; margin: 0 auto; padding: 0 1ex 60em 1ex;}
+#content {max-width: 640px; margin: 0 auto; padding: 0 8px 60em 8px;}
 #content p {margin-top: 0; margin-left: 60px;}
 input {font-size: inherit; margin-left: 1ex; padding: 0 2px;}
 del {text-decoration: none; display: inline-block; color: #070; cursor: pointer;}
@@ -55,39 +55,42 @@ onload = function() {
   }
 
 addEventListener('message', function (event) {
-	console.log('message ' + event.data)
-	var d = event.data.split(' ')
-	if (d[0] == 'gloss') gloss(d[1])
+	var d = event.data
+	if (d.indexOf('gloss ') === 0) gloss(d.substr(6))
 	})
 
 gloss = function (term) {
 	var f = normalize(term)
-	if (f == '') return
-	var h = f.length == 1? 'h2' : 'h1'
-	var tt = document.getElementsByTagName(h)
-	for (let i = 0; i < tt.length; ++i) {
-		let t = tt.item(i)
-		let c = t.id || normalize(t.innerHTML)
-		if (c.substr(0, f.length) != f) continue
-		let h = document.getElementById('header'),
-			ho = h? h.offsetHeight : 0
-		console.log('scrollto ' + t.textContent())
-//			document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset =
-//				t.offsetTop - ho - 48
-		return true
+	if (f != '') {
+		var h = f.length == 1? 'h2' : 'h1'
+		var tt = document.getElementsByTagName(h)
+		for (let i = 0; i < tt.length; ++i) {
+			let t = tt.item(i)
+			let c = t.id || normalize(t.innerHTML)
+			if (c.substr(0, f.length) != f) continue
+			let h = document.getElementById('header'), ho = h? h.offsetHeight : 0
+			parent.postMessage('top ' + t.offsetTop, '*')
+			return true
+			}
+		parent.postMessage('no ' + term, '*')
 		}
 	return false
 	}
+
 normalize = function (v) {
 	return v.toLowerCase().replace(/@/, 'at').replace(/\#/, 'hash').replace(/\W/g, '-').replace(/-*$/, '')
 	}
+
 document.addEventListener('DOMContentLoaded', function () {
 	var dd = document.getElementsByTagName('DEL')
 	for (let i = 0; i < dd.length; ++i) {
 		let d = dd.item(i)
-		let t = d.innerHTML.split('/')
-		if (!t[1]) t[1] = t[0]
-		else d.innerHTML = t[0]
+		let t = d.textContent, p = t.indexOf('/')
+		if (p < 0) t = t + '/' + t
+		else if (p === 0) t = t.substr(1) + '/' + t.toLowerCase()
+		else if (p == t.length - 1) t += t.replace(/s\W*\/$/, '')
+		t = t.split('/')
+		d.textContent = t[0]
 		d.setAttribute('title', 'Find ' + t[1].replace(/\W*$/, ''))
 		d.setAttribute('onclick', 'gloss(\'' + normalize(t[1]) + '\')')
 		}
