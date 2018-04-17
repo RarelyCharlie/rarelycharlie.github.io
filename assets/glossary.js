@@ -17,7 +17,7 @@ Glossary = {
 				if (location.hash) Glossary.gloss(location.hash.substr(1))
 				}
 			else if (d.indexOf('top ') === 0) {
-				document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset = parseInt(d.substr(4)) - 104
+				document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset = parseInt(d.substr(4))
 				if (!Glossary.touch) Glossary.input.focus()
 				}
 			else if (d.indexOf('no ') === 0) {
