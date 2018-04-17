@@ -1,26 +1,54 @@
 // framed glossary support, runs in parent window
-rc_wait = null
-rc_cleanup = null
+Glossary = {
+	//timers...
+	wait: null,
+	dirty: null,
+	
+	input: document.getElementById("rc-find"),
+	warning: document.getElementById("rc-warning"),
+	window: document.getElementById('rc-glossary').contentWindow,
+	touch: 'ontouchstart' in window,
+	
+	init: function () { // messages from inside iframe...
+		addEventListener('message', function (event) {
+			var d = event.data
+			if (d.indexOf('height ') === 0) {
+				document.getElementById('rc-glossary').height = parseInt(d.substr(7)) + 100
+				if (location.hash) Glossary.gloss(location.hash.substr(1))
+				}
+			else if (d.indexOf('top ') === 0) {
+				document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset = parseInt(d.substr(4)) - 104
+				if (!Glossary.touch) Glossary.input.focus()
+				}
+			else if (d.indexOf('no ') === 0) {
+				document.getElementById('rc-warning').textContent = d.substr(3) + ' cannot be found.'
+				if (this.dirty) clearTimeout(this.dirty)
+				this.dirty = setTimeout(function () {
+					Glossary.warning.textContent = ''
+					}, 4000)
+				}
+			})
+		},
 
-rc_keypress = function () {
-	if (rc_wait) clearTimeout(rc_wait)
-	rc_wait = setTimeout(rc_gloss, 850)
-	if (rc_cleanup) {
-		clearTimeout(rc_cleanup)
-		rc_cleanup = null
+	gloss: function (term) { // scroll to term...
+		if (this.touch) this.input.blur()
+		if (!term) term = this.input.value
+		if (!term) return
+		this.window.postMessage('gloss ' + term, '*')
+		if (this.dirty) clearTimeout(this.dirty)
+		this.dirty = setTimeout(function () {
+			Glossary.input.value = Glossary.warning.textContent = ''
+			}, 4000)
+		},
+
+	keypress: function () { // user input...
+		if (this.wait) clearTimeout(this.wait)
+		this.wait = setTimeout(function () {Glossary.gloss()}, 850)
+		if (this.dirty) this.dirty = clearTimeout(this.dirty)
+		this.warning.textContent = ''
+		return event.keyCode != 13
 		}
-	return event.keyCode != 13
+
 	}
- 
-rc_gloss = function (term) {
-	var inp = document.getElementById("rc-find")
-	if ('ontouchstart' in window) inp.blur()
-	if (!term) term = inp.value
-	if (!term) return
-	document.getElementById('rc-glossary').contentWindow.postMessage('gloss ' + term, '*')
-	}
-  
-addEventListener('message', function (event) {
-	var d = event.data.split(' ')
-	if (d[0] == 'height') document.getElementById('rc-glossary').height = parseInt(d[1]) + 40
-	})
+
+Glossary.init()
