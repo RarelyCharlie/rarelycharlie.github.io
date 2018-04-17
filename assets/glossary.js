@@ -13,7 +13,7 @@ Glossary = {
 		addEventListener('message', function (event) {
 			var d = event.data
 			if (d.indexOf('height ') === 0) {
-				document.getElementById('rc-glossary').height = parseInt(d.substr(7)) + 100
+				document.getElementById('rc-glossary').height = parseInt(d.substr(7)) + 200
 				if (location.hash) Glossary.gloss(location.hash.substr(1))
 				}
 			else if (d.indexOf('top ') === 0) {
