@@ -70,7 +70,7 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
 - 0Q Try to reflect the feeling.
 	- 31 If you talk about harming another person I cannot continue to chat to you. The rules at 7 Cups require me to refer you to an appropriate agency.
 	- 0 You're so very angry.
-	- 26 I'm sure you'll feel differently about her in a day or two. You'll be aboe to talk things over with her, and your friendship will be stronger for it.
+	- 26 I'm sure you'll feel differently about her in a day or two. You'll be able to talk things over with her, and your friendship will be stronger for it.
 - 8M Yeah Im really angry
 - 0M I havent been this angry in a long while
 - 0I A therapist might ask whether that past anger was also caused by betrayal, listeners must not play at therapy.
