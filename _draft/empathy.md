@@ -92,5 +92,9 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
 - 0L OK, goodbye for now.
 - 1M Goodbye and thank you again.
 
-The chat has ended.
+People often have difficulty processing strong feelings like anger. They might try a variety of strategies.
+
+One strategy, for example, is self harm—cutting, maybe. It doesn't work very well.
+
+Another strategy is talking to someone like a listener at 7 Cups. This can work well if the listener concentrates on the member's feelings, and doesn't get distracted by other agendas like giving advice or solving problems.
 
