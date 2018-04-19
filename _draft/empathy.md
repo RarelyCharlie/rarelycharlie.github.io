@@ -1,5 +1,5 @@
 ---
-title: Empathy
+title: College
 info: A chat to illustrate empathy
 layout: chat
 ---
@@ -7,26 +7,26 @@ In this fictional chat you shadow a listener called Morinda taking a general req
 
 You start the chat with 5 stars, but every time you choose wrongly you lose a star. If you lose all 5 stars the chat will end immediately.
 
-- 3I This general request indicates that the member wants to talk about college stress.
+- 3I This general request indicates that the member wants to talk about college life.
 - 2I We start with a welcome, as usual.
 - 2L Welcome to 7 Cups :)
 - 0L I'm Morinda, one of the listeners here.
 - 0I And show that we noticed what the member wants to talk about.
-- 0L You're finding college stressful?
+- 0L You're finding college life difficult?
 - 2I Now be patient.
 - 6M Hey
 - 0I Respond immediately.
 - 0L Hey :)
 - 0I And try an open question to get things started.
 - 0L What's been happening?
-- 8M It's just no use. Everything's going wrong again.
+- 8M Its just no use. Everythings going wrong again.
 - 0I Now you get to choose how to respond. Try to reflect what the member feels.
 - 0Q
 	- 30 Sounds like you're finding college difficult just at the moment. Would you like to tell me more about what difficulties you are experiencing? Believe me, we've all been through what you're going through. You're not alone.
 	- 29 Let's identify exactly what's going wrong for you. Then we can work on some options that will allow you to solve those problems that you're facing.
-	- 0 You feel like giving up, because the things that went wrong before are going wrong again.
+	- 0 You feel like giving up, because all the things that went wrong before are going wrong again.
 - 8M Yeah
-- 0M I've given up already tbh
+- 0M Ive given up already tbh
 - 0M I cut again last niught after more than two years clean
 - 0Q Try to reflect what that feels like.
 	- 25 I am so proud of you for coming to 7 Cups to get help. We are here to save lives, and we can support you to get clean again no matter how long it takes.
@@ -38,14 +38,14 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
 	- 0 What happened?
 	- 27 Are you being fair to yourself thinking you've failed because of just one lapse?
 	- 31 Did you cut deep last night?
-- 6M Oh, long story. I dont know if I want to get into all that.
+- 6M Long story, I dont know if I want to get into all that
 - 0I Long stories are OK.
 - 0Q But try to get at the feeling behind saying that.
 	- 27 OK, let's talk about how you can start to feel more positive.
 	- 31 Your privacy is important to us all at 7 Cups. We will never pressure you to tell us things you don't want to reveal.
 	- 0 You have a feeling of not wanting to go there.
 - 1M Yeah
-- 1M I dont want to go there because it hurts and Ill probably cry some more
+- 1M I dont want to go there because it hurts so bad and Ill probably cry some more
 - 0Q Try to reflect the feeling.
 	- 0 You're very close to tears again. Remembering the hurt might bring more tears.
 	- 26 It's important not to start crying again because you are at risk of further self harm.
@@ -57,13 +57,13 @@ You start the chat with 5 stars, but every time you choose wrongly you lose a st
 	- 32 Oh no, it was a guy did this to you. I'm so sorry. What did this guy do to hurt you so badly?
 	- 0 Part of you feels he's not worth crying about, and another part of you feels really hurt.
 	- 26 Never think of yourself as stupid! Always believe in your feelings when you have relationship problems like this.
-- 2M It wasn't really him I suppose
+- 2M It wasnt really him I suppose
 - 0M I never thought my best friend would do this to me
 - 0I Now there's a best friend in the picture!
-- 0Q As always, try to reflect the feeling.
-	- 32 Your ex-best friend, I guess!!!
+- 0Q But as always, try to reflect the feeling.
+	- 32 Your ex-best friend now, I guess!!!
 	- 36 Your best friend! But think about all the good times you've had together.
-	- 0 Your feeling is your best friend betrayed your trust.
+	- 0 Your feeling is that your best friend betrayed your trust.
 - 1M Yeah betrayed
 - 0M Exactly
 - 0M I could literally fckng kll her right now
