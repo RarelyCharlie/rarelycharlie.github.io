@@ -8,7 +8,7 @@ In this fictional chat you shadow a listener called Morinda taking a general req
 You start the chat with 5 stars, but every time you choose wrongly you lose a star. If you lose all 5 stars the chat will end immediately.
 
 - 3I This general request indicates that the member wants to talk about college life.
-- 2I We start with a welcome, as usual.
+- 2I We start with a welcome, as usual. Remember to press the Send button to send your message.
 - 2L Welcome to 7 Cups :)
 - 0L I'm Morinda, one of the listeners here.
 - 0I And show that we noticed what the member wants to talk about.
