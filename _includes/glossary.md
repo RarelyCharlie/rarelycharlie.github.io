@@ -838,6 +838,9 @@ A page in the ~~website~~ or ~~app~~ where you can specify details about your ~~
 # smiley
 A symbol expressing emotion in a ~~message~~ or ~~post~~, so called because the most common symbol is a smiling face. Different parts of ~~7 Cups~~ support different sets of smileys.
 
+# SnugglyNarwhal
+~~Listener~~ name of development team apprentice Christina Sheldon. *See:* [@SnugglyNarwhal](https://www.7cups.com/@SnugglyNarwhal)
+
 # Soaring Heights
 15th of the twenty groups of ~~member~~ ~~levels./level~~
 
