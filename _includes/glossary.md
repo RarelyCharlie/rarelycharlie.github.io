@@ -450,7 +450,7 @@ Third of the twenty groups of ~~member~~ ~~levels./level~~
 ## I
 
 # Iara
-~~Listener/listener~~ ~~name~~ of former ~~7 Cups'/7 Cups~~ ~~staff~~ member and ~~teen~~ ~~community~~ manager Sheenarai Oquendo. Not to be confused with ~~LaraG.~~ _See:_ [@Iara (archived)](https://web.archive.org/web/20160809175005/https://7cups.com/@Iara)
+~~Listener/listener~~ ~~name~~ of former ~~7 Cups'/7 Cups~~ ~~staff~~ member and ~~teen~~ ~~community~~ manager Sheenarai Oquendo. Not to be confused with ~~LaraG.~~ _See:_ [@Iara (archived in August 2016)](https://web.archive.org/web/20160809175005/https://7cups.com/@Iara)
 
 # impact
 A private page giving information about a ~~listener's/listener~~ activity on ~~7 Cups~~ (as opposed to the public information in the listener's ~~profile~~).
