@@ -4,7 +4,6 @@ layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 class: index
 ---
-# Embedding the 7 Cups Glossary
 
 Here's how to embed the 7 Cups Glossary in a page at 7cups.com.
 
