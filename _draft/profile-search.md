@@ -12,6 +12,7 @@ gsearch = function () {
   var m = ''
   if (document.getElementById('mem').checked) m += ' "Member Profile - Member"'
   else if (document.getElementById('lis').checked) m += ' "Listener Profile - Listener"'
+  else if (document.getElementById('the').checked) m += ' "Therapist Profile - 7 Cups"'
   
   var s = google.search.cse.element.getElement('g0')
   s.execute(q + m)
