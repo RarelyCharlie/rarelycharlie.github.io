@@ -16,16 +16,12 @@ Testing:
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search gname="g0"></gcse:search>
+<gcse:searchresults-only gname="g0"></gcse:searchresults-only>
 
 <script>
 test = function () {
   var s = google.search.cse.element.getElement('g0')
-  var se = s.execute
-  s.execute = function (q) {
-    console.log('+++ ' + q)
-    se.call(s, q)
-    }
+  s.execute('wiki')
   }
 </script>
 <button onclick="test()">Test</button>
