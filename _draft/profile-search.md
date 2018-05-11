@@ -14,7 +14,7 @@ gsearch = function () {
   else if (document.getElementById('lis').checked) m += ' "Listener Profile - Listener"'
   
   var s = google.search.cse.element.getElement('g0')
-  s.execute(q)
+  s.execute(q + m)
   }
 </script>
 
