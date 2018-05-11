@@ -19,7 +19,9 @@ gsearch = function () {
   }
 </script>
 
-Search 7 Cups profiles here.
+You can search 7 Cups profiles here.
+
+This is a custom Google search. The results are sometimes slightly out of date because Google takes some time to notice changes.
 
 <label for="mem"><input type="radio" id="mem" name="type"> Members only</label><br/>
 <label for="lis"><input type="radio" id="lis" name="type"> Listeners only</label><br/>
