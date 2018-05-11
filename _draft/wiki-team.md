@@ -12,11 +12,11 @@ gsearch = function () {
   else if (document.getElementById('the').checked) m += ' "Therapist Profile - 7 Cups"'
   
   var s = google.search.cse.element.getElement('g0')
-  s.execute("Wiki Team" + m)
+  s.execute('"Wiki Team"' + m)
   }
 </script>
 
-This page uses a Google search to find the Wiki Team at 7 Cups.
+This page uses a Google search to find the Wiki Team at 7 Cups. The search results might not always be 100% accurate.
 
 <label for="mem"><input type="radio" id="mem" name="type"> Members only</label><br/>
 <label for="lis"><input type="radio" id="lis" name="type"> Listeners only</label><br/>
