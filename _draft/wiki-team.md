@@ -1,6 +1,6 @@
 ---
-title: 7 Cups Wiki Team
-layout: default
+title: Find the Wiki Team
+layout: howto
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 
