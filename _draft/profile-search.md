@@ -23,7 +23,7 @@ Search 7 Cups profiles here.
 <label for="mem"><input type="radio" id="mem" name="type"> Members only</label><br/>
 <label for="lis"><input type="radio" id="lis" name="type"> Listeners only</label><br/>
 <label for="the"><input type="radio" id="the" name="type"> Therapists only</label><br/>
-<label for="all"><input type="radio" id="all" name="type" selected> All</label><br/>
+<label for="all"><input type="radio" id="all" name="type" checked> All</label><br/>
 
 <input id="query" size="40" onchange="gsearch()"> <button onclick="gsearch()">Search</button>
 
