@@ -21,7 +21,11 @@ Testing:
 <script>
 test = function () {
   var s = google.search.cse.element.getElement('g0')
-  s.execute('wiki')
+  var se = s.execute
+  s.execute = function (q) {
+    console.log('+++ ' + q)
+    se.call(s, q)
+    }
   }
 </script>
 <button onclick="test()">Test</button>
