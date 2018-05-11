@@ -16,5 +16,12 @@ Testing:
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:searchbox-only></gcse:searchbox-only>
-<gcse:searchresults-only></gcse:searchresults-only>
+<gcse:search gname="g0"></gcse:search>
+
+<script>
+test = function () {
+  var s = google.search.cse.element.getElement('g0')
+  s.execute('wiki')
+  }
+</script>
+<button onclick="test()">Test</button>
