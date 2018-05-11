@@ -1,6 +1,6 @@
 ---
-title: 7 Cups Profile Search
-layout: default
+title: Search for profiles
+layout: howto
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 
@@ -19,7 +19,7 @@ gsearch = function () {
   }
 </script>
 
-You can search 7 Cups profiles here.
+You can search for 7 Cups profiles here.
 
 This is a custom Google search. The results are sometimes slightly out of date because Google takes some time to notice changes.
 
