@@ -3,7 +3,17 @@ title: 7 Cups Profile Search
 layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-Testing:
+
+<script>
+gsearch = function () {
+  var q = document.getElementById('query').value.trim()
+  if (!q) return
+  
+  var s = google.search.cse.element.getElement('g0')
+  s.execute(q)
+  }
+</script>
+<input id="query" size="40" onchange="gsearch()"> <button onclick="gsearch()">Search</button>
 
 <script>
   (function() {
@@ -17,11 +27,3 @@ Testing:
   })();
 </script>
 <gcse:searchresults-only gname="g0"></gcse:searchresults-only>
-
-<script>
-test = function () {
-  var s = google.search.cse.element.getElement('g0')
-  s.execute('wiki')
-  }
-</script>
-<button onclick="test()">Test</button>
