@@ -10,7 +10,7 @@ class: index
 
 This is a guide to 7 Cups written for therapists, although anyone can read it.
 
-The guide is an overview that covers the many parts of 7 Cups, to explain how it works without going into a lot of detail. It is intended to provide 7 Cups therapists with basic information about the rest of 7 Cups.
+This guide is an overview that covers most parts of 7 Cups, explaining how it works without going into a lot of detail. It is intended to provide 7 Cups therapists with basic information about the rest of 7 Cups. It does not cover therapy at 7 Cups.
 
 Therapists who need some information about therapy at 7 Cups can read the separate guide: [Ethics & Online Therapy](https://www.7cups.com/ethics-and-online-therapy/) (but this link only works if you are logged in as a 7 Cups therapist).
 
@@ -20,6 +20,9 @@ Therapists who need some information about therapy at 7 Cups can read the separa
 7 Cups is a US business that provides both free and paid Internet services in the areas of mental health and emotional support.
 
 It does this through an Internet platform where people can both receive and give support—primarily support for mental health issues, but also support for other common challenges of life. The platform is available as a website at [7cups.com](https://www.7cups.com/) and as an app on Android and iOS. There is no Microsoft app.
+
+[![](https://www.7cups.com/cloudfront/img/appleDownload.png)](https://itunes.apple.com/us/app/7CupsOfTea/id921814681) [![](https://www.7cups.com/cloudfront/img/androidDownload.png)](https://play.google.com/store/apps/details?id=com.sevencupsoftea.app)
+{: style="text-align: center;"}
 
 The app provides a reduced set of features compared to the website, with the exception of translations. The app's user interface is available in many languages, but the website is only available in English. There is a second website at [lite.7cups.com](https://lite.7cups.com/) that is functionally identical to the app, including its translations.
 
