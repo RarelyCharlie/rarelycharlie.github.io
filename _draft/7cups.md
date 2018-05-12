@@ -45,7 +45,7 @@ Paid therapy at 7 Cups makes use of the platform's 1-to-1 text chats.
 
 ### Platform support
 
-Three models of support are implemented on the platform:
+Three models of support are implemented on the platform, although they are not completely separate:
 
 - A self help model, using topic-based guides, suggested activities, and goal tracking.
 - A peer support model, in which people who have similar kinds of issues are encouraged to support each other.
@@ -69,7 +69,16 @@ The company was initially funded by venture capital through the Silicon Valley o
 
 The original support model was that certain people, designated as listeners, provided the support. Listeners could be volunteers, or they could be paid by the members they supported. The model has changed considerably since then.
 
-Payments to listeners were dropped, and for a while the service relied on donations. Donations still form part of the income stream and are known as the Compassion Campaign. Paid therapy was added to the model in early 2016, and by January 2017 the business had grown to the point where its business model had become self-sustaining.
+Payments to listeners were dropped, and for a while the service relied on donations. Donations still form part of the income stream and are known as the Compassion Campaign 
+
+Members and listeners who have paid subscriptions are identified in various places on the platform by this icon:
+
+![Sustainability icon](https://www.7cups.com/cloudfront/img/growthPath/sustainability.png){: style="height: 75px; width: 75px; display: block; margin: 1em auto 0 auto;"}
+
+Sustainability icon
+{: style="text-align: center; margin-top: 0; font-size: 80%;"}
+
+Paid therapy was added to the model in early 2016, and by January 2017 the business had grown to the point where its business model had become self-sustaining.
 
 There has never been any explicit advertising within 7 Cups, except for 7 Cups' own sources of income—donations and paid therapy.
 
@@ -111,7 +120,9 @@ Guest icon
 
 Any guest can sign up to convert their account to a member account, which has a password and a profile. The password means the account can be used from more than one device.
 
-A member's profile is public. It can be seen by anyone who visits 7cups.com/@SomeScreenName and it can turn up in the results of Internet searches. 7 Cups itself, however, does not provide a way to search for members.
+A member's profile is public. It can be seen by anyone who visits 7cups.com/@*SomeScreenName* and it can turn up in the results of Internet searches.
+
+7 Cups itself does not provide a way to search for members, but it's possible to do that using the custom Google search here: [Search for profiles](https://rarelycharlie.github.io/howto/profile-search)
 
 Members have more access than guests to the support available, although some features are further restricted to members with certain status.
 
@@ -201,7 +212,7 @@ Anyone in the age range 13–17 at 7 Cups is known as a teen, and anyone 18 or o
 
 In general, teens and adults cannot communicate at 7 Cups, except in the forums. There are some exceptions. For example, adult listeners can apply for background checks to be carried out, allowing them to communicate with both adults and teens.
 
-There is a category of listeners who are aged 35 or over, but it has no great significance. 
+There is a category of listeners who are aged 35 or over, but these older listeners are not treated differently in any significant way.
 	
 ### Agreements
 
@@ -219,9 +230,9 @@ Guests only have the random name that 7 Cups generated for them. Members and lis
 
 Guests, members and listeners generally must not provide any information anywhere within 7 Cups that could be used by anyone to contact them offsite (although there are some exceptions).
 
-The platform does not store full records of chats, only enough to provide some continuity from one chat to the next.
+The platform stores chats for a year.
 
-Members and listeners can write confidential notes within the 7 Cups system, and listeners are not allowed to keep notes anywhere else.
+Members and listeners can write confidential notes within the 7 Cups platform. Listeners are not allowed to keep notes anywhere outside the 7 Cups platform.
 
 ### Community guidelines
 
