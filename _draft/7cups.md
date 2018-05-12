@@ -19,10 +19,10 @@ Therapists who need some information about therapy at 7 Cups can read the separa
 
 7 Cups is a US business that provides both free and paid Internet services in the areas of mental health and emotional support.
 
-It does this through an Internet platform where people can both receive and give support—primarily support for mental health issues, but also support for other common challenges of life. The platform is available as a website at [7cups.com](https://www.7cups.com/) and as an app on Android and iOS. There is no Microsoft app.
+It does this through an Internet platform where people can both receive and give support—primarily support for mental health issues, but also support for other common challenges of life. The platform is available as a website at [7cups.com](https://www.7cups.com/) and as an app on Apple iOS and Google Android. There is no Microsoft app.
 
-[![](https://www.7cups.com/cloudfront/img/appleDownload.png)](https://itunes.apple.com/us/app/7CupsOfTea/id921814681) [![](https://www.7cups.com/cloudfront/img/androidDownload.png)](https://play.google.com/store/apps/details?id=com.sevencupsoftea.app)
-{: style="text-align: center;"}
+[![](https://www.7cups.com/cloudfront/img/appleDownload.png)](https://itunes.apple.com/us/app/7CupsOfTea/id921814681) &nbsp; [![](https://www.7cups.com/cloudfront/img/androidDownload.png)](https://play.google.com/store/apps/details?id=com.sevencupsoftea.app)
+{: style="text-align: center; transform: scale(.5);"}
 
 The app provides a reduced set of features compared to the website, with the exception of translations. The app's user interface is available in many languages, but the website is only available in English. There is a second website at [lite.7cups.com](https://lite.7cups.com/) that is functionally identical to the app, including its translations.
 
