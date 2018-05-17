@@ -199,6 +199,9 @@ A ~~forum~~ ~~thread~~ intended for people who have some common interest (for ex
 # cheer
 A point awarded for activity on ~~7 Cups~~. Cheers accumulate and form part of the system of ~~reputation~~. Some people have accumulated more than a million cheers. _See also:_ ~~compassion heart~~
 
+# CM
+Community Manager. A ~~staff~~ member whose job is ~~community~~ management.
+
 # community
 All the people involved in ~~7 Cups~~. Sometimes used informally to mean a ~~subcommunity.~~
 
