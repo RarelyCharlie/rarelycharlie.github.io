@@ -468,7 +468,7 @@ A cloud-based system used to provide faster response times and better security f
 7th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # intern
-A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed for student placements (although people who are not students can also join the program). _See:_ [General FAQ Internship](https://www.7cups.com/forum/ListenerProjectsampTeams_148/InternshipsandPracticals_92/GeneralFAQ7CupsInternship_49111/)
+A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed for student placements (although people who are not students can also join the program). _See:_ [7 Cups of Tea Internship Program](https://www.7cups.com/about/internships.php)
 
 
 ## J
