@@ -25,6 +25,6 @@ Outside 7 Cups:
 (Slightly different rules apply to admins, therapists, and members of some teams.)
 
 ### Interns
-If you are an [intern](https://rarelycharlie.github.io/glossary#intern), then referral clicks are only one way to do your required community outreach. You can also do your community outreach in ways that do not involve the Internet.
+If you are an [intern](https://rarelycharlie.github.io/glossary#intern), then referral clicks are only one part of your required community outreach.
 
-Examples are posting flyers, publishing in newspapers and magazines, and giving presentations. If you reach out to your community in these other ways, you will not need so many referral clicks—or you might not need any at all.
+You can also do community outreach in ways that do not involve the Internet. Examples are posting flyers, publishing in newspapers and magazines, and giving presentations. If you reach out to your community in these other ways, you might not need so many referral clicks, or you might not need any at all, depending on how the rules of the internship program stand at the time.
