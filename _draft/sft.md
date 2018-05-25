@@ -1,6 +1,6 @@
 ---
 title: Solution Focused Therapy
-layout: plain
+layout: guide
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 
@@ -126,7 +126,7 @@ There are various ways you can construct compliments. Some of them are described
 
 Tell the member their situation is normal and acceptable.
 
-Listener: It's OK for you to feel bad after you were rejected twice.
+|Listener:|It's OK for you to feel bad after you were rejected twice.|{.chat}
 
 Listener: Many people have great difficulty deciding whether to leave the country they grew up in.
 
