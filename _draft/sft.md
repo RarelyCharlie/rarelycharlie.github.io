@@ -136,41 +136,54 @@ Or:
 
 ### Optimism
 
-Tell the member they are capable and skilled.
+Tell the member they are capable and skilled. For example:
  
-Listener: Your son is lucky to have a father who cares about him as much as you do.
+!Listener:!Your son is lucky to have a father who cares about him as much as you do.
+{:.chat}
 
-Listener: You have a great sensitivity to people.
+Or:
+
+!Listener:!You have a great sensitivity to people.
+{:.chat}
 
 ### Hope
 
 Tell the member they are making progress towards solving the problem.
 
-Listener: Noticing that you feel happy on Mondays is an important observation.
+|Listener:|Noticing that you feel happy on Mondays is an important observation.
+{:.chat}
 
-Listener: Trying different routes on your commute was a smart strategy.
+|Listener:|Trying different routes on your commute was a smart strategy.
+{:.chat}
 
 ### Indirect compliments
 
 It can also be useful to give compliments indirectly or by implication.
 
-Listener: What would your girlfriend say is your most attractive quality?
+|Listener:|What would your girlfriend say is your most attractive quality?
+{:.chat}
 
 (This indirectly compliments the member on being attractive.)
 
-Listener: How did you know to ask your mother?
+|Listener:|How did you know to ask your mother?
+{:.chat}
 
 (This indirectly compliments the member on knowing their mother was the right person to ask.)
 
-Listener: What did you say to persuade your boss so quickly?
+|Listener:|What did you say to persuade your boss so quickly?
+{:.chat}
 
 (This indirectly compliments the member on being persuasive.)
 
-Every SFT session should end with compliments mo matter how you feel the session went, and no matter how you really feel about the member!
+Every SFT session should end with compliments mo matter how you feel the session went, and no matter how you really feel about the member! For example:
 
-Listener: We've had a challenging session this week but you didn't give up.
+|Listener:|We've had a challenging session this week but you didn't give up.
+{:.chat}
 
-Listener: Your idea of making a list of questions to ask your doctor was really smart. 
+Or:
+
+|Listener:|Your idea of making a list of questions to ask your doctor was really smart.
+{:.chat}
 
 # Goals I
 
@@ -183,7 +196,8 @@ Thus the member's goals are to make things different.
 
 How to make things different has nothing to do with you as a listener. The member is the expert. As a listener, you can compliment the member and then ask a question like this:
 
-Listener: You seem to have thought about your situation deeply. What needs to happen so that things will be different in future?
+|Listener:|You seem to have thought about your situation deeply. What needs to happen so that things will be different in future?
+{:.chat}
 
 But do not go into detail about who will do what. That's entirely up to the member. Asking "What needs to happen?" is a good way to avoid personalizing the question.
 
@@ -197,7 +211,8 @@ The member always defines what will be different. The listener never makes sugge
 
 A member might sometimes describe a non-problem, in the sense that nothing needs to change. When that happens, simply compliment the member:
 
-Listener: You've discovered ways to cope with that aspect of the situation without any help from anyone!
+|Listener:|You've discovered ways to cope with that aspect of the situation without any help from anyone!
+{:.chat}
 
 ### Understanding the problem
 
@@ -211,9 +226,9 @@ Goals should be limited and objective, so that they are easy to reach.
 
 Limit discussion of the problem, its causes, and any past events, by changing the subject as soon as possible to the future and how it can be different.
 
-Member: I need to understand why I've become so anxious.
-
-Listener: If you were no longer anxious, but you never got to understand why you'd been anxious, would that be good enough?
+|Member:|I need to understand why I've become so anxious.
+|Listener:|If you were no longer anxious, but you never got to understand why you'd been anxious, would that be good enough?
+{:.chat}
 
 (Notice how the listener changes the subject to a future in which the member is not anxious.)
 
@@ -221,11 +236,13 @@ Listener: If you were no longer anxious, but you never got to understand why you
 
 It's useful to ask the member to define goals for each chat, in addition to overall goals for solving the problem. For example:
 
-Listener: What are your best hopes for today’s chat?
+|Listener:|What are your best hopes for today’s chat?
+{:.chat}
 
 Or:
 
-Listener: What needs to happen in this chat so that you'll think it was worth your while?”
+|Listener:|What needs to happen in this chat so that you'll think it was worth your while?
+{:.chat}
 
 # Goals II
 
@@ -237,23 +254,30 @@ A key question to ask each member is known in SFT as the "miracle question". It'
 
 The miracle question goes something like this:
 
-Listener: This may seem like a strange question, but even so I'd like you to try and answer it thoughtfully. Imagine that tonight while you are asleep, a miracle happens and the problem you've been telling me about is completely solved. When you wake up, how will you know that a miracle happened and your problem has been solved?
+|Listener:|This may seem like a strange question, but even so I'd like you to try and answer it thoughtfully.
+||Imagine that tonight while you are asleep, a miracle happens and the problem you've been telling me about is completely solved.
+||When you wake up, how will you know that a miracle happened and your problem has been solved?
+{:.chat}
 
 When the member replies, follow up with questions to get details about what changes the miracle caused.
 
-Listener: What else will you notice?
+|Listener:|What else will you notice?
+{:.chat}
 
 And:
 
-Listener: What will other people notice?
+|Listener:|What will other people notice?
+{:.chat}
 
 The miracle question focuses the member's thinking on the future and makes them consider what's possible. Then you can try and link the miracle to the present:
 
-Listener: Which parts of the miracle have you noticed happening already, even if it's only occasionally or partly?
+|Listener:|Which parts of the miracle have you noticed happening already, even if it's only occasionally or partly?
+{:.chat}
 
 Then: 
 
-Listener: What is different about those times?
+|Listener:|What is different about those times?
+{:.chat}
 
 ### Scaling
 
@@ -261,11 +285,13 @@ Scaling questions help the member to measure the effect a problem is having on t
 
 For example, you could use a scale of 1 to 10 when you ask scaling questions. On this scale, 1 means the member is entirely a victim of the problem, while 10 means the member is entirely free from the problem. Always use the same scale for all your scaling questions.
 
-Listener: Imagine a scale of 1 to 10, where 1 means you are completely victim to your problem, and 10 means you are completely free from your problem. Where are you on that scale right now?
+|Listener:|Imagine a scale of 1 to 10, where 1 means you are completely victim to your problem, and 10 means you are completely free from your problem. Where are you on that scale right now?
+{:.chat}
 
 Follow up by asking the member what would have to happen to move the situation up the scale by one point between now and the next session.
 
-Listener: What would have to happen for your situation to change from 3 on the scale, where it is now, to 4 on the scale by next week when we chat again?
+|Listener:|What would have to happen for your situation to change from 3 on the scale, where it is now, to 4 on the scale by next week when we chat again?
+{:.chat}
 
 For members who have more than one problem, each problem needs separate scaling questions. As a listener you must keep track of them. Use your Notes for things like this.
 
@@ -273,11 +299,13 @@ It often happens that situations change more rapidly than one point on the membe
 
 When the situation changes on the member's scale, ask for other observations about the change:
 
-Listener: What do you notice is different now about your situation?
+|Listener:|What do you notice is different now about your situation?
+{:.chat}
 
 Assume that change is constantly occurring, and is to be expected:
 
-Listener: What kinds of changes you would like to happen next?
+|Listener:|What kinds of changes you would like to happen next?
+{:.chat}
 
 # Coping
 
@@ -301,31 +329,36 @@ Encourage the member to describe in detail an imaginary future where the problem
 
 Then ask about the times when parts of this imaginary future have might have happened already.
 
-Member: In the future, when I don't have to worry about her so much of the time, I'll be able to enjoy relaxing at home.
-
-Listener: Are there ever times when you are able to enjoy relaxing at home now?
+|Member:|In the future, when I don't have to worry about her so much of the time, I'll be able to enjoy relaxing at home.
+|Listener:|Are there ever times when you are able to enjoy relaxing at home now?
+{:.chat}
 
 And:
 
-Listener: What's is it that makes those times different from the rest of the time?
+|Listener:|What's is it that makes those times different from the rest of the time?
+{:.chat}
 
 And then:
 
-Listener: What would have to happen so that things are like that more often?
+|Listener:|What would have to happen so that things are like that more often?
+{:.chat}
 
 ### Identifying what works
 
 Sometimes a more general question about coping is useful:
 
-Listener: What do you do well?
+|Listener:|Tell me about the things you do well?
+{:.chat}
 
 Or focus on what the member has already tried:
 
-Listener: What have you tried to do to make it less of a problem?
+|Listener:|What have you tried to do to make it less of a problem?
+{:.chat}
 
 And follow up with:
 
-Listener: Did you find that worked, even a little?
+|Listener:|Did you find that worked, even a little?
+{:.chat}
 
 Questions like these help the member to notice patterns of success. As a listener, your role is to highlight these patterns. Do not highlight patterns of failure—change the subject to success.
 
@@ -335,7 +368,8 @@ No problem remains equally problematic all the time. There are always exceptions
 
 Questions about exceptions help the member to identify these times. For example:
 
-Listener: Have there ever been times when the problem you described to me didn't happen, or felt less severe to you?
+|Listener:|Have there ever been times when the problem you described to me didn't happen, or felt less severe to you?
+{:.chat}
 
 When the member can identify an exception, ask follow-up questions to establish the details. Avoid any change of subject back to the problem or its causes.
 
@@ -347,13 +381,16 @@ There is a tradition in SFT of taking a short break towards the end of a session
 
 Introduce the break to the member as a helpful thing to do:
 
-Listener: It will be helpful if we take a short break now, and come back after 5 minutes or so to wrap up our chat. You can use the break to reflect on our chat and how you want to make use of the time until our next chat.
+|Listener:|It will be helpful if we take a short break now, and come back after 5 minutes or so to wrap up our chat.
+||You can use the break to reflect on our chat and how you want to make use of the time until our next chat.
+{:.chat}
 
 ### Catching up
 
 Before the break itself, ask a catch-up question like this:
 
-Listener: Is there anything else you feel I need to know before we take the break?
+|Listener:|Is there anything else you feel I need to know before we take the break?
+{:.chat}
 
 At this time members often say something significant that they would not otherwise have revealed.
 
@@ -365,11 +402,15 @@ Use the break to reflect on the chat, to think of a homework task for the member
 
 ### Wrapping up
 
-When wrapping up the chat, compliment the member in a specific and factual way that relates to the chat you've just had.
+When wrapping up the chat, compliment the member in a specific and factual way that relates to the chat you've just had. For example:
 
-Listener: I've been impressed by how honest you've been with me about your feelings of despair.
+|Listener:|I've been impressed by how honest you've been with me about your feelings of despair.
+{:.chat}
 
-Listener: You've been able to describe your anxieties in amazing detail that shows what a thoughtful and articulate person you are.
+Or:
+
+|Listener:|You've been able to describe your anxieties in amazing detail that shows what a thoughtful and articulate person you are.
+{:.chat}
 
 For problems the member has a complainer or customer relationship to, suggest a homework task based on the things you have been chatting about, but for problems that the member has a visitor relationship to, don't suggest a task.
 
@@ -379,11 +420,12 @@ For a visitor (the member has no problem, has no goal, or it's someone else's pr
 
 ### Complainer homework
 
-For a complainer (the member has a goal, but does not own the problem), give compliments and an observation task.
+For a complainer (the member has a goal, but does not want to own the problem), give compliments and an observation task.
 
 For example:  
 
-Listener: Every day between now and our next chat, I'd like you to notice and observe carefully any little things that you want to continue to happen. Make notes, if you like, so you can describe them.
+|Listener:|Every day between now and our next chat, I'd like you to notice and observe carefully any little things that you want to continue to happen. Make notes, if you like, so you can describe them.
+{:.chat}
 
 ### Customer homework
 
@@ -391,7 +433,9 @@ For a customer (the member has a goal and takes ownership of the problem), give 
 
 When you suggest an action task, ensure it is possible. For example:
 
-Listener: You said noticed that a couple of times when you happened to arrive home a little early there seemed to be less of a problem. Between now and our next chat, I'd like you to arrive home a little early deliberately, and to observe what effect that has. Then we can discuss it next time.
+|Listener:|You said noticed that a couple of times when you happened to arrive home a little early there seemed to be less of a problem.
+||Between now and our next chat, I'd like you to arrive home a little early deliberately, and to observe what effect that has. Then we can discuss it next time.
+{:.chat}
 
 # Cheat sheet
 
