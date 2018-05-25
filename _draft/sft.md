@@ -126,9 +126,9 @@ There are various ways you can construct compliments. Some of them are described
 
 Tell the member their situation is normal and acceptable.
 
-|Listener:|It's OK for you to feel bad after you were rejected twice.|{:.chat}
+|Listener:|It's OK for you to feel bad after you were rejected twice.{:.chat}
 
-Listener: Many people have great difficulty deciding whether to leave the country they grew up in.
+|Listener:|Many people have great difficulty deciding whether to leave the country they grew up in.{:.chat}
 
 ### Optimism
 
