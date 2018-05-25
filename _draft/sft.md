@@ -124,11 +124,15 @@ There are various ways you can construct compliments. Some of them are described
 
 ### Reassurance
 
-Tell the member their situation is normal and acceptable.
+Tell the member their situation is normal and acceptable. For example:
 
-|Listener:|It's OK for you to feel bad after you were rejected twice.{:.chat}
+|Listener:|It's OK for you to feel bad after you were rejected twice.
+{:.chat}
 
-|Listener:|Many people have great difficulty deciding whether to leave the country they grew up in.{:.chat}
+Or:
+
+|Listener:|Many people have great difficulty deciding whether to leave the country they grew up in.
+{:.chat}
 
 ### Optimism
 
