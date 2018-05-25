@@ -359,7 +359,7 @@ A real-life SFT therapist would often use the break to consult with a colleague 
 
 Use the break to reflect on the chat, to think of a homework task for the member, and to think up compliments to end the chat with.
 
-# Wrapping up
+### Wrapping up
 
 When wrapping up the chat, compliment the member in a specific and factual way that relates to the chat you've just had.
 
