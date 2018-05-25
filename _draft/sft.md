@@ -32,11 +32,9 @@ When you provide active listening, you should not add elements of SFT to the mix
 
 SFT relies on the fact that everything changes constantly. No situation remains completely static.
 
-When there's a problem, the problem is not exactly the same all the time. In SFT we identify any useful changes and amplify them deliberately. Doing this gradually makes the problem less.
+When there's a problem, the problem is not exactly the same all the time. In SFT you identify any useful changes and amplify them deliberately. Doing this gradually makes the problem less.
 
-However, small changes can make a bigger difference than expected.
-
-When people hit on ideas for changes that work, problems can shrink or disappear very rapidly.
+However, small changes can make a bigger difference than expected. When people hit on ideas for changes that work, problems can shrink or disappear very rapidly.
 
 In SFT, the member is the expert on their own situation at all times. The listener does not need any knowledge or expertise, except to implement the SFT process. 
 
@@ -56,7 +54,7 @@ In this guide there is a section describing each of SFT's most common techniques
 
 Each section has a quiz at the end, and you must complete the quiz correctly in order to move on to the next section.
 
-# Overview
+# Getting started
 
 You might offer the possibility of SFT during a normal active listening chat. Then, if the member agrees, begin the SFT in your next chat. It is best not to mix active listening and SFT in the same chat, because the techniques differ. The differences will be explored later in this guide.
 
@@ -72,7 +70,7 @@ In SFT the relationship between listener and member progresses through three sta
 
 The three stages are often known as the *visitor* relationship, the *complainer* relationship, and the *customer* relationship, but these terms are not very meaningful in themselves—they are just a way to remember the three stages.
 
-A member who has more than one problem might be at different stages for each of the different problems. This can make SFT quite complicated, because as a listener you need a clear sense of your relationship with the member in regard to each of their problems separately.
+A member who has more than one problem might be at different stages for each of the different problems. This can make SFT quite complicated, because as a listener you need a clear sense of your relationship with the member in regard to each of their problems separately. Use your [Notes](https://www.7cups.com/notes.php) feature in 7 Cups to keep track.
 
 ### Visitors
 
@@ -138,20 +136,22 @@ Or:
 
 Tell the member they are capable and skilled. For example:
  
-!Listener:!Your son is lucky to have a father who cares about him as much as you do.
+|Listener:|Your son is lucky to have a father who cares about him as much as you do.
 {:.chat}
 
 Or:
 
-!Listener:!You have a great sensitivity to people.
+|Listener:|You have a great sensitivity to people.
 {:.chat}
 
 ### Hope
 
-Tell the member they are making progress towards solving the problem.
+Tell the member they are making progress towards solving the problem. For example:
 
 |Listener:|Noticing that you feel happy on Mondays is an important observation.
 {:.chat}
+
+Or:
 
 |Listener:|Trying different routes on your commute was a smart strategy.
 {:.chat}
@@ -293,9 +293,9 @@ Follow up by asking the member what would have to happen to move the situation u
 |Listener:|What would have to happen for your situation to change from 3 on the scale, where it is now, to 4 on the scale by next week when we chat again?
 {:.chat}
 
-For members who have more than one problem, each problem needs separate scaling questions. As a listener you must keep track of them. Use your Notes for things like this.
+For members who have more than one problem, each problem needs separate scaling questions. As a listener you must keep track of them. Use your [Notes](https://www.7cups.com/notes.php) for things like this.
 
-It often happens that situations change more rapidly than one point on the member's scale, once they hit on a solution. In each chat ask the scaling question again, making no assumptions about how the situation might have changed.
+It often happens that situations change more rapidly than one point on the member's scale, once the member hits on a solution. In each chat ask the scaling question again, making no assumptions about how the situation might have changed.
 
 When the situation changes on the member's scale, ask for other observations about the change:
 
