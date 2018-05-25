@@ -168,14 +168,14 @@ Listener: We've had a challenging session this week but you didn't give up.
 
 Listener: Your idea of making a list of questions to ask your doctor was really smart. 
 
-# Goals
+# Goals I
 
 In SFT the approach to problems is always the same:
 
 - The member imagines a future when the problem is solved, or is less problematic.
 - The member identifes what will be different about that future time.
 
-Then the member's goals are to make things different.
+Thus the member's goals are to make things different.
 
 How to make things different has nothing to do with you as a listener. The member is the expert. As a listener, you can compliment the member and then ask a question like this:
 
@@ -223,6 +223,10 @@ Or:
 
 Listener: What needs to happen in this chat so that you'll think it was worth your while?”
 
+# Goals II
+
+SFT has some specialized techniques for identifying goals. The *miracle question* is for identifying overall goals, and *scaling* questions are for identifying short-term goals and for tracking progress.
+
 ### The Miracle Question
 
 A key question to ask each member is known in SFT as the "miracle question". It's important to ask each member the miracle question because it goes to the heart of the SFT method.
@@ -247,7 +251,7 @@ Then:
 
 Listener: What is different about those times?
 
-# Scaling
+### Scaling
 
 Scaling questions help the member to measure the effect a problem is having on them, and to track gradual improvements. Sometimes, clients are not aware of their own progress, and scaling questions help to make them aware.
 
@@ -331,15 +335,19 @@ Listener: Have there ever been times when the problem you described to me didn't
 
 When the member can identify an exception, ask follow-up questions to establish the details. Avoid any change of subject back to the problem or its causes.
 
-# Breaks
+# Ending a chat
 
-There is a tradition in SFT of taking a short break towards the end of a session. You can do this in a chat by taking a break of 5 minutes or so, leaving 10 minutes to wrap up the chat after your return.
+There is a tradition in SFT of taking a short break towards the end of a session. You can do this in a chat by taking a break of 5 minutes or so, leaving 10 minutes to wrap up the chat after your return. This means the ending of a chat has a structure to it.
 
-Listener: It will be helpful if we take a short break now, and come back after 5 minutes or so to wrap up our chat.
+### The break
+
+Introduce the break to the member as a helpful thing to do:
+
+Listener: It will be helpful if we take a short break now, and come back after 5 minutes or so to wrap up our chat. You can use the break to reflect on our chat and how you want to make use of the time until our next chat.
 
 ### Catching up
 
-Before the break, ask a catch-up question like this:
+Before the break itself, ask a catch-up question like this:
 
 Listener: Is there anything else you feel I need to know before we take the break?
 
@@ -347,27 +355,27 @@ At this time members often say something significant that they would not otherwi
 
 ### During the break 
 
-A real-life SFT therapist you would often use the break to consult with a colleague about the case, but at 7 Cups that is not allowed. At 7 Cups, never discuss a member with anyone else.
+A real-life SFT therapist would often use the break to consult with a colleague about the case, but at 7 Cups that is not allowed. At 7 Cups, never discuss a member with anyone else.
 
 Use the break to reflect on the chat, to think of a homework task for the member, and to think up compliments to end the chat with.
 
-# Ending a chat
+# Wrapping up
 
-At the end of a chat, compliment the member in a specific and factual way that relates to the chat you've just had.
+When wrapping up the chat, compliment the member in a specific and factual way that relates to the chat you've just had.
 
 Listener: I've been impressed by how honest you've been with me about your feelings of despair.
 
 Listener: You've been able to describe your anxieties in amazing detail that shows what a thoughtful and articulate person you are.
 
-For problems the member has a complainer or customer relationship to, suggest a homework task based on the things you have been chatting about.
+For problems the member has a complainer or customer relationship to, suggest a homework task based on the things you have been chatting about, but for problems that the member has a visitor relationship to, don't suggest a task.
 
 ### Visitor homework
 
-For a visitor, only give compliments, no task. 
+For a visitor (the member has no problem, has no goal, or it's someone else's problem), only give compliments, no task. 
 
 ### Complainer homework
 
-For a complainer, give compliments and an observation task.
+For a complainer (the member has a goal, but does not own the problem), give compliments and an observation task.
 
 For example:  
 
@@ -375,9 +383,11 @@ Listener: Every day between now and our next chat, I'd like you to notice and ob
 
 ### Customer homework
 
-For a customer, give compliments and either an observation task or an action task.
+For a customer (the member has a goal and takes ownership of the problem), give compliments and either an observation task or an action task.
 
-When you suggest an action task, ensure it is possible.
+When you suggest an action task, ensure it is possible. For example:
+
+Listener: You said noticed that a couple of times when you happened to arrive home a little early there seemed to be less of a problem. Between now and our next chat, I'd like you to arrive home a little early deliberately, and to observe what effect that has. Then we can discuss it next time.
 
 # Cheat sheet
 
