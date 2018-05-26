@@ -185,7 +185,7 @@ It can also be useful to give compliments indirectly or by implication.
 
 (This indirectly compliments the member on being persuasive.)
 
-Every SFT session should end with compliments mo matter how you feel the session went, and no matter how you really feel about the member! For example:
+Every SFT session should end with compliments no matter how you feel the session went, and no matter how you really feel about the member! For example:
 
 |Listener:|We've had a challenging session this week but you didn't give up.
 {:.chat}
