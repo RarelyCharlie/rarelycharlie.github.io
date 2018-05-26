@@ -3,6 +3,7 @@ title: Solution Focused Therapy
 layout: guide
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
+# About this guide
 
 This is an unofficial guide for listeners that briefly describes Solution-Focused Therapy (SFT), a technique for helping people to solve their problems. SFT is also known as Solution-Focused Brief Therapy (SFBT). 
 
@@ -24,7 +25,7 @@ In this guide the term member also includes guests. The term listener is used to
 
 *Parts of this guide describe good practice in the opinion of the author, but are not necessarily consistent with other guidance at 7 Cups.*
 
-![decoration](\assets\guide\decow0.png){:.decow2}
+![decoration](\assets\guide\decow0s.png){:.decow2}
 
 *The comic strip characters are [Mimi and Eunice](http://mimiandeunice.com/)<br/>adapted from originals ♡ CC-BY-SA Nina Paley.*
 {:style="text-align: center;"}
