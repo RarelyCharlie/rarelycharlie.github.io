@@ -9,17 +9,11 @@ This is an unofficial guide for listeners that briefly describes Solution-Focuse
 
 This guide is not a self-help guide, although members and guests can read it. In SFT the member (or client) and the listener (or therapist) have separate roles, so that a do-it-yourself approach to SFT is not always practical.
 
-SFT is not active listening. Listeners at 7 Cups should not normally try to use SFT or any other form of therapy at 7 Cups. Listeners' training makes this clear on the first page:
+In this guide there is a section describing each of SFT's most common techniques quite briefly. The aim is to provide enough information for a listener who takes SFT seriously to use it in an effective semi-professional way, but this guide is not a substitute for professional training.
 
-> Your careful listening helps the other person to feel heard, valued, and understood. Keep in mind that active listening is not counseling or advice giving. You shouldn’t try to solve their problems.
+The guide is in many short sections. Most sections have a quiz at the end. You must correctly complete the quiz before you can move to the next section. There is no limit to the number of times you can retry each quiz.
 
-However, some listeners are determined to ignore their training and try to solve members' problems. For those listeners, this guide aims to provide some information about how to go about solving members' problems in a professional way.
-
-As a listener at 7 Cups, you do not really have the necessary training, professional support, license, or insurance to provide any form of therapy. You are anonymous and unaccountable. 7 Cups does not support listeners who try to provide therapy.
-
-If you do try to solve a member's problems, you should make it clear to the member before you start that you are no longer providing active listening, and that you are attempting amateur therapy instead. Do not sneak SFT into chats without warning the member very clearly about what you are doing.
-
-In this guide the term member also includes guests. The term listener is used to mean the person providing the therapy. Other sources of information about SFT would normally use the terms client and either therapist or counselor for these roles.
+To navigate back to a section you have completed, use the little square links along the top of each page.
 
 *Author: [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).*
 
@@ -32,13 +26,27 @@ In this guide the term member also includes guests. The term listener is used to
 
 # Introduction
 
+Solution Focused Therapy (SFT) is not active listening. Listeners at 7 Cups should not normally try to use SFT or any other form of therapy at 7 Cups. Listeners' training makes this clear on the first page:
+
+> Your careful listening helps the other person to feel heard, valued, and understood. Keep in mind that active listening is not counseling or advice giving. You shouldn’t try to solve their problems.
+
+However, some listeners are determined to ignore their training and try to solve members' problems. For those listeners, this guide aims to provide some information about how to go about solving members' problems in a professional way.
+
+As a listener at 7 Cups, you do not really have the necessary training, professional support, license, or insurance to provide any form of therapy. You are anonymous and unaccountable. 7 Cups does not support listeners who try to provide therapy.
+
+If you do try to solve a member's problems, you should make it clear to the member before you start that you are no longer providing active listening, and that you are attempting amateur therapy instead. Do not sneak SFT into chats without warning the member very clearly about what you are doing.
+
+In this guide the term member also includes guests. The term listener is used to mean the person providing the therapy. Other sources of information about SFT would normally use the terms client and either therapist or counselor for these roles.
+
+### What is SFT for?
+
 Solution-Focused Therapy (SFT) was developed, based on an extensive research program, as a general way to address a wide variety of mental health problems. It differs significantly from other forms of therapy, and it differs significantly from active listening.
 
 When you provide SFT you should focus exclusively and consistently on SFT. However, it is useful to add some reflection (active listening) because it helps to compensate for the limitations of online chats.
 
 When you provide active listening, you should not add elements of SFT to the mix. You should focus exclusively and consistently on active listening. In particular, do not use compliments in active listening, because they imply judgements.
 
-### What is SFT?
+### How does SFT work?
 
 SFT relies on the fact that everything changes constantly. No situation remains completely static.
 
@@ -48,8 +56,6 @@ However, small changes can make a bigger difference than expected. When people h
 
 In SFT, the member is the expert on their own situation at all times. The listener does not need any knowledge or expertise, except to implement the SFT process. 
 
-### How SFT works
-
 SFT essentially consists of compliments and questions. Both the compliments and the questions have specialized forms.
 
 The focus of SFT is always on solutions, never on problems. In SFT the member is the expert who knows how to find the solutions, while the listener has no knowledge of the solutions. The listener's only role is to direct the course of the therapy.
@@ -57,12 +63,6 @@ The focus of SFT is always on solutions, never on problems. In SFT the member is
 SFT can be used to solve a single problem or a collection of problems. It focuses on a future where the problems do not exist, or where they are less troublesome. It avoids any focus on the problems themselves or on their causes.
 
 Research has shown that these elements of SFBT are the things that enable people to discover solutions to their problems very quickly. SFT rapidly creates hope, and it gives members control over the process of solving their problems.
-
-### This guide
-
-In this guide there is a section describing each of SFT's most common techniques quite briefly. The aim is to provide enough information for a listener who takes SFT seriously to use it in an effective semi-professional way, but this guide is not a substitute for professional training.
-
-Each section has a quiz at the end, and you must complete the quiz correctly in order to move on to the next section.
 
 # Getting started
 
