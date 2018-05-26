@@ -20,6 +20,15 @@ If you do try to solve a member's problems, you should make it clear to the memb
 
 In this guide the term member also includes guests. The term listener is used to mean the person providing the therapy. Other sources of information about SFT would normally use the terms client and either therapist or counselor for these roles.
 
+*Author: [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).*
+
+*Parts of this guide describe good practice in the opinion of the author, but are not necessarily consistent with other guidance at 7 Cups.*
+
+![decoration](\assets\guide\decow0.png){:.decow2}
+
+*The comic strip characters are [Mimi and Eunice](http://mimiandeunice.com/)<br/>adapted from originals ♡ CC-BY-SA Nina Paley.*
+{:style="text-align: center;"}
+
 # Introduction
 
 Solution-Focused Therapy (SFT) was developed, based on an extensive research program, as a general way to address a wide variety of mental health problems. It differs significantly from other forms of therapy, and it differs significantly from active listening.
