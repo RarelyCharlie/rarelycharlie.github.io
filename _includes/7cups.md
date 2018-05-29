@@ -297,7 +297,7 @@ A collection of forums provides for detailed questions and sometimes extended di
 
 Most of the forums are public and can be read by anyone, including guests. Only members, listeners and therapists can contribute to the forums. A few forums are restricted. Some are restricted to listeners, some to therapists, and some to other groups.
 
-In a forum, discussion about a specific topic is known as a thread, and the individual contributions to the thread are known as posts.
+In a forum, discussion about a specific topic is known as a thread, and the individual contributions to the thread are known as posts. Members, listeners and therapists can subscribe to threads so as to be notified of new posts. The page [My Forum Threads](https://www.7cups.com/forum/search.php?searchForum=&userSubscribed=on) lists your subscribed threads, or threads you started. (The link can also be found by clicking your own profile image at the top right of most pages.)
 
 Threads in the forums are used for a variety of purposes in addition to discussion. Some contain announcements or reference information. Some are intended for people to check in (and over time these can become very long). In some places in the forums, there are daily or weekly check-in threads to encourage members to stay in touch.
 
