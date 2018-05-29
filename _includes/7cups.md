@@ -63,7 +63,7 @@ The company was initially funded by venture capital through the Silicon Valley o
 
 The original support model was that certain people, designated as listeners, provided the support. Listeners could be volunteers, or they could be paid by the members they supported. The model has changed considerably since then.
 
-Payments to listeners were dropped, and for a while the service relied on donations. Donations still form part of the income stream and are known as the Compassion Campaign 
+Payments to listeners were dropped, and for a while the service relied on donations. Donations still form part of the income stream and are known as the [Compassion Campaign](https://www.7cups.com/backus/compassionJar.php).
 
 Members and listeners who have paid subscriptions are identified in various places on the platform by this icon:
 
@@ -157,6 +157,10 @@ Anyone who is permitted to practice psychotherapy or counselling in their own lo
 
 Therapists can pay to be included in a directory in order to provide paid support to members. They have public profiles, and 7 Cups provides a way to search them at: [Search Therapists](https://www.7cups.com/therapists/search.php)
 
+Therapists' profiles contain similar kinds of information to members’ and listeners' profiles, although the details are different. There is no button to start a chat, because to chat with a therapist a member must set up payment. Therapists' feeds are not published, but there is a button so that any member or listener can follow a therapist's feed.
+
+Some other information in therapists' profiles is optional, and does not appear in every profile—for example, the therapist's in-office hourly rate and a link to their website.
+
 A therapist account is shown within 7 Cups as a round icon exactly like a listener account.
 
 ### Reputation
@@ -167,7 +171,7 @@ A cheer is the basic reputation point awarded for activity. For example, a membe
 
 Compassion hearts are also points awarded for activity, like cheers, but for different activities. The compassion hearts system is not as important as the cheers system.
 
-For listener quality there is a star rating based purely on 1-to-1 chats.
+Listeners' and therapists' profiles include star ratings based purely on 1-to-1 chats, and they also include a list of positive reviews following chats. (Negative reviews are not included.)
 
 Members and listeners also earn badges that represent various achievements. There are hundreds of badges. Some of them are awarded automatically by the platform, some are awarded by nomination, and some have to be applied for.
 
@@ -300,6 +304,15 @@ Threads in the forums are used for a variety of purposes in addition to discussi
 Posts in the forums can be upvoted (but not downvoted). Doing this causes the poster to be notified of the upvote. Inappropriate posts can be flagged for a moderator's attention.
 
 Mentioning someone's name in the forums (with the @-sign at the start of the name) causes them to be notified automatically. This is known as tagging. (The forums do not support hashtags.) Some forum posts tag people secretly by including their names in white on the white background.
+
+The entire collection of forums can be seen at [Forum Home](https://www.7cups.com/forum/) where there are tabs labeled:
+
+- Popular (threads with the latest posts)
+- New (the most recently created threads)
+- Top (threads with the most upvotes)
+- Needs Reply (threads that have no reply)
+
+However, the Popular and Top threads are old check-in type threads that have accumulated huge numbers of responses. There has historically been a problem with forum spam, and it is unresolved at the time of writing.
 
 ### Chatrooms
 
