@@ -4,9 +4,9 @@
 
 This is a guide to 7 Cups written for therapists, although anyone can read it.
 
-This guide is an overview that covers most parts of 7 Cups, explaining how it works without going into a lot of detail. It is intended to provide 7 Cups therapists with basic information about the rest of 7 Cups. It does not cover therapy at 7 Cups.
+This guide is an overview that covers most parts of 7 Cups, explaining how it works without going into a lot of detail. It is intended to provide 7 Cups therapists with basic information about the rest of 7 Cups.
 
-Therapists who need some information about therapy at 7 Cups can read the separate guide: [Ethics & Online Therapy](https://www.7cups.com/ethics-and-online-therapy/) (but this link only works if you are logged in as a 7 Cups therapist).
+Therapists who need more information about therapy at 7 Cups can read the separate guide: [Ethics & Online Therapy](https://www.7cups.com/ethics-and-online-therapy/) (but this link only works if you are logged in as a 7 Cups therapist).
 
 
 # What is 7 Cups?
@@ -176,6 +176,10 @@ Listeners' and therapists' profiles include star ratings based purely on 1-to-1 
 Members and listeners also earn badges that represent various achievements. There are hundreds of badges. Some of them are awarded automatically by the platform, some are awarded by nomination, and some have to be applied for.
 
 For more information, see:  [Listener Reputation](https://www.7cups.com/about/faqBadgesCheers.php) and [Member Reputation](https://www.7cups.com/about/memberReputation.php)
+
+### Self-care breaks
+
+A member, listener or therapist can take a break from 7 Cups at any time, suspending their account temporarily. This is often known as a self-care break, although it can be for any reason. When they do this their profile completely disappears as if they never existed. Their name and icon disappear from almost everywhere in the platform. If and when they return from their break, their name and icon reappear everywhere.
 
 # Onboarding and agreements
 
