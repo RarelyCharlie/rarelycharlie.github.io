@@ -44,9 +44,9 @@ In this guide the term member also includes guests. The term listener is used to
 
 Solution-Focused Therapy (SFT) was developed, based on an extensive research program, as a general way to address a wide variety of mental health problems. It differs significantly from other forms of therapy, and it differs significantly from active listening.
 
-When you provide SFT you should focus exclusively and consistently on SFT. However, it is useful to add some reflection (active listening) because it helps to compensate for the limitations of online chats.
+Because of these significant differences, SFT should not be mixed with other approaches. When you provide SFT you should focus exclusively and consistently on SFT. However, it is useful to add some reflection (active listening) because it helps to compensate for the limitations of online chats.
 
-When you provide active listening, you should not add elements of SFT to the mix. You should focus exclusively and consistently on active listening. In particular, do not use compliments in active listening, because they imply judgements.
+When you provide active listening, you should not add elements of SFT to the mix. You should focus exclusively and consistently on active listening. In particular, do not use compliments in active listening, because compliments are implied judgements.
 
 ### How does SFT work?
 
