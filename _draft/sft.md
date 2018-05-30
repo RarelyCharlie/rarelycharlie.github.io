@@ -54,6 +54,8 @@ When you provide active listening, you should not add elements of SFT to the mix
 
 SFT relies on the fact that everything changes constantly. No situation remains completely static.
 
+![decoration](\assets\guide\decom0s.png){:.decol}
+
 When there's a problem, the problem is not exactly the same all the time. In SFT you identify any useful changes and amplify them deliberately. Doing this gradually makes the problem less.
 
 However, small changes can make a bigger difference than expected. When people hit on ideas for changes that work, problems can shrink or disappear very rapidly.
