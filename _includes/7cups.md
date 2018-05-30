@@ -155,9 +155,9 @@ Listener icon
 
 Anyone who is permitted to practice psychotherapy or counselling in their own local legal jurisdiction can sign up for a therapist account.
 
-Therapists can pay to be included in a directory in order to provide paid support to members. They have public profiles, and 7 Cups provides a way to search them at: [Search Therapists](https://www.7cups.com/therapists/search.php)
+Therapists can pay to be included in a directory in order to provide paid support to members. All therapists have public profiles, even if they are not in the directory. 7 Cups provides a way to search the directory at: [Search Therapists](https://www.7cups.com/therapists/search.php)
 
-Therapists' profiles contain similar kinds of information to members’ and listeners' profiles, although the details are different. There is no button to start a chat, because to chat with a therapist a member must set up payment. Therapists' feeds are not published, but there is a button so that any member or listener can follow a therapist's feed.
+Therapists' profiles contain similar kinds of information to members’ and listeners' profiles, although the details are different. There is no button to start a chat, because to chat with a therapist a member must first set up payment. Therapists' feeds are not published in their profiles, but there is a button so that any member or listener can follow a therapist's feed.
 
 Some other information in therapists' profiles is optional, and does not appear in every profile—for example, the therapist's in-office hourly rate and a link to their website.
 
@@ -165,7 +165,7 @@ A therapist account is shown within 7 Cups as a round icon exactly like a listen
 
 ### Reputation
 
-Members and listeners at 7 Cups have persistent identities, and the system keeps records of their activity. Some of these records are summarized on each member or listener's profile, and this data as a whole is known as reputation. Member reputation and listener reputation are handled in a broadly similar way but with differences in the detail.
+Members, listeners and therapists at 7 Cups have persistent identities, and the system keeps records of their activity. Some of these records are summarized on each of their profiles, and this data as a whole is known as reputation. Member, listener and therapist reputation are handled in a broadly similar way but with differences in the detail.
 
 A cheer is the basic reputation point awarded for activity. For example, a member who sends a message in a chatroom gets 2 cheers. A member or listener's headline reputation is a whimsical name, like Confident Walk 3, based on the cumulative number of cheers the person has earned.  Thus, the headline reputation is based mainly on the quantity of interactions.
 
@@ -216,8 +216,6 @@ There is a category of listeners who are aged 35 or over, but these older listen
 
 Guests and members are required to agree to the [member agreement](https://www.7cups.com/inc/memberTOS.html) before interacting with other people at 7 Cups. Listeners are required to agree to the [listener agreement](https://www.7cups.com/listenerAgreement.php). These agreements are also known as terms of service (ToS), terms of use, and other variants.
 
-At the time of writing this guide (April 2018) the agreements are out of date and in some ways very misleading.
-
 ### Privacy policy
 
 A [privacy policy](https://www.7cups.com/privacy.php), separate from the agreements, also covers use of 7 Cups.
@@ -230,7 +228,7 @@ Guests, members and listeners generally must not provide any information anywher
 
 The platform stores chats for a year.
 
-Members and listeners can write confidential notes within the 7 Cups platform. Listeners are not allowed to keep notes anywhere outside the 7 Cups platform.
+Members, listeners and therapists can write confidential notes within the 7 Cups platform. Listeners are not allowed to keep notes anywhere outside the 7 Cups platform.
 
 ### Community guidelines
 
