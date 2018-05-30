@@ -54,7 +54,7 @@ When there's a problem, the problem is not exactly the same all the time. In SFT
 
 However, small changes can make a bigger difference than expected. When people hit on ideas for changes that work, problems can shrink or disappear very rapidly.
 
-In SFT, the member is the expert on their own situation at all times. The listener does not need any knowledge or expertise, except to implement the SFT process. 
+In SFT, the member is the expert on their own situation at all times. The listener does not need any knowledge or expertise, except to implement the SFT process. The listener does not give advice about the problem or make suggestions about the problem.
 
 SFT essentially consists of compliments and questions. Both the compliments and the questions have specialized forms.
 
@@ -62,11 +62,15 @@ The focus of SFT is always on solutions, never on problems. In SFT the member is
 
 SFT can be used to solve a single problem or a collection of problems. It focuses on a future where the problems do not exist, or where they are less troublesome. It avoids any focus on the problems themselves or on their causes.
 
-Research has shown that these elements of SFBT are the things that enable people to discover solutions to their problems very quickly. SFT rapidly creates hope, and it gives members control over the process of solving their problems.
+Research has shown that these elements of SFBT are the things that enable people to discover solutions to their problems very quickly. SFT rapidly creates hope, and it gives members complete control over the solutions to their their problems.
 
 # Getting started
 
-You might offer the possibility of SFT during a normal active listening chat. Then, if the member agrees, begin the SFT in your next chat. It is best not to mix active listening and SFT in the same chat, because the techniques differ. The differences will be explored later in this guide.
+You might offer the possibility of SFT during a normal active listening chat. Then, if the member agrees, begin the SFT in your next chat.
+
+Offering SFT is not always appropriate. The professional therapists at 7 Cups are in a better position to help members solve their problems, and you should refer members for professional therapy whenever that is possible for them.
+
+If you do offer SFT, it is best not to mix active listening and SFT in the same chat, because the techniques differ. The differences will be explored later in this guide.
 
 To provide SFT and solve a member's problems, arrange your chats with the member somewhat like a therapist would. Arrange for each chat to last a fixed time—maybe 45 minutes, maybe an hour, maybe 90 minutes.
 
@@ -256,7 +260,7 @@ Or:
 
 # Goals II
 
-SFT has some specialized techniques for identifying goals. The *miracle question* is for identifying overall goals, and *scaling* questions are for identifying short-term goals and for tracking progress.
+SFT has some specialized techniques for identifying goals. The *miracle question* is for identifying overall goals, while *scaling* questions are for identifying short-term goals and for tracking progress.
 
 ### The Miracle Question
 
@@ -449,19 +453,57 @@ When you suggest an action task, ensure it is possible. For example:
 
 # Cheat sheet
 
-Four steps to a solution:
+Here's a summary of SFT in bullet points.
+
+### Three Principles
+
+- If it ain’t broke, don’t fix it.
+- Once you know what works do more of it.
+- If it doesn’t work, don’t do it again: do something different.
+
+### Four steps to a solution
 
 1. What do you want?
 2. How will you know when you have it?
 3. What are you doing already to get there?
 4. What would be happening if you were a little closer to what you want?
 
-Rules and assumptions
+### SFT and active listening
+
+Here are some contrasts between SFT and active listening (AL):
+
+|SFT:|Give compliments.
+|*AL:*|*Avoid judgements (including compliments)*
+
+|SFT:|Focus on the future.
+|*AL:*|*Focus on current emotions.*
+
+|SFT:|Change the subject if the member loses focus on solutions.
+|*AL:*|*Talk about whatever the member wants to talk about, and don't change the subject.*
+
+|SFT:|Always ask the miracle question.
+|*AL:*|*Don't ask questions, except to clarify the member's current situation.*
+
+|SFT:|Ask scaling questions to track progress.
+|*AL:*|*Provide emotional support, not progress.*
+
+Here are some similarities:
+
+|SFT:|Be professional. Don't sneak SFT into chats without the member's informed consent.
+|*AL:*|*Be professional. Don't sneak SFT into chats without the member's informed consent.*
+
+|SFT:|The member is the expert on their problem. Don't give advice or make suggestions.
+|*AL:*|*The member is here for emotional support. Don't give advice or make suggestions.*
 
 # Conclusion
 
-Further reading:
+You have completed the guide.
 
-https://solutionfocused.net/what-is-solution-focused-therapy/
-https://solutionfocused.net/
-https://www.brief.org.uk
+This brief guide has only been a brief introduction to SFT. Further information about it is widely available.
+
+Here is some further reading:
+
+- At the Institute for [Solution-Focused Therapy](https://solutionfocused.net) in the US: [What is Solution Focused Therapy?](https://solutionfocused.net/what-is-solution-focused-therapy/)
+
+- At [The Centre for Solution Focused Practice](https://www.brief.org.uk) in the UK: [FAQ](https://www.brief.org.uk/resources/faq)
+
