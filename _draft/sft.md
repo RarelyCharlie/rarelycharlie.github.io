@@ -538,8 +538,8 @@ This guide has only been a brief introduction to SFT. Further information about 
 
 Here is some further reading:
 
-- **[What is Solution Focused Therapy?](https://solutionfocused.net/what-is-solution-focused-therapy/)** at the Institute for [Solution-Focused Therapy](https://solutionfocused.net) in the US
+- **[What is Solution Focused Therapy?](https://solutionfocused.net/what-is-solution-focused-therapy/)** at the [Institute for Solution-Focused Therapy](https://solutionfocused.net) in the US
 
-- **[FAQ](https://www.brief.org.uk/resources/faq)** at [The Centre for Solution Focused Practice](https://www.brief.org.uk) in the UK
+- **[Frequently Asked Questions](https://www.brief.org.uk/resources/faq)** at [The Centre for Solution Focused Practice](https://www.brief.org.uk) in the UK
 
 ![decoration](\assets\guide\decob0s.png){:.decow2}
