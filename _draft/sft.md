@@ -34,6 +34,8 @@ However, some listeners are determined to ignore their training and try to solve
 
 As a listener at 7 Cups, you do not really have the necessary training, professional support, license, or insurance to provide any form of therapy. You are anonymous and unaccountable. 7 Cups does not support listeners who try to provide therapy.
 
+The 7 Cups guides on Acceptance and Commitment Therapy (ACT), and on depression (incorporating CBT) are not meant to encourage listeners to provide amateur ACT or CBT, and similarly this guide is not meant to encourage listeners to provide amateur SFT.
+
 If you do try to solve a member's problems, you should make it clear to the member before you start that you are no longer providing active listening, and that you are attempting amateur therapy instead. Do not sneak SFT into chats without warning the member very clearly about what you are doing.
 
 In this guide the term member also includes guests. The term listener is used to mean the person providing the therapy. Other sources of information about SFT would normally use the terms client and either therapist or counselor for these roles.
@@ -457,16 +459,16 @@ Here's a summary of SFT in bullet points.
 
 ### Three Principles
 
-- If it ain’t broke, don’t fix it.
-- Once you know what works do more of it.
-- If it doesn’t work, don’t do it again: do something different.
+- "If it ain’t broke, don’t fix it!"
+- "If it works, do it more!"
+- "If it doesn’t work, stop doing it!"
 
 ### Four steps to a solution
 
-1. What do you want?
-2. How will you know when you have it?
-3. What are you doing already to get there?
-4. What would be happening if you were a little closer to what you want?
+1. **Identify** what it is that you want.
+2. **Specify** how you will know when you have it.
+3. **Observe** what you are already doing to get it.
+4. **Predict** what would be happening if you were a little closer to it.
 
 ### SFT and active listening
 
