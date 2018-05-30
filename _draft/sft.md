@@ -508,11 +508,12 @@ Here are some similarities:
 
 You have completed the guide.
 
-This brief guide has only been a brief introduction to SFT. Further information about it is widely available.
+This guide has only been a brief introduction to SFT. Further information about it is widely available.
 
 Here is some further reading:
 
-- At the Institute for [Solution-Focused Therapy](https://solutionfocused.net) in the US: [What is Solution Focused Therapy?](https://solutionfocused.net/what-is-solution-focused-therapy/)
+- At the Institute for [Solution-Focused Therapy](https://solutionfocused.net) in the US:
+[What is Solution Focused Therapy?](https://solutionfocused.net/what-is-solution-focused-therapy/)
 
 - At [The Centre for Solution Focused Practice](https://www.brief.org.uk) in the UK: [FAQ](https://www.brief.org.uk/resources/faq)
 
