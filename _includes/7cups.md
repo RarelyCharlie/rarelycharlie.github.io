@@ -427,7 +427,7 @@ When a guest or member is suicidal, homicidal, abusing someone, or in need of em
 
 Members who sign up for paid therapy first chat to the bot, Sophia, and after providing some information they are either paired with a therapist for a three day free trial, or they can choose a therapist for themselves with no free trial. After that, one change of therapist is allowed.
 
-After the free trial, if there was one, 7 Cups charges the member's card a fixed amount monthly, regardless of the therapist's in-office rate. The member can message their therapist as often as they like. For members who pay the full rate, the therapist will reply at least once a day, Monday to Friday, excluding holidays. For the reduced rate it is at least once a week.
+After the free trial, if there was one, 7 Cups charges the member's card a fixed amount monthly, regardless of the therapist's in-office rate. The member can message their therapist as often as they like. For members who pay the full rate, the therapist will reply at least once a day, Monday to Friday, excluding holidays. For the reduced rate it's at least once a week.
 
 
 # Listener training and support
