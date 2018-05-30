@@ -76,6 +76,8 @@ You might offer the possibility of SFT during a normal active listening chat. Th
 
 Offering SFT is not always appropriate. The professional therapists at 7 Cups are in a better position to help members solve their problems, and you should refer members for professional therapy whenever that is possible for them.
 
+![decoration](\assets\guide\decom2s.png){:.decol}
+
 If you do offer SFT, it is best not to mix active listening and SFT in the same chat, because the techniques differ. The differences will be explored later in this guide.
 
 To provide SFT and solve a member's problems, arrange your chats with the member somewhat like a therapist would. Arrange for each chat to last a fixed time—maybe 45 minutes, maybe an hour, maybe 90 minutes.
@@ -87,6 +89,8 @@ The total number of SFT chats required can be left open, because it is best if t
 ### Relationships
 
 In SFT the relationship between listener and member progresses through three stages. Some members go immediately to the third stage, some go immediately to the second stage, and some take time at the first stage before moving on.
+
+![decoration](\assets\guide\decoe2s.png){:.decor}
 
 The three stages are often known as the *visitor* relationship, the *complainer* relationship, and the *customer* relationship, but these terms are not very meaningful in themselves—they are just a way to remember the three stages.
 
@@ -135,6 +139,8 @@ Compliments are an essential part of SFT. They provide members with:
 When you provide SFT, you compliment the member throughout. This is quite different from active listening, where you main job is reflection and you avoid compliments (because they are judgemental).
 
 In SFT you deliberately express positive judgements about the member. Do not express negative judgements, and do not introduce extra problems!
+
+![decoration](\assets\guide\decom3s.png){:.decol}
 
 Compliments should refer to specific things the member did, or to specific qualities the member has. They must not be vague. Do not use vague words like "this" and "that", but instead say exactly who and what you are referring to.
 
@@ -214,6 +220,8 @@ In SFT the approach to problems is always the same:
 
 Thus the member's goals are to make things different.
 
+![decoration](\assets\guide\decoe3s.png){:.decor}
+
 How to make things different has nothing to do with you as a listener. The member is the expert. As a listener, you can compliment the member and then ask a question like this:
 
 |Listener:|You seem to have thought about your situation deeply. What needs to happen so that things will be different in future?
@@ -226,6 +234,8 @@ But do not go into detail about who will do what. That's entirely up to the memb
 If nothing will be different, then there isn't really a problem (but the member might have some other problem).
 
 > “If it ain’t broke, don’t fix it”
+
+![decoration](\assets\guide\decom4s.png){:.decol}
 
 The member always defines what will be different. The listener never makes suggestions. The purpose of SFT is to make progress toward the member’s goals, not the listener’s.
 
@@ -270,6 +280,8 @@ SFT has some specialized techniques for identifying goals. The *miracle question
 
 ### The Miracle Question
 
+![decoration](\assets\guide\decoe6s.png){:.decor}
+
 A key question to ask each member is known in SFT as the "miracle question". It's important to ask each member the miracle question because it goes to the heart of the SFT method.
 
 The miracle question goes something like this:
@@ -301,6 +313,8 @@ Then:
 
 ### Scaling
 
+![decoration](\assets\guide\decom7s.png){:.decol}
+
 Scaling questions help the member to measure the effect a problem is having on them, and to track gradual improvements. Sometimes, clients are not aware of their own progress, and scaling questions help to make them aware.
 
 For example, you could use a scale of 1 to 10 when you ask scaling questions. On this scale, 1 means the member is entirely a victim of the problem, while 10 means the member is entirely free from the problem. Always use the same scale for all your scaling questions.
@@ -328,6 +342,8 @@ Assume that change is constantly occurring, and is to be expected:
 {:.chat}
 
 # Coping
+
+![decoration](\assets\guide\decoe0s.png){:.decor}
 
 Members have inner resources and strengths, and they are the experts on their own situation. It is their inner resources and strengths that will solve their problems. Questions about coping establish the member's expertise and their ability to influence their own situation.
 
@@ -384,6 +400,8 @@ Questions like these help the member to notice patterns of success. As a listene
 
 ### Exceptions
 
+![decoration](\assets\guide\decom7s.png){:.decol}
+
 No problem remains equally problematic all the time. There are always exceptions that can be discovered and amplified. These will be the times when the member felt better, or when the problem did not seem so severe.
 
 Questions about exceptions help the member to identify these times. For example:
@@ -415,6 +433,8 @@ Before the break itself, ask a catch-up question like this:
 At this time members often say something significant that they would not otherwise have revealed.
 
 ### During the break 
+
+![decoration](\assets\guide\decom4s.png){:.decol}
 
 A real-life SFT therapist would often use the break to consult with a colleague about the case, but at 7 Cups that is not allowed. At 7 Cups, never discuss a member with anyone else.
 
@@ -448,6 +468,8 @@ For example:
 {:.chat}
 
 ### Customer homework
+
+![decoration](\assets\guide\decoe6s.png){:.decol}
 
 For a customer (the member has a goal and takes ownership of the problem), give compliments and either an observation task or an action task.
 
@@ -521,3 +543,4 @@ Here is some further reading:
 
 - At [The Centre for Solution Focused Practice](https://www.brief.org.uk) in the UK: [FAQ](https://www.brief.org.uk/resources/faq)
 
+![decoration](\assets\guide\decob0s.png){:.decow2}
