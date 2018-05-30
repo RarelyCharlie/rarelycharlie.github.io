@@ -228,7 +228,7 @@ Guests, members and listeners generally must not provide any information anywher
 
 The platform stores chats for a year.
 
-Members, listeners and therapists can write confidential notes within the 7 Cups platform. Listeners are not allowed to keep notes anywhere outside the 7 Cups platform.
+Members, listeners and therapists can write confidential notes using the [My Notes](https://www.7cups.com/notes.php) feature within the 7 Cups platform. Listeners are not allowed to keep notes anywhere outside the 7 Cups platform, but this rule does not apply to members or therapists.
 
 ### Community guidelines
 
