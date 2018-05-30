@@ -476,26 +476,33 @@ Here are some contrasts between SFT and active listening (AL):
 
 |SFT:|Give compliments.
 |*AL:*|*Avoid judgements (including compliments)*
+{:style="margin-bottom: 1em;"}
 
 |SFT:|Focus on the future.
 |*AL:*|*Focus on current emotions.*
+{:style="margin-bottom: 1em;"}
 
 |SFT:|Change the subject if the member loses focus on solutions.
 |*AL:*|*Talk about whatever the member wants to talk about, and don't change the subject.*
+{:style="margin-bottom: 1em;"}
 
 |SFT:|Always ask the miracle question.
 |*AL:*|*Don't ask questions, except to clarify the member's current situation.*
+{:style="margin-bottom: 1em;"}
 
 |SFT:|Ask scaling questions to track progress.
 |*AL:*|*Provide emotional support, not progress.*
+{:style="margin-bottom: 1em;"}
 
 Here are some similarities:
 
 |SFT:|Be professional. Don't sneak SFT into chats without the member's informed consent.
 |*AL:*|*Be professional. Don't sneak SFT into chats without the member's informed consent.*
+{:style="margin-bottom: 1em;"}
 
 |SFT:|The member is the expert on their problem. Don't give advice or make suggestions.
 |*AL:*|*The member is here for emotional support. Don't give advice or make suggestions.*
+{:style="margin-bottom: 1em;"}
 
 # Conclusion
 
