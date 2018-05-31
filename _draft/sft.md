@@ -1,6 +1,6 @@
 ---
 title: Solution Focused Therapy
-layout: guide
+layout: guide-test
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 # About this guide
