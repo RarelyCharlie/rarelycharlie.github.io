@@ -199,6 +199,8 @@ document.addEventListener('DOMContentLoaded', function () {
 	if (location.search == '?reset') Persist.reset(true)
 	Crumbs.init()
 	
+	window.$ = {} // <<<<<<<<<<<<<<<,
+	
 	review = location.search == '?galley'
 	if (review) {
 		$('ul.quiz>li').each(function () {
@@ -343,7 +345,7 @@ init = function () {
 	}
 
 })() } catch (e) {document.write(e.toString())}
-</script
+</script>
 </head>
 <body onload="init()">
 <div id="header"><span>{{ layout.prefix }}</span><h2>{{ page.title }}</h2></div>
