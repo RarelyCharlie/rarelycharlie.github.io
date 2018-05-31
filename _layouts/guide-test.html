@@ -106,7 +106,7 @@ i.fa-star {color: gold; margin-right: 2px;}
 ul.references {list-style-type: none;}
 </style>
 <script>
-try {
+try { eval("
 
 Crumbs = {
 	init: function () {
@@ -130,19 +130,19 @@ Crumbs = {
 			})
 		},
 	show: function () {
-		var c = '<div class="machinery" id="crumbtray"><div id="crumbs">',
+		var c = '<div class=\"machinery\" id=\"crumbtray\"><div id=\"crumbs\">',
 			active = Persist.section
 		$('#content h1').each(function (i) {
 			var txt = $(this).text(),
 				part = (txt == 'Part I' || txt == 'Part II')
-			var link = (i > active || i == section)? '' : ' data-n="' + i + '"',
+			var link = (i > active || i == section)? '' : ' data-n=\"' + i + '\"',
 				classes = ' class="crumb'
 					+ (part? ' part' : '')
 					+ (i <= active? ' shown' : '')
 					+ (i == active? ' active' : '')
 					+ (i == section? ' showing' : '')
-					+ '"',
-				title = i <= active? '" title="' + txt + '"' : ''
+					+ '\"',
+				title = i <= active? '\" title=\"' + txt + '"' : ''
 				c += '<div' + link + classes + title + '>'
 					+ (part? ' ' + txt + ':' : '')
 					+ '</div>'
@@ -342,7 +342,7 @@ init = function () {
 	if (location.hash.length > 1) scrollfix()
 	}
 
-catch (e) {document.write(e.toString())}
+") } catch (e) {document.write(e.toString())}
 </script
 </head>
 <body onload="init()">
