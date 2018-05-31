@@ -1,0 +1,358 @@
+---
+prefix: TEST TEST TEST TEST TEST
+---
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/assets/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/assets/manifest.json">
+<link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/favicon.ico">
+<meta name="msapplication-config" content="/assets/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<title>{{ page.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,200,400,500">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/seedrandom/2.4.2/seedrandom.min.js"></script>
+<style>
+html {padding-top: 80px;}
+body {font-size: 16px; line-height: 23px; font-family: Raleway; margin: 0;}
+body.keyboard {overflow: hidden;}
+#content>* {display: none;}
+#content>p.reviewing, #content>p.prompt, #content>h3.quizhead, #next {display: block;}
+#content>button {display: block; margin: 1em 0 0 0;}
+#quiz {display: table;}
+#content h3 {clear: both;}
+#content h3, #content strong {color: #444;}
+#content h1 {font-size: 40px; line-height: normal; font-weight: 200; border-bottom: 1px solid #ccc; margin: 40px 0 .5ex 0;}
+#content h2 {font-size: 20px; font-weight: 500; margin-bottom: 0; z-index: 1; line-height: 26px; cursor: default;}
+#header {z-index: 1; position: relative; height: 80px; width: 100%; background: #159957 linear-gradient(to right, #1e90fe 0%, #73ccde 100%);}
+#footer {z-index: 9; position: fixed; bottom: 0; height: 32px; width: 100%; background: #2f4e7a linear-gradient(#2f4e7a, #181a30);}
+#version {color: #e8e8e8; display: inline;}
+#footer-menu {float: right;}
+#footer-content {color: white; max-width: 640px; margin: 0 auto; padding: 4px 1ex 0 1ex; font-size: 86%;}
+#footer-content a {display: inline-block; color: white; text-decoration: none;}
+#footer-content a:hover {color: #cdf;}
+#header {position: fixed; top: 0; text-align: center;}
+#header {font-weight: 400; margin: 0; font-size: 16px; line-height: 24px; color: white;}
+#header h2 {font-weight: 100; margin: 0; font-size: 40px; line-height: 40px;}
+#header span {display: inline-block; letter-spacing: 1px; position: relative; top: 4px; font-style: italic;}
+#content {width: auto; max-width: 640px; margin: 0 auto; padding: 0 1ex 4em 1ex;}
+#content p {margin: 0 0 1em 0;}
+input {font-size: inherit; margin-left: 1ex; padding: 0 2px;}
+del {text-decoration: none; display: inline-block; color: #070; cursor: pointer;}
+del:hover {background: #afa; color: #00a;}
+.hidden {display: none;}
+em.blocked {font-style: normal; color: #a00; background: #fee; padding: 8px 16px;
+	border: 1px solid #a00; border-radius: 8px; display: inline-block;}
+em.ended {font-style: normal; color: #28f; background: #f4f4ff; padding: 8px 16px;
+	border: 1px solid #28f; border-radius: 8px; display: inline-block;}
+.warn {color: #a00;}
+.warn::after {content: "\f00d"; font-family: FontAwesome; color: #e00; margin-left: .5ex; text-decoration: none;}
+.ok::after {content: "\f00c"; font-family: FontAwesome; color: #0c0; margin-left: .5ex;}
+.faded {opacity: 0; transition: opacity 3s;}
+a[href] {color: #29f; text-decoration: none;}
+a[href]:hover {text-decoration: underline;}
+img.decol {float: left; margin: 0 1em 1ex 0; width: 180px; height: 180px; box-shadow: 2px 2px 2px #ccc;}
+img.decor {float: right; margin: 0 0 1ex 1em; width: 180px; height: 180px; box-shadow: 2px 2px 2px #ccc;}
+img.decow2 {display: block; margin: 0 auto 1em auto; width: 300px; height: 180px; box-shadow: 2px 2px 2px #ccc;}
+#content p.decol {box-sizing: border-box; margin: 0 1em 1ex 0; width: 180px; height: 180px; background: #bbe;
+    float: left; text-align: center; padding: 3em 0; color: green; box-shadow: 2px 2px 2px #ccc;}
+#content p.decor {box-sizing: border-box; margin: 0 0 1ex 1em; width: 180px; height: 180px; background: #ebb;
+    float: right; text-align: center; padding: 3em 0; color: green; box-shadow: 2px 2px 2px #ccc;}
+#content p.right {float: right; margin-right: 40px;}
+#content p.right+* {clear: both;}
+blockquote {margin: 0 40px; padding: 0 0 0 1ex; border-left: 2px solid #7bf; line-height: 26px;}
+ul.quiz {display: none; border: 1px solid green; background: #efe; padding: 1ex 1ex 1ex 3em; border-radius: 1ex;}
+ul.quiz>li:first-child {list-style: none; margin-left: -2em;}
+li {margin-bottom: .5ex;}
+li:last-child {margin-bottom: 0;}
+table.chat {margin: 0 0 1ex 40px; border-spacing: 0 1ex;}
+table.chat tr {margin-bottom: 1ex;}
+table.chat td {vertical-align: top; padding-right: 0 1.5em 0 0;}
+table.chat td:first-child {font-style: italic; width: 5em; padding: 0;}
+em.warn, em.ok {font-style: normal;}
+td {vertical-align: top; position: relative;}
+input {opacity: 0;}
+label {display: block;
+  height: 20px; width: 20px;
+  position: absolute; top: 0; left: 0;
+  font-weight: 200;
+  font-size: 1.35em;
+  border: 2px solid #bbb;
+  border-radius: 4px;
+  z-index: 2;
+  cursor: pointer;
+  -webkit-transition: all 0.25s linear;
+  }
+input:focus+label, button:focus {box-shadow: 0 0 1px 1px #37f;}
+label::before {font-family: FontAwesome; font-size: 24px; line-height: 20px; position: relative;}
+input[id^=y]:checked + label::before {content: '\f00c'; color: #0b0; left: -2px; top: -1px;}
+input[id^=n]:checked + label::before {content: '\f00d'; color: #b00; left: 0; top: -2px;}
+button {font-size: inherit; font-family: inherit; padding: 4px 20px; border: 1px solid gray; border-radius: 4px;
+  color: inherit; background: #afa; box-shadow: 2px 2px 4px #ccc; cursor: pointer;}
+button:disabled {color: #888; background: #ddd; border: 1px solid #ccc; box-shadow: none;}
+.explain {font-style: italic; color: #777;}
+td, th {min-width: 36px; text-align: left;}
+tr.right *, tr.wrong * {cursor: default;}
+tr.wrong .explain {font-weight: 600; color: #000;}
+tr.wrong label::before {color: #ccc !important;}
+i.fa-star {color: gold; margin-right: 2px;}
+ul.references {list-style-type: none;}
+</style>
+<script>
+Crumbs = {
+	init: function () {
+		var s = '<style>'
+			+ '#crumbtray {position: absolute; top: -38px; width: 100%; text-align: center;}'
+			+ '#crumbs {height: 12px; background: transparent;  margin: 0 auto; font-size: 16px; line-height: 16px; font-weight: normal; color: #000;}'
+			+ '.crumb {display: inline-block; width: 12px; height: 12px; border: 1px solid #aaa; margin: 0 2px; background: #ddd; border-radius: 2px; position: relative; top: 2px;}'
+			+ '.crumb.part {width: auto; height: auto; border: none; background: transparent; top: 0; margin: 0 4px 0 6px;}'
+			+ '.crumb.shown {background: #9cf; border-color: #46a;}'
+			+ '.crumb.part.shown {background: transparent;}'
+			+ '.crumb[data-n] {cursor: pointer;}'
+			+ '.crumb[data-n]:hover {background: #68f;}'
+			+ '.crumb.showing {box-shadow: 0 0 12px 6px blue;}'
+			+ '</style>'
+		$('head').append(s)
+		$('body').on('click', '.crumb', function (evt) {
+			if (!evt.target.hasAttribute('data-n')) return
+			var n = evt.target.getAttribute('data-n')
+			if (n == section) return
+			showme(n)
+			})
+		},
+	show: function () {
+		var c = '<div class="machinery" id="crumbtray"><div id="crumbs">',
+			active = Persist.section
+		$('#content h1').each(function (i) {
+			var txt = $(this).text(),
+				part = (txt == 'Part I' || txt == 'Part II')
+			var link = (i > active || i == section)? '' : ' data-n="' + i + '"',
+				classes = ' class="crumb'
+					+ (part? ' part' : '')
+					+ (i <= active? ' shown' : '')
+					+ (i == active? ' active' : '')
+					+ (i == section? ' showing' : '')
+					+ '"',
+				title = i <= active? '" title="' + txt + '"' : ''
+				c += '<div' + link + classes + title + '>'
+					+ (part? ' ' + txt + ':' : '')
+					+ '</div>'
+			})
+		c += '</div></div>'
+		var h1 = $('#content h1').eq(section)
+		h1.css('position', 'relative')
+		h1.append(c)
+		setTimeout(function () {
+			$('.crumb.showing').css('transition', 'box-shadow 1s')
+			setTimeout(function () {
+				$('.crumb.showing').css('box-shadow', 'none')
+				}, 0)
+			}, 250)
+		}
+	}
+
+Persist = {
+	key: '',
+	retry: null,
+	section: null,
+	r: Math.floor(67108864 * Math.random()) & 67043839,
+	init: function () {
+		this.key = 'rc_' + location.pathname.replace(/.+\//, '').replace(/\..*$/, '')
+		this.r0 = Math.floor(31 * Math.random())
+		this.r1 = Math.floor(16383 * Math.random())
+		var d = JSON.parse(localStorage.getItem(this.key))
+		if (d) {
+			this.retry = d[0]
+			this.section = d[1] >> 9 & 127
+			}
+		else {
+			this.retry = Math.floor(1e8 * Math.random())
+			this.section = 0
+			this.save()
+			}
+		},
+	reset: function (quiet) {
+		++this.retry
+		this.section = 0
+		this.save()
+		if (!quiet) location.reload()
+		},
+	save: function () {
+		localStorage.setItem(this.key, JSON.stringify([this.retry, this.r | this.section << 9]))
+		}
+	}
+	
+var section = null, review = false // this section, whether reviewing
+const qcount = 4 // show this many questions in each quiz
+
+document.addEventListener('DOMContentLoaded', function () {
+	Persist.init()
+	if (location.search == '?reset') Persist.reset(true)
+	Crumbs.init()
+	
+	review = location.search == '?galley'
+	if (review) {
+		$('ul.quiz>li').each(function () {
+			var q = $(this)
+			q.text(q.text().replace(/#\s.+/, ' (False)').replace(/#.+/, ' (True)'))
+			})
+		$('#content>*').show()
+		}
+	else {
+		$('#contents').nextUntil('#part-i').addBack().remove()
+		var last = $('#content h1').length - 1
+		showme(Persist.section >= last? 0 : Persist.section)
+		$('#content').show()
+		}
+	})
+
+machinery = function () { // add quiz machinery...
+	var h1 = $('#content h1').eq(section),
+		base = h1.nextUntil('h1').last()
+		quiz = h1.nextUntil('h1', 'ul.quiz')
+
+	if (section < Persist.section) { // reviewing, no quiz...
+		base.after('<button class="machinery" onclick="showme(' + (Number(section) + 1) + ')">Next Section</button>')
+		if (quiz.length) {
+			base.after('<p class="reviewing machinery"><em>You have already completed this quiz.</em></p>')
+			quiz.remove()
+			}
+		return
+		}
+
+	if (!quiz.length) { // current section but no quiz here...
+		if (section == Persist.section && h1.attr('id') != 'conclusion') { // current section, not last
+			++Persist.section // no Score button, so do this immediately
+			Persist.save()
+			base.after('<button class="machinery" onclick="showme(' + Persist.section + ')">Next Section</button>')
+			}
+		return
+		}
+	
+	// construct a quiz...
+	base.after('<h3 class="quizhead machinery">Quiz</h3><p class="prompt machinery">' + quiz.children().first().text() + '</p>')
+		
+	h1.nextUntil('h1').last().after('<table class="machinery" id="quiz">'
+		+ '<tbody><tr><th>True</th><th>False</th><th></th></tr></tbody>'
+		+ '</table>')
+	var quizbody = $('#quiz>tbody')
+	var bank = quiz.children()
+	var these = []
+	for (let i = 1; i < bank.length; ++i) these.push(i)
+	Math.seedrandom('rc_' + Persist.retry)
+	these.sort(() => Math.random() > .5? 1 : -1)
+	for (let i = 0; i < qcount; ++i) {
+		let q = bank.eq(these[i]).text().split('#')
+		quizbody.append('<tr data-a="' + q[1] + '">'
+		  + '<td><input type="radio" id="y' + i + '" name="q' + i + '">'
+		  + '<label for="y' + i + '" title="True"></label></td>'
+		  + '<td><input type="radio" id="n' + i + '" name="q' + i + '">'
+		  + '<label for="n' + i + '" title="False"></label></td>'
+		  + '<td>' + q[0] + '<br/><span class="explain">&nbsp;</span></td>'
+		  + '</tr>')
+		}
+	
+	$('#quiz').after('<p class="prompt machinery"><button id="score" disabled onclick="score()">Score</button></p>'
+  	  + '<p class="prompt machinery" id="report"></p>'
+  	  + '<p class="machinery" id="next"></p>')
+	
+	$('input').on('click', function () {
+		$('#score').attr('disabled', $('#quiz').hasClass('scored') || $('input:checked').length < qcount)
+		})
+	$('input').get(0).focus()
+	}
+
+score = function () {
+	var ok = true, correct = 0, opt = ['True', 'False']
+	$('input:checked').each(function () {
+		var tr = this.parentNode.parentNode
+		var d = tr.getAttribute('data-a'),
+			t = d.charAt(0) == ' '? 'n' : 'y',
+			a
+		if (t == this.id.substr(0, 1)) ++correct, tr.className = 'right', a = '<i class="fa fa-star" title="Correct"></i>'
+		else ok = false, tr.className = 'wrong', a = opt[t == 'y'? 0 : 1] + '. '
+		tr.lastChild.lastChild.innerHTML = a + d.trim()
+		})
+	$('input').attr('disabled', 'true')
+	$('#quiz').addClass('scored')
+	$('#score').attr('disabled', "true")
+	for (var i = 0, stars = ''; i < correct; ++i) stars += '<i class="fa fa-star"></i>'
+	$('#report').html(ok? stars + 'All correct. After reviewing your answers you can go to the next section.'
+	  : stars + ' ' + (correct == 0? 'None' : 'Only ' + correct) + ' correct, but you can review this section and try again.')
+	$('#next').append(ok? '<button onclick="showme(' + (Number(section) + 1) + ')">Next Section</button>'
+		: '<button onclick="reviewpage()">Review This Section</button>')
+	with ($('#next button').get(0)) focus(), scrollIntoView({behavior: "smooth", block: "start" })
+	++Persist[ok? "section" : "retry"]
+	Persist.save()
+	}
+
+showme = function (s) { // show a section...
+	var h1s = $('#content h1'), h1 = null
+	$('#content').hide()
+	if ($.isNumeric(section)) { // hide current section...
+		h1 = h1s.eq(section)
+		h1.hide()
+		h1.nextUntil('h1').hide()
+		$('.machinery').remove()
+		}
+	if (s === Infinity) s = h1s.length - 1 // for skip link
+	else if (s > h1s.length - 1) s = 0 // for possible overrun
+	section = s
+	Crumbs.show()
+	h1 = h1s.eq(section)
+	h1.show()
+	h1.nextUntil('h1').not('.quiz').show()
+	machinery()
+	setTimeout(pagetop, 0)
+	setTimeout(function () {$('#content').show()}, 200)
+	}
+
+pagetop = function () {
+	var h = $('h1')[0]
+	document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset =
+		h.offsetTop - document.getElementById('header').offsetHeight - 50
+	}
+
+reviewpage = function () {
+	$('h3.quizhead').nextUntil('h1').addBack().remove()
+	machinery()
+	pagetop()
+	}
+	
+scrollfix = function () {
+	setTimeout(function () {
+		let t = document.getElementById(location.hash.substr(1))
+		document.documentElement.scrollTop = document.body.scrollTop = window.pageYOffset =
+				t.offsetTop - document.getElementById('header').offsetHeight - 26
+		}, 0)
+	}
+addEventListener('click', function (evt) {
+	if (evt.target.tagName == 'A' && evt.target.getAttribute('href').charAt(0) == '#') scrollfix()
+	})
+init = function () {
+	if (location.hash.length > 1) scrollfix()
+	}
+</script
+</head>
+<body onload="init()">
+<div id="header"><span>{{ layout.prefix }}</span><h2>{{ page.title }}</h2></div>
+<div id="content">
+{{ content }}
+</div>
+<div id="footer">
+<div id="footer-content">
+<div id="version">{{ layout.version }}</div>
+<div id="footer-menu">
+<a href="{{ page.feedback }}" title="Send feedback. (7 Cups login required.)">Feedback</a>
+</div>
+</div>
+</div>
+</body>
+</html>
