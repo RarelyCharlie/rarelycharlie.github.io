@@ -197,7 +197,7 @@ const qcount = 4 // show this many questions in each quiz
 document.addEventListener('DOMContentLoaded', function () {
 	Persist.init()
 	if (location.search == '?reset') Persist.reset(true)
-	Crumbs.init) // <<<
+	Crumbs.init()
 	
 	review = location.search == '?galley'
 	if (review) {
