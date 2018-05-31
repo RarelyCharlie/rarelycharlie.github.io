@@ -199,8 +199,6 @@ document.addEventListener('DOMContentLoaded', function () {
 	if (location.search == '?reset') Persist.reset(true)
 	Crumbs.init()
 	
-	window.$ = {} // <<<<<<<<<<<<<<<,
-	
 	review = location.search == '?galley'
 	if (review) {
 		$('ul.quiz>li').each(function () {
