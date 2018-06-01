@@ -472,6 +472,18 @@ Questions about exceptions help the member to identify these times. For example:
 
 When the member can identify an exception, ask follow-up questions to establish the details. Avoid any change of subject back to the problem or its causes.
 
+- Mark each statement true or false:
+- In SFT, listeners must never change the subject.# Listeners change the subject if the chat loses its focus on how the future will be different.
+- For SFT to work well, the member and the listener should have the same cultural background.# SFT works well when member and listener are from different cultures.
+- Listeners using SFT must be completely open and honest about their own opinions.# Listeners using SFT must always agree with the member, because the member is the expert on their own life.
+- Members' inner resources and strengths that will solve their problems.#This is a central assumption in SFT.
+- Members' inner resources and strengths, together with a listener's expert advice, are the basis of SFT.# SFT is based only on members' inner resources and strengths. Listeners should not give advice.
+- Other people in a member’s life can contribute to a problem's solution.#Other people are often involved in solutions.
+- Listeners can contribute to a problem's solution by becoming involved in the member's life in a caring way.# Listeners should not become involved in members' lives.
+- SFT encourages members to imagine a better future.#This is how SFT works.
+- SFT encourages members to accept that their problems are the fault of other people.# SFT encourages members to own their problems and become "customers" for solutions.
+{:.quiz}
+
 # Ending a chat
 
 There is a tradition in SFT of taking a short break towards the end of a session. You can do this in a chat by taking a break of 5 minutes or so, leaving 10 minutes to wrap up the chat after your return. This means the ending of a chat has a structure to it.
