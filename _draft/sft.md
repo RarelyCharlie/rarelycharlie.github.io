@@ -138,9 +138,9 @@ Compliments are an essential part of SFT. They provide members with:
 
 When you provide SFT, you compliment the member throughout. This is quite different from active listening, where you main job is reflection and you avoid compliments (because they are judgemental).
 
-In SFT you deliberately express positive judgements about the member. Do not express negative judgements, and do not introduce extra problems!
-
 ![decoration](\assets\guide\decom3s.png){:.decol}
+
+In SFT you deliberately express positive judgements about the member. Do not express negative judgements, and do not introduce extra problems!
 
 Compliments should refer to specific things the member did, or to specific qualities the member has. They must not be vague. Do not use vague words like "this" and "that", but instead say exactly who and what you are referring to.
 
@@ -218,9 +218,9 @@ In SFT the approach to problems is always the same:
 - The member imagines a future when the problem is solved, or is less problematic.
 - The member identifes what will be different about that future time.
 
-Thus the member's goals are to make things different.
-
 ![decoration](\assets\guide\decoe3s.png){:.decor}
+
+Thus the member's goals are to make things different.
 
 How to make things different has nothing to do with you as a listener. The member is the expert. As a listener, you can compliment the member and then ask a question like this:
 
@@ -276,11 +276,11 @@ Or:
 
 # Goals II
 
+![decoration](\assets\guide\decoe6s.png){:.decor}
+
 SFT has some specialized techniques for identifying goals. The *miracle question* is for identifying overall goals, while *scaling* questions are for identifying short-term goals and for tracking progress.
 
 ### The Miracle Question
-
-![decoration](\assets\guide\decoe6s.png){:.decor}
 
 A key question to ask each member is known in SFT as the "miracle question". It's important to ask each member the miracle question because it goes to the heart of the SFT method.
 
@@ -343,9 +343,9 @@ Assume that change is constantly occurring, and is to be expected:
 
 # Coping
 
-![decoration](\assets\guide\decoe0s.png){:.decor}
-
 Members have inner resources and strengths, and they are the experts on their own situation. It is their inner resources and strengths that will solve their problems. Questions about coping establish the member's expertise and their ability to influence their own situation.
+
+![decoration](\assets\guide\decoe0s.png){:.decor}
 
 The general principles are:
 
@@ -469,8 +469,6 @@ For example:
 
 ### Customer homework
 
-![decoration](\assets\guide\decoe6s.png){:.decol}
-
 For a customer (the member has a goal and takes ownership of the problem), give compliments and either an observation task or an action task.
 
 When you suggest an action task, ensure it is possible. For example:
@@ -482,6 +480,8 @@ When you suggest an action task, ensure it is possible. For example:
 # Cheat sheet
 
 Here's a summary of SFT in bullet points.
+
+![decoration](\assets\guide\decoe6s.png){:.decor}
 
 ### Three Principles
 
