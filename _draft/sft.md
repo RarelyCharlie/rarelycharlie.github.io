@@ -70,6 +70,19 @@ SFT can be used to solve a single problem or a collection of problems. It focuse
 
 Research has shown that these elements of SFBT are the things that enable people to discover solutions to their problems very quickly. SFT rapidly creates hope, and it gives members complete control over the solutions to their their problems.
 
+- Mark each statement true or false:
+- This guide is designed to help members solve problems for themselves.# This guide is not a self help guide.
+- You can try this quiz again and again until you get all correct the answers.#You can try all the quizzes in this guid as many times as you need to.
+- SFT is a skill used in active listening.# SFT is not active listening.
+- It's OK to snesk SFT into chats without telling the member.# Do not use SFT without the member's informed consent.
+- 7 Cups provides full insurance for listeners who attempt amateur therapy.# 7 Cups does not support listeners who attempt amateur therapy in any way.
+- SFT can be used along with ACT and CBT to treat mental illness.# SFT should not be mixed with other approaches, and at 7 Cups listeners do not treat mental illness.
+- Compliments are implied judgements.#Compliments imply positive jusgements.
+- SFT involves asking questions.#SFT consists of compliments and questions.
+- SFT focuses on the future.#SFT focuses on a future when the member's problems will have been solved.
+- SFT focuses on the past# SFT focus on the future.
+{:.quiz}
+
 # Getting started
 
 You might offer the possibility of SFT during a normal active listening chat. Then, if the member agrees, begin the SFT in your next chat.
