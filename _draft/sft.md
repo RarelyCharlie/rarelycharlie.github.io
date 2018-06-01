@@ -276,8 +276,6 @@ Or:
 
 # Goals II
 
-![decoration](\assets\guide\decoe6s.png){:.decor}
-
 SFT has some specialized techniques for identifying goals. The *miracle question* is for identifying overall goals, while *scaling* questions are for identifying short-term goals and for tracking progress.
 
 ### The Miracle Question
@@ -292,6 +290,8 @@ The miracle question goes something like this:
 {:.chat}
 
 When the member replies, follow up with questions to get details about what changes the miracle caused.
+
+![decoration](\assets\guide\decoe6s.png){:.decor}
 
 |Listener:|What else will you notice?
 {:.chat}
