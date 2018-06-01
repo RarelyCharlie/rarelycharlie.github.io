@@ -390,6 +390,18 @@ Assume that change is constantly occurring, and is to be expected:
 |Listener:|What kinds of changes you would like to happen next?
 {:.chat}
 
+- Mark each statement true or false:
+- The miracle question is used to identify the member's goals.#The miracle question is used to idenfity overall goals.
+- The miracle question is used to convince the member to accept things as they are.# The miracle question identifies what will change.
+- Scaling questions make the member's problems seem small and manageable.# Scaling questions track progress.
+- Asking the miracle question in every chat helps to track progress.# Asking scaling questions in every chat helps to track progress.
+- SFT is based on the expectation that a miracle will happen.# SFT uses the miracle question to identify goals.
+- SFT is based on step-by-step progress towards the member's goals.#Scaling questions are used to track that progress.
+- Sometimes members solve their problems unexpectedly quickly.#Don't assume that progress will always take many steps.
+- In SFT, listeners must accurately identify the causes of the member's problems.# SFT is focused on the future, not on causes.
+- in SFT, listeners must help members to focus on what will be different in future.#This lies at the heart of SFT.
+{:.quiz}
+
 # Coping
 
 Members have inner resources and strengths, and they are the experts on their own situation. It is their inner resources and strengths that will solve their problems. Questions about coping establish the member's expertise and their ability to influence their own situation.
