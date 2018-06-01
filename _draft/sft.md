@@ -9,7 +9,7 @@ This is an unofficial guide for listeners that briefly describes Solution-Focuse
 
 This guide is not a self-help guide, although members and guests can read it. In SFT the member (or client) and the listener (or therapist) have separate roles, so that a do-it-yourself approach to SFT is not always practical.
 
-In this guide there is a section describing each of SFT's most common techniques quite briefly. The aim is to provide enough information for a listener who takes SFT seriously to use it in an effective semi-professional way, but this guide is not a substitute for professional training.
+In this guide there are sections describing each of SFT's most common techniques quite briefly. The aim is to provide enough information for a listener who takes SFT seriously to use it in an effective semi-professional way, but this guide is not a substitute for professional training.
 
 The guide is in many short sections. Most sections have a quiz at the end. You must correctly complete the quiz before you can move to the next section. There is no limit to the number of times you can retry each quiz.
 
@@ -69,6 +69,8 @@ The focus of SFT is always on solutions, never on problems. In SFT the member is
 SFT can be used to solve a single problem or a collection of problems. It focuses on a future where the problems do not exist, or where they are less troublesome. It avoids any focus on the problems themselves or on their causes.
 
 Research has shown that these elements of SFBT are the things that enable people to discover solutions to their problems very quickly. SFT rapidly creates hope, and it gives members complete control over the solutions to their their problems.
+
+After the quiz, the next section describes how you can get started with SFT.
 
 - Mark each statement true or false:
 - This guide is designed to help members solve problems for themselves.# This guide is not a self help guide.
@@ -141,6 +143,8 @@ At this stage your role as a listener is to continue to provide hope and optimis
 You can see that as the member progresses through the three stages, your role as a listener accumulates more possibilities.
 
 Remember, however, that the member may be at different stages for different problems.
+
+After the quiz, the next section describes how compliments are used in SFT.
 
 - Mark each statement true or false:
 - In SFT, small changes often make a big difference.#SFT relies on making small changes that progress towards a solution to the problem.
@@ -236,6 +240,8 @@ Or:
 |Listener:|Your idea of making a list of questions to ask your doctor was really smart.
 {:.chat}
 
+After the quiz, the next section describes goals in SFT.
+
 - Mark each statement true or false:
 - When a member is aware they are part of the solution and must take action, they are at the customer stage.#This is how the customer stage is defined.
 - SFT has no scientific basis.# SFT was developed based on an extensive research program.
@@ -310,6 +316,8 @@ Or:
 
 |Listener:|What needs to happen in this chat so that you'll think it was worth your while?
 {:.chat}
+
+After the quiz, the next section describes some special ways that goals are indentified in SFT.
 
 - Mark each statement true or false:
 - Telling a member they are capable and skilled is a way to encourage optimism.#It is one of the ways you can compliment members.
@@ -389,6 +397,8 @@ Assume that change is constantly occurring, and is to be expected:
 
 |Listener:|What kinds of changes you would like to happen next?
 {:.chat}
+
+After the quiz, the next section describes questions about coping.
 
 - Mark each statement true or false:
 - The miracle question is used to identify the member's goals.#The miracle question is used to idenfity overall goals.
@@ -472,6 +482,8 @@ Questions about exceptions help the member to identify these times. For example:
 
 When the member can identify an exception, ask follow-up questions to establish the details. Avoid any change of subject back to the problem or its causes.
 
+After the quiz, the next section describes ending an SFT chat.
+
 - Mark each statement true or false:
 - In SFT, listeners must never change the subject.# Listeners change the subject if the chat loses its focus on how the future will be different.
 - For SFT to work well, the member and the listener should have the same cultural background.# SFT works well when member and listener are from different cultures.
@@ -550,6 +562,8 @@ When you suggest an action task, ensure it is possible. For example:
 ||Between now and our next chat, I'd like you to arrive home a little early deliberately, and to observe what effect that has. Then we can discuss it next time.
 {:.chat}
 
+After the quiz, the next section is a cheat sheet that you can use as a quick reference to how SFT works.
+
 - Mark each statement true or false:
 - The term visitor in SFT is used to mean a member who is only seeking information about a problem.# The term visitor means a member who does not think they have a problem at all.
 - SFT is a method of self help that professional counselors usually avoid.# SFT is not self help, and many professional counselors use it.
@@ -614,6 +628,8 @@ Here are some similarities:
 |SFT:|The member is the expert on their problem. Don't give advice or make suggestions.
 |*AL:*|*The member is here for emotional support. Don't give advice or make suggestions.*
 {:style="margin-bottom: 1em;"}
+
+After the quiz, the guide concludes with some links to further reading.
 
 - Mark each statement true or false:
 - In active listening focus on emotions, but in SFT focus on the future#Active listening and SFT are different in this way.
