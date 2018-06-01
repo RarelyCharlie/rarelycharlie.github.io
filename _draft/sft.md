@@ -550,6 +550,18 @@ When you suggest an action task, ensure it is possible. For example:
 ||Between now and our next chat, I'd like you to arrive home a little early deliberately, and to observe what effect that has. Then we can discuss it next time.
 {:.chat}
 
+- Mark each statement true or false:
+- The term visitor in SFT is used to mean a member who is only seeking information about a problem.# The term visitor means a member who does not think they have a problem at all.
+- SFT is a method of self help that professional counselors usually avoid.# SFT is not self help, and many professional counselors use it.
+- Chats for SFT usually last for an agreed time.#Typical lengths of chats are 45 minutes, an hour, or 90 minutes.
+- In SFT, a 5-minute break near the end of the chat can be useful.#A break is a traditional part of SFT.
+- Listeners should discuss all their members' problems with mentors, to ensure they give quality advice.# Listeners must not discuss details od any chat with anyone, and must not give advice.
+- Listeners using SFT frequently compliment members.#Compliments provide reassurance, optimism, and hope for the future.
+- In SFT, listeners often end a chat by complimenting the member.#Compliments are given throughout SFT.
+- Listeners should give homework tasks to members who are at the complainer or customer stage in relation to a problem.#Visitors should only receive comppliments.
+- Members at the complainer stage in relation to a problem should not receive compliments, in case they get stuck at that stage.# In SFT all members should receive compliments.
+{:.quiz}
+
 # Cheat sheet
 
 Here's a summary of SFT in bullet points.
