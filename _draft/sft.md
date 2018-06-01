@@ -142,6 +142,18 @@ You can see that as the member progresses through the three stages, your role as
 
 Remember, however, that the member may be at different stages for different problems.
 
+- Mark each statement true or false:
+- In SFT, small changes often make a big difference.#SFT relies on making small changes that progress towards a solution to the problem.
+- Listeners who use SFT must be experts on the type of problem the member needs to solve.# In SFT the member is the expert.
+- To provide effective SFT, two chats a day are normally required.# The member will need time between chats to observe and experiment.
+- In SFT the member's relationship to each problem goes through up to three stages.#In this guide they are known as the visitor, complainer and customer stages.
+- Listeners providing SFT encourage hope and optimism.#Hope and optimism are essential to SFT.
+- Listeners providing SFT encourage realistic analysis of past events.# SFT focuses on the future, and does not involve analysis.
+- At the customer stage, a member is willing to take action.#Willingness to take action is how the customer stage is identified.
+- At the visitor stage, a member has identified clear goals.# Clear goals are characteristic of the complainer and customer stages.
+- At the complainer stage, a member is willing to try anything to solve the problem.# Willingness to take action is how the customer stage is identified.
+{:.quiz}
+
 # Compliments
 
 Compliments are an essential part of SFT. They provide members with:
