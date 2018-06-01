@@ -481,8 +481,6 @@ When you suggest an action task, ensure it is possible. For example:
 
 Here's a summary of SFT in bullet points.
 
-![decoration](\assets\guide\decoe6s.png){:.decor}
-
 ### Three Principles
 
 - "If it ain’t broke, don’t fix it!"
@@ -490,6 +488,8 @@ Here's a summary of SFT in bullet points.
 - "If it doesn’t work, stop doing it!"
 
 ### Four steps to a solution
+
+![decoration](\assets\guide\decoe6s.png){:.decor}
 
 1. **Identify** what it is that you want.
 2. **Specify** how you will know when you have it.
