@@ -74,7 +74,7 @@ Research has shown that these elements of SFBT are the things that enable people
 - This guide is designed to help members solve problems for themselves.# This guide is not a self help guide.
 - You can try this quiz again and again until you get all correct the answers.#You can try all the quizzes in this guid as many times as you need to.
 - SFT is a skill used in active listening.# SFT is not active listening.
-- It's OK to snesk SFT into chats without telling the member.# Do not use SFT without the member's informed consent.
+- It's OK to sneak SFT into chats without telling the member.# Do not use SFT without the member's informed consent.
 - 7 Cups provides full insurance for listeners who attempt amateur therapy.# 7 Cups does not support listeners who attempt amateur therapy in any way.
 - SFT can be used along with ACT and CBT to treat mental illness.# SFT should not be mixed with other approaches, and at 7 Cups listeners do not treat mental illness.
 - Compliments are implied judgements.#Compliments imply positive jusgements.
@@ -235,6 +235,18 @@ Or:
 
 |Listener:|Your idea of making a list of questions to ask your doctor was really smart.
 {:.chat}
+
+- Mark each statement true or false:
+- When a member is aware they are part of the solution and must take action, they are at the customer stage.#This is how the customer stage is defined.
+- SFT has no scientific basis.# SFT was developed based on an extensive research program.
+- SFT only works for members who have just one problem.# SFT works for multiple problems.
+- Compliments must be avoided in SFT, because they can give members false hope.# Compliments are used extensively in SFT, because they give members genuine hope.
+- The most effective compliments are vague, because they can apply to a wide range of situations.# Compliments should be as specific as possible.
+- Members should be made to feel that their problems are unique.# Members should be made to feel that their problems are normal.
+- Indirect compliments are a useful way to provide reassurance, optimism, and hope for the future.#All compliments provide reassurance, optimism, and hope.
+- In SFT, compliments must only be used at the end of each chat.# In SFT, compliments are used throughout.
+- In SFT, positive judgements and negative judgements must be carefully balanced to avoid bias.# In SFT, do not make negative judgements, only positive judgements (compliments).
+{:.quiz}
 
 # Goals I
 
