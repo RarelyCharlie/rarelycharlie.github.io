@@ -631,6 +631,10 @@ Here are some similarities:
 
 You have now completed the guide.
 
+To review the guide, use the links across the top of each page. You do not have to answer the quizzes again.
+
+To reset the guide and answer the quizzes again, click here: <a href='#' onclick="Persist.reset()">Reset</a>
+
 This guide has only been a brief introduction to SFT. Further information about it is widely available.
 
 Here is some further reading:
