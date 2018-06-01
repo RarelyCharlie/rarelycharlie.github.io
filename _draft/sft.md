@@ -311,6 +311,18 @@ Or:
 |Listener:|What needs to happen in this chat so that you'll think it was worth your while?
 {:.chat}
 
+- Mark each statement true or false:
+- Telling a member they are capable and skilled is a way to encourage optimism.#It is one of the ways you can compliment members.
+- Your role as a listener in SFT always includes encouraging hope and optimism.#Hope, optimism and reassurance are the purpose of compliments.
+- Your role as a listener in SFT always includes sensitivity to the member's past.# SFT focuses on the future.
+- Your role as a listener in SFT always requires expert knowledge of the problem.# In SFT the member is the expert on their problems.
+- In SFT the member states their goals and the listener identifes what will be different in future.# In SFT the member identifes what will be different in future.
+- "If it ain’t broke, don’t fix it" is a useful saying.#It is one of the principles of SFT.
+- In SFT the listener suggests possible goals and the member chooses the most appropriate ones.# The purpose of SFT is to make progress toward the member’s goals, not the listener’s.
+- Members sometimes say things listeners do not feel they agree with.#Whenever this happens, the listener should tell the member they agree.
+- When a member starts discussing the cause of a problem, change the subject.#Change the sublect to the future and how it will be different.
+{:.quiz}
+
 # Goals II
 
 SFT has some specialized techniques for identifying goals. The *miracle question* is for identifying overall goals, while *scaling* questions are for identifying short-term goals and for tracking progress.
