@@ -615,6 +615,18 @@ Here are some similarities:
 |*AL:*|*The member is here for emotional support. Don't give advice or make suggestions.*
 {:style="margin-bottom: 1em;"}
 
+- Mark each statement true or false:
+- In active listening focus on emotions, but in SFT focus on the future#Active listening and SFT are different in this way.
+- In active listening suggest options, but in SFT focus on very clear advice.# Listeners should not give advice or make suggestions.
+- In SFT, and also in active listening, be professional.#Always be professional.
+- This guide is equivalent to professional training in SFT.# This guide is only a brief introduction.
+- Members must identify the problems they want to solve.#Identifying a problem is the first step towards solving it.
+- Members must accept that they do not have the inner resources to solve their problems.# It is their inner resources and strengths that will solve their problems. 
+- It is useful to continue doing things that don't solve the problem, because change can be stressful.# "If it doesn't work, stop doing it!"
+- Compliments should be avoided because they can give members unrealistic beliefs about their strengths.# Compliments are an essential part of SFT.
+- Problems are often made worse by trying to imagine the future.# Imagining a better future is an essential part of SFT.
+{:.quiz}
+
 # Conclusion
 
 You have completed the guide.
