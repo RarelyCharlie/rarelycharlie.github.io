@@ -44,7 +44,7 @@ After randomizing your e-mail address and password, save the changes. Then deact
 
 ### Deleting your account
 
-7 Cups' terms of service imply that you can ask for your account to be deleted. It is not clear what this really means. If someone else ever reused your old screen name, there could be confusion in forums and elsewhere in the community, so it's possible that your screen name can never be deleted from the system.
+7 Cups' terms of service say that you can ask for your account to be deleted. It is not clear what this really means. If someone else ever reused your old screen name, there could be confusion in forums and elsewhere in the community, so it's possible that your screen name can never be deleted from the system.
 
 If you want to ask for your account to be deleted anyway, you can try sending an e-mail request from the e-mail address that you used when you created the account, to: [community@7cups.com](mailto:community@7cups.com)
 
@@ -53,13 +53,12 @@ Mail sent to this address can take some days to get a response.
 If that does not work, send a written and signed request by postal mail to:
 
 7 Cups of Tea\\
-1040 Camino Real South\\
-Virginia Beach VA 23456-4204\\
+GSV Labs\\
+585 Broadway\\
+Redwood City CA 94063\\
 USA
 
 Use a delivery service that informs you when your request has been delivered. 
-
-(The terms of service say you can fax the request, but no fax number is known.)
 
 ## Therapists
 
