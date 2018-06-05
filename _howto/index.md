@@ -6,8 +6,8 @@ class: index
 Here's a list of the how-to guides:
 {:style="margin-top: 1em;"}
 
-<p style="margin-left: 2em;">
-{% for how in site.howto %}{% if how.class != 'index' %}
-<a href="{{ how.url }}">{{ how.title }}</a><br/>
+{% for h in site.howto %}{% if h.class != 'index' %}
+#### [{{ h.title }}]({{ h.url | remove: '.html' }} '{{ h.title }}')
+
+{{ h.info }}
 {% endif %}{% endfor %}
-</p>
