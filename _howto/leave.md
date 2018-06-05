@@ -54,8 +54,8 @@ If that does not work, send a written and signed request by postal mail to:
 
 7 Cups of Tea\\
 GSV Labs\\
-585 Broadway\\
-Redwood City CA 94063\\
+585 Broadway St\\
+Redwood City CA 94063-3122\\
 USA
 
 Use a delivery service that informs you when your request has been delivered. 
