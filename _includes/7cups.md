@@ -2,11 +2,15 @@
 
 ![7 Cups logo](/assets/guide/7 Cups.png){: style="height: 115px; width: 135px; display: block; margin: 1em auto 0 auto;"}
 
-This is a guide to 7 Cups written for therapists, although anyone can read it.
+This is a guide to 7 Cups originally written for therapists, although anyone can read it.
 
 This guide is an overview that covers most parts of 7 Cups, explaining how it works without going into a lot of detail. It is intended to provide 7 Cups therapists with basic information about the rest of 7 Cups.
 
 Therapists who need more information about therapy at 7 Cups can read the separate guide: [Ethics & Online Therapy](https://www.7cups.com/ethics-and-online-therapy/) (but this link only works if you are logged in as a 7 Cups therapist).
+
+7 Cups develops continuously, leaving this guide out of date until its next quarterly revision. Unless otherwise stated, the information in this guide is believed to be correct at the time of the last revision: June 2018
+
+Please provide feedback to the author if you notice anything that needs to be corrected in the next revision.
 
 
 # What is 7 Cups?
@@ -45,11 +49,13 @@ Three models of support are implemented on the platform, although they are not c
 - A peer support model, in which people who have similar kinds of issues are encouraged to support each other.
 - An individual support model, using volunteer listeners and paid therapists.
 
+Couple and family support could technically be possible, but they are not implemented.
+
 The platform also supports personal feeds, which are a little like blogs. They are public and they can be indexed by Internet search engines.
 
 It has a restricted-access wiki for reference information. The wiki can mostly be read, but not edited, by the public. The public part is indexed by Internet search engines. The private part of the wiki can only be accessed by listeners.
 
-Some essential platform support is not available onsite at the time of writing (April 2018), notably calendars (currently provided by [Tockify](https://tockify.com/)) and forms (currently provided by [Google Forms](https://www.google.com/forms/about/)).
+Some essential platform support is not available onsite, notably calendars (currently provided by [Tockify](https://tockify.com/)) and forms (currently provided by [Google Forms](https://www.google.com/forms/about/)).
 
 Collaborative projects often use Google services for communication between project members, because the onsite alternatives, a forum or the wiki, would be public.
 
@@ -59,7 +65,7 @@ For scheduling purposes 7 Cups time is defined as US Eastern Time. All users are
 
 7 Cups began in around 2013 as a telephone service for people seeking anonymous emotional support. When text chat was added soon afterwards, the text chat proved more popular and it was much cheaper to operate, so the telephone system was dropped.
 
-The company was initially funded by venture capital through the Silicon Valley organization [Y Combinator](http://www.ycombinator.com) in their Summer 2013 batch of startups.
+The company was initially funded by venture capital through the Silicon Valley organization [Y Combinator](http://www.ycombinator.com) in their Summer 2013 batch of startups. It is now part of the startup accelerator [GSVlabs](http://gsvlabs.com/). 
 
 The original support model was that certain people, designated as listeners, provided the support. Listeners could be volunteers, or they could be paid by the members they supported. The model has changed considerably since then.
 
@@ -179,7 +185,11 @@ For more information, see:  [Listener Reputation](https://www.7cups.com/about/fa
 
 ### Self-care breaks
 
-A member, listener or therapist can take a break from 7 Cups at any time, suspending their account temporarily. This is often known as a self-care break, although it can be for any reason. When they do this their profile completely disappears as if they never existed. Their name and icon disappear from almost everywhere in the platform. If and when they return from their break, their name and icon reappear everywhere.
+Although rarely used by listeners and very rarely by therapists, there is a facility for any member, listener or therapist to take a complete break from 7 Cups at any time, suspending their account temporarily. This is often known as a self-care break, although it can be for any reason.
+
+When they do this their profile completely disappears as if they never existed. Their name and icon disappear from almost everywhere in the platform, and their name appears as Unknown in forums. If and when they return from their break, their name and icon reappear everywhere.
+
+Listeners and therapists who have ongoing responsibilities at 7 Cups generally avoid using this facility.
 
 # Onboarding and agreements
 
@@ -216,15 +226,15 @@ In general, teens and adults cannot communicate at 7 Cups, except in the forums.
 
 There is a category of listeners who are aged 35 or over, but these older listeners are not treated differently in any significant way.
 	
-### Agreements
+### Terms of Service
 
-Guests and members are required to agree to the [member agreement](https://www.7cups.com/inc/memberTOS.html) before interacting with other people at 7 Cups. Listeners are required to agree to the [listener agreement](https://www.7cups.com/listenerAgreement.php). These agreements are also known as terms of service (ToS), terms of use, and other variants.
+All users of 7 Cups are required to agree to the [Terms of Service](https://www.7cups.com/Documents/TermsOfService/) before interacting with other users.
 
 ### Privacy policy
 
-A [privacy policy](https://www.7cups.com/privacy.php), separate from the agreements, also covers use of 7 Cups.
+A [privacy policy](https://www.7cups.com/privacy.php), separate from the terms of service, also covers use of 7 Cups.
 
-7 Cups generally describes the service as "anonymous" but it uses this term in an odd way to mean that you have a name on 7 Cups but it's probably not your real name.
+7 Cups generally describes the service as "anonymous" but it uses this term in an odd way to mean that you have a name on 7 Cups but it's probably not your real name. Members and listeners may choose to provide their real e-mail address or some other e-mail address when they join.
 
 Guests only have the random name that 7 Cups generated for them. Members and listeners might have random names or other names that they choose, which might be their real life names (though this is rare). Sometimes members and listeners reveal what might be their real first name in their profile. Therapists use their real names.
 
