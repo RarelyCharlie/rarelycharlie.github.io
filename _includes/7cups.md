@@ -159,7 +159,7 @@ Listener icon
 
 ### Therapists
 
-Anyone who is permitted to practice psychotherapy or counselling in their own local legal jurisdiction can sign up for a therapist account.
+Anyone who is permitted to practice psychotherapy or counseling in their own local legal jurisdiction can sign up for a therapist account.
 
 Therapists can pay to be included in a directory in order to provide paid support to members. All therapists have public profiles, even if they are not in the directory. 7 Cups provides a way to search the directory at: [Search Therapists](https://www.7cups.com/therapists/search.php)
 
