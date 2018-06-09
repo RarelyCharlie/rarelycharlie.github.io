@@ -206,7 +206,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		toc.append('<h3>Contents</h3>')
 		$('#content h1').each(function (i) {
 			if (i <= Persist.section)
-				toc.append('<p><a href="#">' + $(this).text() + '</a></p>')
+				toc.append('<p><a href="javascript:showme(i)">' + $(this).text() + '</a></p>')
 			else
 				toc.append('<p>' + $(this).text() + '</p>')
 			})
