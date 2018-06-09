@@ -13,9 +13,9 @@ In this guide there are sections describing each of SFT's most common techniques
 
 The guide is in many short sections. Most sections have a quiz at the end. You must correctly complete the quiz before you can move to the next section. There is no limit to the number of times you can retry each quiz.
 
-To navigate back to a section you have completed, use the little square links along the top of each page.
+To navigate back to a section you have completed, use either the little square links along the top of each page or the links in the table of contents here.
 
-<div id="toc"></div>
+### Contents {#toc}
 
 *Author: [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).*
 
@@ -649,7 +649,7 @@ After the quiz, the guide concludes with some links to further reading.
 
 You have now completed the guide.
 
-To review the guide, use the links across the top of each page. You do not have to answer the quizzes again.
+To review the guide, use either the links across the top of each page or the table of contents on the first page. You do not have to answer the quizzes again.
 
 To reset the guide and answer the quizzes again, click here: <a href='#' onclick="Persist.reset()">Reset</a>
 
