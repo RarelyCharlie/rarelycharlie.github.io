@@ -15,6 +15,8 @@ The guide is in many short sections. Most sections have a quiz at the end. You m
 
 To navigate back to a section you have completed, use the little square links along the top of each page.
 
+<div id="toc"></div>
+
 *Author: [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).*
 
 *Parts of this guide describe good practice in the opinion of the author, but are not necessarily consistent with other guidance at 7 Cups.*
