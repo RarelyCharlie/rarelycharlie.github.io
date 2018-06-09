@@ -161,6 +161,25 @@ Crumbs = {
 			}, 250)
 		}
 	}
+	
+ToC = {
+	toc: null,
+	init: function () {
+		this.toc = $('#toc')
+		if (!this.toc) return
+		this.toc.append('<h3>Contents</h3>')
+		$('#content h1').each(function (i) {
+			let t = $(this).text()
+			this.toc.append('<p>'
+				+ '<a class="hidden" href="javascript:showme(' + i + ')">' + t + '</a>'
+				+ '<span>' + t + '</span>'
+				+ '</p>')
+			})
+		},
+	show: function () {
+		if (!this.toc) return
+		}
+	}
 
 Persist = {
 	key: '',
@@ -200,15 +219,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	Persist.init()
 	if (location.search == '?reset') Persist.reset(true)
 	Crumbs.init()
-	
-	var toc = $('#toc')
-	if (toc.length) {
-		toc.append('<h3>Contents</h3>')
-		$('#content h1').each(function (i) {
-			let a = i <= Persist.section? '<a href="javascript:showme(' + i + ')">' : ''
-			toc.append('<p>' + a + $(this).text() + (a? '</a>' : '') + '</p>')
-			})
-		}
+	Toc.init()
 	
 	review = location.search == '?galley'
 	if (review) {
