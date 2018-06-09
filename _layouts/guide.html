@@ -105,7 +105,7 @@ tr.wrong label::before {color: #ccc !important;}
 i.fa-star {color: gold; margin-right: 2px;}
 ul.references {list-style-type: none;}
 
-#toc {border: 1px solid #ccc; border-width: 1px 0;}
+#toc {border: 1px solid #ccc; border-width: 1px 0; margin-bottom: 1em;}
 #toc h3 {font-weight: 500; letter-spacing: 1px;}
 #toc p {margin-left: 2em; color: #aaa;}
 </style>
@@ -200,6 +200,14 @@ document.addEventListener('DOMContentLoaded', function () {
 	Persist.init()
 	if (location.search == '?reset') Persist.reset(true)
 	Crumbs.init()
+	
+	var toc = $('#toc')
+	if (toc.length) {
+		toc.append('<h3>Contents</h3>')
+		$('#content h1').each(function () {
+			toc.append('<p>' + $(this).text() + '</p>')
+			})
+		}
 	
 	review = location.search == '?galley'
 	if (review) {
