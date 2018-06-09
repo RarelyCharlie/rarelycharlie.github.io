@@ -193,7 +193,7 @@ Listeners and therapists who have ongoing responsibilities at 7 Cups generally a
 
 # Onboarding and agreements
 
-Incoming referrals to 7 Cups come from a variety of sources. Members and listeners are encouraged to provide referral links on social media and elsewhere.
+Incoming referrals to 7 Cups come from a variety of sources. Members and listeners are encouraged to provide referral links on social media and elsewhere. 
 
 A referral link contains a reference number that secretly credits the owner of the link. All referral links link directly to the front page at 7cups.com so the person who clicks the link cannot tell who, within 7 Cups, owns the link. This helps to keep members' and listeners' onsite and offsite identities separate.
 
@@ -209,6 +209,8 @@ Onboarding front page
 {: style="text-align: center; margin-top: 0; font-size: 80%;"}
 
 However, visitors to the site also arrive from Internet searches and various other direct links. These guests can use parts of the site that do not involve interacting with other people, but before interaction with other people they have to either log in or declare their age range and agree to 7 Cups' terms of service and privacy policy.
+
+7 Cups also has associate agreements with various organizations, such as some colleges. Each organization has its own portal webpage that gives its members access to a subset of 7 Cups. For example, an organization can have its own listeners who chat exclusively to its own members.
 
 ### Age ranges
 
