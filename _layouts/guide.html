@@ -181,7 +181,7 @@ ToC = {
 		aa.each(function (i) {
 			let a = $(this), ok = i <= Persist.section
 			a.toggleClass('hidden', ok)
-			a.next().a.toggleClass('hidden', !ok)
+			a.next().toggleClass('hidden', !ok)
 			})
 		}
 	}
