@@ -337,6 +337,7 @@ showme = function (s) { // show a section...
 	else if (s > h1s.length - 1) s = 0 // for possible overrun
 	section = s
 	Crumbs.show()
+	if (s == 0) ToC.show()
 	h1 = h1s.eq(section)
 	h1.show()
 	h1.nextUntil('h1').not('.quiz').show()
