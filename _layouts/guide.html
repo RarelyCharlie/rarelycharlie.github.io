@@ -180,8 +180,8 @@ ToC = {
 		if (!aa.length) return
 		aa.each(function (i) {
 			let a = $(this), ok = i <= Persist.section
-			a.toggleClass('hidden', ok)
-			a.next().toggleClass('hidden', !ok)
+			a.toggleClass('hidden', !ok)
+			a.next().toggleClass('hidden', ok)
 			})
 		}
 	}
