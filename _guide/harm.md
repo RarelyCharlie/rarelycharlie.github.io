@@ -3,31 +3,9 @@ title: Harm
 layout: guide
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-# Contents
-[PART I](#part-i) — General information for all listeners
--	[Introduction: What this guide is for](#what-this-guide-is-for)
--	[The purpose of 7 Cups](#the-purpose-of-7-cups)
--	[Self care](#self-care)
--	[Brief active listening refresher](#brief-active-listening-refresher)
--	[Why members talk about harm](#why-members-talk-about-harm)
--	[Thoughts and actions](#thoughts-and-actions)
--	[Unintended consequences](#unintended-consequences)
--	[Mental disorders and harm—I](#mental-disorders-and-harmi)
--	[Mental disorders and harm—II](#mental-disorders-and-harmii)
--	[Fantasies and actual harm](#fantasies-and-actual-harm)
--	[External resources](#external-resources)
--	[Do's, dont's and issues](#dos-donts-and-issues)
-	
-[PART II](#part-ii) — Examples (trigger warning)
--	[Depression](#depression)
--	[OCD](#ocd)
--	[PTSD](#ptsd)
--	[Psychosis](#psychosis)
--	[Personality disorder](#personality-disorder)
--	[Paraphilia](#paraphilia)
--	[Domestic abuse](#domestic-abuse)
-
 # Part I
+{:.part}
+
 General information for all listeners.
 
 This guide is an unofficial training guide for listeners about chats involving harm. It is not a self-help guide for members. If you are not a listener you can still read this guide, but becoming a listener first is recommended as a starting point.
@@ -676,6 +654,8 @@ That's the end of Part I of this guide. After the quiz, there is an introduction
 {:.quiz}
 
 # Part II
+{:.part}
+
 Examples
 
 **Trigger warning**: This section of the guide describes fictional scenarios that may possibly involve harm. Some listeners might find some of these scenarios upsetting or triggering.
