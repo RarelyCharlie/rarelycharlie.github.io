@@ -109,6 +109,7 @@ ul.references {list-style-type: none;}
 	margin-bottom: 1em; line-height: 2em; padding: 0;}
 #toc p {font-weight: normal; font-size: 16px; margin-left: 2em; color: #aaa; line-height: 1em;
 	letter-spacing: 0;}
+#toc p.part {margin-left: 0;}
 </style>
 <script>
 Crumbs = {
@@ -168,8 +169,9 @@ ToC = {
 		var toc = $('#toc')
 		if (!toc.length) return
 		$('#content h1').each(function (i) {
-			let t = $(this).text()
-			toc.append('<p>'
+			let t = $(this).text(), c = $(this).attr('class')
+			toc.append('<p'
+				+ (c? ' class="' + c + '"' : '') + '>'
 				+ '<a class="hidden" href="javascript:showme(' + i + ')">' + t + '</a>'
 				+ '<span>' + t + '</span>'
 				+ '</p>')
