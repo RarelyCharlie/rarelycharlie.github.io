@@ -16,6 +16,8 @@ To navigate back to a section you have completed, use the little square links al
 
 **Trigger warning:** Part I is intended for all listeners and it has no detailed descriptions of harm. Part II contains more detailed examples and information that some listeners might find upsetting or triggering. It is OK to stop reading at the end of Part I.
 
+### Contents {#toc}
+
 *Author: [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).*
 
 *Parts of this guide describe good practice in the opinion of the author, but are not necessarily consistent with other guidance at 7 Cups.*
