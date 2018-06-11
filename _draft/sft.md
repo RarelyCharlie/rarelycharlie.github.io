@@ -27,7 +27,6 @@ To navigate back to a section you have completed, use either the little square l
 {:style="text-align: center;"}
 
 # Introduction
-{:.part}
 
 Solution Focused Therapy (SFT) is not active listening. Listeners at 7 Cups should not normally try to use SFT or any other form of therapy at 7 Cups. Listeners' training makes this clear on the first page:
 
