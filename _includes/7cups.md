@@ -8,6 +8,8 @@ This guide is an overview that covers most parts of 7 Cups, explaining how it wo
 
 Therapists who need more information about therapy at 7 Cups can read the separate guide: [Ethics & Online Therapy](https://www.7cups.com/ethics-and-online-therapy/) (but this link only works if you are logged in as a 7 Cups therapist).
 
+### Contents {#toc}
+
 7 Cups develops continuously, leaving parts of this guide out of date until its next revision. Unless otherwise stated, the information in this guide is believed to be correct at the time of the last revision: June 2018
 
 Please provide feedback to the author if you notice anything that needs to be corrected in the next revision.
