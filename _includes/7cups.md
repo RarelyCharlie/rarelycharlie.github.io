@@ -604,4 +604,4 @@ If you notice errors or omissions in this draft guide, please message the editor
 ### Acknowledgements
 Thanks to the following members and listeners who contributed to a previous version of this guide: @Alex, @bunnypants, @ChaoticGood, @colourfulSpring22, @LaraG, @Laura, @littlepony, @MajesticBear, @Melody293, @Nada, @niamh333, @PhoenixAsh, @RainbowTrie, @Rose, @sairita, @Silversun14, @SunFern, @tazcares.
 
-{}
+ 
