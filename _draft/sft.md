@@ -603,6 +603,7 @@ Here are some contrasts between SFT and active listening (AL):
 
 |SFT:|Your goal as a listener is for the member to solve their problem.
 |*AL:*|*Your goal as a listener is to provide emotional support.*
+{:style="margin-bottom: 1em;"}
 
 |SFT:|Give compliments.
 |*AL:*|*Avoid judgements (including compliments)*
