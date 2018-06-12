@@ -208,6 +208,21 @@ When they do this their profile completely disappears as if they never existed. 
 
 Listeners and therapists who have ongoing responsibilities at 7 Cups generally avoid using this facility.
 
+After the quiz, the next section describes how a new user's experience of 7 Cups is structured.
+
+- Mark each statement true or false:
+- Member accounts are identified by a square icon with rounded corners.#That's how they are identified.
+- Members can choose the name they use at 7 Cups.#They can use a custom name and icon.
+- Listeners can choose the name they use at 7 Cups.#They can use a custom name and icon.
+- Therapists are advised to use false names at 7 Cups for security reasons.# Therapists use their real names.
+- Members can describe themselves in their profile.#They can if they want to.
+- Becoming a listener requires a bachelors degree in psychology or an equivalent qualification.# It only requires a short online training module.
+- Some parts of the website can only be accessed by listeners.#Listeners have their own forums, chatrooms, and wiki categories.
+- Cheers are awarded by listeners to members they like.# Cheers are awarded by the system.
+- Members get star ratings for their contribution to forums and chatrooms.# Only listeners and therapists get star ratings, and those are for 1-to-1 chats.
+- 7 Cups can be accessed by installing an app from the Google Play Store.#There are apps for Android and iOS.
+{:.quiz}
+
 # Onboarding and agreements
 
 Incoming referrals to 7 Cups come from a variety of sources. Members and listeners are encouraged to provide referral links on social media and elsewhere. 
