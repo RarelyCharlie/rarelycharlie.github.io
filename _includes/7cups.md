@@ -348,6 +348,21 @@ Feed posts can include hashtags, and any hashtag can be followed at 7cups.com/~h
 
 Some members use a diary thread in a forum to post personal material, instead of using their feed, or in addition. Using a diary thread allows for discussion, and it's perhaps more likely to be read by others in a subcommunity.
 
+After the quiz, the next section describes 7 Cups' peer support model.
+
+- Mark each statement true or false:
+- A growth path is a series of recommended activities.#It's an endless series of activities.
+- There are self-help guides for common mental illnesses.#The guides cover all the most common mental illnesses.
+- 7 Cups provides support for people who want to meditate.#There are many audio meditations.
+- At 7 Cups members can find answers to frequently asked questions about life's challenges.#There is an extensive question and answer database.
+- At 7 Cups members can write public diaries.#Members can use their feed or the forums for diary entries.
+- At 7 Cups members' feeds are confidential.# Feeds are public.
+- 7 Cups keeps a record of the number of steps each member has completed on their growth path.#Members' and listeners' profiles show the number of steps completed.
+- Violations of community guidelines are tracked using a points system.#The system records points for each violation.
+- At 7 Cups the age limit for adult listeners is 35 because all listeners must be in tune with young people.# There is no upper age limit.
+- Self help at 7 Cups is always guided by trained listeners.# Self help does not require any interaction with others.
+{:.quiz}
+
 # Peer support
 
 A peer support model is implemented in forums and chatrooms.
