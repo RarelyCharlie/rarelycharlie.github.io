@@ -579,6 +579,21 @@ There is an internship program that allows listeners to work towards structured 
 
 There is also a less formal program of certification for listeners, but it is not much used.
 
+After the quiz, the next section concludes the guide.
+
+- Mark each statement true or false:
+- Listeners receive training in active listening.#Active listening is the basis of the training.
+- Peer supporters are supportive guests who are in training to become listeners.# Peer supporters are listeners who support other listeners.
+- Listeners are awarded badges if they are consistently good at listening.#There are several badges that indicate listener quality.
+- 7 Cups encourages listeners to solve members' problems by giving high quality advice and counseling.# Problem solving and other forms of counseling are discouraged.
+- A listener can choose not to chat about certain subjects.#Listeners are encouraged to have personal boundaries that can include the subject of chats.
+- Listeners are automatically notified about who has rated or reviewed them.# Listeners are not notified about who rated or reviewed them, and cannot usually tell.
+- Some listeners only chat to members who meet certain criteria.#Listeners can choose who they chat to.
+- Listeners' profiles often indicate the subjects they are willing to chat about.#Listeners are encouraged to put this information in their profile.
+- Some listeners are interns at 7 Cups.#The internship program is for listeners.
+- Feeds can contain items reposted from other people's feeds.#Anyone can repost feed items. 
+{:.quiz}
+
 # Conclusion
 You have now completed the guide.
 
@@ -587,4 +602,4 @@ To review any part of the guide, use the little squares at the top of each page 
 If you notice errors or omissions in this draft guide, please message the editor with details, [@RarelyChalie](https://www.7cups.com/@RarelyCharlie).
 
 ### Acknowledgements
-Thanks to the following members and listeners who contributed to the making of this guide: @Alex, @bunnypants, @ChaoticGood, @colourfulSpring22, @LaraG, @Laura, @littlepony, @MajesticBear, @Melody293, @Nada, @niamh333, @PhoenixAsh, @RainbowTrie, @Rose, @sairita, @Silversun14, @SunFern, @tazcares.
+Thanks to the following members and listeners who contributed to a previous version of this guide: @Alex, @bunnypants, @ChaoticGood, @colourfulSpring22, @LaraG, @Laura, @littlepony, @MajesticBear, @Melody293, @Nada, @niamh333, @PhoenixAsh, @RainbowTrie, @Rose, @sairita, @Silversun14, @SunFern, @tazcares.
