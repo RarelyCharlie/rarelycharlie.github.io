@@ -284,6 +284,21 @@ Community guidelines provide everyone who uses 7 Cups with rules for good behavi
 
 To help manage behavior that violates the guidelines, there is a points system, and within the chatrooms there is another system that tracks warnings given by moderators.
 
+After the quiz, the next section describes 7 Cups' self-help model.
+
+- Mark each statement true or false:
+- 7 Cups' Social Soldiers have the task of defending 7 Cups from social media trolls.# They publicize 7 Cups on social media.
+- Children under 13 can read anything members post in the forums.#The forums are public, so anyone can read them.
+- A child can chat to an adult on 7 Cups.#Only if the child has parental consent and the adult is a listener with a Teen badge.
+- Members who get to know each other on 7 Cups are not allowed to exchange contact information.#7 Cups does not allow anyone except therapists to share offsite contact information.
+- The community guidelines apply to everyone who participates at 7 Cups.#They apply to guests, members, listeners and therapists.
+- Teen members at 7 Cups must be at least 15 years old but under 20.# They are at least 13 but under 18.
+- 7 Cups automatically awards badges to members and listeners for meeting certain targets.#Some badges are awarded automatically (but not all of them are).
+- A round icon signifies a therapist account.# It signifies a listener or therapist account.
+- Members sometimes suspend their accounts for a while, and return later.#Anyone can suspend their account temporarily.
+- 7 Cups is a project of the World Health Organization.# 7 Cups is an international business based in the US.
+{:.quiz}
+
 # Self-help
 
 7 Cups' self-help model provides a collection of tools that support people without requiring any interaction with others.
