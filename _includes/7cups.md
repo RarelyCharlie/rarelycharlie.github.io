@@ -520,6 +520,20 @@ Members who sign up for paid therapy first chat to the bot, Sophia, and after pr
 
 After the free trial, if there was one, 7 Cups charges the member's card a fixed amount monthly, regardless of the therapist's in-office rate. The member can message their therapist as often as they like. For members who pay the full rate, the therapist will reply at least once a day, Monday to Friday, excluding holidays. For the reduced rate it's at least once a week.
 
+After the quiz, the next section describes how listeners are trained and supported.
+
+- Mark each statement true or false:
+- Noni is a bot.#Noni and Sophia are 7 Cups' chatbots.
+- There is a searchable database of listeners.#Anyone can browse the database of listeners.
+- Listeners can use a booking system to arrange chats in advance.#They can use an offsite booking system.
+- There is real time support for listeners while they are chatting to members.#The Listener Support Room is a chatroom where real time support is provided.
+- Listeners must not arrange to chat to any member repeatedly.# Listeners are encouraged to provide long term support.
+- Members who want to pay for therapy must first chat to a bot.#Sophia is the bot.
+- A listener can refer a member directly to the most appropriate therapist.# Listeners can only suggest paid therapy.
+- A referral link is a direct link to the chatbot Sophia.# A referral link is a direct link to the 7 Cups home page.
+- Most of the forums are public, and no account is required to read them.#The public and Internet search engines have access to most of the forums.
+- Some forum threads contain announcements.#Forum threads are often used to announce news to the community.
+{:.quiz}
 
 # Listener training and support
 Listeners are briefly trained in active listening, and they can go on to complete some further training in listening. However, most of the training modules available to listeners are the self-help guides available to everyone.
