@@ -428,6 +428,23 @@ The people currently in these various roles are listed at [Our Team](https://www
 
 A variety of collaborative projects are ongoing in the community at any time. They mostly involve listeners, but sometimes they can also involve members. For example, the development of the [wiki](https://www.7cups.com/wiki/) as an information repository involves members and listeners (and possibly some therapists, too).
 
+After the quiz, the next section describes individual support at 7 Cups.
+
+- Mark each statement true or false:
+- A member can provide support to other members.#This is the peer support model.
+- A listener can have a separate member account for times when they need support.#A separate member account is strongly encouraged.
+- Popular posts in the forums receive upvotes.#There is an upvote button for this.
+- Unpopular posts in the forums receive downvotes.# Downvotes are not possible at 7 Cups.
+- Members must not name other members in the forums.# Mentioning someone’s name in the forums causes them to be notified.
+- Some forums are not public.#For example, some forums are for listeners only, or for therapists only.
+- Chatrooms are only used for formal discussions.# Chatrooms are also used for chatting!
+- Chatrooms are only used for informal chats.# Chatrooms are also used for formal discussions.
+- There is a calendar of future discussions.#There is a schedule where forthcoming discussions are announced.
+- Subcommunities are only for listeners.# Anyone with an account can join subcommunities.
+- Subcommunities are for members, listeners and therapists who have common interests.#This is how peer support works at 7 Cups.
+- Everyone at 7 Cups plays an equal part in the community.# Some people have special roles in the community.
+{:.quiz}
+
 # Individual support
 
 1-to-1 chats provide guests and members with individual support from paid therapists, volunteer listeners, and a bot called Noni.
