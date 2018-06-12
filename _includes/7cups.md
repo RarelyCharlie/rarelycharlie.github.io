@@ -8,7 +8,7 @@ This guide is an overview that covers most parts of 7 Cups, explaining how it wo
 
 Therapists who need more information about therapy at 7 Cups can read the separate guide: [Ethics & Online Therapy](https://www.7cups.com/ethics-and-online-therapy/) (but this link only works if you are logged in as a 7 Cups therapist).
 
-7 Cups develops continuously, leaving this guide out of date until its next quarterly revision. Unless otherwise stated, the information in this guide is believed to be correct at the time of the last revision: June 2018
+7 Cups develops continuously, leaving parts of this guide out of date until its next revision. Unless otherwise stated, the information in this guide is believed to be correct at the time of the last revision: June 2018
 
 Please provide feedback to the author if you notice anything that needs to be corrected in the next revision.
 
@@ -96,6 +96,21 @@ The websites, and probably the app, contain trackers originating from a number o
 Another take on the mission is described in this video (under 2 minutes):
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/0RVw5nvDG18?t=5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+After the quiz, the next section describes the four types of account at 7 Cups.
+
+- Mark each statement true or false:
+- 7 Cups is a not-for-profit project of the United Nations.# It's a US business.
+- Most visitors to the 7 Cups website are from the US.#More than a third of them are from the US.
+- People cannot use 7 Cups if they are mentally ill.# 7 Cups provides support for mental health issues.
+- At 7 Cups, US Eastern Time is the standard time zone.#All times in 7 Cups should be US Eastern Time.
+- Listeners can register to receive payment for the work they do.# Payment for listeners was dropped long ago.
+- At 7 Cups some communications take place outside 7 Cups' own platform.#Some calenders and documents are outside the 7 Cups platform.
+- All the support at 7 Cups is provided by listeners and therapists.# Some is self help and some is peer support.
+- 7 Cups has a public wiki that anyone can edit.# Editing the wiki is restricted.
+- All the features of 7 Cups are free.# Some require payment.
+- 7 Cups began in early 2016.# It began in 2013. Paid therapy was added in 2016. 
+{:.quiz}
 
 # The four types of account
 
