@@ -403,7 +403,7 @@ Assume that change is constantly occurring, and is to be expected:
 After the quiz, the next section describes questions about coping.
 
 - Mark each statement true or false:
-- The miracle question is used to identify the member's goals.#The miracle question is used to idenfity overall goals.
+- The miracle question is used to identify the member's goals.#The miracle question is used to identify overall goals.
 - The miracle question is used to convince the member to accept things as they are.# The miracle question identifies what will change.
 - Scaling questions make the member's problems seem small and manageable.# Scaling questions track progress.
 - Asking the miracle question in every chat helps to track progress.# Asking scaling questions in every chat helps to track progress.
