@@ -172,6 +172,9 @@ A ~~status~~ setting indicating that a ~~listener~~ is active on 7 Cups but not 
 # category
 One of the topics that a ~~listener~~ can specialize in and that ~~Noni~~ asks about. Also one of the groups of ~~forums./forum~~ Also a group of ~~articles/~~ in the ~~wiki.~~
 
+# CCM
+Community Centered Moderation. The system of appointing ~~forum~~ ~~mods/~~ according to the ~~subcommunity~~ the forum is in.
+
 # censor
 An automatic system intended to prevent the use of certain words or phrases. Also, to edit certain words and phrases after they have been used to make it look as if they were not used, or to delete information after it has been published to make it look as if it was not published.
 
