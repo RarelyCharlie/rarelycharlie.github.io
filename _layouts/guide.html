@@ -208,11 +208,11 @@ Persist = {
 			this.save()
 			}
 		},
-	reset: function (quiet) {
+	reset: function () {
 		++this.retry
 		this.section = 0
 		this.save()
-		if (!quiet) location.replace(location.href.replace(/[#?].*$/, ''))
+		location.href = location.href.replace(/[#?].*$/, '')
 		},
 	save: function () {
 		localStorage.setItem(this.key, JSON.stringify([this.retry, this.r | this.section << 9]))
@@ -224,7 +224,7 @@ const qcount = 4 // show this many questions in each quiz
 
 document.addEventListener('DOMContentLoaded', function () {
 	Persist.init()
-	if (location.search == '?reset') Persist.reset(false)
+	if (location.search == '?reset') Persist.reset()
 	Crumbs.init()
 	
 	ToC.init()
