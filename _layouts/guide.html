@@ -212,7 +212,7 @@ Persist = {
 		++this.retry
 		this.section = 0
 		this.save()
-		if (!quiet) location.replace(location.href.replace('#', ''))
+		if (!quiet) location.replace(location.href.replace('[#?].*$', ''))
 		},
 	save: function () {
 		localStorage.setItem(this.key, JSON.stringify([this.retry, this.r | this.section << 9]))
