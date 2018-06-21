@@ -574,7 +574,7 @@ After the quiz, the next section is a cheat sheet that you can use as a quick re
 - Listeners should discuss all their members' problems with mentors, to ensure they give quality advice.# Listeners must not discuss details od any chat with anyone, and must not give advice.
 - Listeners using SFT frequently compliment members.#Compliments provide reassurance, optimism, and hope for the future.
 - In SFT, listeners often end a chat by complimenting the member.#Compliments are given throughout SFT.
-- Listeners should give homework tasks to members who are at the complainer or customer stage in relation to a problem.#Visitors should only receive comppliments.
+- Listeners should give homework tasks to members who are at the complainer or customer stage in relation to a problem.#Visitors should only receive compliments.
 - Members at the complainer stage in relation to a problem should not receive compliments, in case they get stuck at that stage.# In SFT all members should receive compliments.
 {:.quiz}
 
