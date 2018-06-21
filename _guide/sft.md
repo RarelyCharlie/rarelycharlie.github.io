@@ -70,7 +70,7 @@ The focus of SFT is always on solutions, never on problems. In SFT the member is
 
 SFT can be used to solve a single problem or a collection of problems. It focuses on a future where the problems do not exist, or where they are less troublesome. It avoids any focus on the problems themselves or on their causes.
 
-Research has shown that these elements of SFBT are the things that enable people to discover solutions to their problems very quickly. SFT rapidly creates hope, and it gives members complete control over the solutions to their their problems.
+Research has shown that these elements of SFBT are the things that enable people to discover solutions to their problems very quickly. SFT rapidly creates hope, and it gives members complete control over the solutions to their problems.
 
 After the quiz, the next section describes how you can get started with SFT.
 
