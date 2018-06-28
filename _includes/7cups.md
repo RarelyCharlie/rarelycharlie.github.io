@@ -135,7 +135,7 @@ Guest icon
 
 ### Members
 
-Any guest can sign up to convert their account to a member account, which has a password and a profile. The password means the account can be used from more than one device.
+Any guest aged 13 or over can sign up to convert their account to a member account, which has a password and a profile. The password means the account can be used from more than one device.
 
 A member's profile is public. It can be seen by anyone who visits 7cups.com/@*SomeScreenName* and it can turn up in the results of Internet searches.
 
@@ -161,7 +161,7 @@ The buttons are only visible to people who are permitted to use them. For exampl
 
 ### Listeners
 
-Anyone can sign up to become a listener by completing a short online training module. Listeners generally have the same access to the site as members, with some additional features that are only available for listeners.
+Anyone aged 15 or over can sign up to become a listener by completing a short online training module. Listeners generally have the same access to the site as members, with some additional features that are only available for listeners.
 
 Listeners are intended to provide support to members. They also support each other in the work of being a listener. Listeners are encouraged to have a separate member account to use when they need support for their own personal issues. The platform supports easy switching between the two accounts.
 
