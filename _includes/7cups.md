@@ -4,7 +4,7 @@
 
 This is a guide to 7 Cups originally written for therapists, although anyone can read it.
 
-This guide is an overview that covers most parts of 7 Cups, explaining how it works without going into a lot of detail. It is intended to provide 7 Cups therapists with basic information about the rest of 7 Cups.
+This guide is an overview that covers most parts of 7 Cups, explaining how it works without going into a lot of detail. It was originally written to provide 7 Cups therapists with basic information about the rest of 7 Cups.
 
 Therapists who need more information about therapy at 7 Cups can read the separate guide: [Ethics & Online Therapy](https://www.7cups.com/ethics-and-online-therapy/) (but this link only works if you are logged in as a 7 Cups therapist).
 
@@ -602,6 +602,6 @@ To review any part of the guide, use the little squares at the top of each page 
 If you notice errors or omissions in this draft guide, please message the editor with details, [@RarelyChalie](https://www.7cups.com/@RarelyCharlie).
 
 ### Acknowledgements
-Thanks to the following members and listeners who contributed to a previous version of this guide: @Alex, @bunnypants, @ChaoticGood, @colourfulSpring22, @LaraG, @Laura, @littlepony, @MajesticBear, @Melody293, @Nada, @niamh333, @PhoenixAsh, @RainbowTrie, @Rose, @sairita, @Silversun14, @SunFern, @tazcares.
+Thanks to the following members and listeners who contributed to a previous version of this guide in 2017: @Alex, @bunnypants, @ChaoticGood, @colourfulSpring22, @LaraG, @Laura, @littlepony, @MajesticBear, @Melody293, @Nada, @niamh333, @PhoenixAsh, @RainbowTrie, @Rose, @sairita, @Silversun14, @SunFern, @tazcares.
 
  
