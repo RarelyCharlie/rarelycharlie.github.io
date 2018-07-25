@@ -86,7 +86,7 @@ For 7 Cups therapists the site's directory is an effective place to advertise, b
 
 There has never been any explicit advertising within 7 Cups, except for 7 Cups' own sources of income—donations and paid therapy.
 
-The websites, and probably the app, contain trackers originating from a number of business partners associated with the advertising industry, but details of these arrangements are undisclosed. Some other data from 7 Cups' servers may be shared with other parties for research and development purposes, but details are mostly undisclosed.
+The websites, and probably the app, contain trackers originating from a number of business partners associated with the advertising industry, but details of these arrangements are undisclosed. Some other data from 7 Cups' servers may be shared with other parties for research and development purposes, but again, details are mostly undisclosed.
 
 ### Mission
 
