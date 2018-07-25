@@ -28,7 +28,7 @@ The app provides a reduced set of features compared to the website, with the exc
 
 7 Cups is available worldwide, and communication within 7 Cups can be in any of the world's written languages, regardless of the user interface language. Even so, most communication within 7 Cups is in English.
 
-Here's the breakdown of visitors to the website by country at the time of writing (April 2018):
+Here's the breakdown of visitors to the website by country in April 2018:
 
 ![Countries](/assets/guide/countries.png){: style="height: 255px; width: 593px; display: block; margin: 1em auto 0 auto;"}
 
@@ -81,6 +81,8 @@ Sustainability icon
 {: style="text-align: center; margin-top: 0; font-size: 80%;"}
 
 Paid therapy was added to the model in early 2016, and by January 2017 the business had grown to the point where its business model had become self-sustaining.
+
+For 7 Cups therapists the site's directory is an effective place to advertise, because volunteer activity on other parts of the site significantly enhances 7 Cups' search engine rankings. These active public parts of the site include the public forums, the Q&A section, and the wiki.
 
 There has never been any explicit advertising within 7 Cups, except for 7 Cups' own sources of income—donations and paid therapy.
 
