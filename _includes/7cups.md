@@ -82,7 +82,7 @@ Sustainability icon
 
 Paid therapy was added to the model in early 2016, and by January 2017 the business had grown to the point where its business model had become self-sustaining.
 
-For 7 Cups therapists the site's directory is an effective place to advertise, because volunteer activity on other parts of the site significantly enhances 7 Cups' search engine rankings. These active public parts of the site include the public forums, the Q&A section, and the wiki.
+For 7 Cups therapists the site's directory is an effective place to advertise, because volunteer activity on other parts of the site significantly enhances 7 Cups' search engine rankings. These active public parts of the site include the public forums, the Q&A section, feeds and the wiki.
 
 There has never been any explicit advertising within 7 Cups, except for 7 Cups' own sources of income—donations and paid therapy.
 
