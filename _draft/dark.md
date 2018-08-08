@@ -30,7 +30,7 @@ To install each of these in turn, click the relevant link and follow the instruc
 ### Turning the theme on and off
 To turn the theme on and off, use the button at the top left of the screen (beside the teacup logo):
 
-![Button](/assets/dark/button.png)
+![Button](/assets/dark/button.png){:style="box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.75);"}
 
 The theme remembers the setting when you reload the page or go to another page.
 
