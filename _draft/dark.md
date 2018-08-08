@@ -63,7 +63,7 @@ For a high contrast dark theme, try: dark theme, brightness 15%, contrast 120%:
 
 ![Very dark](/assets/dark/inverted-hi.png){:style="box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.75);"}
 
-It is easy to choose settings that make the page unreadable. If you can't even see the sliders, use the button at the top left to remove the custom theme temporarily.
+It is easy to choose settings that make the page unreadable! If you can't even see the sliders, use the button at the top left to remove the custom theme temporarily.
 
 ### Known issues
 The colors of some elements in the page do not change. This problem mostly affects images.
