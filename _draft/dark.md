@@ -39,25 +39,29 @@ To customize the theme, go to your My Settings page (by logging in to 7 Cups, cl
 
 Dark adds a **Dark Theme** section to the page:
 
-![Button](/assets/dark/settings.png){:style="box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.75);"}
+![Settings](/assets/dark/settings.png){:style="box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.75);"}
 
 (This shows a member account's settings. For listeners it looks a little different but it operates the same way.)
 
 When you change the settings, they are applied after a short delay. The theme remembers your settings and you do not have to save your profile (unless you have changed something else there).
 
-Use the Dark theme checkbox to choose a dark (white on black) theme.
+Use the Dark theme checkbox to choose a dark (white on black) theme like as shown above. Clear the checkbox to choose a normal (black on white) theme.
 
 Use the Brightness slider to adjust the brightness, if necessary. Its normal position is in the middle (0%).
 
 Use the Contrast slider to adjust the contrast, if necessary. Its normal position is near the right-hand end (100%), but not quite at the end.
 
-The default when you install Dark is: dark theme, brightness -20%, contrast 50%.
+The default when you install Dark is: dark theme, brightness -20%, contrast 50%:
 
-The 7 Cups default (without Dark) is: normal theme, brightness 0 (in the middle), contrast 100%
+![Default](/assets/dark/default.png){:style="box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.75);"}
 
-For a high contrast normal theme, try: normal theme, brightness -10%, contrast 120%
+The 7 Cups default (without Dark) is: normal theme, brightness 0 (in the middle), contrast 100%. There is not point in using these settings, except as a stating point for making changes:
 
-For a high contrast dark theme, try: dark theme, brightness 15%, contrast 120%
+![Normal](/assets/dark/normal.png){:style="box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.75);"}
+
+For a high contrast dark theme, try: dark theme, brightness 15%, contrast 120%:
+
+![Very dark](/assets/dark/inverted-hi.png){:style="box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.75);"}
 
 It is easy to choose settings that make the page unreadable. If you can't even see the sliders, use the button at the top left to remove the custom theme temporarily.
 
