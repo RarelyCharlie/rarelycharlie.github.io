@@ -55,7 +55,7 @@ The default when you install Dark is: dark theme, brightness -20%, contrast 50%:
 
 ![Default](/assets/dark/default.png){:style="box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.75);"}
 
-The 7 Cups default (without Dark) is: normal theme, brightness 0 (in the middle), contrast 100%. There is not point in using these settings, except as a stating point for making changes:
+The 7 Cups default (without Dark) is: normal theme, brightness 0 (in the middle), contrast 100%. There is no point in using these settings, except as a stating point for making changes:
 
 ![Normal](/assets/dark/normal.png){:style="box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.75);"}
 
