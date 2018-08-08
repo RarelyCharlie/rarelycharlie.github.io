@@ -37,7 +37,11 @@ The theme remembers the setting when you reload the page or go to another page.
 ### Settings
 To customize the theme, go to your My Settings page (by logging in to 7 Cups, clicking on your own profile image at the top right, and choosing My Settings from the menu).
 
-Dark adds a **Dark Theme** section to the page.
+Dark adds a **Dark Theme** section to the page:
+
+![Button](/assets/dark/settings.png){:style="box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.75);"}
+
+(This shows a member account's settings. For listeners it looks a little different but it operates the same way.)
 
 When you change the settings, they are applied after a short delay. The theme remembers your settings and you do not have to save your profile (unless you have changed something else there).
 
