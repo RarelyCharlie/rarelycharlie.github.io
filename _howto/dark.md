@@ -74,6 +74,6 @@ Dark takes a relatively long time to work every time you load a page. This means
 If you want to remove Dark, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
 
 ### Feedback
-Please provide feedback in the forum: [Dark theme with contrast settings](https://www.7cups.com/forum/)
+Please provide feedback in the forum: [Dark theme with contrast settings](https://www.7cups.com/forum/LaurasOffice_133/SuggestionsandProblemSolving_383/Darkthemewithcontrastsettings_167439/)
 
 Alternatively, to contact the author go to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and send a message.
