@@ -45,7 +45,7 @@ Dark adds a **Dark Theme** section to the page:
 
 When you change the settings, they are applied after a short delay. The theme remembers your settings and you do not have to save your profile (unless you have changed something else there).
 
-Use the Dark theme checkbox to choose a dark (white on black) theme like as shown above. Clear the checkbox to choose a normal (black on white) theme.
+Use the Dark theme checkbox to choose a dark (white on black) theme as shown above. Clear the checkbox to choose a normal (black on white) theme.
 
 Use the Brightness slider to adjust the brightness, if necessary. Its normal position is in the middle (0%).
 
