@@ -21,7 +21,7 @@ To use Dark, you need to install two things in this order:
 
 1. First install [Tampermonkey](http://tampermonkey.net/) in your web browser.
 
-If your web browser is not compatible with Tampermonkey, then you probably cannot proceed with the next step. However, at [Greasy Fork](https://greasyfork.org/en) you can find some information about alternatives to Tampermonkey.
+   If your web browser is not compatible with Tampermonkey, then you probably cannot proceed with the next step. However, at [Greasy Fork](https://greasyfork.org/en) you can find some information about alternatives to Tampermonkey.
 
 2. Next, install the [Dark](https://greasyfork.org/en/scripts/370980-7-cups-dark-theme) script.
 
@@ -39,7 +39,7 @@ Dark adds a **Dark Theme** section to the page.
 
 When you change the settings, they are applied after a short delay. The theme remembers your settings and you do not have to save your profile (unless you have changed something else there).
 
-Use the Dark theme checkbox to switch to a dark (white on black) theme.
+Use the Dark theme checkbox to choose a dark (white on black) theme.
 
 Use the Brightness slider to adjust the brightness, if necessary. Its normal position is in the middle (0%).
 
@@ -56,12 +56,14 @@ For a high contrast dark theme, try: dark theme, brightness 15%, contrast 120%
 It is easy to choose settings that make the page unreadable. If you can't even see the sliders, use the button at the top left to remove the custom theme temporarily.
 
 ### Known issues
-The colors of some elements in the page do not change. This might be improved in a future version of Dark, but it will never be completely fixed.
+The colors of some elements in the page do not change. This problem mostly affects images.
 
-Dark takes a long time to work every time you load a page. This means you see normal colors for a moment before Dark kicks in. It's unlikely that this can ever be fixed.
+Dark takes a relatively long time to work every time you load a page. This means that on every page you see normal colors for a moment before Dark kicks in.
 
 ### Removing Dark
 If you want to remove Dark, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
 
 ### Feedback
-To provide feedback to the author, go to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and send a message.
+Please provide feedback in the forum: [Dark theme with contrast settings](https://www.7cups.com/forum/)
+
+Alternatively, to contact the author go to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and send a message.
