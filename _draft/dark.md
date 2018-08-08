@@ -49,13 +49,13 @@ Use the Dark theme checkbox to choose a dark (white on black) theme like as show
 
 Use the Brightness slider to adjust the brightness, if necessary. Its normal position is in the middle (0%).
 
-Use the Contrast slider to adjust the contrast, if necessary. Its normal position is near the right-hand end (100%), but not quite at the end.
+Use the Contrast slider to adjust the contrast, if necessary. Its normal position is near the right-hand end (100%).
 
 The default when you install Dark is: dark theme, brightness -20%, contrast 50%:
 
 ![Default](/assets/dark/default.png){:style="box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.75);"}
 
-The 7 Cups default (without Dark) is: normal theme, brightness 0 (in the middle), contrast 100%. There is no point in using these settings, except as a stating point for making changes:
+The 7 Cups default (without Dark) is: normal theme, brightness 0% (in the middle), contrast 100%. There is no point in using these settings, except as a stating point for making changes:
 
 ![Normal](/assets/dark/normal.png){:style="box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.75);"}
 
