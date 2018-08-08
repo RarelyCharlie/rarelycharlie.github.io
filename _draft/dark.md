@@ -28,7 +28,9 @@ To use Dark, you need to install two things in this order:
 To install each of these in turn, click the relevant link and follow the instructions.
 
 ### Turning the theme on and off
-To turn the theme on and off, use the button at the top left of the screen (beside the teacup logo).
+To turn the theme on and off, use the button at the top left of the screen (beside the teacup logo):
+
+![Button](/assets/dark/button.png)
 
 The theme remembers the setting when you reload the page or go to another page.
 
