@@ -7,7 +7,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 
 At the present time, Dark is still being developed. It's possible that future versions might work better.
 
-### Who can use Dark
+### Who can use Dark?
 You can probably use Dark if you use 7 Cups in a web browser on a computer.
 
 You might be able to use Dark if you use 7 Cups in a web browser on an Android device.
