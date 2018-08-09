@@ -975,6 +975,9 @@ Informal and sometimes deprecated term for someone who communicates in a way tha
 # TS
 Either ~~Thinking Space~~ or ~~Teen Star.~~
 
+# TSEBI
+Teen Self-Estemm & Body Image, a ~~community.~~
+
 # Turtle 
 ![](https://www.7cups.com/cloudfront/img/zodiac/icon-12.png) The ~~animal cohort~~ for the month of December.
 
