@@ -73,7 +73,9 @@ It is easy to choose settings that make the page unreadable! If you can't even s
 
 Use the **Apply contrast to images** checkbox to apply your contrast setting to images. This may be useful if you find images too bright.
 
-Use the **Use custom styles** checkbox to add custom styles to the theme. This is an advanced setting and you need some specialized knowledge to use it effectively. However, playing with it cannot do harm. When you check the box, an area appears where you can type custom style rules using the CSS language.
+Use the **Use custom styles** checkbox to add custom styles to the theme. This is an advanced setting and you need some specialized knowledge to use it effectively. However, playing with it cannot do harm. When you check the box, an area appears where you can type custom style rules using the CSS language. For example:
+
+![Settings](/assets/dark/settings-css.png){:style="box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.75);"}
 
 ### Known issues
 The colors of some elements in the page do not change in the same way. This problem mostly affects images. For example, an image of black text on a white background will not change to white on black. You can only reduce the contrast of images.
