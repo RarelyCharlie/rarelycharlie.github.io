@@ -7,8 +7,6 @@ feedback: https://www.7cups.com/@RarelyCharlie
 
 At the present time, Dark is still being developed. It's possible that future versions might work better.
 
-The current version of Dark is version 2, but some of the the images on this page might still show version 1. They will be updated shortly.
-
 ### Who can use Dark?
 You can probably use Dark if you use 7 Cups in a web browser on a computer.
 
