@@ -7,7 +7,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 
 At the present time, Dark is still being developed. It's possible that future versions might work better.
 
-The current version of Dark is version 2, but this page still describes version 1. It will be updated shortly.
+The current version of Dark is version 2, but some of the the images on this page might still show version 1. They will be updated shortly.
 
 ### Who can use Dark?
 You can probably use Dark if you use 7 Cups in a web browser on a computer.
@@ -47,11 +47,11 @@ Dark adds a **Dark Theme** section to the page:
 
 When you change the settings, they are applied after a short delay. The theme remembers your settings and you do not have to save your profile (unless you have changed something else there).
 
-Use the Dark theme checkbox to choose a dark (white on black) theme as shown above. Clear the checkbox to choose a normal (black on white) theme.
+Use the **Dark theme** checkbox to choose a dark (white on black) theme as shown above. Clear the checkbox to choose a normal (black on white) theme.
 
-Use the Brightness slider to adjust the brightness, if necessary. Its normal position is in the middle (0%).
+Use the **Brightness** slider to adjust the brightness, if necessary. Its normal position is in the middle (0%).
 
-Use the Contrast slider to adjust the contrast, if necessary. Its normal position is near the right-hand end (100%).
+Use the **Contrast** slider to adjust the contrast, if necessary. Its normal position is near the right-hand end (100%).
 
 The default when you install Dark is: dark theme, brightness -20%, contrast 50%:
 
@@ -71,8 +71,12 @@ For a low contrast normal (black on gray) theme, try: normal theme, brightness 1
 
 It is easy to choose settings that make the page unreadable! If you can't even see the sliders, use the button at the top left to remove the custom theme temporarily.
 
+Use the **Apply contrast to images** checkbox to apply your contrast setting to images. This may be useful if you find images too bright.
+
+Use the **Use custom styles** checkbox to add custom styles to the theme. This is an advanced setting and you need some specialized knowledge to use it effectively. However, playing with it cannot do harm. When you check the box, an area appears where you can type custom style rules using the CSS language.
+
 ### Known issues
-The colors of some elements in the page do not change. This problem mostly affects images.
+The colors of some elements in the page do not change in the same way. This problem mostly affects images. For example, an image of black text on a white background will not change to white on black. You can only reduce the contrast of images.
 
 Dark takes a relatively long time to work every time you load a page. This means that on every page you see normal colors for a moment before Dark kicks in.
 
@@ -83,3 +87,6 @@ If you want to remove Dark, you can temporarily disable the script or you can de
 Please provide feedback in the forum: [Dark theme with contrast settings](https://www.7cups.com/forum/LaurasOffice_133/SuggestionsandProblemSolving_383/Darkthemewithcontrastsettings_167439/)
 
 Alternatively, to contact the author go to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and send a message.
+
+Please do not send feedback about this unofficial feature to 7 Cups, because they will be unable to act on it.
+
