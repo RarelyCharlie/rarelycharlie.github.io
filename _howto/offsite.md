@@ -23,6 +23,12 @@ If someone on 7 Cups shares offsite contact information, do not use it to contac
 
 There are exceptions to this, explained below.
 
+**Do not identify people you have offsite contact with as 7 Cups users.**
+
+If you have offsite contact with a 7 Cups member or listener, do not refer to that contact on 7 Cups in a way that identifies the 7 Cups user.
+
+For example, you can write, "I am worried about my son, John" but you cannot write, "I am worried about my son, @xxxxXxxxx0000."
+
 ### Exception: anonymous accounts
 
 On 7 Cups you can share links to information that you place on other websites anonymously.
