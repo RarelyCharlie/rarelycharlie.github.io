@@ -1,6 +1,7 @@
 ---
 title: Get emergency or crisis support
 layout: howto
+feedback: https://www.7cups.com/@RarelyCharlie
 ---
 If you are in an emergency or a crisis, 7 Cups is not the right place to get support. We cannot deal with emergencies. We cannot provide crisis counselling.
 
