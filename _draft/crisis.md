@@ -16,7 +16,7 @@ In any other country, if you do not know the number and you are using a smartpho
 
 ### Crisis
 
-A crisis is when you are at immediate risk of serious harm—for example, if you are taking action to end your own life. Contact a local crisis service immediately. Do not waste time chatting on 7 Cups.
+A crisis is when you are at immediate risk of serious harm—for example, if you are taking action intended to end your own life. Contact a local crisis service immediately. Do not waste time chatting on 7 Cups.
 
 Some crisis services are:
 
@@ -25,5 +25,5 @@ Some crisis services are:
 
 In any other country, use these links to find crisis services:
 
-Online services
-Telephone and other services
+|[Online services](https://www.iasp.info/resources/Online_Crisis_Intervention_Services/)||
+|[Telephone and other services](https://www.iasp.info/resources/Crisis_Centres/)||
