@@ -214,13 +214,11 @@ The way listeners at 7 Cups provide emotional support is through active listenin
 
 Realistically, life is not simple or easy. People have both positive and negative emotions in response to the events of their lives. Listeners should allow both the positive emotions and the negative emotions to be heard equally.
 
-In response to situations involving harm, people naturally have negative emotions. Listeners at 7 Cups allow people's negative emotions to be heard.
+In response to situations involving thoughts of suicide, people naturally have negative emotions. Listeners at 7 Cups allow people's negative emotions to be heard.
 
-Do not try to suppress members' negative emotions or supply positive emotions. If you do that, you might neutralize a member's natural negative emotions in response to harm, allowing the harm to continue.
+Do not try to suppress members' negative emotions or supply positive emotions. If you do that, you might neutralize a member's natural negative emotions in response to thoughts of suicide, allowing the thoughts to continue.
 
-For example, if a member tells you they are worried about causing harm, repeat back the worry they have expressed, just like the listener training says. Do not neutralize the worry or change the subject to something positive—doing that risks giving a "green light" to the harm.
-
-Similarly, if a member tells you they are worried about being harmed, repeat back the worry they have expressed, just like the listener training says. Do not neutralize the worry or change the subject to something positive—doing that risks perpetuating the harm they are suffering.
+For example, if a member tells you they are worried about attempting suicide, repeat back the worry they have expressed, just like the listener training says. Do not neutralize the worry or change the subject to something positive—doing that risks associating the idea of attempting suicide with something positive.
 
 After the quiz, the next section looks at thoughts, actions, and the difference between them.
 
@@ -245,13 +243,11 @@ Mostly, TAF is mild. When TAF causes significant distress it can easily be treat
 
 ### Members
 
-When members are affected by TAF, it can make them genuinely believe they are causing harm, or at risk of causing harm, when the reality is they only have thoughts about imaginary harm.
-
-In severe cases this is symptomatic of a mental disorder, a form of obsessive-compulsive disorder (OCD). There is more information about OCD in Part II of this guide. Listeners cannot diagnose or treat any mental disorder. Even if a member experiences TAF mildly, a listener cannot try to solve the problem.
+When members are affected by TAF, it can make them genuinely believe they are at risk of suicide, when the reality is they only have thoughts about imaginary suicide.
 
 When a member describes significant distress because of TAF, a listener cannot give advice or suggest how to solve the problem, but a listener can state a simple fact, like:
 
-|Member:|This is eating up my whole life. I virtually can't get in the car because I spend so much time worrying that I've killed someone.
+|Member:|I can't sleep at night and I can't concentrate during the day because...
 |Listener:|That's the kind of thing a professional can help with.
 {:.chat}
 
@@ -268,7 +264,7 @@ For example:
 |Member:|Since we broke up I've been feeling sad. When I was younger I would have harmed myself at times like this.
 {:.chat}
 
-(The listener imagines the member feeling so sad that she attempts suicide. TAF makes the listener think the member is really at risk of attempting suicide.)
+(The listener imagines the member feeling so sad that she attempts suicide. TAF makes the listener think the member is really about to attempt suicide.)
 
 |Listener:|*You should see a counselor and call a suicide helpline.*{:.warn}
 {:.chat}
@@ -284,9 +280,10 @@ After the quiz, the next section looks at some unintended consequences that can 
 
 - Mark each statement true or false:
 - Thought-action fusion is a rare form of mental illness that makes thoughts seem like actions.# Thought-action fusion is not a mental illness, and it is common.
-- Talking about earthquakes tends to make earthquakes more likely.# Talking about any fear does not make the feared thing more likely to happen.
+- Talking about flooding tends to make flooding more likely.# Talking about any fear does not make the feared thing more likely to happen.
 - When a member describes a problem, the listener should try to imagine the worst that could happen, so they can warn the member about it.# Listeners should not allow their imaginations to interfere with chats.
 - Members are sometimes distressed because they fear they might cause harm.#Fear of causing harm is one of the things that can distress people.
 - Sadness almost always leads to attempted suicide.# Sadness is an emotion, and no emotion in itself can lead to attempted suicide.
-- The more a member thinks about coming to harm, the more likely they are to come to harm.# Thoughts about harm do not necessarily lead to actual harm.
+- Prolonged loneliness almost always leads to attempted suicide.# No circumstances in life, not even prolonged loneliness, can in itself lead to attempted suicide.
+- The more a member thinks about suicide, the more likely they are to attempt suicide.# Thoughts about suicide do not necessarily lead any to attempt suicide.
 {:.quiz}
