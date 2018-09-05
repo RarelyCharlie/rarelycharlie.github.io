@@ -22,6 +22,11 @@ Sections marked `*` duplicate the material in the Harm guide, maybe with minor c
 
 ### PART II (examples, possible triggers)
 - Talking about suicide (diagram)
+- Example chat
 - Thinking about suicide (diagram)
+- Example chat
 - Trolls and fantasists
+- Example chat
+- Being actively suicidal
+- Example chat
 - Conclusion
