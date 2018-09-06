@@ -25,7 +25,7 @@ Sections marked `*` duplicate the material in the Harm guide, maybe with minor c
 - Example chat
 - Thinking about suicide (diagram)
 - Example chat
-- Trolls and fantasists
+- Trolls, controls and fantasies
 - Example chat
 - Being actively suicidal
 - Example chat
