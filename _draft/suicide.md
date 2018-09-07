@@ -3,6 +3,16 @@ title: Suicide
 layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
+<style>
+img.decol {float: left; margin: 0 1em 1ex 0; width: 180px; height: 180px; box-shadow: 2px 2px 2px #ccc;}
+img.decor {float: right; margin: 0 0 1ex 1em; width: 180px; height: 180px; box-shadow: 2px 2px 2px #ccc;}
+img.decow2 {display: block; margin: 0 auto 1em auto; width: 300px; height: 180px; box-shadow: 2px 2px 2px #ccc;}
+#content p.decol {box-sizing: border-box; margin: 0 1em 1ex 0; width: 180px; height: 180px; background: #bbe;
+    float: left; text-align: center; padding: 3em 0; color: green; box-shadow: 2px 2px 2px #ccc;}
+#content p.decor {box-sizing: border-box; margin: 0 0 1ex 1em; width: 180px; height: 180px; background: #ebb;
+    float: right; text-align: center; padding: 3em 0; color: green; box-shadow: 2px 2px 2px #ccc;}
+</style>
+
 Draft content plan for listener training on chats involving non-emergency suicidal thoughts.
 
 Sections marked `*` duplicate the material in the Harm guide, maybe with minor changes.
