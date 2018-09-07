@@ -113,7 +113,7 @@ However, 7 Cups imposes general limitations on the emotional support its listene
 
 It is important to be aware that the word "actively" means "taking action". A thought or fantasy is not an action. Planning to take action is not the same as taking action.
 
-For example, someone might have thoughts about making carrot soup. They might clearly imagine the recipe or know exactly where to find it. But these things are not the same as buying the carrots, peeling them and chopping them. There's an essential difference between thoughts and actions.
+For example, someone might have thoughts about making an apple pie. They might clearly imagine the recipe or know exactly where to find it. But these things are not the same as buying the apples, peeling them and chopping them. There's an essential difference between thoughts and actions.
 
 ### Distinguishing thoughts from actions
 
@@ -297,3 +297,16 @@ After the quiz, the next section looks at some unintended consequences that can 
 - Prolonged loneliness almost always leads to attempted suicide.# No circumstances in life, not even prolonged loneliness, can in itself lead to attempted suicide.
 - The more a member thinks about suicide, the more likely they are to attempt suicide.# Thoughts about suicide do not necessarily lead any to attempt suicide.
 {:.quiz}
+
+# Risk assessments
+
+# Treatments
+
+# Mandated reporting
+
+# External resources
+
+# Do's, dont's and issues
+
+# Part II
+{:.part}
