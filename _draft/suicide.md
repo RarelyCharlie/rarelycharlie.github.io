@@ -314,17 +314,39 @@ Some treatments may be harmful in some cases.
 
 Listeners can avoid pushing members into treatments that may be harmful.
 
-# Mandated reporting
-
-(Where should this go?)
-
 # External resources
 
-Members' locations not known.
+It is sometimes appropriate to provide a member with a link to a resource outside 7 Cups.
 
-Importance of local services.
+The best way for this to happen is if they can search the Internet themselves for a helpline or website that is local to them and specific to their needs. There are thousands of services globally, and no central directory other than Internet search.
 
-Importance of resilience and self-reliance.
+Listeners at 7 Cups are not required to provide Internet search services to members, no matter what the circumstances are.
+
+Do not provide any external resource link to a member unless they have clearly indicated their need for it. In particular, do not provide a resource link based on something you yourself said to the member earlier in the chat, or something in your imagination.
+
+Members who have known medical conditions often have their own information about local resources they can access. Do not provide international or national resources to members who have access to more appropriate local services.
+
+Helpline numbers found on the Internet are often out of date or operate restricted hours. Finding a helpline number does not mean the member can get help there.
+
+While a member contacts an external resource, offer to keep the chat open, if possible. Offer to chat again later to provide emotional support (but not to chat about a topic that lies outside your boundaries).
+
+Do not contact external resources yourself on behalf of a member.
+
+### Emergencies
+
+In an actual emergency, when someone has suffered actual harm or is certainly about to suffer actual harm, strongly encourage the member to call their local emergency services.
+
+Do not call emergency services yourself. Do not tell the member what number to call, because different countries have different numbers, and you cannot know the member's current location with absolute certainty.
+
+### Actively suicidal members
+
+When a member is taking action intended to result in suicide, strongly encourage the member to call a local suicide hotline.
+
+Do not tell the member what number to call, because different places have different numbers, and you cannot know the member's current location with absolute certainty.
+
+Be aware that some suicide hotlines do not always provide help themselves, but instead refer people to medical services. Some members may have had bad experiences with medical services in the past, so they may be unwilling to call a suicide hotline.
+
+Bad experiences might include forcible restraint, detention in hospital, or forcible administration of drugs.
 
 # Do's, dont's and issues
 
