@@ -300,13 +300,35 @@ After the quiz, the next section looks at some unintended consequences that can 
 
 # Risk assessments
 
+Listeners can't do risk assessment.
+
+Known risk and protective factors have low predictive power.
+
+Listeners can avoid increasing known risk factors: e.g. hopelessness, social isolation
+
 # Treatments
+
+Listeners cannot recommend treatments.
+
+Some treatments may be harmful in some cases.
+
+Listeners can avoid pushing members into treatments that may be harmful.
 
 # Mandated reporting
 
+(Where should this go?)
+
 # External resources
 
+Members' locations not known.
+
+Importance of local services.
+
+Importance of resilience and self-reliance.
+
 # Do's, dont's and issues
+
+(Based on Harm guide)
 
 # Part II
 {:.part}
