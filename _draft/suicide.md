@@ -348,9 +348,7 @@ When a member is taking action intended to result in suicide, strongly encourage
 
 Do not tell the member what number to call, because different places have different numbers, and you cannot know the member's current location with absolute certainty.
 
-Be aware that some suicide hotlines do not always provide help themselves, but instead refer people to medical services. Some members may have had bad experiences with medical services in the past, so they may be unwilling to call a suicide hotline.
-
-Bad experiences might include forcible restraint, detention in hospital, or forcible administration of drugs.
+Be aware that some suicide hotlines do not always provide help themselves, but instead refer people to medical services. Some members may have had bad experiences with medical services in the past, making them unwilling to call a suicide hotline. Bad experiences might include forcible restraint, detention in hospital, or forcible administration of drugs.
 
 # Do's, dont's and issues
 
