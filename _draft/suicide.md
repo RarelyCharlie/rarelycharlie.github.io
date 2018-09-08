@@ -336,6 +336,10 @@ Do not contact external resources yourself on behalf of a member.
 
 In an actual emergency, when someone has suffered actual harm or is certainly about to suffer actual harm, strongly encourage the member to call their local emergency services.
 
+An actual emergency means something that police, fire services or ambulance services are needed to deal with. Thoughts are not an actual emergency—not even very frightening thoughts. In some places it may be illegal to call out emergency services when there is no actual emergency.
+
+In most places the emergency number and the suicide hotline are different. For example, in Redwood City, California, where 7 Cups is based, the emergency number is 9-1-1 and the Crisis Intervention and Suicide Prevention number is 579-0350 (see: [Redwood City 24-Hour Emergency Lines](https://www.redwoodcity.org/departments/parks-recreation-and-community-services/child-care/family-resources-guide)
+
 Do not call emergency services yourself. Do not tell the member what number to call, because different countries have different numbers, and you cannot know the member's current location with absolute certainty.
 
 ### Actively suicidal members
