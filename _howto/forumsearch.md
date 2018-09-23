@@ -28,6 +28,10 @@ There you can search for threads you started and threads you subscribe to. If yo
 
 You can also search 7 Cups forums from here. Searching from here can provide slightly different results.
 
+### Community searches
+
+It would be possible for the custom search to search within a single community. If you would find this feature useful, please send a message (PM) to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) specifying the community or communities.
+
 <script>
   (function() {
     var cx = '000798228100868610755:mwroieuxmvs';
