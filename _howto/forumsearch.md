@@ -14,11 +14,17 @@ gsearch = function () {
   }
 </script>
 
-To search forums at 7 Cups, go to: [Forum Search](https://www.7cups.com/forum/search.php)
+To search forums at 7 Cups, go to: [Forum Search](https://www.7cups.com/forum/search.php).
+
+There you can search for threads you started and threads you subscribe to. If you are a listener or a therapist, the search results include the private listener and therapist areas of the forums.
 
 You can also search 7 Cups forums from here. Searching from here can provide slightly different results.
 
-This is a custom Google search. These results are sometimes slightly out of date because Google takes some time to notice changes. Some new material in the forums might not show up here, but some material deleted from the forums might still be here.
+### Custom search
+
+Alternatively, you can use this custom Google search. It only searches the public forums at 7 Cups, but it is faster than 7 Cups' own search.
+
+These results are sometimes slightly out of date because Google takes some time to notice changes. Some new material in the forums might not show up here, but equally some material recently deleted from the forums might still be here.
 
 <input id="query" size="40" onchange="gsearch()" autofocus> <button onclick="gsearch()">Search</button>
 
