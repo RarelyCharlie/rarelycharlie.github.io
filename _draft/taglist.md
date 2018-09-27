@@ -236,7 +236,7 @@ The service is running.
 ## Register a new taglist {#register}
 Use this form to create a new taglist.
 
-For more information, see the <a href="#">Howto</a> guide.
+For more information, see the <a href="/howto/taglist">Howto</a> guide.
 
 First, register the name of the new taglist:
 
@@ -297,10 +297,10 @@ The taglist was not found.
 
 Owner: <a id="open-owner" title="This taglist's owner" href=""></a>
 
-For more information, see the <a title="Taglist service documentation" href="#">Howto guide</a>.
+For more information, see the <a title="Taglist service documentation" href="/howto.taglist">Howto guide</a>.
 
 ## Taglist service {#notfound}
 
 No taglist was found.
 
-For more information, see the <a title="Taglist service documentation" href="#">Howto guide</a>.
+For more information, see the <a title="Taglist service documentation" href="/howto/taglist">Howto guide</a>.
