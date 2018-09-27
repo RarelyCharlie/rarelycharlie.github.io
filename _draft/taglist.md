@@ -27,7 +27,7 @@ If you are the owner of a taglist you can give some other commands in its contro
  - "Please remove: " followed by one or more tags
  - "Please remove everyone."
 
-For any other maintenance requirements, or to report a problem, please send a message (PM) to @RarelyCharlie.
+For any other maintenance requirements, to suggest a new feature, or to report a problem, please send a message (PM) to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).
 
 **Notes:**
  - Only public control threads are supported. Control threads in private areas of the forums for not work. (For example, control threads in the listener and therapist areas do not work.)
