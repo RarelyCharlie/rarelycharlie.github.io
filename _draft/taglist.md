@@ -22,7 +22,7 @@ For more information, see the <a href="#">Howto</a> guide.
 
 First, register the name of the new taglist:
 
-<input type="text" id="register-name" class="register"> <span id="register-spin" class="spinner" hidden></span>>
+<input type="text" id="register-name" class="register"> <span id="register-spin" class="spinner" hidden></span>
 
 That name is already registered. {:.warning #register-warn}
 
@@ -36,8 +36,10 @@ In any public forum at 7 Cups, make a new thread in the normal way, using the Cr
 
 Copy and paste the following instructions into the first post in the thread:
 
- >This thread controls an auto-updating taglist. To see the current list, go to <a  class="listname" href=""></a>.>
- >To add yourself to this taglist, press the Post to Thread button above and write <i>the exact words</i> "Please add me.">
+ >This thread controls an auto-updating taglist. To see the current list, go to <a  class="listname" href=""></a>.
+ >
+ >To add yourself to this taglist, press the Post to Thread button above and write <i>the exact words</i> "Please add me."
+ >
  >To remove yourself from this taglist, press the Post to Thread button above and write <i>the exact words</i>, "Please remove me."
 
 Add any other information you like. For example, explain how the taglist will be used.
