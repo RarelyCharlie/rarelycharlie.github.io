@@ -147,6 +147,7 @@ Taglist = {
 				t.text(data.list.map(t => '@' + t).join(' '))
 				 .removeClass('empty')
 				t[0].parentNode.style.height = (t[0].scrollHeight - 10) + 'px'
+				$('#open-copy').prop('disabled', false)
 				}
 			else {
 				t.text('\nThe list is empty')
