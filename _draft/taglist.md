@@ -3,6 +3,12 @@ title: Taglist service
 layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
+<style>
+#content>* {display: none;}
+#init {display: initial;}
+#running {visibility: hidden;}
+</style>
+
 ## Taglist service {#init}
 Welcome to the taglist service.
 
