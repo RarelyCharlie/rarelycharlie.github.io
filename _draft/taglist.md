@@ -8,7 +8,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 #init {display: initial;}
 #running {visibility: hidden;}
 
-span.spinner {display: inline-block;
+span.spinner {display: inline-block; width: 24px; height:24px;
 	background: no-repeat center/100% url(/assets/ajax-loader.gif);
 	position: relative; top: 6px;}
 .warning {color: #a00; background: #fee; padding: 2px 4px; margin-left: -4px; opacity: 0;}
