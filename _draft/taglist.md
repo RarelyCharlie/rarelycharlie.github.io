@@ -213,7 +213,10 @@ Taglist = {
 		await new Promise(done => setTimeout(done, 1000 * s))
 		}
 	}
-init = function () {Taglist.init()}
+init = function () {
+	document.documentElement.style.display = 'block'
+	Taglist.init()
+	}
 </script>
 
 ## Taglist service {#init}
