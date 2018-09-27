@@ -1,3 +1,8 @@
+---
+title: Taglist service
+layout: default
+feedback: https://www.7cups.com/@RarelyCharlie
+---
 ## Taglist service {:#init}
 Welcome to the taglist service.
 
