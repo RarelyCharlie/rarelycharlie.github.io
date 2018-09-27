@@ -27,6 +27,8 @@ blockquote {font-size: 80%; border: 1px solid #444; background: #f4f4f4; padding
 #open-spin {position: absolute; left: calc(50% - 12px); top: 1em;}
 </style>
 <script>
+init = Taglist.init
+
 const controldomain = 'http://localhost'            
 const controldir = '7cups/taglist'                  
 const serviceurl = 'http://localhost:5000/taglist/' 
