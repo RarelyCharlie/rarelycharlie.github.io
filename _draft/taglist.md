@@ -170,6 +170,7 @@ Taglist = {
 				this.open()
 				}
 			else {
+				this.section('init', false)
 				this.section('register', true)
 				$('#register-spin').css('visibility', 'hidden')
 				$('#register-name').focus()
