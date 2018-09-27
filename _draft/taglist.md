@@ -9,9 +9,11 @@ Welcome to the taglist service.
 The service is starting. This can take 10 seconds or so...<span id="start-spin" class="spinner"></span>
 {:#start}
 
-The service is not available. Please try later. {#start-warn .warning}
+The service is not available. Please try later.
+{:#start-warn .warning}
 
-The service is running. {#running}
+The service is running.
+{:#running}
 
 <hr>
 
@@ -24,7 +26,8 @@ First, register the name of the new taglist:
 
 <input type="text" id="register-name" class="register"> <span id="register-spin" class="spinner" hidden></span>
 
-That name is already registered. {.warning #register-warn}
+That name is already registered.
+{:.warning #register-warn}
 
 <button id="register-button" disabled onclick="Taglist.register()">Register</button>
 
@@ -66,7 +69,8 @@ Please paste the thread's URL here and press the Setup button:
 
 This is an auto-updating taglist controlled by a forum thread. Post there to add or remove yourself: <a id="open-control" title="Control thread for this taglist" href=""></a>
 
-The taglist was not found. {:.warning #open-warn}
+The taglist was not found.
+{:.warning #open-warn}
 
 <div id="open-container">
 <textarea readonly class="empty" id="open-list" spellcheck="false"></textarea>
