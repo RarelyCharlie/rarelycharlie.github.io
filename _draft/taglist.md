@@ -7,7 +7,212 @@ feedback: https://www.7cups.com/@RarelyCharlie
 #content>* {display: none;}
 #init {display: initial;}
 #running {visibility: hidden;}
+
+span.spinner {display: inline-block; width: 24px; height: 24px;
+	background: no-repeat center/100% url(spinner.gif);
+	position: relative; top: 6px;}
+.warning {color: #a00; background: #fee; padding: 2px 4px; margin-left: -4px; opacity: 0;}
+input[type=text] {display: block; width: 24em; padding: 2px 4px; margin: 0;
+	font-size: inherit;}
+button {display: block; min-width: 8em; padding: 2px 4px; margin: 0 0 1em 0;}
+#open-copy {display: inline-block; margin-right: 2em;}
+blockquote {font-size: 80%; border: 1px solid #444; background: #f4f4f4; padding: 1ex;
+	margin: 0;}
+	
+#open-container {position: relative; padding: 0 0 1em 0;}
+#open-list {width: 100%; min-height: 4em; border: 1px solid #000; padding: 1ex; font-size: 10px; line-height: 11px;
+	box-shadow: inset #ccc 0 0 1ex 2px;
+	position: absolute; top: 0; left: 0;}
+#open-list.empty {color: #aaa; text-align: center;}
+#open-spin {position: absolute; left: calc(50% - 12px); top: 1em;}
 </style>
+<script>
+const controldomain = 'http://localhost'            
+const controldir = '7cups/taglist'                  
+const serviceurl = 'http://localhost:5000/taglist/' 
+
+Taglist = {
+	key: '',
+	service: null,
+
+	api: async function (action, data) {
+		console.log('api: ' + action)
+		if (!action) return
+		if (!data) data = {}
+		data.action = action
+		var response
+		try {
+			response = await fetch(serviceurl, {
+				method: 'POST',
+				headers: {'Content-Type': 'application/json; charset=utf-8'}, 
+				body: JSON.stringify(data),
+				cache: 'no-cache'
+				})
+			}
+		catch (e) {
+			console.log('+++ ERROR')
+			return [0, 'No connection']
+			}
+		if (response) {
+			var body = await response.text()
+			console.log('  +api: ' + response.status + ' ' + response.statusText + ' ' + body)
+			return [response.status, body]
+			}
+		else return [404, 'Not found']		
+		},
+
+	control: async function () { // set the control URL...
+		var v = $('#setup-url').val().trim()
+		var [status, text] = await this.api('control', {key: this.key, url: v})
+		if (status == 200) {
+			this.section('setup', false)
+			this.open()
+			}
+		else {
+			// handle failure e.g. malformed URL!
+			}
+		},
+
+	copy: function () {
+		var t = $('#open-list')[0]
+		t.focus()
+		t.select()
+		var ok = document.execCommand('copy')
+		if (ok) setTimeout(function () {
+			if (document.selection) document.selection.empty()
+    		else if (window.getSelection) window.getSelection().removeAllRanges()
+			}, 500)
+		$('#open-copied').text(ok? 'Copied' : 'Oops! Copying failed. Try copying manually.')
+			.fadeIn(0)
+		if (!ok) {
+			$('#open-copy').prop('disabled', true)
+			$('#open-copied').addClass('warning').css('opacity', 1)
+			}
+		setTimeout(function () {$('#open-copied').fadeOut(800)}, 1500)
+		},
+	
+	init: async function () {
+		this.section('init', true)
+		this.key = location.search.substring(1)
+		
+		$('input[type=text]').on('keyup', function (event) {
+			Taglist.keyup(event)
+			})
+
+		this.ping()
+		await this.sleep(1)
+		if (this.service === null) $('#start').show()
+		},
+
+	keyup: function () {
+		var id = event.target.id, v = event.target.value.trim()
+		if ($(event.target).is('[readonly]')) return
+		if (id == 'register-name') {
+			let b = $('#register-button') 
+			b.prop('disabled', v.length < 4)
+			if (event.keyCode == 13 && v.length >= 4) b.click() 
+			}
+		else if (id == 'setup-url'){
+			let b = $('#setup-button') 
+			b.prop('disabled', v = '')
+			if (event.keyCode == 13 && v) b.click() 
+			}
+		},
+
+	open: async function () {
+		var [status, data] = await this.api('open', {key: this.key})
+		console.log('open: ' + status + ' ' + data)
+		$('#open-wait').hide()
+		if (status == 200) {
+			this.section('open', true)
+			$('#open-warn').hide()
+			data = JSON.parse(data)
+			$('h2#open').text('Taglist: ' + data.name)
+			document.title = data.name + ' | Taglist service'
+			console.log('control: ' + data.control)
+			if (!data.control) {
+				this.section('open', false)
+				$('h2#setup').text('Setup: ' + data.name)
+				this.setup()
+				}
+			$('#open-control').attr('href', [controldomain, controldir, data.control].join('/')).text(data.name)
+			if (data.owner) $('#open-owner')
+				.attr('href', [controldomain, '@' + data.owner].join('/'))
+				.text('@' + data.owner)
+			var t = $('#open-list')
+			$('#open-spin').hide()
+			if (data.list) data.list = data.list.filter(t => t.trim() != '')
+			if (data.list && data.list.length) {
+				t.text(data.list.map(t => '@' + t).join(' '))
+				 .removeClass('empty')
+				t[0].parentNode.style.height = (t[0].scrollHeight - 10) + 'px'
+				}
+			else {
+				t.text('\nThe list is empty')
+				$('#open-copy').prop('disabled', true)
+				}
+			}
+		else {
+			$('.notfound').show()
+			}
+		},
+		
+	ping: async function () {
+		var [status, text] = await this.api('ping')
+		console.log('ping status: ' + status)
+		$('#start').hide()
+		if (status == 200) {
+			this.section('init', false)
+			$('#running').css('visibility', 'visible')
+			this.service = true
+			if (this.key) {
+				this.open()
+				}
+			else {
+				this.section('register', true)
+				$('#register-spin').css('visibility', 'hidden')
+				$('#register-name').focus()
+				}
+			}
+		else {
+			this.service = false
+			$('#start-warn').show().css('opacity', 1)
+			}
+		},
+
+	register: async function () {
+		$('#register-name').prop('readonly', true)
+		$('#register-spin').css('display', 'inline-block')
+		var v = $('#register-name').val().trim()
+		var [status, key] = await this.api('register', {name: v})
+		$('#register-spin').hide()
+		$('#register-button').prop('disabled', true)
+		if (status == 200) {
+			$('#register-warn').hide()
+			$('.listname').text(v).css('visibility', 'visible')
+			$('a.listname').attr('href', location.href + '?' + key)
+			this.section('control', true)
+			}
+		else {
+			$('#register-warn').css('opacity', 1)
+			$('#register-name').prop('readonly', false).focus()
+			}
+		},
+
+	setup: function () { // set up control thread...
+		this.section('setup', true)
+		$('#setup-url').focus()
+		},
+
+	section: function (id, show) {
+		$('#' + id).nextUntil('h2').addBack()[show? 'show' : 'hide']()
+		},
+
+	sleep: async function (s) {
+		await new Promise(done => setTimeout(done, 1000 * s))
+		}
+	}
+</script>
 
 ## Taglist service {#init}
 Welcome to the taglist service.
