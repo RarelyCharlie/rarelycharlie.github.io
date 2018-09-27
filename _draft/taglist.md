@@ -26,6 +26,7 @@ blockquote {font-size: 80%; border: 1px solid #444; background: #f4f4f4; padding
 #open-list.empty {color: #aaa; text-align: center;}
 #open-spin {position: absolute; left: calc(50% - 12px); top: 1em;}
 </style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
 const controldomain = 'http://localhost'            
 const controldir = '7cups/taglist'                  
