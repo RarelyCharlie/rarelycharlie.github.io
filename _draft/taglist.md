@@ -193,6 +193,7 @@ Taglist = {
 			$('#register-warn').hide()
 			$('.listname').text(v).css('visibility', 'visible')
 			$('a.listname').attr('href', location.href + '?' + key)
+			this.section('register', false)
 			this.section('control', true)
 			}
 		else {
