@@ -3,7 +3,7 @@ title: Taglist service
 layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-## Taglist service {:#init}
+## Taglist service {#init}
 Welcome to the taglist service.
 
 The service is starting. This can take 10 seconds or so...<span id="start-spin" class="spinner"></span>
@@ -15,7 +15,7 @@ The service is running. {:#running}
 
 <hr>
 
-## Register a new taglist {:#register}
+## Register a new taglist {#register}
 Use this form to create a new taglist.
 
 For more information, see the <a href="#">Howto</a> guide.
@@ -28,7 +28,7 @@ That name is already registered. {:.warning #register-warn}
 
 <button id="register-button" disabled onclick="Taglist.register()">Register</button>
 
-## Create the control thread {:#control}
+## Create the control thread {#control}
 
 The taglist <a href="" class="listname"></a> is now registered.
 
@@ -50,7 +50,7 @@ Copy the URL of the new forum thread you just created.
 
 Open the taglist by clicking the link you just pasted in the forum (or one of the links on this page). Follow the instructions there.
 
-## Setup {:#setup}
+## Setup {#setup}
 
 The taglist requires a control thread in a public 7 Cups forum.
 
@@ -60,7 +60,7 @@ Please paste the thread's URL here and press the Setup button:
 
 <button id="setup-button" disabled onclick="Taglist.control()">Setup</button>
 
-## Taglist {:#open}
+## Taglist {#open}
 
 This is an auto-updating taglist controlled by a forum thread. Post there to add or remove yourself: <a id="open-control" title="Control thread for this taglist" href=""></a>
 
@@ -77,7 +77,7 @@ Owner: <a id="open-owner" title="This taglist's owner" href=""></a>
 
 For more information, see the <a title="Taglist service documentation" href="#">Howto guide</a>.
 
-## Taglist service {:#notfound}
+## Taglist service {#notfound}
 
 No taglist was found.
 
