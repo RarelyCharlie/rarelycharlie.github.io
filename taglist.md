@@ -28,9 +28,9 @@ blockquote {font-size: 80%; border: 1px solid #444; background: #f4f4f4; padding
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
-const controldomain = 'http://localhost'            
-const controldir = '7cups/taglist'                  
-const serviceurl = 'http://localhost:5000/taglist/' 
+const controldomain = 'https://www.7cups.com'
+const controldir = 'forum'
+const serviceurl = 'https://rarelycharlie.herokuapp.com/taglist/'
 
 Taglist = {
 	key: '',
