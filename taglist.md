@@ -147,6 +147,8 @@ Taglist = {
 				 .removeClass('empty')
 				t[0].style.height = t[0].parentNode.style.height = (t[0].scrollHeight - 10) + 'px'
 				$('#open-copy').prop('disabled', false)
+				let n = data.list.length
+				$('#open-count').text(n == 0? 'No tags.' : (n == 1? '1 tag.' : n + ' tags.'))
 				}
 			else {
 				t.text('\nThe list is empty')
@@ -297,7 +299,7 @@ The taglist was not found.
 
 <button class="open" id="open-copy" onclick="Taglist.copy()">Copy</button><span id="open-copied"></span>
 
-Owner: <a id="open-owner" title="This taglist's owner" href=""></a>
+<span id="open-count"></span> Owner: <a id="open-owner" title="This taglist's owner" href=""></a>
 
 For more information, see the <a title="Taglist service documentation" href="/howto/taglist">Howto guide</a>.
 
