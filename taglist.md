@@ -155,7 +155,7 @@ Taglist = {
 				}
 			}
 		else {
-			$('.notfound').show()
+			this.section('notfound', true)
 			}
 		},
 		
