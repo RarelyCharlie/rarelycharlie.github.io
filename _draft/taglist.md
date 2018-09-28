@@ -7,8 +7,8 @@ The Taglist Service here provides an easy way to create auto-updating taglists f
 
 You don't need a Google account or any special privilege at 7 Cups. There is no possibility of offsite contact.
 
-<div style="background: #fff4f4; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">
-**Warning:** This service is experimental. If there are unforeseen problems it could be suspended temporarily or withdrawn permanently.
+<div style="background: #fff4f4; color: #a00; border: 1px solid #a00; padding: 1ex; margin: 0 0 1em -1ex;">
+<b>Warning:</b> This service is experimental. If there are unforeseen problems it could be suspended temporarily or withdrawn permanently.
 </div>
 
 To create a new taglist using this service, click here: [Create Taglist](/taglist). Follow the instructions.
