@@ -300,7 +300,7 @@ The taglist was not found.
 
 Owner: <a id="open-owner" title="This taglist's owner" href=""></a>
 
-For more information, see the <a title="Taglist service documentation" href="/howto.taglist">Howto guide</a>.
+For more information, see the <a title="Taglist service documentation" href="/howto/taglist">Howto guide</a>.
 
 ## Taglist service {#notfound}
 
