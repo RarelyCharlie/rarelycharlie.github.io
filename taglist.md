@@ -19,7 +19,7 @@ button {display: block; min-width: 8em; padding: 2px 4px; margin: 0 0 1em 0;}
 blockquote {font-size: 80%; border: 1px solid #444; background: #f4f4f4; padding: 1ex;
 	margin: 0;}
 	
-#open-container {position: relative; padding: 0 0 1em 0;}
+#open-container {position: relative; padding: 0 0 1em 0; margin-bottom: 1em;}
 #open-list {width: 100%; min-height: 4em; border: 1px solid #000; padding: 1ex; font-size: 10px; line-height: 11px;
 	box-shadow: inset #ccc 0 0 1ex 2px; resize: none; position: absolute; top: 0; left: 0;}
 #open-list.empty {color: #aaa; text-align: center;}
@@ -299,7 +299,7 @@ The taglist was not found.
 
 <button class="open" id="open-copy" onclick="Taglist.copy()">Copy</button><span id="open-copied"></span>
 
-<span id="open-count"></span> Owner: <a id="open-owner" title="This taglist's owner" href=""></a>
+<span id="open-count"></span><br>List owner: <a id="open-owner" title="This taglist's owner" href=""></a>
 
 For more information, see the <a title="Taglist service documentation" href="/howto/taglist">Howto guide</a>.
 
