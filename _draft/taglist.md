@@ -7,6 +7,10 @@ Here is an easy way to create auto-updating taglists for 7 Cups.
 
 You don't need a Google account or any special privilege at 7 Cups. There is no possibility of offsite contact.
 
+<div style="background: #fff4f4; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">
+**Warning:** This service is experimental. If there are unforeseen problems it could be suspended temporarily or withdrawn permanently.
+</div>
+
 To create a new taglist, click here: [Create Taglist](/taglist). Follow the instructions.
 
 ### How it works
