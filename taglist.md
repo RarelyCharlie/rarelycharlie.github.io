@@ -21,8 +21,7 @@ blockquote {font-size: 80%; border: 1px solid #444; background: #f4f4f4; padding
 	
 #open-container {position: relative; padding: 0 0 1em 0;}
 #open-list {width: 100%; min-height: 4em; border: 1px solid #000; padding: 1ex; font-size: 10px; line-height: 11px;
-	box-shadow: inset #ccc 0 0 1ex 2px;
-	position: absolute; top: 0; left: 0;}
+	box-shadow: inset #ccc 0 0 1ex 2px; resize: none; position: absolute; top: 0; left: 0;}
 #open-list.empty {color: #aaa; text-align: center;}
 #open-spin {position: absolute; left: calc(50% - 12px); top: 1em;}
 </style>
