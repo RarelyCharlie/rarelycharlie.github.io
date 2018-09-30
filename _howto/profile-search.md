@@ -16,6 +16,7 @@ gsearch = function () {
   else if (document.getElementById('clr').checked) m += ' "Counselor Profile - 7 Cups"'
   else if (document.getElementById('pso').checked) m += ' "Psychologist Profile - 7 Cups"'
   else if (document.getElementById('psi').checked) m += ' "Psychiatrist Profile - 7 Cups"'
+  else if (document.getElementById('soc').checked) m += ' "Social Worker Profile - 7 Cups"'
   
   var s = google.search.cse.element.getElement('g0')
   s.execute(q + m)
@@ -32,6 +33,7 @@ This is a custom Google search. The results are sometimes slightly out of date b
 <label for="clr"><input type="radio" id="clr" name="type"> Counselors only</label><br/>
 <label for="pso"><input type="radio" id="pso" name="type"> Psychologists only</label><br/>
 <label for="psi"><input type="radio" id="psi" name="type"> Psychiatrists only</label><br/>
+<label for="soc"><input type="radio" id="soc" name="type"> Social Workers only</label><br/>
 <label for="all"><input type="radio" id="all" name="type" checked> All</label><br/>
 
 <input id="query" size="40" onchange="gsearch()"> <button onclick="gsearch()">Search</button>
