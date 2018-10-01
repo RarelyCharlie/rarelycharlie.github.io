@@ -27,9 +27,11 @@ The taglist uses these phrases to auto-update.
 	
 If you are the owner of a taglist you can give some other commands in its control thread in the forums. Press the Post to Thread button to give a command. Tags must start with @, and if you include more than one tag they must be separated by spaces, in the usual way.
 
- - "Please add: " followed by one or more tags
+ - "Please add: " followed by one or more tags `*`
  - "Please remove: " followed by one or more tags
  - "Please remove everyone."
+ 
+`*` When adding a lot of tags, take care to ensure that they are all correct. The service does not validate them. Extra spaces, other unexpected characters, or missing @-signs can prevent the update from being processed in the way you expect.
 
 For any other maintenance requirements, to suggest a new feature, or to report a problem, please send a message (PM) to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).
 
