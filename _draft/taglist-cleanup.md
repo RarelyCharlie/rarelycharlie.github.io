@@ -147,11 +147,6 @@ Cleanup = {
 			}
 		}
 	}
-
-setTimeout(function () {
-	document.getElementById('list').textContent = test
-	Cleanup.trigger({id: 'list'})
-	}, 1000)
 </script>
 To clean up a taglist, paste it here. If a problem is reported below, fix the problem to continue.
 
