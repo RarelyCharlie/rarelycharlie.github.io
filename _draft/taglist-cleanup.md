@@ -82,7 +82,7 @@ Cleanup = {
 		c.style.transition = 'none'
 		c.style.opacity = 1
 		setTimeout(function () {
-			c.style.transition = 'opacity'
+			c.style.transition = 'opacity 2s'
 			c.style.opacity = 0
 			}, ok? 1000 : 2500)
 		if (!ok) document.getElementById('copy').disabled = true
