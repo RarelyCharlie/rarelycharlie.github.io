@@ -11,7 +11,7 @@ p[disabled] {color: #aaa;}
 #problem-tags {width: 32em;}
 #problem-report {height: 20px;}
 #copied {transform: opacity 2s;}
-button {min-width: 6em; padding: 2px; background: #7fb;}
+button {min-width: 6em; padding: 2px; background: #7fb; margin: 1em 0 0 0;}
 button[disabled] {background: #ddd;}
 progress {width: 100%;}
 </style>
@@ -21,7 +21,7 @@ Taglist:
 
 <div id="list" contenteditable="true" spellcheck="false" onkeyup="Cleanup.trigger(this)" onpaste="Cleanup.trigger(this)"></div>
 
-<button id="copy" onclick="Cleanup.copy()" disabled>Copy</button> <span id="copied"></span>
+<button id="cleanup">Clean up</button> <button id="copy" onclick="Cleanup.copy()" disabled>Copy</button> <span id="copied"></span>
 
 Problem: <input type="text" id="problem-tags" onkeyup="Cleanup.tagskey()" disabled>
 {:#problem .disabled}
@@ -29,8 +29,6 @@ Problem: <input type="text" id="problem-tags" onkeyup="Cleanup.tagskey()" disabl
 <button id="problem-fix" onclick="Cleanup.fix()" disabled>OK</button>
 
 <p id="problem-report"></p>
-
-
 
 **Notes:**
 
