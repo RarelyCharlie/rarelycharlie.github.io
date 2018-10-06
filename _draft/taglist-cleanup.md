@@ -161,10 +161,8 @@ Taglist:
 
 <button id="cleanup" onclick="Cleanup.trigger({id: 'list'})">Clean up</button> <button id="copy" onclick="Cleanup.copy()" disabled>Copy</button> <span id="copied"></span>
 
-Problem: <input type="text" id="problem-tags" onkeyup="Cleanup.tagskey()" disabled>
+Problem: <input type="text" id="problem-tags" onkeyup="Cleanup.tagskey()" disabled><button id="problem-fix" onclick="Cleanup.fix()" disabled>OK</button>
 {:#problem .disabled}
-
-<button id="problem-fix" onclick="Cleanup.fix()" disabled>OK</button>
 
 <p id="problem-report"></p>
 
