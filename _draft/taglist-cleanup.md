@@ -197,7 +197,7 @@ Taglist:
 
 <div id="list" contenteditable="true" spellcheck="false" onkeyup="Cleanup.trigger(this)" onpaste="Cleanup.trigger(this)"></div>
 
-<button id="cleanup">Clean up</button> <button id="copy" onclick="Cleanup.copy()" disabled>Copy</button> <span id="copied"></span>
+<button id="cleanup" onclick="Cleanup.trigger({id: 'list'})">Clean up</button> <button id="copy" onclick="Cleanup.copy()" disabled>Copy</button> <span id="copied"></span>
 
 Problem: <input type="text" id="problem-tags" onkeyup="Cleanup.tagskey()" disabled>
 {:#problem .disabled}
