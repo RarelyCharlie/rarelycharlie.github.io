@@ -143,7 +143,6 @@ Cleanup = {
 			this.timer = setTimeout(this.clean, 800)
 			}
 		else { // merge...
-			console.log('trigger: ' + list.id)
 			document.getElementById('mergelists').disabled = 
 				list.textContent.replace(/[@ ]/g, '') == ''
 			}
