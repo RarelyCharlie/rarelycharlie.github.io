@@ -10,7 +10,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 p[disabled] {color: #aaa;}
 #problem-tags {width: 32em;}
 #problem-report {height: 20px;}
-#copied {transform: opacity 2s;}
+#copied {transition: opacity 2s;}
 button {min-width: 6em; padding: 2px; background: #7fb; margin: 1em 0 0 0;}
 button[disabled] {background: #ddd;}
 progress {width: 100%;}
@@ -23,44 +23,6 @@ Cleanup = {
 		'Two tags or one? Type an @-sign or delete the space.'
 		],
 		
-	api: async function (action, data) {
-		console.log('api: ' + action + ' ' + JSON.stringify(data))
-		if (!action) return
-		if (!data) data = {}
-		data.action = action
-		var response
-		try {
-			response = await fetch(serviceurl, {
-				method: 'POST',
-				headers: {'Content-Type': 'application/json; charset=utf-8'}, 
-				body: JSON.stringify(data),
-				cache: 'no-cache'
-				})
-			}
-		catch (e) {
-			console.log('+++ ERROR')
-			return [0, 'No connection']
-			}
-		if (response) {
-			var body = await response.text()
-			console.log('  +api: ' + response.status + ' ' + response.statusText + ' ' + body)
-			return [response.status, body]
-			}
-		else return [404, 'Not found']		
-		},
-
-	control: async function () { // set the control URL...
-		var v = $('#setup-url').val().trim()
-		var [status, text] = await this.api('control', {key: this.key, url: v})
-		if (status == 200) {
-			this.section('setup', false)
-			this.open()
-			}
-		else {
-			// handle failure e.g. malformed URL!
-			}
-		},
-
 	clean: function () {
 		var list = document.getElementById('list')
 		list.removeAttribute('contenteditable')
@@ -116,10 +78,10 @@ Cleanup = {
 			}, 500)
 		var c = document.getElementById('copied')
 		c.textContent = ok? 'Copied' : 'Oops! Copying failed. Try copying manually.'
-		c.style.transformDuration = '2s'
+		c.style.transition = 'none'
 		c.style.opacity = 1
 		setTimeout(function () {
-			c.style.transformDuration = '2s'
+			c.style.transition = 'opacity'
 			c.style.opacity = 0
 			}, ok? 1000 : 2500)
 		if (!ok) document.getElementById('copy').disabled = true
