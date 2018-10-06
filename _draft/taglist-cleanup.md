@@ -143,7 +143,8 @@ Cleanup = {
 			this.timer = setTimeout(this.clean, 800)
 			}
 		else { // merge...
-			document.getElementById('merge').disabled = list.textContent.replace(/[@ ]/g, '') == ''
+			document.getElementById('merge').disabled = 
+				document.getElementById('list2').textContent.replace(/[@ ]/g, '') == ''
 			}
 		}
 	}
