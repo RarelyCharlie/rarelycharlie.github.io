@@ -138,14 +138,14 @@ Cleanup = {
 		},
 	
 	trigger: function (list) {
-		console.log('trigger: ' + list)
 		if (list.id == 'list') {
 			if (this.timer) this.timer = clearTimeout(this.timer)
 			this.timer = setTimeout(this.clean, 800)
 			}
 		else { // merge...
+			console.log('trigger: ' + list.id)
 			document.getElementById('merge').disabled = 
-				document.getElementById('list2').textContent.replace(/[@ ]/g, '') == ''
+				list.textContent.replace(/[@ ]/g, '') == ''
 			}
 		}
 	}
@@ -167,7 +167,7 @@ Problem: <input type="text" id="problem-tags" onkeyup="Cleanup.tagskey()" disabl
 
  - Some web browsers do not detect the paste operation, so you might have to press the Clean up button.
 
- - Each tag must begin with an @-sign. A word with no @-sign is ambiguous. For example, if the list contains `@Donald Duck` it is not possible to tell whether this is intended to be single tag, `@DonaldDuck`, or two tags, `@Donald @Duck`.
+ - Each tag must begin with an @-sign. A word with no @-sign is ambiguous. For example, if the list contains `@Donald Duck` it is not possible to tell whether this is intended to be a single tag, `@DonaldDuck`, or two tags, `@Donald @Duck`.
  
  - Extra characters are removed. For example, `@It'sTuesday!` becomes `@ItsTuesday`.
  
