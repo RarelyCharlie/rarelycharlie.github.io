@@ -144,7 +144,7 @@ Cleanup = {
 			}
 		else { // merge...
 			console.log('trigger: ' + list.id)
-			document.getElementById('merge').disabled = 
+			document.getElementById('mergelists').disabled = 
 				list.textContent.replace(/[@ ]/g, '') == ''
 			}
 		}
@@ -178,4 +178,4 @@ To merge more tags into the list, type or paste the additional tags here, and pr
 
 <div id="list2" contenteditable="true" spellcheck="false" onkeyup="Cleanup.trigger(this)" onpaste="Cleanup.trigger(this)"></div>
 
-<button id="merge" onclick="Cleanup.merge()" disabled>Merge</button>
+<button id="mergelists" onclick="Cleanup.merge()" disabled>Merge</button>
