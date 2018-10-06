@@ -8,7 +8,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 	box-shadow: inset #ccc 0 0 1ex 2px; resize: none; font-family: inherit; user-select: text;}
 .bad {background: #6df;}
 p[disabled] {color: #aaa;}
-#problem-tags {width: 24em;}
+#problem-tags {width: 24em; margin-right: 1ex;}
 #problem-report {height: 20px;}
 #copied {transition: opacity 2s;}
 button {min-width: 6em; padding: 2px; background: #7fb; margin: 1em 0 0 0;}
