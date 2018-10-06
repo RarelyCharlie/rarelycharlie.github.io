@@ -54,6 +54,7 @@ Cleanup = {
 			list.textContent = t.join(' ')
 			Cleanup.noproblem(dup, t.length)
 			}
+		document.getElementById('cleanup').disabled = true
 		},
 		
 	copy: function () {
