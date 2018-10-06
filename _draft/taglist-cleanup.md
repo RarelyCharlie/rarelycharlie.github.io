@@ -170,6 +170,8 @@ Problem: <input type="text" id="problem-tags" onkeyup="Cleanup.tagskey()" disabl
  
  - Extra characters are removed. For example, `@It'sTuesday!` becomes `@ItsTuesday`.
  
+ - There is no guarantee that the tags represent real users at 7 Cups. Verification might be available in a future version of this tool.
+ 
  - The resulting taglist is in alphabetical order.
  
 ### Merge
