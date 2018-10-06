@@ -138,6 +138,7 @@ Cleanup = {
 		},
 	
 	trigger: function (list) {
+		console.log('trigger: ' + list)
 		if (list.id == 'list') {
 			if (this.timer) this.timer = clearTimeout(this.timer)
 			this.timer = setTimeout(this.clean, 800)
