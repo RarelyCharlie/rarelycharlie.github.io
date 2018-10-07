@@ -24,10 +24,10 @@ Cleanup = {
 		],
 		
 	clean: function () {
-		var list = document.getElementById('list')
+		var list = document.getElementById('list'), t = list.textContent.trim()
+		if (t == '') return
 		list.removeAttribute('contenteditable')
 		
-		var t = list.textContent
 		t = t.replace(/<[^>]+>/g, '')
 		t = t.replace(/[^A-Za-z0-9_ @]/g, '')
 		t = t.replace(/@+\s+/g, '@')
