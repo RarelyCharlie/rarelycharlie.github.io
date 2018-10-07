@@ -156,7 +156,7 @@ To clean up a taglist, paste it here. If a problem is reported below, fix the pr
 
 Taglist:
 
-<div id="list" contenteditable="true" spellcheck="false" onkeyup="Cleanup.trigger(this)" onpaste="Cleanup.trigger(this)"></div>
+<div id="list" contenteditable="true" spellcheck="false" onpaste="Cleanup.trigger(this)"></div>
 
 <button id="cleanup" onclick="Cleanup.trigger({id: 'list'})">Clean up</button> <button id="copy" onclick="Cleanup.copy()" disabled>Copy</button> <span id="copied"></span>
 
@@ -167,7 +167,7 @@ Problem: <input type="text" id="problem-tags" onkeyup="Cleanup.tagskey()" disabl
 
 **Notes:**
 
- - Most web browsers detect the paste operation, so you do not have to press the Clean up button.
+ - Most web browsers detect the paste operation, so you do not normally have to press the Clean up button.
 
  - Each tag must begin with an @-sign. A word with no @-sign is ambiguous. For example, if the list contains `@Donald Duck` it is not possible for the software to tell whether this is intended to be a single tag, `@DonaldDuck`, or two tags, `@Donald @Duck`.
  
