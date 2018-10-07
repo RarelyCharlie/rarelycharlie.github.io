@@ -107,11 +107,10 @@ Cleanup = {
 		},
 
 	noproblem: function (dup, n) {
-		var p = document.getElementById('problem')
-		p.blur()
-		p.setAttribute('disabled', true)
+		document.getElementById('problem').setAttribute('disabled', true)
+		document.getElementById('copy').focus()
 
-		p = document.getElementById('problem-tags')
+		var p = document.getElementById('problem-tags')
 		p.value = ''
 		p.disabled = true
 
