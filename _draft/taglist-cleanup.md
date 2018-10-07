@@ -19,7 +19,7 @@ progress {width: 100%;}
 Cleanup = {
 	timer: 0,
 	problems: [
-		'No problems found.',
+		'Finished.',
 		'Two tags or one? Type an @-sign or delete the space.'
 		],
 		
@@ -107,10 +107,14 @@ Cleanup = {
 		},
 
 	noproblem: function (dup, n) {
-		document.getElementById('problem').setAttribute('disabled', true)
-		var p = document.getElementById('problem-tags')
+		var p = document.getElementById('problem')
+		p.blur()
+		p.setAttribute('disabled', true)
+
+		p = document.getElementById('problem-tags')
 		p.value = ''
 		p.disabled = true
+
 		document.getElementById('problem-report')
 			.textContent = this.problems[0] + ' '
 			+ (dup == 0? 'No duplicates.' : (dup == 1? '1 duplicate removed.' : dup + ' duplicates removed.'))
@@ -164,9 +168,9 @@ Problem: <input type="text" id="problem-tags" onkeyup="Cleanup.tagskey()" disabl
 
 **Notes:**
 
- - Some web browsers do not detect the paste operation, so you might have to press the Clean up button.
+ - Most web browsers detect the paste operation, so you do not have to press the Clean up button.
 
- - Each tag must begin with an @-sign. A word with no @-sign is ambiguous. For example, if the list contains `@Donald Duck` it is not possible to tell whether this is intended to be a single tag, `@DonaldDuck`, or two tags, `@Donald @Duck`.
+ - Each tag must begin with an @-sign. A word with no @-sign is ambiguous. For example, if the list contains `@Donald Duck` it is not possible for the software to tell whether this is intended to be a single tag, `@DonaldDuck`, or two tags, `@Donald @Duck`.
  
  - Extra characters are removed. For example, `@It'sTuesday!` becomes `@ItsTuesday`.
  
