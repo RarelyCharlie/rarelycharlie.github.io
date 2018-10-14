@@ -30,7 +30,7 @@ blockquote {font-size: 80%; border: 1px solid #444; background: #f4f4f4; padding
 #open-searchbar img {width: 16px; height: 16px; margin: 0 0 0 8px; position: relative; top: 4px; left: -1em;}
 #open-search {display: inline-block; width: 8em; padding: 2px 1em 2px 1em;}
 #open-atsign {position: relative; left: 16px;}
-#open-nosearch {font-size: 12px; font-weight: bold; line-height: 10px; display: inline-block; color: #777;
+#open-nosearch {font-weight: bold; line-height: 16px; display: inline-block; color: #777;
 	position: relative; left: -1em; cursor: pointer;}
 span.found {background: #5df;}
 </style>
