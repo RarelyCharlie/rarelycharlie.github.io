@@ -315,7 +315,7 @@ The taglist was not found.
 <p id="open-searchbar"><span id="open-atsign">@</span><input id="open-search" type="text" spellcheck="false"><span id="open-nosearch" title="Clear the search" onclick="Taglist.nosearch()">&times;</span> <img src="/assets/search.png"></p>
 
 <div id="open-container">
-<textarea readonly class="empty" id="open-list" spellcheck="false"></textarea>
+<div class="empty" id="open-list"></div>
 <span id="open-spin" class="spinner"></span>
 </div>
 
