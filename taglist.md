@@ -127,7 +127,7 @@ Taglist = {
 			this.section('open', true)
 			$('#open-warn').hide()
 			data = JSON.parse(data)
-			$('h2#open').text('Taglist: ' + data.name)
+			$('h2#open').text(data.name)
 			document.title = data.name + ' | Taglist service'
 			console.log('control: ' + data.control)
 			if (!data.control) {
