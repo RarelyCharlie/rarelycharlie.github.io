@@ -26,7 +26,7 @@ blockquote {font-size: 80%; border: 1px solid #444; background: #f4f4f4; padding
 #open-list.empty {color: #aaa; text-align: center;}
 #open-spin {position: absolute; left: calc(50% - 12px); top: 1em;}
 
-#open-searchbar {text-align: right; font-size: 10px;}
+#open-searchbar {text-align: right;}
 #open-searchbar img {width: 16px; height: 16px; margin: 0 0 0 4px; position: relative; top: 4px; left: -1em;}
 #open-search {display: inline-block; width: 8em; padding: 2px 1em 2px 1em;}
 #open-atsign {position: relative; left: 12px;}
