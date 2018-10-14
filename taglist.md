@@ -21,15 +21,15 @@ blockquote {font-size: 80%; border: 1px solid #444; background: #f4f4f4; padding
 	margin: 0;}
 	
 #open-container {position: relative; padding: 0 0 1em 0; margin-bottom: 1em;}
-#open-list {width: 100%; min-height: 4em; border: 1px solid #000; padding: 1ex; font-size: 10px; line-height: 14px;
+#open-list {width: 100%; min-height: 4em; border: 1px solid #000; padding: 1ex; font-size: 12px; line-height: 14px;
 	box-shadow: inset #ccc 0 0 1ex 2px; resize: none; position: absolute; top: 0; left: 0;}
 #open-list.empty {color: #aaa; text-align: center;}
 #open-spin {position: absolute; left: calc(50% - 12px); top: 1em;}
 
 #open-searchbar {text-align: right;}
-#open-searchbar img {width: 16px; height: 16px; margin: 0 0 0 4px; position: relative; top: 4px; left: -1em;}
+#open-searchbar img {width: 16px; height: 16px; margin: 0 0 0 8px; position: relative; top: 4px; left: -1em;}
 #open-search {display: inline-block; width: 8em; padding: 2px 1em 2px 1em;}
-#open-atsign {position: relative; left: 12px;}
+#open-atsign {position: relative; left: 16px;}
 #open-nosearch {font-size: 12px; font-weight: bold; line-height: 10px; display: inline-block; color: #777;
 	position: relative; left: -1em; cursor: pointer;}
 span.found {background: #5df;}
