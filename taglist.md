@@ -36,7 +36,7 @@ Taglist = {
 	service: null,
 
 	api: async function (action, data) {
-		console.log('api: ' + action)
+		//console.log('api: ' + action)
 		if (!action) return
 		if (!data) data = {}
 		data.action = action
@@ -55,7 +55,7 @@ Taglist = {
 			}
 		if (response) {
 			var body = await response.text()
-			console.log('  +api: ' + response.status + ' ' + response.statusText + ' ' + body)
+			//console.log('  +api: ' + response.status + ' ' + response.statusText + ' ' + body)
 			return [response.status, body]
 			}
 		else return [404, 'Not found']		
@@ -121,7 +121,7 @@ Taglist = {
 
 	open: async function () {
 		var [status, data] = await this.api('open', {key: this.key})
-		console.log('open: ' + status + ' ' + data)
+		//console.log('open: ' + status + ' ' + data)
 		$('#open-wait').hide()
 		if (status == 200) {
 			this.section('open', true)
@@ -129,7 +129,7 @@ Taglist = {
 			data = JSON.parse(data)
 			$('h2#open').text(data.name)
 			document.title = data.name + ' | Taglist service'
-			console.log('control: ' + data.control)
+			//console.log('control: ' + data.control)
 			if (!data.control) {
 				this.section('open', false)
 				$('h2#setup').text('Setup: ' + data.name)
@@ -162,7 +162,7 @@ Taglist = {
 		
 	ping: async function () {
 		var [status, text] = await this.api('ping')
-		console.log('ping status: ' + status)
+		//console.log('ping status: ' + status)
 		$('#start').hide()
 		if (status == 200) {
 			this.section('init', false)
