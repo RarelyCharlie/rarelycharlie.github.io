@@ -84,8 +84,19 @@ Taglist = {
 
 	copy: function () {
 		var t = $('#open-list')[0]
-		t.focus()
-		t.select()
+		if (document.body.createTextRange) {
+			let r = document.body.createTextRange()
+			r.moveToElementText(t)
+			r.select()
+			}
+		else if (window.getSelection) {
+			let s = window.getSelection()
+			let r = document.createRange()
+			r.selectNodeContents(t)
+			s.removeAllRanges()
+			s.addRange(r)
+			}
+
 		var ok = document.execCommand('copy')
 		if (ok) setTimeout(function () {
 			if (document.selection) document.selection.empty()
@@ -99,7 +110,7 @@ Taglist = {
 			}
 		setTimeout(function () {$('#open-copied').fadeOut(800)}, 1500)
 		},
-	
+
 	init: async function () {
 		this.section('init', true)
 		this.key = location.search.substring(1)
