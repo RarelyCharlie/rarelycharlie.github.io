@@ -226,7 +226,7 @@ init = function () {
 ## Taglist service {#init}
 Welcome to the taglist service.
 
-The service is starting. This can take 10 seconds or so...<span id="start-spin" class="spinner"></span>
+The service is starting. This can take around 15 seconds...<span id="start-spin" class="spinner"></span>
 {:#start}
 
 The service is not available. Please try later.
