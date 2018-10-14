@@ -25,6 +25,14 @@ blockquote {font-size: 80%; border: 1px solid #444; background: #f4f4f4; padding
 	box-shadow: inset #ccc 0 0 1ex 2px; resize: none; position: absolute; top: 0; left: 0;}
 #open-list.empty {color: #aaa; text-align: center;}
 #open-spin {position: absolute; left: calc(50% - 12px); top: 1em;}
+
+#open-searchbar {text-align: right; font-size: 10px;}
+#open-searchbar img {width: 16px; height: 16px; margin: 0 0 0 4px; position: relative; top: 4px; left: -1em;}
+#open-search {display: inline-block; width: 8em; padding: 2px 1em 2px 1em;}
+#open-atsign {position: relative; left: 12px;}
+#open-nosearch {font-size: 12px; font-weight: bold; line-height: 10px; display: inline-block; color: #777;
+	position: relative; left: -1em; cursor: pointer;}
+span.found {background: #5df;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
@@ -118,6 +126,17 @@ Taglist = {
 			b.prop('disabled', v = '')
 			if (event.keyCode == 13 && v) b.click() 
 			}
+		else if (id == 'open-search') {
+			let list = $('#open-list'), t = list.text() //.replace(/<[^>+]>/g, '')
+			v = v.replace(/\s.*/, '')
+			if (v) t = t.replace(new RegExp('@(' + v + ')', 'ig'), '<span class="found">@$1</span>')
+			list.html(t)
+			}
+		},
+
+	nosearch: function () {
+		$('#open-search').val('').focus()
+		this.keyup({target: {id: 'open-search', value: ''}})
 		},
 
 	open: async function () {
@@ -292,6 +311,8 @@ This is an auto-updating taglist controlled by a forum thread. Post there to add
 
 The taglist was not found.
 {:.warning #open-warn}
+
+<p id="open-searchbar"><span id="open-atsign">@</span><input id="open-search" type="text" spellcheck="false"><span id="open-nosearch" title="Clear the search" onclick="Taglist.nosearch()">&times;</span> <img src="/assets/search.png"></p>
 
 <div id="open-container">
 <textarea readonly class="empty" id="open-list" spellcheck="false"></textarea>
