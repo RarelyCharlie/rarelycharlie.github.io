@@ -29,7 +29,7 @@ blockquote {font-size: 80%; border: 1px solid #444; background: #f4f4f4; padding
 #open-searchbar {text-align: right;}
 #open-searchbar img {width: 16px; height: 16px; margin: 0 0 0 8px; position: relative; top: 4px; left: -1em;}
 #open-search {display: inline-block; width: 8em; padding: 2px 1em 2px 1em; font-family: inherit; font-size: inherit;}
-#open-atsign {position: relative; left: 16px;}
+#open-atsign {position: relative; left: 18px;}
 #open-nosearch {font-weight: bold; line-height: 16px; display: inline-block; color: #777;
 	position: relative; left: -1em; cursor: pointer;}
 span.found {background: #5df;}
@@ -113,7 +113,7 @@ Taglist = {
 		if (this.service === null) $('#start').show()
 		},
 
-	keyup: function () {
+	keyup: function (event) {
 		var id = event.target.id, v = event.target.value.trim()
 		if ($(event.target).is('[readonly]')) return
 		if (id == 'register-name') {
