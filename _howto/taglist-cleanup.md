@@ -158,7 +158,7 @@ If a problem is reported below, fix the problem to continue.
 
 Taglist:
 
-<div id="list" contenteditable="true" spellcheck="false" autofocus onpaste="Cleanup.trigger(this)"></div>
+<div id="list" contenteditable="true" spellcheck="false" autofocus="true" onpaste="Cleanup.trigger(this)"></div>
 
 <button id="cleanup" onclick="Cleanup.trigger({id: 'list'})">Clean up</button> <button id="copy" onclick="Cleanup.copy()" disabled>Copy</button> <span id="copied"></span>
 
