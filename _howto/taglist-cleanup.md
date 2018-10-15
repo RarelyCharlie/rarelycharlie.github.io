@@ -152,7 +152,9 @@ Cleanup = {
 		}
 	}
 </script>
-To clean up a taglist, paste it here. If a problem is reported below, fix the problem to continue.
+To clean up a taglist, paste it here. The box will accept taglists of any size.
+
+If a problem is reported below, fix the problem to continue.
 
 Taglist:
 
@@ -169,9 +171,9 @@ Problem: <input type="text" id="problem-tags" onkeyup="Cleanup.tagskey()" disabl
 
  - Most web browsers detect the paste operation, so you do not normally have to press the Clean up button.
 
- - Each tag must begin with an @-sign. A word with no @-sign is ambiguous. For example, if the list contains `@Donald Duck` it is not possible for the software to tell whether this is intended to be a single tag, `@DonaldDuck`, or two tags, `@Donald @Duck`.
+ - Each tag must begin with an @-sign. A word with no @-sign is ambiguous. For example, if the list contains `@Donald Duck` it is not possible for the software to tell whether this is intended to be a single tag, `@DonaldDuck`, or two tags, `@Donald @Duck`. In cases like this, you'll be able to edit the tags to fix the problem.
  
- - Extra characters are removed. For example, `@It'sTuesday!` becomes `@ItsTuesday`.
+ - Extra characters in tags are simply removed. For example, `@It'sTuesday!` becomes `@ItsTuesday`.
  
  - There is no guarantee that the tags represent real users at 7 Cups. Verification might be available in a future version of this tool.
  
