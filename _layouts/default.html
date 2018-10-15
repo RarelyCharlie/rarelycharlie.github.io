@@ -59,7 +59,13 @@ init = function () {
   </script>
 </head>
 <body onload="init()">
-<div id="header"><span>{{ layout.prefix }}</span><h2>{{ page.title }}</h2></div>
+<div id="header">
+{% if page.prefix %}
+<span>{{ page.prefix }}</span>
+{% else %}
+<span>{{ layout.prefix }}</span>
+{% endif %}
+<h2>{{ page.title }}</h2></div>
 <div id="content">
 {{ content }}
 </div>
