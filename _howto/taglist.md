@@ -26,7 +26,7 @@ A taglist that uses this service is secure because it can only be updated from i
 
 The ability to add or remove other people is restricted to the taglist's owner (normally the original poster of the forum thread), to 7 Cups admins, and to the owner of the service.
 
-A taglist can be viewed on its own web page, but it cannot be changed there. And the service stores taglists on a completely different secure database server.
+A taglist can be viewed on its own web page, but it cannot be changed there. The service stores taglists on a completely separate secure database server.
 
 ### For owners of taglists
 	
@@ -36,7 +36,7 @@ If you are the owner of a taglist you can give some other commands in its contro
  - "Please remove: " followed by one or more tags
  - "Please remove everyone."
  
-`*` When adding a lot of tags, take care to ensure that they are all correct. The service does not validate them. Extra spaces, other unexpected characters, or missing @-signs can prevent the update from being processed in the way you expect.
+`*` When adding a lot of tags, take care to ensure that they are all correct. The service does not validate them. Extra spaces, other unexpected characters, or missing @-signs can prevent the update from being processed in the way you expect. Using the separate [Clean up a taglist](https://rarelycharlie.github.io/howto/taglist-cleanup) service before adding a lot of tags is *very strongly recommended*.
 
 For any other maintenance requirements, to suggest a new feature, or to report a problem, please send a message (PM) to the service owner, [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).
 
