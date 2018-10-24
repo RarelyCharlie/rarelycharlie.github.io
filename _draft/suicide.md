@@ -114,7 +114,7 @@ You should think about your personal boundaries, and make decisions in advance a
 
 You have to make this decision in advance, as far as possible, because a chat that starts out being about one subject can very quickly move on to suicide (and also very quickly move on from suicide to something else). You will need to be able to take action to protect yourself immediately there's a change of subject that goes beyond your personal boundaries.
 
-It is OK to be willing to chat about thoughts of suicide just like any other thoughts. There is nothing particularly dangerous or special about thoughts of suicide, unless this topic has special significance for you personally and triggers feeling in you that you prefer to avoid.
+It is OK to be willing to chat about thoughts of suicide just like any other thoughts. There is nothing particularly dangerous or special about thoughts of suicide, unless this topic has special significance for you personally and triggers feelings in you that you prefer to avoid.
 
 ### When your boundaries are crossed
 
@@ -301,7 +301,7 @@ One survivor puts it like this:
 - Members who feel hopeless need to be cheered up and told to look on the bright side.# It's vital not to dismiss, ignore or contradict a member's feelings of hopelessness.
 - Members who feel socially isolated should avoid online communities like 7 Cups.# 7 Cups can provide essential social connection. 
 - Mental health professionals can accurately assess suicide risk, but listeners at 7 Cups cannot.# No one can accurately assess suicide risk.
-- Listeners who are triggered by a chat about suicide should review the deatils of the chat with their own therapist or counselor, or with someone other trusted person.# Listeners must never share the details of any chat. 
+- Listeners who are triggered by a chat about suicide should review the deatils of the chat with their own therapist or counselor, or with some other trusted person.# Listeners must never share the details of any chat. 
 - Listeners should suggest practical solutions to members' problems, so that members don't become hopeless and dwell on thoughts of suicide.# Listeners should not try to solve members' problems.
 {:.quiz}
 
@@ -345,21 +345,19 @@ Do not tell the member what number to call, because different places have differ
 
 Be aware that some suicide hotlines do not always provide help by themselves, but instead they refer people to medical services. Some members may have had bad experiences with medical services in the past, making them unwilling to call a suicide hotline. Bad experiences might include forcible restraint, detention in hospital, or forcible administration of drugs. Ensure that member's previous bad experiences with medical services are heard and understood without judgment.
 
-In some places there are alternatives to hotlines known as warmlines, and a few warmlines may be accessible internationally. Warmlines generally help people to avoid bad experiences with medical servgices. They can be particularly appropriate for members who do not want to call a hotline. Some warmlines guarantee as a matter of policy that they will never call out medical services without consent. For more information, [warmline.org](http://warmline.org/) is a good starting point.
+In some places there are alternatives to hotlines known as warmlines, and a few warmlines may be accessible internationally. Warmlines generally help people to avoid bad experiences with medical services. They can be particularly appropriate for members who do not want to call a hotline. Some warmlines guarantee as a matter of policy that they will never call out medical services without consent. For more information, [warmline.org](http://warmline.org/) is a good starting point.
 
 After you have ended the chat there is normally no need to block the member. They may soon be in a position to chat to you again. 
-
 
 - Mark each statement true or false:
 - Listeners have no way of knowing about local support services and resources available to members.#Members are best placed to know know their own local services and resources.
 - Listeners can continue to support members who are trying to contact a local hotline.#Listeners should continue to support members as far as is possible.
 - When a member says they have a suicide plan, it's OK to continue to chat.#Having a plan is not the same as taking action, so there is no need to end the chat.
-- Warmlines can help people who have had bad experiences with medical services in the past.# This is one of the reasons warmlines exist.
+- Warmlines can help people who have had bad experiences with medical services in the past.#This is one of the reasons warmlines exist.
 - Listeners should be careful to correct members whose thoughts do not make sense, because the conversation can quickly turn to suicide.# We understand that people are complicated and that life is not simple or easy.
-- 
 - Hotlines found in lists at 7 Cups are guaranteed to be available 24×7.# Some hotlines are not 24×7, and some no longer operate at all.
 - When a listener has advised a member to get help, the listener should follow this up by searching the Internet and finding appropriate sources of help.# Listeners must not give advice, and should not provide Internet search services for members. 
-- When a member admits to taking action intended to end their life, the listener must end the chat block the member to avoid more of that kind of talk.# The listener must end the chat, but there is normally no need to block the member.
+- When a member admits to taking action intended to end their life, the listener must block the member to avoid more of that kind of talk.# The listener must end the chat, but there is normally no need to block the member.
 - Members never really rely on listeners for support, because 7 Cups is not real life and only exists on the Internet.# Members often rely on listeners for support.
 - The international emergency number, 112, should be used in all countries where 9-1-1 is not used.# Some places have a different emergency number that is not 112 or 911.
 - When a listener suspects a member might be thinking of suicide, the listener must immediately inform their local police, who will trace the member and deal with the situation.# Listeners never reveal details of chats to anyone, and police do not deal with thoughts.
@@ -369,13 +367,13 @@ After you have ended the chat there is normally no need to block the member. The
 
 Every message in every chat and chatroom at 7 Cups is monitored by software known as the censor. The censor blocks entire messages that contain certain phrases that could upset some people. These phrases include some that relate to suicide.
 
-In chatrooms, the censor also blocks certain individual words. In this case the words are replaced by asterisks, but in this case the censor does not block the entire message. The blocked words also include some that relate to suicide.
+In chatrooms, the censor also blocks certain individual words. In this case the words are replaced by asterisks, but the censor does not block the entire message. The blocked words also include some that relate to suicide.
 
 ### Consequences of censorship
 
 Because of the censor, some members who try to share their thoughs about suicide might find that their messages are blocked. They might feel rejected. They might feel shamed. Although the censor does protect some vulnerable listeners, it is a form of stigma that also makes some difficult chats even more difficult for members.
 
-The listener in the chat is not told when a member's message has been blocked. This means that when a member trusts you enough to admit to suicidal thoughts, they might suddenly become unresponsive because the censor has blocked one or more of their messages. They might feel shamed and rejected, and they even might abandon the chat.
+The listener in the chat is not told when a member's message has been blocked. This means that when a member trusts you enough to admit to suicidal thoughts, they might suddenly become unresponsive because the censor has blocked one or more of their messages. They might feel shamed and rejected, and they might even abandon the chat.
 
 ### The censor and confidentialty
 
