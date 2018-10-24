@@ -1,6 +1,6 @@
 ---
 title: Suicide
-layout: default
+layout: guide
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 <style>
