@@ -487,7 +487,70 @@ Why do people say they are suicidal? It's sometimes because they are thinking of
 
 Here's a selection of possible reasons. This diagram was developed by an experienced peer support group:
 
-[REASONS DIAGRAM]
+<style>
+div.reasons {margin: 2em auto;}
+div.row {text-align: center;}
+div.egg.row {height: 152px; position: relative; top: -16px;}
+div.box {display: inline-block; position: relative; 
+	border: 3.2px solid #000; border-radius: 16px; height: 72px; width: 140px; margin: 2px; padding: 16px;}
+div.spaced .box {margin: 4px 40px;}
+div.egg.box {border-radius: 50%; padding: 32px; top: 16px; font-style: italic; font-weight: bold;}
+div.box p {display: block; position: absolute; top: 50%; transform: translateY(-50%); width: 144px;
+	line-height: 24px; text-align: center; margin: 0; padding: 0;}
+.orange {background: #fdc;}
+.pink {background: #fcd;}
+.blue {background: #cdf;}
+.green {background: #cfd;}
+.yellow {background: #ffc;}
+div.central.egg.box {top: 92px;}
+div.empty {border-color: transparent;}
+u {text-decoration: none; display: inline-block; border-bottom: 2px solid #000; line-height: .85;
+	text-shadow: 1px 1px #ffc, 1px -1px #ffc, -1px 1px #ffc, -1px -1px #ffc;}
+</style>
+
+<div class="reasons">
+
+<div class="row">
+<div class="box orange">
+<p>I feel really stuck and hopeless</p>
+</div>
+<div class="box pink">
+<p>Something in my life needs to<br>change (or 'die')</p>
+</div>
+</div>
+
+<div class="egg row">
+<div class="box green">
+<p>I need a place to sleep tonight & the hospital has one</p>
+</div>
+<div class="central egg box yellow">
+<p>I <u>say</u> I'm suicidal because...</p>
+</div>
+<div class="box blue">
+<p>I'm having big emotions I can't describe</p>
+</div>
+</div>
+
+<div class="egg row">
+<div class="box blue">
+<p>No one listens unless I say I am</p>
+</div>
+<div class="empty egg box"></div>
+<div class="box green">
+<p>I am thinking of killing myself</p>
+</div>
+</div>
+
+<div class="row">
+<div class="box pink">
+<p>The system trained me to say this to<br>get services</p>
+</div>
+<div class="box orange">
+<p>I'm angry and<br>I'm venting</p>
+</div>
+</div>
+
+</div>
 
 (Adapted from: [Suicide Reasons and Meanings](http://www.westernmassrlc.org/images/stories/suicide_reasons_and_meaningss.pdf).)
 
