@@ -487,7 +487,7 @@ Why do people say they are suicidal? It's sometimes because they are thinking of
 
 Here's a selection of possible reasons. This diagram was developed by an experienced peer support group:
 
-<style>
+<style markdown="0">
 div.reasons {margin: 2em auto;}
 div.row {text-align: center;}
 div.egg.row {height: 152px; position: relative; top: -16px;}
