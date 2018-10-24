@@ -446,7 +446,7 @@ Here is a checklist of seven things to do and seven things not to do:
 
 ### Issues
 
-![decoration](\assets\guide\decom7.png){:.decol}
+![decoration](\assets\guide\decom7g.png){:.decol}
 
 This guide attempts to give clear and consistent guidance about matters that are not always clearly or consistently explained elsewhere at 7 Cups.
 
@@ -499,11 +499,11 @@ Listeners whose personal boundaries mean they cannot chat about suicide should n
 
 ### Stigma
 
-Over-reacting to the word suicide is a form of stigma leading to rejection of people who have a real need for emotional support. A position statement from the non-profit Suicide Prevention Australia explains:
+Over-reacting to the word suicide is a form of stigma leading to rejection of people who have a real need for emotional support. A position statement from the non-profit *Suicide Prevention Australia* explains:
 
 > The continuing stigma ingrained in social and cultural attitudes towards suicide is the manifestation of persistent misunderstandings about the causes of suicide. Suicide is often misconstrued as a 'personal weakness' or a 'selfish' or 'cowardly' act. An alternative and equally incorrect view is that suicide is not preventable and that those who die by or attempt suicide are beyond help due to a mental illness or life crisis. These views translate into negative attitudes that stereotype people who attempt or die by suicide as inherently different to others.
 
-(From [Overcoming the Stigma of Suicide](https://www.suicidepreventionaust.org/sites/default/files/resources/2016/SPA-Overcoming-the-Stigma-Of-Suicide-Position-Statement%5B1%5D.pdf).
+(From [Overcoming the Stigma of Suicide](https://www.suicidepreventionaust.org/sites/default/files/resources/2016/SPA-Overcoming-the-Stigma-Of-Suicide-Position-Statement%5B1%5D.pdf).)
 
 At 7 Cups listeners should avoid stigmatizing people who use the word suicide when describing how they feel. 7 Cups exists to provide emotional support, not to judge people for the way they express their most difficult feelings.
 
@@ -516,7 +516,7 @@ In this fictitious example, a member chooses 'relationship support' as their rea
 |Member:|Yes, it would be bad. It's hard to know exactly how bad. I could be shouted at or locked up for a day or two, or maybe beaten.
 |Listener:|You're in physical danger just because you're chatting to me.
 |Member:|Oh yes, absolutely.
-|Member:|Any contact with people she has not approved.
+||Any contact with people she has not approved.
 |Listener:|How do you cope?
 |Member:|I don't cope. I'm suicidal most of the time.
 |Listener:|Are you suicidal right now? Wanting to die?
