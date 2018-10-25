@@ -296,7 +296,7 @@ One survivor puts it like this:
 
 - Mark each statement true or false:
 - Depression is a risk factor for suicide.#It's the D in the SAD PERSONS mnemonic.
-- Hospital treatment might sometimes increase a person's risk of suicide.#There is some evidence of that hospital treatment is associated with worse outcomes.
+- Hospital treatment might sometimes increase a person's risk of suicide.#There is some evidence that hospital treatment is associated with worse outcomes.
 - Medication for depression might sometimes increase a person's risk of suicide.#There is some evidence that antidepressant medication is associated with increased risk of suicide.
 - Hopelessness is a risk factor for suicide.#It's one of the most significant factors.
 - Carelessness is a risk factor for suicide.# It's not regarded as a risk factor.
