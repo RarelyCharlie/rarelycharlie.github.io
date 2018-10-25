@@ -254,6 +254,8 @@ Listeners can reduce suicide risk by helping to address some of these risk facto
 
 For people who suffer from depression, hopelessness has been identified as one of the most significant factors in suicide risk.
 
+![decoration](/assets/guide/decom1g.png){:.decol}
+
 Listeners who hear a member describing feelings of hopelessness should be careful to take these feelings seriously, whether or not the member has mentioned suicide. As always, a listener's role is to ensure that the member feels heard. It is vital not to dismiss, ignore or contradict a member's feelings of hopelessness.
 
 Listeners provide emotional support by accurately reflecting members' feelings, allowing the member to be heard, while avoiding giving advice or trying to solve the member's problems.
