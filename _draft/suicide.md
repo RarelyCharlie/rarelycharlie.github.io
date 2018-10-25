@@ -613,7 +613,7 @@ There is no suggestion at all that this member is taking any action intended to 
 - Stigma sometimes makes people over-react when suicide is mentioned.#Even some listeners over-react.
 - Listeners should reflect members' feelings accuratey, even when those feelings are distressing.#Accurate reflection is at the heart of active listening.
 - When a member is doing something that puts their life at immediate risk, they cannot chat to any listener at 7 Cups.#7 Cups does not support members who are actively causing harm to themselves or others. 
-- Listeners must not give advice abiut imaginary problems.#Listeners must not give advice at all.
+- Listeners must not give advice about imaginary problems.#Listeners must not give advice at all.
 - Members can share their thoughts about suicide with listeners at 7 Cups.#Members can share any thoughts at 7 Cups.
 - Listeners should assess a member's risk of suicide if the member mentions being depressed.# Listeners do not carry out risk assessments.
 - Members must never talk about dying, because it is one of the subjects that 7 Cups censors.# Members can talk about dying, even though 7 Cups does censor some phrases.
@@ -660,7 +660,7 @@ What does it mean when people really do think of killing themselves? Again, here
 <p>I have unbearable emotional pain or illness</p>
 </div>
 <div class="egg box yellow">
-<p>I am thinking of killing myself because…</p>
+<p>I am thinking of killing myself because...</p>
 </div>
 <div class="box green">
 <p>I've been rejected for who I truly am</p>
@@ -701,7 +701,7 @@ Again this means listeners should not over-react when members say they are think
 
 ### Harmless plans and actions
 
-The same logic applies to plans. For example, a member might say, "I have been planning to kill myself ever sibce my father passed away, and I know exactly how I'm going to do it." But a lot of people make plans and then change their plans. Making plans is no different from having thoughts. Even detailed plans are no different from detailed thoughts. A listener should understand that a chat about suicide plans is not a chat about actual suicide. The chat will become a chat about the member's underlying emotions, and then a listener can provide emotional support.
+The same logic applies to plans. For example, a member might say, "I have been planning to kill myself ever since my father passed away, and I know exactly how I'm going to do it." But a lot of people make plans and then change their plans. Making plans is no different from having thoughts. Even detailed plans are no different from detailed thoughts. A listener should understand that a chat about suicide plans is not a chat about actual suicide. The chat will become a chat about the member's underlying emotions, and then a listener can provide emotional support.
 
 The logic also applies to actions that are harmless in themselves. For example, a member might say, "I am thinking of killing myself and I have pills." But a lot of people have pills, and having pills is not in itself harmful. This member is really saying, "Please, please take me seriously." A listener should take the member seriously and continue the chat to find out what the real issue is, and to provide emotional support.
 
