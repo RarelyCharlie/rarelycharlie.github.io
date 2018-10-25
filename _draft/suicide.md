@@ -864,7 +864,7 @@ Eventually this works and the member comes to their own conclusion about seeing 
 
 
 - Mark each statement true or false:
-- Trolls are people who enjoy making other people upset.# Making other people upset is always their intention.
+- Trolls are people who enjoy making other people upset.#Making other people upset is always their intention.
 - Some members try to control listeners, because feeling in control helps their anxiety.#Anxiety makes some people act in a controlling way.
 - Personal boundaries are a defense against members who are controlling.#Listeners can avoid being controlled by assertively maintaining their personal boundaries.
 - Sometimes members say things that are not true.#Things members say might sometimes be fantasies, delusions, or deliberate falsehoods.
