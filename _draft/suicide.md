@@ -1006,8 +1006,9 @@ To reset the guide and answer the quizzes again, click here: <a href='#' onclick
 Here are some links to further reading. Most of these links appear in the guide and are repeated here for convenience.
 
 - [7 Cups: Our Key Values](https://web.archive.org/web/20170710164036/https://www.7cups.com/about/values.php) (archived version)
-- [Harm: guide for listeners](https://rarelycharlie.github.io/guide/harm)
+- [7 Cups: Our Mission](https://www.7cups.com/forum/GlensNook_84/OurVisionforaBetterWorld_334/OurMission_18219/1/)
 - [7 Cups: Active Listening guide](https://www.7cups.com/listener/training/) 
+- [Harm: guide for listeners](https://rarelycharlie.github.io/guide/harm)
 - [Are We Any Closer to Predicting Suicide?](https://pro.psychcentral.com/are-we-any-closer-to-predicting-suicide/).)
 - [Antidepressants Save People From Suicide, Right?](https://www.madinamerica.com/2018/01/antidepressants-save-people-suicide-right/)
 - [Risk of Suicide After Hospitalization Even Higher Than Previously Estimated](https://www.madinamerica.com/2017/06/risk-suicide-hospitalization-even-higher-previously-estimated/)
