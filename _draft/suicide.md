@@ -277,7 +277,7 @@ There are no treatments specifically for suicide, or for thoughts of suicide.
 
 Treatments do exist for some of the risk factors, and a temporary stay in hospital can sometimes be useful to prevent suicide when someone is in crisis. Most places have laws allowing medical authorities to keep people in hospital without their consent under these circumstances.
 
-Depression, for example, is a major risk factor for suicide. It can be treated by psychotherapy, by medication, and in very severe cases by other methods. However, the available treatments are not 100% effective for everyone. There is evidence that medication for depression can increase the risk of suicide in some circumstances.
+Depression, for example, is a major risk factor for suicide. It can be treated by psychotherapy, by medication, and in very severe cases by other methods. However, the available treatments are not 100% effective for everyone. There is evidence that medication for depression can increase the risk of suicide in some circumstances. (See, for example: [Antidepressants Save People From Suicide, Right?](https://www.madinamerica.com/2018/01/antidepressants-save-people-suicide-right/).)
 
 There is also evidence that although a temporary stay in hospital does reduce the risk of suicide for the duration of the stay, it doesn't eliminate the risk entirely, and it may increase the long-term risk.  
 
