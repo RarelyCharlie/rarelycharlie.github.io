@@ -964,7 +964,9 @@ In this fictitious example, a member chooses 'loneliness' as their reason for st
 |Listener:|You take care too.
 {:.chat}
 
+In this chat the member claims to be about to die, and refuses to get specialist help for fear of being locked up. But when the listener correctly says they cannot continue the chat, the crisis seems to evaporate, and the member seems to be looking forward to chatting again tomorrow.
 
+It's not entirely possible to understand this member's situation. Maybe there are elements of fantasy or delusion, but a listener cannot judge these things, and can only take what the member says at face value.
 
 - Mark each statement true or false:
 - Listeners cannot continue to chat with a member who is actively suicidal.#7 Cups does not allow listeners to chat to members who are taking action to end their lives.
@@ -972,7 +974,7 @@ In this fictitious example, a member chooses 'loneliness' as their reason for st
 - Listeners must accept members' own judgment on how harmful their actions are.#Listeners have no information or expertise that would enable them to make independent judgments about members.
 - Listeners must not imagine things that could make them deny emotional support to a member.#Listeners should not allow their imagination to affect chats with members.
 - In an emergency, a member must get help themselves, not rely on a listener to get help.#Listeners cannot get emergency help for members.
-- Sometimes a member who feels anxious might try to control listenersbecause it feels reassuring to be in command.#Anxiety is one of the reasons people can be controlling. 
+- Sometimes a member who feels anxious might try to control listeners because it feels reassuring to be in command.#Anxiety is one of the reasons people can be controlling. 
 - In an emotional crisis, it is always helpful for a member to call their local police, who can prevent possibe suicide.# An emotional crisis is not a police matter.
 - Suicide plans are likely to be fatal eventually.# Plans are just thoughts, and they are not harmful in themselves.
 - Listeners must never ask members questions about their intentions, because of the risk of suicide.# Listeners can clarify member's intentions by asking about them directly.
