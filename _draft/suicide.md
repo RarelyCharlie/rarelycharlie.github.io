@@ -279,7 +279,7 @@ Treatments do exist for some of the risk factors, and a temporary stay in hospit
 
 Depression, for example, is a major risk factor for suicide. It can be treated by psychotherapy, by medication, and in very severe cases by other methods. However, the available treatments are not 100% effective for everyone. There is evidence that medication for depression can increase the risk of suicide in some circumstances. (See, for example: [Antidepressants Save People From Suicide, Right?](https://www.madinamerica.com/2018/01/antidepressants-save-people-suicide-right/).)
 
-There is also evidence that although a temporary stay in hospital does reduce the risk of suicide for the duration of the stay, it doesn't eliminate the risk entirely, and it may increase the long-term risk.  
+There is also evidence that although a temporary stay in hospital does reduce the risk of suicide for the duration of the stay, it doesn't eliminate the risk entirely, and it may increase the long-term risk. (See, for example: [Risk of Suicide After Hospitalization Even Higher Than Previously Estimated](https://www.madinamerica.com/2017/06/risk-suicide-hospitalization-even-higher-previously-estimated/).)
 
 All this makes choosing the best treatment for a particular individual very complicated. It's a job for a professional. Listeners must never recommend or suggest treatments. However, listeners can ensure that members' own feelings about choosing and having treatment are heard and understood without judgment.
 
