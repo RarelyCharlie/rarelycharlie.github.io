@@ -246,7 +246,7 @@ A useful way to remember the important risk factors is the mnemonic SAD PERSONS.
 - **S**ickness (especially when there is chronic pain and functional impairment)
 {:style="list-style-type: none;"}
 
-(Adapted from [Are We Any Closer to Predicting Suicide?](https://pro.psychcentral.com/are-we-any-closer-to-predicting-suicide/).)
+(Adapted from [Are We Any Closer to Predicting Suicide?](https://pro.psychcentral.com/are-we-any-closer-to-predicting-suicide/))
 
 Listeners can reduce suicide risk by helping to address some of these risk factors.
 
