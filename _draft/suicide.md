@@ -896,18 +896,16 @@ And:
 If either one of the answers is yes, and it's not just the listener's imagination, then the chat cannot continue. However, a listener should, if possible, offer to chat another time when the member's need for harmful or risky action is over.
 
 Here are some examples:
-
-                                                      Likely   Suicide
-Action                                                Fatal    Intention
---------------------------------------------------------------------------
-Hoarding pills for the purpose of suicide.             NO       YES
-Simply kKnowing where a rope is kept.                  NO       NO
-Making many small cuts on both arms.                   NO       NO
-Swallowing two sleeping tablets, hoping to sleep well. NO       NO
-Swallowing 200 sleeping tablets, hoping never to wake. YES      YES
-Cutting an artery.                                     YES      YES
-Driving very fast because it's fun.                    YES      NO
-Driving very fast hoping to crash and die.             YES      YES
+|                                                       |Likely   |Suicide  |
+|Action                                                 |Fatal    |Intention|
+|Hoarding pills for the purpose of suicide.             |NO       |YES|
+|Simply kKnowing where a rope is kept.                  |NO       |NO|
+|Making many small cuts on both arms.                   |NO       |NO|
+|Swallowing two sleeping tablets, hoping to sleep well. |NO       |NO|
+|Swallowing 200 sleeping tablets, hoping never to wake. |YES      |YES|
+|Cutting an artery.                                     |YES      |YES|
+|Driving very fast because it's fun.                    |YES      |NO|
+|Driving very fast hoping to crash and die.             |YES      |YES|
 
 It can be OK to clarify how harmful a member's actions are by asking straight out:
 
