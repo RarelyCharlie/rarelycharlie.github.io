@@ -627,7 +627,73 @@ There is no suggestion at all that this member is taking any action intended to 
 
 What does it mean when people really do think of killing themselves? Again, here's a selection of possible meanings (from the same source as the previous diagram):
 
-[MEANINGS DIAGRAM]
+<div class="reasons">
+<div class="row">
+<div class="box orange">
+<p>It keeps me living<br>(I know I always have an 'out')</p>
+</div>
+<div class="box pink">
+<p>I feel overwhelmed, and don't know what else to do</p>
+</div>
+</div>
+<div class="spaced row">
+<div class="box blue">
+<p>I can't take being abused or bullied anymore</p>
+</div>
+<div class="box green">
+<p>I am so angry at so much injustice</p>
+</div>
+</div>
+<div class="row">
+<div class="box green">
+<p>I can't get my basic needs met (housing, etc.)</p>
+</div>
+<div class="box orange">
+<p>I have suffered an unbearable loss</p>
+</div>
+<div class="box pink">
+<p>I feel disconnected and alienated from the world</p>
+</div>
+</div>
+<div class="egg row">
+<div class="box blue">
+<p>I have unbearable emotional pain or illness</p>
+</div>
+<div class="egg box yellow">
+<p>I am thinking of killing myself because…</p>
+</div>
+<div class="box green">
+<p>I've been rejected for who I truly am</p>
+</div>
+</div>
+<div class="row">
+<div class="box orange">
+<p>I have unbearable chronic physical pain or illness</p>
+</div>
+<div class="box pink">
+<p>It feels good to know I have control over something</p>
+</div>
+<div class="box blue">
+<p>I am haunted by things from my past</p>
+</div>
+</div>
+<div class="spaced row">
+<div class="box green">
+<p>It has spiritual meaning to me</p>
+</div>
+<div class="box orange">
+<p>I feel unbearable shame</p>
+</div>
+</div>
+<div class="row">
+<div class="box pink">
+<p>I want to be with someone who has died before me</p>
+</div>
+<div class="box blue">
+<p>The world moves so quickly, and I feel too tired to keep up</p>
+</div>
+</div>
+</div>
 
 Notice that simply wanting to die does not appear anywhere in the diagram. There's *always* an underlying reason that has nothing to do with death.
 
