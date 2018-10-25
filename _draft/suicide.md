@@ -1003,7 +1003,7 @@ To reset the guide and answer the quizzes again, click here: <a href='#' onclick
 
 ### References
 
-Here are some links to further reading. Most of these links appear in the guide and are repeated here for convenience. A few additional links are not in the guide.
+Here are some links to further reading. Most of these links appear in the guide and are repeated here for convenience.
 
 - [7 Cups: Our Key Values](https://web.archive.org/web/20170710164036/https://www.7cups.com/about/values.php) (archived version)
 - [7 Cups: Active Listening guide](https://www.7cups.com/listener/training/) 
