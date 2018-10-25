@@ -80,7 +80,7 @@ In the same way, someone might have thoughts about or plans for ending their lif
 
 ### Distinguishing thoughts from actions
 
-Some people find the distinction between thoughts and actions obvious, and some people find it difficult. There's a recognized cognitive impairment called *thought-action fusion* that makes it difficult for people to distinguish between thoughts and actions easily. There is more information about thought-action fusion in the guide to chats about [Harm](). 
+Some people find the distinction between thoughts and actions obvious, and some people find it difficult. There's a recognized cognitive impairment called *thought-action fusion* that makes it difficult for people to distinguish between thoughts and actions easily. There is more information about thought-action fusion in the guide to chats about [Harm](./harm). 
 
 For example, if someone mentions thoughts of suicide, and you suffer from thought-action fusion, you might experience an extreme emotional response as if they are taking action. You might even feel sure that they must be taking action, when in fact all they have done is mention some thoughts they are having.
 
@@ -1006,6 +1006,7 @@ To reset the guide and answer the quizzes again, click here: <a href='#' onclick
 Here are some links to further reading. Most of these links appear in the guide and are repeated here for convenience.
 
 - [7 Cups: Our Key Values](https://web.archive.org/web/20170710164036/https://www.7cups.com/about/values.php) (archived version)
+- [Harm: guide for listeners](https://rarelycharlie.github.io/guide/harm)
 - [7 Cups: Active Listening guide](https://www.7cups.com/listener/training/) 
 - [Are We Any Closer to Predicting Suicide?](https://pro.psychcentral.com/are-we-any-closer-to-predicting-suicide/).)
 - [Antidepressants Save People From Suicide, Right?](https://www.madinamerica.com/2018/01/antidepressants-save-people-suicide-right/)
