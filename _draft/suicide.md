@@ -558,7 +558,7 @@ u {text-decoration: none; display: inline-block; border-bottom: 2px solid #000; 
 
 </div>
 
-(Adapted from: [Suicide Reasons and Meanings](http://www.westernmassrlc.org/images/stories/suicide_reasons_and_meaningss.pdf).)
+(Adapted from: [Suicide Reasons and Meanings](http://www.westernmassrlc.org/images/stories/suicide_reasons_and_meaningss.pdf) by the [Western Massachusetts Recovery Learning Community](http://www.westernmassrlc.org/).)
 
 Notice that only one of the reasons is, "I am thinking of killing myself." People say they are suicidal for many reasons that do not involve killing themselves.
 
@@ -1005,6 +1005,14 @@ To reset the guide and answer the quizzes again, click here: <a href='#' onclick
 
 Here are some links to further reading. Most of these links appear in the guide and are repeated here for convenience. A few additional links are not in the guide.
 
-
-
-
+- [7 Cups: Our Key Values](https://web.archive.org/web/20170710164036/https://www.7cups.com/about/values.php) (archived version)
+- [7 Cups: Active Listening guide](https://www.7cups.com/listener/training/) 
+- [Are We Any Closer to Predicting Suicide?](https://pro.psychcentral.com/are-we-any-closer-to-predicting-suicide/).)
+- [Antidepressants Save People From Suicide, Right?](https://www.madinamerica.com/2018/01/antidepressants-save-people-suicide-right/)
+- [Risk of Suicide After Hospitalization Even Higher Than Previously Estimated](https://www.madinamerica.com/2017/06/risk-suicide-hospitalization-even-higher-previously-estimated/)
+- [Deadly Serious: Talking Openly About Suicide](https://www.madinamerica.com/2018/08/deadly-serious-talking-openly-suicide/)
+- [Redwood City 24-Hour Emergency Lines](https://www.redwoodcity.org/departments/parks-recreation-and-community-services/child-care/family-resources-guide)
+- [warmline.org](http://warmline.org/)
+- [Suicide Reasons and Meanings diagrams](http://www.westernmassrlc.org/images/stories/suicide_reasons_and_meaningss.pdf)
+- [Western Massachusetts Recovery Learning Community](http://www.westernmassrlc.org/)
+- [Overcoming the Stigma of Suicide](https://www.suicidepreventionaust.org/sites/default/files/resources/2016/SPA-Overcoming-the-Stigma-Of-Suicide-Position-Statement%5B1%5D.pdf)
