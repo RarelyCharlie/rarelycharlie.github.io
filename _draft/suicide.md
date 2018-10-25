@@ -375,6 +375,8 @@ In chatrooms, the censor also blocks certain individual words. In this case the 
 
 ### Consequences of censorship
 
+![decoration](/assets/guide/decoe1g.png){:.decor}
+
 Because of the censor, some members who try to share their thoughs about suicide might find that their messages are blocked. They might feel rejected. They might feel shamed. Although the censor does protect some vulnerable listeners, it is a form of stigma that also makes some difficult chats even more difficult for members.
 
 The listener in the chat is not told when a member's message has been blocked. This means that when a member trusts you enough to admit to suicidal thoughts, they might suddenly become unresponsive because the censor has blocked one or more of their messages. They might feel shamed and rejected, and they might even abandon the chat.
