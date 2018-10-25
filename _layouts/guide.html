@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', function () {
 			var q = $(this)
 			q.text(q.text().replace(/#\s.+/, ' (False)').replace(/#.+/, ' (True)'))
 			})
-		$('#content>*').show()
+		$('#content>*').not('style').show()
 		}
 	else {
 		$('#contents').nextUntil('#part-i').addBack().remove()
