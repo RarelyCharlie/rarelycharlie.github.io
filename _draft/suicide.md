@@ -995,18 +995,16 @@ It's not entirely possible to understand this member's situation. Maybe there ar
 
 # Conclusion
 
-This guide can be summarized in a kind of flowchart:
+You have now completed the guide.
 
-|Member:|Mentions suicide or intending to die, either specifically or in a vague way.|
-|Listener:|Consider whether this comes within your personal boundaries, and if it does not, refer the chat *immediately* to another listener. It is better to stay with the chat and discuss the member's underlying issues, but your self-care comes first.
-|Member:|Mentions specific thoughts, either now or in the recent past, or future plans, for their intentional death.
-|Listener:|Consider whether *this* comes within your personal boundaries, and if it does not, refer the chat *immediately* to another listener. It is better to stay with the chat and discuss the member's underlying issues, but your self-care comes first.
-|Member:|Mentions specific actions right now that are either harmful in themselves, or intended to put their life at risk.
-|Listener:|Refer the member for specialist support outside 7 Cups. A hotline or warmline local to the member is best. If necessary, a national or international hotline or warmline will do. It is better to stay with the member to support them while they get specialist help. It is also good to offer continued support after the current crisis is over.
-|Member:|Mentions a physical emergency situation right now of the kind that requires police, fire, ambulance, or similar services. 
-|Listener:|Insist the member calls their local emergency number. Do not assume it's the same as your local emergency number. Do not call emergency services yourself. If possible, it is better to stay with the member to support them while help arrives. It is also good to offer continued support after the current crisis is over.
-{:.chat}
+To review the guide, use the links across the top of each page. You do not have to answer the quizzes again.
+
+To reset the guide and answer the quizzes again, click here: <a href='#' onclick="Persist.reset()">Reset</a>
 
 ### References
+
+Here are some links to further reading. Most of these links appear in the guide and are repeated here for convenience. A few additional links are not in the guide.
+
+
 
 
