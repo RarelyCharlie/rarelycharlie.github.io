@@ -807,6 +807,8 @@ As a listener, your best defense against members who are controlling is to be su
 
 ### Fantasies
 
+![decoration](/assets/guide/decoe2g.png){:.decor}
+
 Some members tell listeners stories that are partly or entirely fantasy. There might not be any way to be sure of this.
 
 Some people might do it as a way of testing 7 Cups to find out if it's a safe place to tell their real story. Some people might do it because they have a psychotic illness and the fantasy seems real to them. Or they might do it for other reasons that they might not even know themselves.
