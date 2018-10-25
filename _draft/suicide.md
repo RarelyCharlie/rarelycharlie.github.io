@@ -934,6 +934,8 @@ For example, a member might be doing something in order to frighten family membe
 
 If a member says they are taking action right now in the present that is in itself likely to be fatal, or intended to put the member's life at risk, then the listener must insist that the member gets specialist help. The chat cannot continue, except to support the member in getting help.
 
+![decoration](/assets/guide/decoe3g.png){:.decor}
+
 If the member will not get specialist help after this is explained to them, the listener must end the chat. Members who force listeners to end chats in this way are very likely to be trolls, seeking to control the listener, or acting out a fantasy, but it is never possible to be certain.
 
 When there is a real life emeergency of the kind that requires police, fire, ambulance, or similar services, then the member must call their local emergency number. Listeners must not tell member what number to call, because only the member knows for sure where they are and what the correct number is. Listeners must not call emergency services on behalf of members.
