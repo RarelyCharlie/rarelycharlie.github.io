@@ -896,6 +896,7 @@ And:
 If either one of the answers is yes, and it's not just the listener's imagination, then the chat cannot continue. However, a listener should, if possible, offer to chat another time when the member's need for harmful or risky action is over.
 
 Here are some examples:
+
 |                                                       |Likely   |Suicide  |
 |Action                                                 |Fatal    |Intention|
 |Hoarding pills for the purpose of suicide.             |NO       |YES|
@@ -912,7 +913,7 @@ It can be OK to clarify how harmful a member's actions are by asking straight ou
 |Listener:|Is doing that likely to be fatal?|
 {:.chat}
 
-It can be OK to clarify the member's intentions by asking a question like:
+And it can be OK to clarify the member's intentions by asking a question like:
 
 |Listener:|Do you intend to die by doing this?|
 {:.chat}
