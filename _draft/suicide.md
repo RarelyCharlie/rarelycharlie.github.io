@@ -26,14 +26,14 @@ Several of the sections in this guide are shared with the guide to chats about [
 
 *Parts of this guide describe good practice in the opinion of the author, but are not necessarily consistent with other guidance at 7 Cups.*
 
-![decoration](\assets\guide\decow0g.png){:.decow2}
+![decoration](/assets/guide/decow0g.png){:.decow2}
 
 *The comic strip characters are [Mimi and Eunice](http://mimiandeunice.com/)<br/>adapted from originals ♡ CC-BY-SA Nina Paley.*
 {:style="text-align: center;"}
 
 # What this guide is for
 
-![decoration](\assets\guide\decoe6g.png){:.decor}
+![decoration](/assets/guide/decoe6g.png){:.decor}
 
 This guide provides information and guidance for listeners who chat with members about thoughts of suicide, when there is no present real-life emergency. Everywhere this guide uses the word "members", the information also applies to guests.
 
@@ -70,7 +70,7 @@ from [Our Key Values](https://web.archive.org/web/20170710164036/https://www.7cu
 
 However, 7 Cups imposes general limitations on the emotional support its listeners provide. If a member clearly says they are actively harming themselves or someone else, then it is generally agreed at 7 Cups that you cannot continue the chat.
 
-![decoration](\assets\guide\decom6g.png){:.decol style="margin-bottom: 2em;"}
+![decoration](/assets/guide/decom6g.png){:.decol style="margin-bottom: 2em;"}
 
 It is important to be aware that the word "actively" means "taking action". A thought or fantasy is not an action. Planning to take action is not the same as taking action.
 
@@ -110,7 +110,7 @@ After the quiz, the next section is a reminder about caring for yourself and bou
 
 You should think about your personal boundaries, and make decisions in advance about the kinds of chats you are personally willing to take. In particular, decide whether you are personally willing to chat with people who have thoughts of suicide.
 
-![decoration](\assets\guide\decoe4g.png){:.decor}
+![decoration](/assets/guide/decoe4g.png){:.decor}
 
 You have to make this decision in advance, as far as possible, because a chat that starts out being about one subject can very quickly move on to suicide (and also very quickly move on from suicide to something else). You will need to be able to take action to protect yourself immediately there's a change of subject that goes beyond your personal boundaries.
 
@@ -131,7 +131,7 @@ When a chat goes beyond your personal boundaries, consider handing it over to an
 
 If the member does not agree at step 3, tell the member that you have to end the chat, and end the chat.
 
-![decoration](\assets\guide\decom2g.png){:.decol}
+![decoration](/assets/guide/decom2g.png){:.decol}
 
 If you cannot find any other listener at step 5, ask the member to message a suitable listener from the Browse Listeners page. Provide the link: `7cups.com/BrowseListeners` Explain that the page has a More Filters button at the top, which is useful for finding appropriate listeners.
 
@@ -165,7 +165,7 @@ After a chat that oversteps your personal boundaries, consider chatting to a pee
 
 If a chat affects you emotionally, and this in turn affects your real-life relationships or your ability to live your life normally, do not hesitate to switch to your member account and chat with an experienced listener about what happened and how it affected you.
 
-![decoration](\assets\guide\decoe5g.png){:.decor}
+![decoration](/assets/guide/decoe5g.png){:.decor}
 
 If you have a therapist or someone else in the real world you rely on for emotional support, be open with them about the effect volunteering as a listener at 7 Cups has on you, but do not share any details of any chat.
 
@@ -200,7 +200,7 @@ If any of these seem unfamiliar, take a few minutes right now to review the [Act
 
 ### Emotional support
 
-![decoration](\assets\guide\decoe0g.png){:.decor}
+![decoration](/assets/guide/decoe0g.png){:.decor}
 
 The way listeners at 7 Cups provide emotional support is through active listening, allowing people to feel heard. Emotional support has a particular focus on feelings. The goal is to allow people to express their feelings and to know that their feelings have been heard.
 
@@ -446,7 +446,7 @@ Here is a checklist of seven things to do and seven things not to do:
 
 ### Issues
 
-![decoration](\assets\guide\decom7g.png){:.decol}
+![decoration](/assets/guide/decom7g.png){:.decol}
 
 This guide attempts to give clear and consistent guidance about matters that are not always clearly or consistently explained elsewhere at 7 Cups.
 
