@@ -327,6 +327,12 @@ While a member contacts an external resource, offer to keep the chat open, if po
 
 Do not contact external resources yourself on behalf of a member.
 
+### Links to external resources
+
+It can be helpful to use a section of your listener profile to provide links to external resources that you personally know are useful and current. Then anyone who needs eternal help in an emergency or a crisis may be able to find it from your profile without even having to start a chat.
+
+Even if you choose not to include this kind of information in your profile, you can keep useful links and phone numbers in your [Notes](https://www.7cups.com/notes.php) at 7 Cups where you can find them quickly if they are needed. (The link to your notes only works when you are logged in to 7 Cups.)
+
 ### Emergencies
 
 In an actual emergency, when someone has suffered actual harm or is certainly about to suffer actual harm, strongly encourage the member to call their local emergency services.
