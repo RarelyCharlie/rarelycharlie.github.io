@@ -159,6 +159,17 @@ As before, you should think about your personal boundaries in these situations a
 
 These are just examples. Your personal boundaries are your own to decide.
 
+### During a difficult chat
+
+During a chat about a subject you find difficult, it is useful to have thought in advance about the kind of things you want to say. You could keep a list of planned statements in your [Notes](https://www.7cups.com/notes.php) at 7 Cups, so that you can copy and paste them into a chat as appropriate. This is much easier than thinking about what to say at a difficult time.
+
+For example, one of your planned statements might be something like:
+
+||I'm sorry, 7 Cups doesn't allow me to chat while you are taking action that is causing you harm. It's very important that you get medical help now. Message me when the crisis is over, and we can chat then.|
+{:.chat}
+
+As you work through this guide, you could think about the things you might need to say in difficult situations and make a note of how you plan to respond.
+
 ### After a difficult chat
 
 After a chat that oversteps your personal boundaries, consider chatting to a peer supporter or a mentor about your own feelings. This is particularly important if your feelings persist or if you find yourself thinking about the chat long afterwards.
