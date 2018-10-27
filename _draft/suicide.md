@@ -905,10 +905,10 @@ If either one of the answers is yes, and it's not just the listener's imaginatio
 
 Here are some examples:
 
-|                                                       |Likely   |Suicide  |
-|Action                                                 |Fatal    |Intention|
+|                                                       |**Likely**   |**Suicide**  |
+|**Action**                                                 |**Fatal**    |**Intention**|
 |Hoarding pills for the purpose of suicide.             |NO       |YES|
-|Simply kKnowing where a rope is kept.                  |NO       |NO|
+|Simply knowing where a rope is kept.                  |NO       |NO|
 |Making many small cuts on both arms.                   |NO       |NO|
 |Swallowing two sleeping tablets, hoping to sleep well. |NO       |NO|
 |Swallowing 200 sleeping tablets, hoping never to wake. |YES      |YES|
