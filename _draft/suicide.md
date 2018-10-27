@@ -372,7 +372,7 @@ Be aware that some suicide hotlines do not always provide help by themselves, bu
 
 In some places there are alternatives to hotlines known as warmlines, and a few warmlines may be accessible internationally. Warmlines generally help people to avoid bad experiences with medical services. They can be particularly appropriate for members who do not want to call a hotline. Some warmlines guarantee as a matter of policy that they will never call out medical services without consent. For more information, [warmline.org](http://warmline.org/) is a good starting point.
 
-After you have ended the chat there is normally no need to block the member. They may soon be in a position to chat to you again. Remember to offer to chat again so that the member knows they have not been abandoned by 7 Cups. 
+After you have ended the chat there is normally no need to block the member. They may soon be in a position to chat to you again. Remember to make a clear offer to chat again so that the member definitely knows they have not been abandoned by 7 Cups. 
 
 - Mark each statement true or false:
 - Listeners have no way of knowing about local support services and resources available to members.#Members are best placed to know know their own local services and resources.
