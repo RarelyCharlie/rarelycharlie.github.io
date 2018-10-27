@@ -282,7 +282,9 @@ As a listener, that "Exactly" is what you are aiming for—a member who feels un
 
 Social isolation has been identified as another significant factor in suicide risk.
 
-Listeners can provide essential social connection for people who have become isolated. Long-term support from a listener is particularly valuable, and participation in 7 Cups' communities is also valuable in this context. When a member speaks of "my listeners" it indicates the kind of strong feeling of connection that can give isolated people the confidence to make real-life social connections. 
+Listeners can provide essential social connection for people who have become isolated. Long-term support from a listener is particularly valuable, and participation in 7 Cups' communities is also valuable in this context. When a member speaks of "my listeners" it indicates the kind of strong feeling of connection that can give isolated people the confidence to make real-life social connections.
+
+It's very important for listeners not to increase vulnerable members' feelings of isolation by abandoning them. If you have to end a chat, offer to chat another time if at all possible. If you have to refer a member to another listener or to an external resource, stay with the member until contact is made and the referral is complete.
 
 ### Treatments
 
@@ -358,6 +360,8 @@ Do not call emergency services yourself.
 
 Do not tell the member what number to call, because different places have different numbers, and you cannot know the member's current location with absolute certainty. The international emergency number is 112, in theory, but there are many places where it doesn't work on all phones.
 
+Remember that an emergency is a temporary crisis, and after the crisis is over the member will still need emotional support. Offer to chat again when the emergency is over, if at all possible.
+
 ### Actively suicidal members
 
 When a member is taking action intended to result in suicide, but there is no actual emergency yet, strongly encourage the member to call a local suicide hotline. Then end the chat. 7 Cups does not permit listeners to continue chatting to members who are actively suicidal.
@@ -368,7 +372,7 @@ Be aware that some suicide hotlines do not always provide help by themselves, bu
 
 In some places there are alternatives to hotlines known as warmlines, and a few warmlines may be accessible internationally. Warmlines generally help people to avoid bad experiences with medical services. They can be particularly appropriate for members who do not want to call a hotline. Some warmlines guarantee as a matter of policy that they will never call out medical services without consent. For more information, [warmline.org](http://warmline.org/) is a good starting point.
 
-After you have ended the chat there is normally no need to block the member. They may soon be in a position to chat to you again. 
+After you have ended the chat there is normally no need to block the member. They may soon be in a position to chat to you again. Remember to offer to chat again so that the member knows they have not been abandoned by 7 Cups. 
 
 - Mark each statement true or false:
 - Listeners have no way of knowing about local support services and resources available to members.#Members are best placed to know know their own local services and resources.
@@ -445,7 +449,7 @@ Equally, the censor is sometimes triggered by messages that seem harmless. For e
 
 # Do's, dont's and issues
 
-Here is a checklist of seven things to do and seven things not to do:
+Here is a checklist of eight things to do and eight things not to do:
 
 ### Do's
 
@@ -453,6 +457,7 @@ Here is a checklist of seven things to do and seven things not to do:
 - Do establish your boundaries in advance.
 - Do refer a member to another listener immediately you need to.
 - Do reflect members' feelings accurately.
+- Do have absolute respect for members' own judgment about their situation.
 - Do distinguish accurately between thoughts (including plans) and actions.
 - Do provide links to external resources when members agree they want them.
 - Do immediately refer any chat about actual harm in the present, and end the chat.
@@ -460,11 +465,12 @@ Here is a checklist of seven things to do and seven things not to do:
 ### Dont's
 
 - Don't give advice, or anything that could be mistaken for advice.
-- Don't make positive or negative judgments.
 - Don't refer members without their consent.
+- Don't abandon members, not even when referring them to someone else.
 - Don't share details of any chat with anyone for any reason.
 - Don't sneak anything from your own imagination into a member's chat.
 - Don't diagnose medical disorders, or challenge existing diagnoses.
+- Don't imagine you can assess a member's risk of suicide.
 - Don't imagine you can always distinguish facts from fantasies. 
 
 ### Issues
