@@ -505,7 +505,7 @@ That's the end of Part I of this guide. After the quiz, there is an introduction
 # Part II
 {:.part}
 
-This part of the guide contains examples that some listeners may find triggering. It is OK to skip straight to the conclusion.
+This part of the guide contains examples that some listeners may find triggering. To skip to the end of the guide, where there are some links to further reading, click here: <a href="#" onclick="showme(Infinity)">Skip to Conclusion</a>
 
 The next section discusses the reasons why people say they are suicidal.
 
