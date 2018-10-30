@@ -370,6 +370,12 @@ Do not tell the member what number to call, because different places have differ
 
 Be aware that some suicide hotlines do not always provide help by themselves, but instead they refer people to medical services. Some members may have had bad experiences with medical services in the past, making them unwilling to call a suicide hotline. Bad experiences might include forcible restraint, detention in hospital, or forcible administration of drugs. Ensure that member's previous bad experiences with medical services are heard and understood without judgment.
 
+One critic of the US national Suicide Hotline summarizes her opinion of it like this:
+
+> Despite the growing capacity of warm lines and other alternatives, the national suicide hotline is still the most recommended resource out there. Maybe people don’t know how ineffective and damaging it actually is.
+
+(From: [Suicide Hotlines, Risk Assessment and Rights: Whose Safety Matters?](https://www.madinamerica.com/2018/10/national-suicide-hotline-whose-safety-matters/))
+
 In some places there are alternatives to hotlines known as warmlines, and a few warmlines may be accessible internationally. Warmlines generally help people to avoid bad experiences with medical services. They can be particularly appropriate for members who do not want to call a hotline. Some warmlines guarantee as a matter of policy that they will never call out medical services without consent. For more information, [warmline.org](http://warmline.org/) is a good starting point.
 
 After you have ended the chat there is normally no need to block the member. They may soon be in a position to chat to you again. Remember to make a clear offer to chat again so that the member definitely knows they have not been abandoned by 7 Cups. 
