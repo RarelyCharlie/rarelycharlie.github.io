@@ -524,7 +524,7 @@ div.box {display: inline-block; position: relative;
 	border: 3.2px solid #000; border-radius: 16px; height: 72px; width: 140px; margin: 2px; padding: 16px;}
 div.spaced .box {margin: 4px 40px;}
 div.egg.box {border-radius: 50%; padding: 32px; top: 16px; font-style: italic; font-weight: bold;}
-div.box p {display: block; position: absolute; top: 50%; transform: translateY(-50%); width: 150px;
+div.box p {display: block; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 150px;
 	line-height: 24px; text-align: center; margin: 0; padding: 0;}
 .orange {background: #fdc;}
 .pink {background: #fcd;}
