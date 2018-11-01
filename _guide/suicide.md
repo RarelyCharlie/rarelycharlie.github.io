@@ -163,8 +163,7 @@ During a chat about a subject you find difficult, it is useful to have thought i
 
 For example, one of your planned statements might be something like:
 
-||I'm sorry, 7 Cups doesn't allow me to chat while you are taking action that is causing you harm. It's very important that you get medical help now. Message me when the crisis is over, and we can chat then.|
-{:.chat}
+> I'm sorry, 7 Cups doesn't allow me to chat while you are taking action that is causing you harm. It's very important that you get medical help now. Message me when the crisis is over, and we can chat then.
 
 As you work through this guide, you could think about the things you might need to say in difficult situations and make a note of how you plan to respond.
 
