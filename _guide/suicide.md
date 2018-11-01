@@ -1069,8 +1069,8 @@ Here are some links to further reading. Most of these links appear in the guide 
 
 ### Discussion and feedback
 
-To discuss issues raised by this guide, you can start a forum thread or contribute to [this one](https://www.7cups.com/forum/KitchenTable_133/SuggestionsandProblemSolving_383/putsuicidehotlineinfoonmainpage_171164/).
+To discuss issues raised by this guide, please start a forum thread or contribute to [this existing thread](https://www.7cups.com/forum/KitchenTable_133/SuggestionsandProblemSolving_383/putsuicidehotlineinfoonmainpage_171164/).
 
-To provide feedback to the author, message [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).
+To provide feedback to the author, please message [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).
 
-![](https://cdn.ckeditor.com/4.5.7/full-all/plugins/smiley/images/lightbulb.png) *Hat-tip* to listener [@jennysunrise8](https://www.7cups.com/@jennysunrise8) for providing inspiration for this guide and for reviewing the first draft.
+|![](https://cdn.ckeditor.com/4.5.7/full-all/plugins/smiley/images/lightbulb.png)|*Hat-tip* to listener [@jennysunrise8](https://www.7cups.com/@jennysunrise8) for providing inspiration for this guide and for reviewing the first draft.|
