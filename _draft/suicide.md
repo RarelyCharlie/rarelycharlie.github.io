@@ -368,6 +368,10 @@ When a member is taking action intended to result in suicide, but there is no ac
 
 Do not tell the member what number to call, because different places have different numbers, and you cannot know the member's current location with absolute certainty.
 
+After you have ended the chat there is normally no need to block the member. They may soon be in a position to chat to you again. Remember to make a clear offer to chat again so that the member definitely knows they have not been abandoned by 7 Cups.
+
+### Issues with external resources
+
 Be aware that some suicide hotlines do not always provide help by themselves, but instead they refer people to medical services. Some members may have had bad experiences with medical services in the past, making them unwilling to call a suicide hotline. Bad experiences might include forcible restraint, detention in hospital, or forcible administration of drugs. Ensure that member's previous bad experiences with medical services are heard and understood without judgment.
 
 One critic of the US national Suicide Hotline summarizes her opinion of it like this:
@@ -376,9 +380,15 @@ One critic of the US national Suicide Hotline summarizes her opinion of it like 
 
 (From: [Suicide Hotlines, Risk Assessment and Rights: Whose Safety Matters?](https://www.madinamerica.com/2018/10/national-suicide-hotline-whose-safety-matters/))
 
-In some places there are alternatives to hotlines known as warmlines, and a few warmlines may be accessible internationally. Warmlines generally help people to avoid bad experiences with medical services. They can be particularly appropriate for members who do not want to call a hotline. Some warmlines guarantee as a matter of policy that they will never call out medical services without consent. For more information, [warmline.org](http://warmline.org/) is a good starting point.
+The situation is not all bad. In some places there are alternatives to hotlines known as warmlines, and a few warmlines may be accessible internationally. Warmlines generally help people to avoid bad experiences with medical services. They can be particularly appropriate for members who do not want to call a hotline. Some warmlines guarantee as a matter of policy that they will never call out medical services without consent. For more information, [warmline.org](http://warmline.org/) is a good starting point.
 
-After you have ended the chat there is normally no need to block the member. They may soon be in a position to chat to you again. Remember to make a clear offer to chat again so that the member definitely knows they have not been abandoned by 7 Cups. 
+In some places, too, there are very successful programs for preventing suicide. Many of them are based on pioneering work at the [Henry Ford Health System](https://www.henryford.com/), a non-profit based in Detroit, Michigan. Here's a 6-minute video advertisement:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gCvNnIO-shE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In the video, a patient explains:
+
+> I am among the living because of the overwhelming, complete, comprehensive care and support that I have received...from the beginning, all the way to today. There's nothing that compares with the type of help I've gotten here.
 
 - Mark each statement true or false:
 - Listeners have no way of knowing about local support services and resources available to members.#Members are best placed to know know their own local services and resources.
@@ -1044,6 +1054,7 @@ Here are some links to further reading. Most of these links appear in the guide 
 - [Deadly Serious: Talking Openly About Suicide](https://www.madinamerica.com/2018/08/deadly-serious-talking-openly-suicide/)
 - [Redwood City 24-Hour Emergency Lines](https://www.redwoodcity.org/departments/parks-recreation-and-community-services/child-care/family-resources-guide)
 - [warmline.org](http://warmline.org/)
+- [Zero Suicides from Depression](https://youtu.be/gCvNnIO-shE) (video)
 - [Suicide Reasons and Meanings diagrams](http://www.westernmassrlc.org/images/stories/suicide_reasons_and_meaningss.pdf)
 - [Western Massachusetts Recovery Learning Community](http://www.westernmassrlc.org/)
 - [Overcoming the Stigma of Suicide](https://www.suicidepreventionaust.org/sites/default/files/resources/2016/SPA-Overcoming-the-Stigma-Of-Suicide-Position-Statement%5B1%5D.pdf)
