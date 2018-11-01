@@ -147,11 +147,19 @@ Withdrawing your emotional support in a time of crisis for a member who has come
 
 As before, you should think about your personal boundaries in these situations and make decisions in advance, as far as possible. You could express your decisions in the form of a written statement, the way these fictitious listeners have done:
 
+*Example 1:*
+
 > I am listener @Example1. I do not feel able to chat to members about suicide because I find the idea so upsetting. If a member mentions suicide, I find another listener to take the chat. I do this even if the member is my long-term sponsee.
+
+*Example 2:*
 
 > I am listener @Example2. I do not normally feel able to chat to members about suicide because I find the idea so upsetting. If a member mentions suicide, I find another listener to take the chat. But if the member is someone I have come to know very well, I am willing to chat about suicide even though I will be upset. Being there for them is more important to me than my own distress. If they are taking action that will cause harm, however, I do end the chat because 7 Cups cannot provide support in that situation.
 
+*Example 3:*
+
 > I am listener @Example3. I am willing to chat about suicide as long as the member is not currently taking action that could cause them harm. If the member is my long-term sponsee, it makes no difference.
+
+*Example 4:*
 
 > I am listener @Example4. I am willing to chat about suicide. In most cases this is only as long as the member is not currently taking action that could cause them harm. But if the member is someone I have come to know very well, I am willing to continue supporting them even if they say they are taking action to attempt suicide. This is because I am not willing to abandon someone who relies on me just because they are in a crisis. I know this goes against 7 Cups' rules, but a person's life is more important to me than any website's rules. I am willing to be banned from 7 Cups rather than risk someone's life.
 
