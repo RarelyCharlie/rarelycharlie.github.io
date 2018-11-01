@@ -6,8 +6,6 @@ feedback: https://www.7cups.com/@RarelyCharlie
 # Part I
 {:.part}
 
-*Draft listener training guide on chats involving non-emergency suicidal thoughts.*
-
 General information for all listeners.
 
 This guide is an unofficial training guide for listeners about chats involving non-emergency suicidal thoughts. It is not a self-help guide for members. If you are not a listener you can still read this guide, but becoming a listener first is recommended as a starting point.
