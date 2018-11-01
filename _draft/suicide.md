@@ -1048,7 +1048,7 @@ Here are some links to further reading. Most of these links appear in the guide 
 - [7 Cups: Our Mission](https://www.7cups.com/forum/GlensNook_84/OurVisionforaBetterWorld_334/OurMission_18219/1/)
 - [7 Cups: Active Listening guide](https://www.7cups.com/listener/training/) 
 - [Harm: guide for listeners](https://rarelycharlie.github.io/guide/harm)
-- [Are We Any Closer to Predicting Suicide?](https://pro.psychcentral.com/are-we-any-closer-to-predicting-suicide/).)
+- [Are We Any Closer to Predicting Suicide?](https://pro.psychcentral.com/are-we-any-closer-to-predicting-suicide/)
 - [Antidepressants Save People From Suicide, Right?](https://www.madinamerica.com/2018/01/antidepressants-save-people-suicide-right/)
 - [Risk of Suicide After Hospitalization Even Higher Than Previously Estimated](https://www.madinamerica.com/2017/06/risk-suicide-hospitalization-even-higher-previously-estimated/)
 - [Deadly Serious: Talking Openly About Suicide](https://www.madinamerica.com/2018/08/deadly-serious-talking-openly-suicide/)
