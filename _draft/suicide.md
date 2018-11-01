@@ -328,6 +328,8 @@ It is sometimes appropriate to provide a member with a link to a resource outsid
 
 The best way for this to happen is if they can search the Internet themselves for a helpline or website that is local to them and specific to their needs. There are thousands of services globally, and no central directory other than Internet search.
 
+![decoration](/assets/guide/decoe7g.png){:.decor}
+
 Listeners are not required to provide Internet search services to members, no matter what the circumstances are.
 
 Do not provide any external resource link to a member unless they have clearly indicated their need for it. In particular, do not provide a resource link based on something you yourself said to the member earlier in the chat, or something in your imagination.
