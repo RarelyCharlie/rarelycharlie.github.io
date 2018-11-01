@@ -961,6 +961,7 @@ Here are some examples:
 |Cutting an artery.                                     |YES      |YES|
 |Driving very fast because it's fun.                    |YES      |NO|
 |Driving very fast hoping to crash and die.             |YES      |YES|
+{:style="margin-bottom: 1em;"}
 
 It can be OK to clarify how harmful a member's actions are by asking straight out:
 
