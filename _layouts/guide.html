@@ -112,6 +112,40 @@ ul.references {list-style-type: none;}
 #toc p.part {margin-left: 0;}
 </style>
 <script>
+PageTurn = {
+	init: function () {
+		$('head').append('<style>'
+		 + '#pagenav {color: white; margin: 0 auto; width: 200px; text-align: center;}'
+		 + '#pagenav button {display: inline-block; margin: 2px 20px; border: none; padding: 2px 0 0 0; '
+		 +   'box-shadow: none; background: transparent; border-radius: 50%; width: 22px; height: 22px;}'
+		 + '#pagenav button:hover {background: #4df;}'
+		 + '#pagenav button[disabled] {cursor: default;}'
+		 + '#pagenav button[disabled]:hover {background: transparent;}'
+		 + '</style>')
+
+		$('#footer').append('<div id="pagenav">'
+		 + '<button id="pagenav-b"><i class="fa fa-chevron-left"></i></button>'
+		 + '<button id="pagenav-f"><i class="fa fa-chevron-right"></i></button>'
+		 + '</div>')
+		.on('click', 'button', function () {
+			var id = this.id
+			if (!id) return
+			if (id == 'pagenav-b') showme(parseInt(section) - 1)
+			else if (id == 'pagenav-f') showme(parseInt(section) + 1)
+			$('#' + id)[0].blur()
+			})
+
+		setTimeout(this.update, 0)
+		},
+
+	update: function () {
+		var ok = section > 0, h1s = $('#content h1')
+		$('#pagenav-b').prop('disabled', !ok).attr('title', ok? h1s.eq(parseInt(section) - 1).text() : '')
+		ok = section < Persist.section && section < h1s.length - 1
+		$('#pagenav-f').prop('disabled', !ok).attr('title', ok? h1s.eq(parseInt(section) + 1).text() : '')
+		}
+	}
+
 Crumbs = {
 	init: function () {
 		var s = '<style>'
@@ -226,6 +260,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	Persist.init()
 	if (location.search == '?reset') Persist.reset()
 	Crumbs.init()
+	PageTurn.init()
 	
 	ToC.init()
 	ToC.show()
@@ -324,6 +359,7 @@ score = function () {
 	with ($('#next button').get(0)) focus(), scrollIntoView({behavior: "smooth", block: "start" })
 	++Persist[ok? "section" : "retry"]
 	Persist.save()
+	PageTurn.update()
 	}
 
 showme = function (s) { // show a section...
@@ -344,6 +380,7 @@ showme = function (s) { // show a section...
 	h1.show()
 	h1.nextUntil('h1').not('style, .quiz').show()
 	machinery()
+	PageTurn.update()
 	setTimeout(pagetop, 0)
 	setTimeout(function () {$('#content').show()}, 200)
 	}
