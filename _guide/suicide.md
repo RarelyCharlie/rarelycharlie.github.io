@@ -1062,6 +1062,7 @@ Here are some links to further reading. Most of these links appear in the guide 
 - [Harm: guide for listeners](https://rarelycharlie.github.io/guide/harm)
 - [Are We Any Closer to Predicting Suicide?](https://pro.psychcentral.com/are-we-any-closer-to-predicting-suicide/)
 - [Antidepressants Save People From Suicide, Right?](https://www.madinamerica.com/2018/01/antidepressants-save-people-suicide-right/)
+- [The Goetzsche Affair](https://davidhealy.org/the-goetzsche-affair/) (medications)
 - [Risk of Suicide After Hospitalization Even Higher Than Previously Estimated](https://www.madinamerica.com/2017/06/risk-suicide-hospitalization-even-higher-previously-estimated/)
 - [Deadly Serious: Talking Openly About Suicide](https://www.madinamerica.com/2018/08/deadly-serious-talking-openly-suicide/)
 - [Redwood City 24-Hour Emergency Lines](https://www.redwoodcity.org/departments/parks-recreation-and-community-services/child-care/family-resources-guide)
