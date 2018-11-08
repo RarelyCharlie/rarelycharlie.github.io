@@ -174,7 +174,10 @@ Taglist = {
 			$('#open-spin').hide()
 			if (data.list) data.list = data.list.filter(t => t.trim() != '')
 			if (data.list && data.list.length) {
-				data.list.sort()
+				data.list.sort(function (a, b) {
+					a = a.toLowerCase(), b = b.toLowerCase()
+					return a == b? 0 : (a < b? -1 : 1)
+					})
 				t.text(data.list.map(t => '@' + t).join(' '))
 				 .removeClass('empty')
 				t[0].style.height = t[0].parentNode.style.height = (t[0].scrollHeight - 10) + 'px'
