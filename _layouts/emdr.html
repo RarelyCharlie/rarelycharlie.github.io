@@ -82,12 +82,13 @@ a[href]:hover {text-decoration: underline;}
 <div id="settings">
 
 <div id="allow-remote">
-<h4>Pairing</h4>
+<h4>Pairing:
 <div id="mode-radio" onchange="Remote.setmode(event.target.value)">
 <label for="mode-single"><input name="mode" id="mode-single" type="radio" value="0" checked> None</label>
 <label for="mode-client"><input name="mode" id="mode-client" type="radio" value="1"> Client</label>
 <label for="mode-therapist"><input name="mode" id="mode-therapist" type="radio" value="2"> Therapist</label>
 </div>
+</h4>
 <label for="pin" class="disabled">Session PIN:
 <input id="pin" disabled onkeyup="Remote.setpin(this.value)">
 <i id="connect-wait" class="fa fa-spin fa-spinner hidden"></i>
