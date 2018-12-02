@@ -254,8 +254,8 @@ Light = {
 
 	flash: function (left) {
 		var s = UI.light.style
-		s.left = left? '0' : 'auto'
-		s.right = left? 'auto' : '0'
+		s.left = left? '2px' : 'auto'
+		s.right = left? 'auto' : '2px'
 		s.transitionDuration = '0ms'
 		s.opacity = '1'
 		setTimeout(() => {
