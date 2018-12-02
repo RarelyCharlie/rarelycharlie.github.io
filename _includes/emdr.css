@@ -67,7 +67,7 @@ div.disabled, label.disabled {opacity: .4;}
 #client-connected {position: static;}
 #pin {display: inline-block; width: 4.75ch; background: #fff; letter-spacing: .15ex; padding: 1px 0 1px 1px;
 	border: 1px solid #444;}
-#pin:disabled {background: #ebebe4;}
+#pin:disabled {background: #ebebe4; border: 1px solid transparent;}
 #pin:read-only {border: 1px solid transparent; background: transparent;}
 #pin:-moz-read-only {border: 1px solid transparent; background: transparent;}
 #therapist-pin {letter-spacing: .15ex;}
