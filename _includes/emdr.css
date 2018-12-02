@@ -1,7 +1,7 @@
 body, body * {font-family: Raleway, sans-serif; font-size: 1.2vw; background: transparent; font-weight: 500;}
 #container {width: 400px; margin: 0 auto; padding-top: 8px;}
 h2 {text-align: center; font-size: 24px; letter-spacing: .1em; color: #456; opacity: .8; margin: 0;}
-h4 {font-size: inherit; font-weight: 600; letter-spacing: .5px; margin: 0 0 1ex 0; padding: 0;}
+h4 {font-size: inherit; font-weight: 600; letter-spacing: .5px; margin: 0; padding: 0;}
 hr {margin: 1.5ex 0 .5ex 0; border-color: #ada;}
 #status {text-align: center; font-size: 12px; letter-spacing: .1em; color: #456; opacity: .8;
 	margin: 0 0 1em 0; line-height: 12px; height: 12px;}
@@ -40,9 +40,8 @@ p {margin: 0;}
 #full {position: absolute; right: 0;}
 #full.down {color: #0cf;}
 
-input[type=range] {display: block; width: 100%; margin: 0 0 1ex 0;}
+input[type=range] {display: block; width: 100%; margin: 0;}
 input[type=checkbox], input[type=radio] {position: relative; top: 2px;}
-
 
 #settings-tab {border: 1px solid #456; border-bottom: 0; border-radius: 5px 5px 0 0; padding: 2px;
 	width: 12ch; position: relative; z-index: 2; background: #8ab;}
