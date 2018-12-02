@@ -5,7 +5,7 @@ h4 {font-size: inherit; font-weight: 600; letter-spacing: .5px; margin: 0 0 1ex 
 hr {margin: 1.5ex 0 .5ex 0; border-color: #ada;}
 #status {text-align: center; font-size: 12px; letter-spacing: .1em; color: #644; opacity: .8;
 	margin: 0 0 1em 0; line-height: 12px; height: 12px;}
-#lightbox {border: 1px solid #644; margin: 0 0 1em 0; background: #8b8;}
+#lightbox {border: 1px solid #644; margin: 0 0 1em 0; background: #8ab;}
 :fullscreen {cursor: none;}
 :-ms-fullscreen {cursor: none;}
 :-moz-full-screen {cursor: none;}
@@ -34,8 +34,8 @@ p {margin: 0;}
 
 #onoff {margin: 0 0 1em 0; position: relative;}
 #onoff button {padding: 4px; width: 2em; height: 2em; border: 2px outset #ccc; border-radius: 4px;
-	background: #9c9;}
-#onoff button.down {background: #7a7; border-style: inset; color: #0cf;}
+	background: #9bc;}
+#onoff button.down {background: #79a; border-style: inset; color: #0cf;}
 #onoff button:disabled {background: #d5c7ac;}
 #full {position: absolute; right: 0;}
 #full.down {color: #0cf;}
@@ -45,8 +45,8 @@ input[type=checkbox], input[type=radio] {position: relative; top: 2px;}
 
 
 #settings-tab {border: 1px solid #644; border-bottom: 0; border-radius: 5px 5px 0 0; padding: 2px;
-	width: 12ch; position: relative; z-index: 2; background: #8b8;}
-#settings-tab.open {border-bottom: 1px solid #8b8;}
+	width: 12ch; position: relative; z-index: 2; background: #8ab;}
+#settings-tab.open {border-bottom: 1px solid #8ab;}
 #settings-tab.open .fa-cog {color: #0cf;}
 #settings-button {background: transparent; margin: 0; padding: .2ex; font-size: inherit;
 	font-weight: 600; letter-spacing: .5px; width: 100%; text-align: left;
@@ -54,7 +54,7 @@ input[type=checkbox], input[type=radio] {position: relative; top: 2px;}
 #settings-button i:last-child {float: right;}
 
 #settings {margin: -1px -8px -8px -8px; border: 1px solid #644; overflow: hidden;
-	height: 0; padding: 0 16px; z-index: 0; background: #8b8;
+	height: 0; padding: 0 16px; z-index: 0; background: #8ab;
 	transition: height .35s, padding .35s;}
 label {display: block; position: relative; width: 100%;}
 label>span {position: absolute; right: 0;}
