@@ -1,0 +1,82 @@
+body, body * {font-family: Raleway, sans-serif; font-size: 1.2vw; background: transparent; font-weight: 500;}
+#container {width: 400px; margin: 0 auto; padding-top: 8px;}
+h2 {text-align: center; font-size: 24px; letter-spacing: .1em; color: #644; opacity: .8; margin: 0;}
+h4 {font-size: inherit; font-weight: 600; letter-spacing: .5px; margin: 0 0 1ex 0; padding: 0;}
+hr {margin: 1.5ex 0 .5ex 0; border-color: #ada;}
+#status {text-align: center; font-size: 12px; letter-spacing: .1em; color: #644; opacity: .8;
+	margin: 0 0 1em 0; line-height: 12px; height: 12px;}
+#lightbox {border: 1px solid #644; margin: 0 0 1em 0; background: #8b8;}
+:fullscreen {cursor: none;}
+:-ms-fullscreen {cursor: none;}
+:-moz-full-screen {cursor: none;}
+:-webkit-full-screen {cursor: none;}
+:fullscreen button {display: none;}
+:-ms-fullscreen button {display: none;}
+:-moz-full-screen button {display: none;}
+:-webkit-full-screen button {display: none;}
+#lights {width: 400px; height: 44px; position: relative;}
+#light {
+	width: 40px; height: 40px; background-color: hsl(196, 100%, 63%); border-radius: 50%; margin: 0 2px;
+	box-shadow: 0 0 2px 2px  hsl(196, 100%, 63%); opacity: 0; transition: opacity 800ms ease-out;
+	position: absolute; right: 0;
+	top: 50%;
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	}
+#control {font-size: 20px; margin: 0 auto; padding: 0 2px;
+	border: none; background: transparent;
+	position: absolute; z-index: 1;
+	top: 50%; left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	}
+p {margin: 0;}
+
+#onoff {margin: 0 0 1em 0; position: relative;}
+#onoff button {padding: 4px; width: 2em; height: 2em; border: 2px outset #ccc; border-radius: 4px;
+	background: #9c9;}
+#onoff button.down {background: #7a7; border-style: inset; color: #0cf;}
+#onoff button:disabled {background: #d5c7ac;}
+#full {position: absolute; right: 0;}
+#full.down {color: #0cf;}
+
+input[type=range] {display: block; width: 100%; margin: 0 0 1ex 0;}
+input[type=checkbox], input[type=radio] {position: relative; top: 2px;}
+
+
+#settings-tab {border: 1px solid #644; border-bottom: 0; border-radius: 5px 5px 0 0; padding: 2px;
+	width: 12ch; position: relative; z-index: 2; background: #8b8;}
+#settings-tab.open {border-bottom: 1px solid #8b8;}
+#settings-button {background: transparent; margin: 0; padding: .2ex; font-size: inherit;
+	font-weight: 600; letter-spacing: .5px; width: 100%; text-align: left;
+	border: none; z-index: 2}
+#settings-button i:last-child {float: right;}
+
+#settings {margin: -1px -8px -8px -8px; border: 1px solid #644; overflow: hidden;
+	height: 0; padding: 0 16px; z-index: 0; background: #8b8;
+	transition: height .35s, padding .35s;}
+label {display: block; position: relative; width: 100%;}
+label>span {position: absolute; right: 0;}
+[for=mute] {margin: -1ex 0 1ex 0;}
+[for^=mode] {display: inline-block; width: auto; margin-left: 1ex;}
+#allow-remote {display: none;}
+#remote-settings {margin: 1ex 0 0 1.75em;}
+#remote-settings p, #remote-settings button {margin-top: 1ex;}
+div.disabled, label.disabled {opacity: .4;}
+#mode-radio {margin: 0 0 1ex 0;}
+#client-connected {position: static;}
+#pin {display: inline-block; width: 4.75ch; background: #fff; letter-spacing: .15ex; padding: 1px 0 1px 1px;
+	border: 1px solid #444;}
+#pin:disabled {background: #ebebe4;}
+#pin:read-only {border: 1px solid transparent; background: transparent;}
+#pin:-moz-read-only {border: 1px solid transparent; background: transparent;}
+#therapist-pin {letter-spacing: .15ex;}
+.hidden {display: none;}
+.fa-check {color: #0c6;}
+#start {background: #4e8;}
+#hueValue {display: inline-block; width: 4ch; height: 1em; background-color: hsl(196, 100%, 63%);
+	text-align: right; padding: 0 2px 2px 0; position: relative; top: -1px;}
+#pin-settings {position: relative;}
+#alert {height: 1.2em; color: #a00;}
+.fa-exclamation-triangle {display: inline-block; margin-right: .5ex; color: orange; text-shadow: 1px 1px 2px #aaa;}
+#help, #help a {text-align: right; font-size: 85%;}
