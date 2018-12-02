@@ -47,6 +47,7 @@ input[type=checkbox], input[type=radio] {position: relative; top: 2px;}
 #settings-tab {border: 1px solid #644; border-bottom: 0; border-radius: 5px 5px 0 0; padding: 2px;
 	width: 12ch; position: relative; z-index: 2; background: #8b8;}
 #settings-tab.open {border-bottom: 1px solid #8b8;}
+#settings-tab.open .fa-cog {color: #0cf;}
 #settings-button {background: transparent; margin: 0; padding: .2ex; font-size: inherit;
 	font-weight: 600; letter-spacing: .5px; width: 100%; text-align: left;
 	border: none; z-index: 2}
