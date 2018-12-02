@@ -74,7 +74,7 @@ div.disabled, label.disabled {opacity: .4;}
 .hidden {display: none;}
 .fa-check {color: #0c6;}
 #start {background: #4e8;}
-#hueValue {display: inline-block; width: 4ch; height: 1em; background-color: hsl(196, 100%, 63%);
+#hueValue {display: inline-block; width: 4ch; height: 1.5em; background-color: hsl(196, 100%, 63%);
 	text-align: right; padding: 0 2px 2px 0; position: relative; top: -1px;}
 #pin-settings {position: relative;}
 #alert {height: 1.2em; color: #a00;}
