@@ -43,7 +43,7 @@ p {margin: 0;}
 input[type=range] {display: block; width: 100%; margin: 0;}
 input[type=checkbox], input[type=radio] {position: relative; top: 2px;}
 
-#settings-tab {border: 1px solid #456; border-radius: 5px 5px 0 0; padding: 2px;
+#settings-tab {border: 1px solid #456; border-radius: 5px 5px 0 0; padding: 2px 2px 0 2px;
 	width: 12ch; position: relative; z-index: 2; background: #8ab;}
 #settings-tab.open {border-bottom: 1px solid #8ab;}
 #settings-tab.open .fa-cog {color: #0cf;}
