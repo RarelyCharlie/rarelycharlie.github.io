@@ -254,7 +254,7 @@ Light = {
 
 	flash: function (left) {
 		var s = UI.light.style
-		s.left = left? '2px' : 'auto'
+		s.left = left? '0' : 'auto'
 		s.right = left? 'auto' : '2px'
 		s.transitionDuration = '0ms'
 		s.opacity = '1'
@@ -267,7 +267,7 @@ Light = {
 	}
 
 Remote = {
-	url: 'http://192.168.1.85:5000/emdr/',
+	url: '', // remote disabled
 	mode: 0, // 0 = local, 1 = client, 2 = therapist
 	id: '', // ID of this browser
 	pin: '',
