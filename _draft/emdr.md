@@ -4,140 +4,63 @@ title: EMDR
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 <style>
-body {font-family: sans-serif;}
-#container {width: 400px; margin: 0 auto; padding-top: 40px;}
-#lightbox {border: 1px solid #ddd; margin: 0 0 1em 0;}
-#lights {width: 400px; height: 40px; position: relative;}
-#light {
-	width: 36px; height: 36px; background: #4cf; border-radius: 50%; margin: 0 2px;
-	box-shadow: 0 0 2px 2px #4cf; opacity: 0; transition: opacity 800ms ease-out;
-	position: absolute; right: 0;
-	top: 50%;
-	-ms-transform: translateY(-50%);
-	transform: translateY(-50%);
-	}
-p {margin: 0;}
-input[type=range] {width: 400px; display: block; margin: 0 0 1em 0;}
+{% include emdr.css %}}
 </style>
 <script>
-Light = {
-	flash: function (left) {
-		var s = document.getElementById('light').style
-		s.left = left? '0' : 'auto'
-		s.right = left? 'auto' : '0'
-		s.transitionDuration = '0ms'
-		s.opacity = '1'
-		setTimeout(() => {
-			s.transitionDuration = '800ms'
-			s.opacity = '0'
-			}, 200)
-		}
-	}
-
-Pinger = {
-	init: function () {
-		AudioContext = AudioContext || webkitAudioContext
-    	this.ctx = new AudioContext()
-    	
-    	this.oscL = this.ctx.createOscillator()
-    	this.oscL.frequency.value = 580
-    	this.oscL.start(0)
-
-    	this.oscR = this.ctx.createOscillator()
-    	this.oscR.frequency.value = 580
-    	this.oscR.start(0)
-    
-    	this.volL = this.ctx.createGain()
-		  this.volL.gain.value = 0
-		
-    	this.volR = this.ctx.createGain()
-		  this.volR.gain.value = 0
-    	
-    	this.panL = this.ctx.createStereoPanner()
-    	this.panL.pan.value = -1
-    	this.panR = this.ctx.createStereoPanner()
-    	this.panR.pan.value = 1
-
-		  this.volM = this.ctx.createGain() // master volume
-		  this.volM.gain.value = 0.8
-		
-    	this.oscL.connect(this.volL)
-    	this.oscR.connect(this.volR)
-    	this.volL.connect(this.panL)
-    	this.volR.connect(this.panR)
-    	this.panL.connect(this.volM)
-    	this.panR.connect(this.volM)
-    	this.volM.connect(this.ctx.destination)
-    	
-    	this.left = true
-    	this.speed = 800
-		},
-
-	fullscreen: function () {
-		var d = document.getElementById('lights'),
-			r = d.requestFullscreen || d.webkitRequestFullscreen
-		if (!r) return
-		r.call(d)
-		},
-	
-	ping: function () {
-		Light.flash(this.left)
-
-		var v = this.left? this.volL : this.volR, now = this.ctx.currentTime
-    	v.gain.exponentialRampToValueAtTime(1, now + .025)
-    	v.gain.exponentialRampToValueAtTime(.125, now + .1)
-    	v.gain.linearRampToValueAtTime(0, now + this.speed / 750)
-
-		this.left = !this.left
-		if (this.running) this.timer = setTimeout(() => Pinger.ping(), this.speed)    	
-		},
-
-	run: function () {
-		if (this.timer) this.timer = clearTimeout(this.timer)
-		this.running = true
-		Pinger.ping()
-		},
-
-	stop: function () {
-		if (this.timer) this.timer = clearTimeout(this.timer)
-		this.running = false
-		},
-
-	toggle: function () {
-		this[this.running? 'stop' : 'run']()
-		document.getElementById('fullscreen').disabled = !this.running
-		},
-		
-	vary: function (name, control) {
-		var v = control.value
-		switch (name) {
-			case 'pitch':
-				this.oscL.frequency.value = v
-				this.oscR.frequency.value = v
-				break
-			case 'volume':
-				this.volM.gain.value = v
-				break
-			case 'speed':
-				this.speed = Math.round(60000 / v)
-			}
-		}
-	}
-
-document.addEventListener('DOMContentLoaded', function () {Pinger.init()})
+{% include emdr.js %}}
 </script>
-<div id="container">
+## EMDR
+<p id="status"></p>
 <div id="lightbox">
 <div id="lights">
+<button id="control" onclick="Pinger.toggle()"><i id="playpause" title="Play" class="fa fa3x fa-play"></i></button>
 <div id="light"></div>
 </div>
 </div>
-<p>Speed:</p>
-<input type="range" min="30" max="150" value="90" step="10" onchange="Pinger.vary('speed', this)">
-<p>Pitch:</p>
-<input type="range" min="200" max="1200" value="580" step="10" onchange="Pinger.vary('pitch', this)">
-<p>Volume:</p>
-<input type="range" min="0" max="1" value=".8" step=".05" onchange="Pinger.vary('volume', this)">
-<button onclick="Pinger.toggle()">Start/Stop</button>
-<button id="fullscreen" disabled onclick="Pinger.fullscreen()">Full Screen</button>
+<label for="speed">Speed: <span><span id="speed-value">60 </span> <i>per</i> minute</span></label>
+<input id="speed" type="range" min="30" max="150" value="60" step="5" oninput="Pinger.vary('speed', this)">
+
+<p id="onoff">
+<button id="mute" title="Mute the sound" onclick="UI.toggle(this)"><i class="fa fa-volume-off"></i></button>
+<button id="full" title="Run in full screen" onclick="UI.toggle(this)"><i class="fa fa-arrows-alt"></i></button>
+</p>
+
+<div id="settings-tab">
+<button id="settings-button" onclick="Pinger.togglesettings(this)"><i class="fa fa-cog"></i> Settings <i class="fa fa-caret-down"></i></button>
+</div>
+<div id="settings">
+
+<div id="allow-remote">
+<h4>Pairing</h4>
+<div id="mode-radio" onchange="Remote.setmode(event.target.value)">
+<label for="mode-single"><input name="mode" id="mode-single" type="radio" value="0" checked> None</label>
+<label for="mode-client"><input name="mode" id="mode-client" type="radio" value="1"> Client</label>
+<label for="mode-therapist"><input name="mode" id="mode-therapist" type="radio" value="2"> Therapist</label>
+</div>
+<label for="pin" class="disabled">Session PIN:
+<input id="pin" disabled onkeyup="Remote.setpin(this.value)">
+<i id="connect-wait" class="fa fa-spin fa-spinner hidden"></i>
+<span id="client-connected" class="hidden"><i class="fa fa-check"></i> OK</span>
+<span id="alert"></span>
+</label>
+<hr>
+</div>
+
+<h4 id="sound">Sound</h4>
+<label for="pitch">Pitch: <span><span id="pitch-value">a′</span></span>
+<input id="pitch" type="range" min="-12" max="24" value="0" step="1" oninput="Pinger.vary('pitch', this)"></label>
+<label for="volume">Volume: <span><span id="volume-value">80</span>%</span>
+<input id="volume" type="range" min="0" max="1" value=".8" step=".05" oninput="Pinger.vary('volume', this)"></label>
+<!-- label for="mute"><input type="checkbox" id="mute" onchange="Pinger.mute(this.checked)"> Mute</label -->
+<hr>
+
+<h4 id="movement">Eye movement</h4>
+<label for="size" class="disabled">Size: <span><span id="size-value">20</span>%</span>
+<input id="size" type="range" min="20" max="200" value="40" step="10" oninput="Pinger.vary('size', this)" disabled></label>
+<label for="hue" class="disabled">Color: <span><span id="hueValue">196°</span></span>
+<input id="hue" type="range" min="0" max="360" value="196" step="10" oninput="Pinger.vary('hue', this)" disabled></label>
+<!-- label for="fullscreen" class="disabled"><input type="checkbox" id="fullscreen" disabled onchange="Pinger.movement(this.checked)"> Run full screen when Settings are closed</label -->
+<hr>
+
+<p id="help">For instructions, see: <a href="#">How to: Use EMDR</a></p>
 </div>
