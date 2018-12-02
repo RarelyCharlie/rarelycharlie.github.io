@@ -63,7 +63,7 @@ label>span {position: absolute; right: 0;}
 #remote-settings {margin: 1ex 0 0 1.75em;}
 #remote-settings p, #remote-settings button {margin-top: 1ex;}
 div.disabled, label.disabled {opacity: .4;}
-#mode-radio {margin: 0;}
+#mode-radio {display: inline-block; margin: 0;}
 #client-connected {position: static;}
 #pin {display: inline-block; width: 4.75ch; background: #fff; letter-spacing: .15ex; padding: 1px 0 1px 1px;
 	border: 1px solid #444;}
