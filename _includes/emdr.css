@@ -2,7 +2,7 @@ body, body * {font-family: Raleway, sans-serif; font-size: 1.2vw; background: tr
 #container {width: 400px; margin: 0 auto; padding: 0;}
 h2 {text-align: center; font-size: 24px; letter-spacing: .1em; color: #456; opacity: .8; margin: 0;}
 h4 {font-size: inherit; font-weight: 600; letter-spacing: .5px; margin: 0; padding: 0;}
-hr {margin: .5ex 0 .25ex 0; border-color: #ada;}
+hr {margin: .5ex 0 .25ex 0; border-color: #bbd0e5;}
 #status {text-align: center; font-size: 12px; letter-spacing: .1em; color: #456; opacity: .8;
 	margin: 0 0 1em 0; line-height: 12px; height: 12px;}
 #lightbox {border: 1px solid #456; margin: 0 0 1ex 0; background: #8ab;}
