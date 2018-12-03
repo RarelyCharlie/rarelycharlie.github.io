@@ -39,44 +39,43 @@ Pinger = {
     	this.left = true
     	this.speed = 1000
     	
-    	if (UI.fullscreenrequest) this.movement(true)
-    	else {
+    	if (!UI.fullscreenrequest) {
     		UI.toggle(UI.full)
     		UI.disable('full', true)
     		this.movement(false)
     		}
 
-		addEventListener('keypress', function (evt) {
-			if (Pinger.debounce) return
-			if (!(UI.fullscreenrequest || Pinger.running || Remote.mode == 2)) return
-			if (UI['settings-button'].className) return
-			if ([32, 37, 39].indexOf(evt.keyCode) < 0) return
-			if (evt.keyCode == 32) Pinger.toggle()
-			else {
-				var s = UI.speed, v = parseInt(s.value)
-				if (evt.keyCode == 37) s.value = v - 5
-				else if (evt.keyCode == 39) s.value = v + 5
-				Pinger.vary('speed', s)
-				}
-			evt.stopPropagation()
-			evt.preventDefault()
-			Pinger.debounce = true
-			setTimeout(() => Pinger.debounce = false, 200)
-			})
+	addEventListener('keypress', function (evt) {
+		if (Pinger.debounce) return
+		if (!(UI.fullscreenrequest || Pinger.running || Remote.mode == 2)) return
+		if (UI['settings-button'].className) return
+		if ([32, 37, 39].indexOf(evt.keyCode) < 0) return
+		if (evt.keyCode == 32) Pinger.toggle()
+		else {
+			var s = UI.speed, v = parseInt(s.value)
+			if (evt.keyCode == 37) s.value = v - 5
+			else if (evt.keyCode == 39) s.value = v + 5
+			Pinger.vary('speed', s)
+			}
+		evt.stopPropagation()
+		evt.preventDefault()
+		Pinger.debounce = true
+		setTimeout(() => Pinger.debounce = false, 200)
+		})
 
-		document.addEventListener('webkitfullscreenchange', function(evt) {
-			Light.customize(document.webkitIsFullScreen)
-			})
-		document.addEventListener('mozfullscreenchange', function(evt) {
-			Light.customize(document.fullScreen || document.mozFullScreen || document.fullscreenElement)
-			})
-		document.addEventListener('fullscreenchange', function(evt) {
-			Light.customize(document.fullScreen || document.fullscreenElement)
-			})
+	document.addEventListener('webkitfullscreenchange', function(evt) {
+		Light.customize(document.webkitIsFullScreen)
+		})
+	document.addEventListener('mozfullscreenchange', function(evt) {
+		Light.customize(document.fullScreen || document.mozFullScreen || document.fullscreenElement)
+		})
+	document.addEventListener('fullscreenchange', function(evt) {
+		Light.customize(document.fullScreen || document.fullscreenElement)
+		})
 
-		Persist.init()
-		Remote.init()
-		},
+	Persist.init()
+	Remote.init()
+	},
 	
 	fullscreen: function () {
 		var r = UI.fullscreenrequest
@@ -516,8 +515,14 @@ UI = {
 		var down = typeof(force) == 'boolean'? force : !btn.className
 		btn.className = down? 'down' : ''
 		btn.isDown = down
-		if (btn.id == 'mute') Pinger.mute(down)
-		else if (btn.id = 'full') Pinger.movement(down), Light.customize(down && Pinger.settings)
+		if (btn.id == 'mute')
+			Pinger.mute(down), 
+			this.soundreq.className = down? '' : 'hidden'
+		else if (btn.id = 'full')
+			console.log('toggle full ' + down)
+			Pinger.movement(down), 
+			Light.customize(down && Pinger.settings),
+			this.movementreq.className = down? 'hidden' : 'down'
 		},
 
 	unavailable: function (id, obj) {
