@@ -519,7 +519,7 @@ UI = {
 			Pinger.mute(down), 
 			this.soundreq.className = down? '' : 'hidden'
 		else if (btn.id = 'full')
-			console.log('toggle full ' + down)
+			console.log('toggle full ' + down),
 			Pinger.movement(down), 
 			Light.customize(down && Pinger.settings),
 			this.movementreq.className = down? 'hidden' : 'down'
