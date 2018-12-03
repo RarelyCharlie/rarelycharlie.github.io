@@ -18,14 +18,13 @@ hr {margin: .5ex 0 .25ex 0; border-color: #bbd0e5;}
 #light {
 	width: 40px; height: 40px; background-color: hsl(196, 100%, 63%); border-radius: 50%; margin: 0 2px;
 	box-shadow: 0 0 2px 2px  hsl(196, 100%, 63%); opacity: 0; transition: opacity 800ms ease-out;
-	position: absolute; right: 0;
-	top: 50%;
+	z-index: 3; position: absolute; right: 0; top: 50%;
 	-ms-transform: translateY(-50%);
 	transform: translateY(-50%);
 	}
 #control {font-size: 20px; margin: 0 auto; padding: 0 2px;
 	border: none; background: transparent;
-	position: absolute; z-index: 1;
+	position: absolute; z-index: 4;
 	top: 50%; left: 50%;
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
