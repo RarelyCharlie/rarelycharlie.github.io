@@ -97,7 +97,7 @@ a[href]:hover {text-decoration: underline;}
 <hr>
 </div>
 
-<h4 id="sound">Sound <span id="soundreq">(muted)</span></h4>
+<h4 id="sound">Sound <span id="soundreq">(muted <i class="fa fa-volume-off"></i> )</span></h4>
 <label for="pitch">Pitch: <span><span id="pitch-value">a′</span></span>
 <input id="pitch" type="range" min="-12" max="24" value="0" step="1" oninput="Pinger.vary('pitch', this)"></label>
 <label for="volume">Volume: <span><span id="volume-value">80</span>%</span>
@@ -105,7 +105,7 @@ a[href]:hover {text-decoration: underline;}
 <!-- label for="mute"><input type="checkbox" id="mute" onchange="Pinger.mute(this.checked)"> Mute</label -->
 <hr>
 
-<h4 id="movement">Eye movement <span id="movementreq">(requires full screen)</span></h4>
+<h4 id="movement">Eye movement <span id="movementreq">(needs full screen <i class="fa fa-arrows-alt"></i> )</span></h4>
 <label for="size" class="disabled">Size: <span><span id="size-value">20</span>%</span>
 <input id="size" type="range" min="20" max="200" value="40" step="10" oninput="Pinger.vary('size', this)" disabled></label>
 <label for="hue" class="disabled">Color: <span><span id="hueValue">196°</span></span>
