@@ -75,11 +75,11 @@ If you plan to use eye movements, either alone or with sound, ensure that the [X
 
 The tool is now set up. Close the Settings panel. This stops the tool. You are now ready to go.
 
-To start the session, press the Play [>] button.
+To start the session, press the Play <i class="fa fa-play"></i> button.
 
 If you have a therapist, then your therapist controls the EMDR stimulus.
 
-If you have no therapist, use the space bar or the Play/Pause [>/||] buttons to start and stop the EMDR stimulus, use the left [<-] arrow key to slow the EMDR stimulus, and use the right [->] arrow key to speed up the EMDR stimulus. For best results, follow the more detailed instructions in a book or online tutorial.
+If you have no therapist, use the space bar or the Play/Pause <i class="fa fa-play"></i>/<i class="fa fa-pause"></i> buttons to start and stop the EMDR stimulus, use the left [<-] arrow key to slow the EMDR stimulus, and use the right [->] arrow key to speed up the EMDR stimulus. For best results, follow the more detailed instructions in a book or online tutorial.
 
 ### For therapists—EMDR with one device
 
