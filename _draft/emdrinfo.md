@@ -67,11 +67,11 @@ To use the tool with a therapist who is using a separate device, set the Pairing
 
 ![](/assets/emdr2.png)
 
-Adjust the pitch and volume of the sound to whatever you prefer. If you do not plan to use the sounds, press the [M] Mute button or set the volume to zero:
+Adjust the pitch and volume of the sound to whatever you prefer. If you do not plan to use the sounds, press the Mute button <i class="fa fa-volume-off"></i> or set the volume to zero:
 
 ![](/assets/emdr3.png)
 
-If you plan to use eye movements, either alone or with sound, ensure that the [X] full screen button is pressed. Adjust the size and color of the moving disc to whatever you prefer. (If full screen is not available on your device, then you cannot use eye movements effectively with that device.)
+If you plan to use eye movements, either alone or with sound, ensure that the full screen button, <i class="fa fa-arrows-alt"></i>, is pressed. Adjust the size and color of the moving disc to whatever you prefer. (If full screen is not available on your device, then you cannot use eye movements effectively with that device.)
 
 The tool is now set up. Close the Settings panel. This stops the tool. You are now ready to go.
 
@@ -79,19 +79,19 @@ To start the session, press the Play <i class="fa fa-play"></i> button.
 
 If you have a therapist, then your therapist controls the EMDR stimulus.
 
-If you have no therapist, use the space bar or the Play/Pause <i class="fa fa-play"></i>/<i class="fa fa-pause"></i> buttons to start and stop the EMDR stimulus, use the left [<-] arrow key to slow the EMDR stimulus, and use the right [->] arrow key to speed up the EMDR stimulus. For best results, follow the more detailed instructions in a book or online tutorial.
+If you have no therapist, use the space bar or the Play <i class="fa fa-play"></i> and Pause <i class="fa fa-pause"></i> buttons to start and stop the EMDR stimulus, use the left arrow key <i class="fa fa-arrow-left"></i> to slow the EMDR stimulus, and use the right arrow key <i class="fa fa-arrow-right"></i> to speed up the EMDR stimulus. For best results, follow the more detailed instructions in a book or online tutorial.
 
 ### For therapists—EMDR with one device
 
 To use the EMDR tool with one device, you must be in the same room as your client. Invite your client to set up the EMDR tool as described in the section above, with the Pairing set to None. When the tool is set up, they should ensure that the Settings panel is closed. You are now ready to go.
 
-To start the session, press the Play [>] button.
+To start the session, press the Play <i class="fa fa-play"></i> button.
 
 You control the EMDR stimulus using the computer keyboard. Your client hears the side-to-side sound stimulus, or follows the side-to-side movement on the screen, or both.
 
 Use the space bar to start and stop the EMDR stimulus.
 
-Use the left [<-] arrow key to slow the EMDR stimulus, and use the right [->] arrow key to speed up the EMDR stimulus.
+Use the left arrow key <i class="fa fa-arrow-left"></i> to slow the EMDR stimulus, and use the right arrow key <i class="fa fa-arrow-right"></i> to speed up the EMDR stimulus.
 
 To return from full screen to the web page, press the Esc key or the F11 key.
 
@@ -111,11 +111,11 @@ When you receive the PIN, tell your client so that they can use it to connect to
 
 Close the Settings panel. You are now ready to go.
 
-Use the space bar or the Play/Pause [>/||] buttons to start and stop the EMDR stimulus on your client's paired device.
+Use the space bar or the Play <i class="fa fa-play"></i> and Pause <i class="fa fa-pause"></i> buttons to start and stop the EMDR stimulus on your client's paired device.
 
 On your device both the sound and full-screen eye movement are disabled. You see the indicator when the EMDR stimulus is running. You might hear the sounds from your client's device if they are using speakers.
 
-Use the left [<-] arrow key to slow the stimulus when your client feels comfortable with the memory they are experiencing. Use the right [->] arrow key to speed up the stimulus and block your client's unhelpful emotions, so they can experience their memories in more detail.
+Use the left arrow key <i class="fa fa-arrow-left"></i> to slow the stimulus when your client feels comfortable with the memory they are experiencing. Use the right arrow key <i class="fa fa-arrow-right"></i> to speed up the stimulus and block your client's unhelpful emotions, so they can experience their memories in more detail.
 
 These keys only do this when the Settings panel is closed.
 
