@@ -116,6 +116,7 @@ Pinger = {
 
 		this.left = !this.left
 		if (this.running) this.timer = setTimeout(() => Pinger.ping(), this.speed)
+		Remote.poll(false)
 		},
 
 	run: function () {
@@ -322,25 +323,28 @@ Remote = {
 		},
 
 	connect: async function () { // client connecting...
-		Pinger.stop()
+		this.speed = 0, Pinger.stop()
+
 		var [status, data] = await this.api('notify', {id: this.id, mode: this.mode})
 		console.log('connect: ' + status + ' ' + data)
 		var [status, data] = await this.api('read', {pin: this.pin})
 		console.log('  initial read: ' + data)
 		if (status == 200 ) {
 			UI['client-connected'].className = ''
-			// UI.start.className = ''
-			var c = UI.speed, s = parseInt(data)
+			var s = parseInt(data)
 			this.speed = s
 			if (s == 0) { // stop...
 				console.log('connected, stopped')
+				this.idle(true)
+				Pinger.stop()
 				}
 			else { // set speed...
-				c.value = Math.round(60000 / s)
-				Pinger.vary('speed', c)
 				console.log('connected, speed ' + s)
+				UI.speed.value = Math.round(60000 / s)
+				Pinger.vary('speed', UI.speed)
+				this.idle(false)
+				Pinger.run()
 				}
-			this.poll()
 			}
 		else if (status == 0) {
 			this.alert('Connection failed.', true)
@@ -354,21 +358,37 @@ Remote = {
 			}
 		},
 
-	poll: function () { // therapist sets speed...
-		if (this.source) this.source.close()
-		if (this.mode == 1 && this.api && this.pin) { // client...
-			this.source = new EventSource(this.url + this.pin)	
-			this.source.addEventListener('message', function(event) {
-				console.log('message: ' + event.data)
-				var interval = parseInt(event.data)
-				if (interval == 0) Pinger.stop()
-				else {
-					Pinger.run()
-					var c = UI.speed
-					c.value = Math.round(60000 / interval)
-					Pinger.vary('speed', c)
+	idle: function (idle) { // free-running poll while stopped...
+		console.log('>>> idle ' + idle) 
+		if (idle && !this.idler) this.idler = setInterval(function () {Remote.poll(true)}, 2000)
+		else if (!idle && this.idler) this.idler = clearInterval(this.idler), 0
+		},
+
+	poll: async function (insist) { // get latest speed...
+		if (this.mode != 1) return
+		if (!insist) {
+			if (this.throttle) return
+			this.throttle = true
+			setTimeout(function () {Remote.throttle = false}, 2000)
+			}
+		
+		var [status, data] = await this.api('read', {pin: this.pin})
+		console.log('poll: ' + data)
+		if (status == 200 ) {
+			var swas = this.speed, s = parseInt(data)
+			this.speed = s
+			if (s == 0) { // stop...
+				console.log('poll: stopped, idling...' + swas)
+				if (swas) this.idle(true), Pinger.stop()
+				}
+			else { // set speed...
+				if (s != swas) {
+					this.idle(false)
+					UI.speed.value = Math.round(60000 / s)
+					Pinger.vary('speed', UI.speed)
+					console.log('connected, speed ' + s)
 					}
-				}, false)
+				}
 			}
 		},
 
@@ -428,9 +448,7 @@ Remote = {
 
 	start: function () {
 		if (this.mode != 1) return
-		//UI.disable('control', true)
 		UI.disable('speed', true)
-		//Pinger.togglesettings()
 		UI.status.textContent = 'Paired client ' + this.pin
 		if (this.speed) Pinger.run()
 		},
