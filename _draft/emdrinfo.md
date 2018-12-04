@@ -5,13 +5,13 @@ feedback: https://www.7cups.com/@RarelyCharlie
 ---
 EMDR is a technique that therapists use in the treatment of various mental health conditions. It was originally developed to help treat the effects of traumatic events (PTSD) but it has since been used for other conditions such as anxiety. It is not intended to be a complete treatment by itself—it is one of the techniques that can be included in a comprehensive treatment plan.
 
-This guide describes a free online EMDR tool that anyone can use.  It is mainly intended for therapists to use with their clients, but it is also possible to use the tool on your own without a therapist.
+This guide describes a free online EMDR tool on this site that anyone can use.  It is mainly intended for therapists to use with their clients, but it is also possible to use the tool on your own without a therapist.
 
 A therapist can use this EMDR tool with a client either in a face-to-face session, or remotely in online or telephone sessions.
 
 ### How EMDR works
 
-EMDR is not completely understood. When it was first developed, it used side-to-side eye movements to make it easier for PTSD sufferers to reprocess remembered traumatic events from their past with less sensitivity to emotion. This is the reason for the name EMDR—Eye Movement Desensitisation Reprocessing. Sonce then, some researchers have found that side-to-side sounds or side-to-side touch work equally well.
+EMDR is not completely understood. When it was first developed, it used side-to-side eye movements to make it easier for PTSD sufferers to reprocess remembered traumatic events from their past with less sensitivity to emotion. This is the reason for the name EMDR—Eye Movement Desensitisation Reprocessing. Since then, some researchers have found that side-to-side sounds or side-to-side touch work equally well.
 
 The EMDR tool described here provides both side-to-side eye movements and side-to-side sounds, but not touch. The eye-movements and sounds can be used together or separately.
 
@@ -25,7 +25,7 @@ Reprocessing remembered events with the help of EMDR is probably most effective 
 
 This EMDR tool has different requirements depending on how you use it.
 
-If you plan to use eye movements and sounds together, the eye movements and the sounds must use the same device so that they synchronize exactly.
+If you plan to use eye movements and sounds together, the eye movements and the sounds must be on the same computer so that they synchronize exactly.
 
 #### Eye movements
 
@@ -55,7 +55,7 @@ To use the EMDR tool as the client (either with a therapist, or on your own), go
 
 [EMDR](./emdr.md)
 
-Open the Settings panel. This will start the side-to-side sounds together with a movement indicator:
+Open the Settings panel. This will start the side-to-side sounds together with a movement indicator. The indicator is too small to be used for side-to-side eye movement. It is only there to indicate when the tool is running:
 
 ![](/assets/emdr0.png)
 
@@ -71,7 +71,11 @@ Adjust the pitch and volume of the sound to whatever you prefer. If you do not p
 
 ![](/assets/emdr3.png)
 
-If you plan to use eye movements, either alone or with sound, ensure that the full screen button, <i class="fa fa-arrows-alt"></i>, is pressed. Adjust the size and color of the moving disc to whatever you prefer. (If full screen is not available on your device, then you cannot use eye movements effectively with that device.)
+If you plan to use eye movements, either alone or with sound, ensure that the full screen button, <i class="fa fa-arrows-alt"></i>, is pressed:
+
+![](/assets/emdr5.png)
+
+Adjust the size and color of the moving disc to whatever you prefer. (If full screen is not available on your device, then you cannot use eye movements effectively with that device.)
 
 The tool is now set up. Close the Settings panel. This stops the tool. You are now ready to go.
 
@@ -113,7 +117,7 @@ Close the Settings panel. You are now ready to go.
 
 Use the space bar or the Play <i class="fa fa-play"></i> and Pause <i class="fa fa-pause"></i> buttons to start and stop the EMDR stimulus on your client's paired device.
 
-On your device both the sound and full-screen eye movement are disabled. You see the indicator when the EMDR stimulus is running. You might hear the sounds from your client's device if they are using speakers.
+On your device both the sound and full-screen eye movement are disabled. You see the indicator when the EMDR stimulus is running. You might hear the sounds from your client's device if they are using speakers, but it's unlikely that they will synchronize perfectly with the indicator.
 
 Use the left arrow key <i class="fa fa-arrow-left"></i> to slow the stimulus when your client feels comfortable with the memory they are experiencing. Use the right arrow key <i class="fa fa-arrow-right"></i> to speed up the stimulus and block your client's unhelpful emotions, so they can experience their memories in more detail.
 
