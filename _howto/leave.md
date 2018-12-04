@@ -34,7 +34,7 @@ You can return to your deactivated account at any time and reactivate it.
 
 ### Permanently deactivating your account
 
-To deactivate your account more permanently, so that you cannot ever reactivate it, first change your e-mail address and password to random strings that you will not be able to remember. If it helps, you can easily find tools on the Internet that generate random strings.
+To deactivate your account more permanently, so that you cannot ever reactivate it, first change your e-mail address and password to random strings that you will not be able to remember. The part of the e-mail address after the @-sign should be a real mail provider, and the part before the @-sign should be random. If it helps, you can easily find tools on the Internet that generate random strings.
 
 After randomizing your e-mail address and password, save the changes. Then deactivate your account as described above.
 
