@@ -32,9 +32,10 @@ hr {margin: .5ex 0 .25ex 0; border-color: #bbd0e5;}
 p {margin: 0;}
 
 #onoff {margin: 0; position: relative; text-align: right;}
-#onoff button {padding: 4px; width: 2em; height: 2em; border: 2px outset #ccc; border-radius: 4px;
-	background: #9bc; margin: 0 1ex 0 0;}
-#onoff button.down {background: #79a; border-style: inset; color: #0cf;}
+#onoff button {padding: 4px; width: 2em; height: 2em; border: 2px solid #ccc; border-radius: 4px;
+	background: #9bc; margin: 0 1ex 0 0; border-top-color: #ddd; border-left-color: #ddd;}
+#onoff button.down {background: #79a; border-color: #ddd; border-top-color: #999;
+	border-left-color: #999; color: #0cf;}
 #onoff button:disabled, #onoff button.down:disabled {background: #acc7d5; color: #888;}
 
 input[type=range] {display: block; width: 100%; margin: 0;}
