@@ -10,9 +10,9 @@ There is more information below, depending on whether you have a guest, member, 
 
 ## Guests
 
-To cancel the guest account that 7 Cups generates automatically for you, delete the 7cups.com cookies and data from your browser, or delete the 7 Cups app.
+To cancel the guest account that 7 Cups generates automatically for you, delete the 7cups.com cookies and data from your browser. How you delete cookies and data depends on your browser, so this article cannot tell you those things.
 
-How you delete cookies and data depends on your browser, and how you delete the app depends on your operating system, so this article cannot tell you those things.
+If you visit 7 Cups again, the site will automatically create a new guest account.
 
 ## Members and listeners
 
@@ -34,11 +34,7 @@ You can return to your deactivated account at any time and reactivate it.
 
 ### Permanently deactivating your account
 
-To deactivate your account more permanently, so that you cannot ever reactivate it, first change your e-mail address and password to random strings that you will not be able to remember.
-
-Here's a random e-mail address and password that you can copy and paste:
-
-{% include rand-cred.html %}
+To deactivate your account more permanently, so that you cannot ever reactivate it, first change your e-mail address and password to random strings that you will not be able to remember. If it helps, you can easily find tools on the Internet that generate random strings.
 
 After randomizing your e-mail address and password, save the changes. Then deactivate your account as described above.
 
