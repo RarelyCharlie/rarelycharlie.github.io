@@ -411,12 +411,12 @@ Remote = {
 		UI.disable('pin', m == 0)
 		pin.readOnly = m == 2
 		
-		UI.disable('mute', m == 2 || !Pinger.audio)
-		UI.disable('full', m == 2 || !Light.canmove)
-
 		Pinger.mute(m == 2)
 		Pinger.movement(m != 2)
 		
+		UI.disable('mute', m == 2 || !Pinger.audio)
+		UI.disable('full', m == 2 || !Light.canmove)
+
 		if (m == 1) pin.focus()
 		
 		if (m == 2) { // therapist connect...
