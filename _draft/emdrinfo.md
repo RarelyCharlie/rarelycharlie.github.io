@@ -9,13 +9,13 @@ This guide describes a free online EMDR tool on this site that anyone can use.  
 
 In brief, for anyone familiar with EMDR who doesn't want to read all the details...
 
-This tool can be used by one person or by two (therapist and client). If therapist and client are using it, they can use one computer or two (therapist and client). A therapist can use the tool in face-to-face, online (voice) and telephone sessions.
+- This tool can be used by one person or by two (therapist and client). If therapist and client are using it, they can use one computer or two (therapist and client). A therapist can use the tool in face-to-face, online (voice) and telephone sessions.
 
-When using one computer leave the pairing set to None.
+- When using one computer leave the pairing set to None.
 
-When using two computers, set the pairing. The therapist gets a PIN for the session (like `1234`). The client types the PIN to connect to the same session. Then the therapist controls the EMDR tool on the client's computer.
+- When using two computers, set the pairing. The therapist gets a PIN for the session (like `1234`). The client types the PIN to connect to the same session. Then the therapist controls the EMDR tool on the client's computer.
 
-Space bar and arrow keys control the tool while it's running.
+- Space bar and arrow keys control the tool while it's running.
 
 ### How EMDR works
 
