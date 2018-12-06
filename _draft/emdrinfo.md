@@ -3,11 +3,7 @@ layout: howto
 title: Use EMDR
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-EMDR is a technique that therapists use in the treatment of various mental health conditions. It was originally developed to help treat the effects of traumatic events (PTSD) but it has since been used for other conditions such as anxiety. It is not intended to be a complete treatment by itself—it is one of the techniques that can be included in a comprehensive treatment plan.
-
 This guide describes a free online EMDR tool on this site that anyone can use.  It is mainly intended for therapists to use with their clients, but it is also possible to use the tool on your own without a therapist.
-
-A therapist can use this EMDR tool with a client either in a face-to-face session, or remotely in online or telephone sessions.
 
 ### Brief guide
 
@@ -22,6 +18,8 @@ When using two computers, set the pairing. The therapist gets a PIN for the sess
 Space bar and arrow keys control the tool while it's running.
 
 ### How EMDR works
+
+EMDR is a technique that therapists use in the treatment of various mental health conditions. It was originally developed to help treat the effects of traumatic events (PTSD) but it has since been used for other conditions such as anxiety. It is not intended to be a complete treatment by itself—it is one of the techniques that can be included in a comprehensive treatment plan.
 
 EMDR is not completely understood. When it was first developed, it used side-to-side eye movements to make it easier for PTSD sufferers to reprocess remembered traumatic events from their past with less sensitivity to emotion. This is the reason for the name EMDR—Eye Movement Desensitisation Reprocessing. Since then, some researchers have found that side-to-side sounds or side-to-side touch work equally well.
 
