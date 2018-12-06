@@ -85,7 +85,9 @@ If you plan to use eye movements, either alone or with sound, ensure that the fu
 
 ![](/assets/emdr5.png)
 
-Adjust the size and color of the moving disc to whatever you prefer. (If full screen is not available on your device, then you cannot use eye movements effectively with that device.)
+(If full screen is not available on your device, then you cannot use eye movements effectively with that device.)
+
+Adjust the size and color of the moving disc to whatever you prefer.
 
 The tool is now set up. Close the Settings panel. This stops the tool. You are now ready to go.
 
