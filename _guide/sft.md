@@ -571,7 +571,7 @@ After the quiz, the next section is a cheat sheet that you can use as a quick re
 - SFT is a method of self help that professional counselors usually avoid.# SFT is not self help, and many professional counselors use it.
 - Chats for SFT usually last for an agreed time.#Typical lengths of chats are 45 minutes, an hour, or 90 minutes.
 - In SFT, a 5-minute break near the end of the chat can be useful.#A break is a traditional part of SFT.
-- Listeners should discuss all their members' problems with mentors, to ensure they give quality advice.# Listeners must not discuss details od any chat with anyone, and must not give advice.
+- Listeners should discuss all their members' problems with mentors, to ensure they give quality advice.# Listeners must not discuss details of any chat with anyone, and must not give advice.
 - Listeners using SFT frequently compliment members.#Compliments provide reassurance, optimism, and hope for the future.
 - In SFT, listeners often end a chat by complimenting the member.#Compliments are given throughout SFT.
 - Listeners should give homework tasks to members who are at the complainer or customer stage in relation to a problem.#Visitors should only receive compliments.
