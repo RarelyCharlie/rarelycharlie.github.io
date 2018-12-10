@@ -28,12 +28,13 @@ Pinger = {
 			this.merge.connect(this.volume)
 		
 			this.volume.connect(this.ctx.destination)
+			UI.toggle('unmute', true)
 			}
 		else {
 			UI.unavailable('sound', this.audio)
 			this.mute(true)
-			UI.toggle('mute', true)
-			UI.disable('mute', true)
+			UI.toggle('unmute', false)
+			UI.disable('unmute', false)
 			}
     	
     	this.left = true
@@ -267,7 +268,7 @@ Light = {
 	}
 
 Remote = {
-	url: 'https://rarelycharlie.herokuapp.com/emdr/',
+	url: 'http://localhost:5000/emdr/', //'https://rarelycharlie.herokuapp.com/emdr/',
 	mode: 0, // 0 = local, 1 = client, 2 = therapist
 	id: '', // ID of this browser
 	pin: '',
@@ -277,6 +278,9 @@ Remote = {
 		if (!this.url) return
 		UI['allow-remote'].style.display = 'block'
 		var [status, data] = await this.api('ping', null) // wake up the server :(
+		if (status == 0) UI.disable('mode-client', true),
+			UI.disable('mode-therapist', true),
+			this.alert('Pairing is not available.', false)
 		},
 	
 	alert: function (t, fade) {
@@ -324,10 +328,12 @@ Remote = {
 	connect: async function () { // client connecting...
 		this.speed = 0, Pinger.stop()
 
+		UI.hide('connect-wait', false)
 		var [status, data] = await this.api('notify', {id: this.id, mode: this.mode})
 		console.log('connect: ' + status + ' ' + data)
 		var [status, data] = await this.api('read', {pin: this.pin})
 		console.log('  initial read: ' + data)
+		UI.hide('connect-wait', true)
 		if (status == 200 ) {
 			UI['client-connected'].className = ''
 			var s = parseInt(data)
@@ -342,6 +348,7 @@ Remote = {
 				UI.speed.value = Math.round(60000 / s)
 				Pinger.vary('speed', UI.speed)
 				this.idle(false)
+				console.log('  run now!')
 				Pinger.run()
 				}
 			}
@@ -385,7 +392,8 @@ Remote = {
 					this.idle(false)
 					UI.speed.value = Math.round(60000 / s)
 					Pinger.vary('speed', UI.speed)
-					console.log('connected, speed ' + s)
+					console.log('poll: speed ' + s)
+					Pinger.run()
 					}
 				}
 			}
@@ -399,9 +407,8 @@ Remote = {
 			}, 5000)
 		},
 
-	setmode: async function (m) {
+	setmode: async function (m) { // 0 = single, 1 = client, 2 = therapist
 		console.log('setmode ' + m)
-		this.mode = m // 0 = single, 1 = client, 2 = therapist
 		
 		var pin = UI.pin
 		pin.value = ''
@@ -414,7 +421,7 @@ Remote = {
 		Pinger.mute(m == 2)
 		Pinger.movement(m != 2)
 		
-		UI.disable('mute', m == 2 || !Pinger.audio)
+		UI.disable('unmute', m == 2 || !Pinger.audio)
 		UI.disable('full', m == 2 || !Light.canmove)
 
 		if (m == 1) pin.focus()
@@ -422,10 +429,14 @@ Remote = {
 		if (m == 2) { // therapist connect...
 			Pinger.stop()
 			UI.toggle('full', false)
-			UI.toggle('mute', true)
-			var [status, data] = await this.api('notify', {id: this.id, mode: this.mode})
-			console.log('connect: ' + status + ' ' + data)
+			UI.toggle('unmute', false)
+			UI.hideinline('pin', true)
+			UI.hide('connect-wait', false)
+			var [status, data] = await this.api('notify', {id: this.id, mode: 2})
+			console.log('notify: ' + status + ' ' + data)
 			if (status == 200) {
+				UI.hideinline('pin', false)
+				UI.hide('connect-wait', true)
 				this.pin = data
 				pin.value = data
 				UI.status.textContent = 'Paired therapist ' + this.pin
@@ -435,6 +446,8 @@ Remote = {
 				this.reset()
 				}
 			}
+
+		this.mode = m
 		},
 
 	setpin: function (v) { // client entered pin...
@@ -491,11 +504,11 @@ UI = {
 		//this.fullscreenrequest = null // TEST <<<<<<<<<<<<<
 		this.unavailable('movement', this.fullscreenrequest)
 		
-		this.toggle(this.mute, false)
+		this.toggle(this.unmute, false)
 		this.toggle(this.full, false)
 		},
 
-	disable: function (id, disable) { // disable label and control
+	disable: function (id, disable) { // disable label and control...
 		var r = this[id]
 		if (!r) console.log('disable ' + id + ' failed')
 		r.disabled = disable
@@ -505,21 +518,26 @@ UI = {
 			}
 		},
 
-	hide: function (id, hide) { // hide label and control
+	hide: function (id, hide) { // hide label and control...
 		var r = this[id]
-		r.parentNode.style.display = hide? 'none' : 'block'
+		r.parentNode.style.display = hide? 'none' : 'initial'
 		},
-		
+
+	hideinline: function (id, hide) { // hide inline control...
+		this[id].style.display = hide? 'none' : 'inline-block'
+		},
+
 	toggle: function (btn, force) {
 		if (typeof(btn) == 'string') btn = this[btn]
 		var down = typeof(force) == 'boolean'? force : !btn.className
 		btn.className = down? 'down' : ''
 		btn.isDown = down
-		if (btn.id == 'mute')
-			Pinger.mute(down), 
-			this.soundreq.className = down? '' : 'hidden'
+		var t = btn.title.replace(' (off)', '')
+		btn.title = t + (down? '' : ' (off)')
+		if (btn.id == 'unmute')
+			Pinger.mute(!down), 
+			this.soundreq.className = down? 'hidden' : ''
 		else if (btn.id = 'full')
-			console.log('toggle full ' + down),
 			Pinger.movement(down), 
 			Light.customize(down && Pinger.settings),
 			this.movementreq.className = down? 'hidden' : 'down'
@@ -530,3 +548,4 @@ UI = {
 		}
  
 	}
+
