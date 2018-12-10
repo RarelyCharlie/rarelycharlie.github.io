@@ -268,7 +268,7 @@ Light = {
 	}
 
 Remote = {
-	url: 'http://localhost:5000/emdr/', //'https://rarelycharlie.herokuapp.com/emdr/',
+	url: 'https://rarelycharlie.herokuapp.com/emdr/',
 	mode: 0, // 0 = local, 1 = client, 2 = therapist
 	id: '', // ID of this browser
 	pin: '',
