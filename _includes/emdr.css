@@ -33,7 +33,8 @@ p {margin: 0;}
 
 #onoff {margin: 0; position: relative; text-align: right;}
 #onoff button {padding: 4px; width: 2em; height: 2em; border: 2px solid #ccc; border-radius: 4px;
-	background: #9bc; margin: 0 1ex 0 0; border-top-color: #ddd; border-left-color: #ddd;}
+	background: #9bc; margin: 0 1ex 0 0; border-top-color: #ddd; border-left-color: #ddd;
+	line-height: 0;}
 #onoff button.down {background: #79a; border-color: #ddd; border-top-color: #999;
 	border-left-color: #999; color: #0cf;}
 #onoff button:disabled, #onoff button.down:disabled {background: #acc7d5; color: #888;}
@@ -55,9 +56,10 @@ input[type=checkbox], input[type=radio] {position: relative; top: 2px;}
 	transition: height .35s, padding .35s;}
 label {display: block; position: relative; width: 100%;}
 label>span {position: absolute; right: 0;}
+label>span.wait {position: static; margin-left: 1em;}
 [for=mute] {margin: -1ex 0 1ex 0;}
 [for^=mode] {display: inline-block; width: auto; margin-left: 1ex;}
-#allow-remote {display: none;}
+#allow-remote {position: relative; display: none;}
 #remote-settings {margin: 1ex 0 0 1.75em;}
 #remote-settings p, #remote-settings button {margin-top: 1ex;}
 div.disabled, label.disabled {opacity: .4;}
@@ -70,12 +72,13 @@ div.disabled, label.disabled {opacity: .4;}
 #pin:-moz-read-only {border: 1px solid transparent; background: transparent;}
 #therapist-pin {letter-spacing: .15ex;}
 .hidden {display: none;}
-.fa-check {color: #0c6;}
+.fa-check {color: #0c6;
+	text-shadow: 1px 1px 4px #0f0, -1px 1px 4px #0f0, 1px -1px 4px #0f0, -1px -1px 4px #0f0;}
 #start {background: #4e8;}
 #hueValue {display: inline-block; width: 4ch; height: 1.5em; background-color: hsl(196, 100%, 63%);
 	text-align: right; padding: 0 2px 2px 0; position: relative; top: -1px;}
 #pin-settings {position: relative;}
-#alert {height: 1.2em; color: #a00;}
+#alert {height: 1.2em; color: #a00; position: absolute; right: 0; bottom: 1ex;}
 .fa-exclamation-triangle {display: inline-block; margin-right: .5ex; color: orange; text-shadow: 1px 1px 2px #aaa;}
 #content p#help, #help a {text-align: right; font-size: 85%; margin: 0;}
 #help a {color: #00f; line-height: 1.25em;}
