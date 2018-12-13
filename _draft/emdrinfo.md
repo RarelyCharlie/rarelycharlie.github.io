@@ -3,19 +3,19 @@ layout: howto
 title: Use EMDR
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-This guide describes a free online EMDR tool on this site that anyone can use.  It is mainly intended for therapists to use with their clients, but it is also possible to use the tool on your own without a therapist.
+This guide describes a free online EMDR tool on this site that anyone can use.  It is mainly intended for therapists to use with their clients, but it might also be possible to use the tool on your own without a therapist.
 
 ### Brief guide
 
 In brief, for anyone familiar with EMDR who doesn't want to read all the details...
 
-- This tool can be used by one person or by two (therapist and client). If therapist and client are using it, they can use one computer or two (therapist and client). A therapist can use the tool in face-to-face, online (voice) and telephone sessions.
+- This tool can be used by one person or by two (therapist and client). If a therapist and a client are using it, they can use one computer or two (therapist and client). A therapist can use the tool in face-to-face, online (voice) and telephone sessions.
 
 - When using one computer leave the pairing set to None.
 
-- When using two computers, set the pairing. The therapist gets a PIN for the session (like `1234`). The client types the PIN to connect to the same session. Then the therapist controls the EMDR tool on the client's computer.
+- When using two computers, set the pairing. The EMDR service sends the therapist a PIN for the session (like `1234`). The therapist tells the client. The client uses the PIN to connect to the same session. Then the therapist can control the EMDR tool on the client's computer.
 
-- Space bar and arrow keys control the tool while it's running.
+- Space bar (on/off) and arrow keys (speed) control the tool while it's running.
 
 ### How EMDR works
 
@@ -77,15 +77,15 @@ To use the tool with a therapist who is using a separate device, set the Pairing
 
 ![](/assets/emdr2.png)
 
-Adjust the pitch and volume of the sound to whatever you prefer. If you do not plan to use the sounds, press the Mute button <i class="fa fa-volume-off"></i> or set the volume to zero:
+Adjust the pitch and volume of the sound to whatever you prefer. If you do not plan to use the sounds, release the Sound button <i class="fa fa-volume-up"></i> or set the volume to zero:
 
 ![](/assets/emdr3.png)
 
-If you plan to use eye movements, either alone or with sound, ensure that the full screen button, <i class="fa fa-arrows-alt"></i>, is pressed:
+If you plan to use eye movements, either alone or with sound, ensure Eye movement button, <i class="fa fa-arrows-h"></i>, is pressed:
 
 ![](/assets/emdr5.png)
 
-(If full screen is not available on your device, then you cannot use eye movements effectively with that device.)
+(If full screen is not available on your device, then you cannot use eye movements effectively with that device and the Eye movement button is disabled.)
 
 Adjust the size and color of the moving disc to whatever you prefer.
 
