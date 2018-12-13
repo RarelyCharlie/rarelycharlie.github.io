@@ -81,7 +81,7 @@ Adjust the pitch and volume of the sound to whatever you prefer. If you do not p
 
 ![](/assets/emdr3.png)
 
-If you plan to use eye movements, either alone or with sound, ensure Eye movement button, <i class="fa fa-arrows-h"></i>, is pressed:
+If you plan to use eye movements, either alone or with sound, ensure that the Eye movement button, <i class="fa fa-arrows-h"></i>, is pressed:
 
 ![](/assets/emdr5.png)
 
@@ -119,7 +119,7 @@ You must be in voice contact with your client. You could be in the same room or 
 
 On your own device, go to the web page, [EMDR]()
 
-Open the Settings panel and in the Pairing section choose Therapist. Wait for the service to tell you the PIN that identifies the session. This can take 15 seconds or so.
+Open the Settings panel and in the Pairing section choose Therapist. Wait for the EMDR service to tell you the PIN that identifies the session. This can take 15 seconds or so.
 
 ![](/assets/emdr4.png)
 
@@ -129,7 +129,7 @@ Close the Settings panel. You are now ready to go.
 
 Use the space bar or the Play <i class="fa fa-play"></i> and Pause <i class="fa fa-pause"></i> buttons to start and stop the EMDR stimulus on your client's paired device.
 
-On your device both the sound and full-screen eye movement are disabled. You see the indicator when the EMDR stimulus is running. You might hear the sounds from your client's device if they are using speakers, but it's unlikely that they will synchronize perfectly with the indicator.
+On your device both the sound and full-screen eye movement are disabled. You see the indicator when the EMDR stimulus is running. You might hear the sounds from your client's device if they are using speakers, but it's unlikely that they will synchronize perfectly with the indicator that you can see.
 
 Use the left arrow key <i class="fa fa-arrow-left"></i> to slow the stimulus when your client feels comfortable with the memory they are experiencing. Use the right arrow key <i class="fa fa-arrow-right"></i> to speed up the stimulus and block your client's unhelpful emotions, so they can experience their memories in more detail.
 
