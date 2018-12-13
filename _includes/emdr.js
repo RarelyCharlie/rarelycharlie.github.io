@@ -480,12 +480,31 @@ Persist = {
 		else Remote.pin = data.pin || ''
 		Remote.id = data.id || now + '-' + ('0'.repeat(11) + Math.round(1e12 * Math.random())).slice(-12)
 		window.onunload = this.save
+
+		for (let control of ['unmute', 'full', 'pitch', 'volume', 'size', 'hue']) {
+			if (control in data) {
+				let e = UI[control]
+				if ('isDown' in e) UI.toggle(e, data[control]) // button
+				else { // range
+					e.value = data[control]
+					Pinger.vary(control, e)
+					}
+				}
+			} 
 		},
 
 	save: function () {
-		localStorage.setItem('emdr', JSON.stringify(
-			{id: Remote.id, pin: Remote.pin, at: (new Date).valueOf()}
-			))
+		localStorage.setItem('emdr', JSON.stringify({
+			id: Remote.id,
+			pin: Remote.pin,
+			at: (new Date).valueOf(),
+			unmute: UI.unmute.isDown,
+			full: UI.full.isDown,
+			pitch: UI.pitch.value,
+			volume: UI.volume.value,
+			size: UI.size.value,
+			hue: UI.hue.value
+			}))
 		}
 	}
 	
