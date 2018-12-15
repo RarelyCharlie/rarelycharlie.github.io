@@ -65,6 +65,8 @@ If you are a therapist working live with a client in the room, then either your 
 
 If your client is using a separate device (either in the room or remotely), then your own device does not need to be able to play the sounds or display the eye movements. Your device only controls the EMDR tool on your client's separate device. You could use a small mobile device to control the EMDR tool.
 
+It may often be useful to set aside some time in a therapy session just to test the setup and become familiar with the EMDR tool, before using EMDR for real in subsequent sessions.
+
 #### Internet connection
 
 When the EMDR tool is used on one device, it does not require an Internet connection. You only need an Internet connection initially to load the webpage. After that you can use the EMDR tool offline.
