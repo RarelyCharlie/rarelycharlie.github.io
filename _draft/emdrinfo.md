@@ -5,7 +5,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 ---
 This guide describes a free online EMDR tool on this site that anyone can use.  It is mainly intended for therapists to use with their clients, but it might also be possible to use the tool on your own without a therapist.
 
-<div style="border: 1px solid #a00; padding: 1ex; margin-left: -1ex; color: #a00; background: #fee;"><strong>Note:</strong> The EMDR tool described here is currently experimental. It is provided with no warranty whatsoever under any circumstances.</div>
+<div style="border: 1px solid #a00; padding: 1ex; margin-left: -1ex; color: #a00; background: #fee;"><strong style="letter-spacing: 1px;">Note:</strong> The EMDR tool described here is currently experimental. It is provided with no warranty whatsoever under any circumstances.</div>
 
 ### Brief guide
 
