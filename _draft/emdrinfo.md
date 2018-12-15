@@ -5,9 +5,13 @@ feedback: https://www.7cups.com/@RarelyCharlie
 ---
 This guide describes a free online EMDR tool on this site that anyone can use.  It is mainly intended for therapists to use with their clients, but it might also be possible to use the tool on your own without a therapist.
 
+<div style="border: 1px solid #a00; padding: 1ex; margin-left: -1ex; color: #a00; background: #fee;"><strong>Note:</strong> The EMDR tool described here is currently experimental. It is provided with no warranty whatsoever under any circumstances.</div>
+
 ### Brief guide
 
 In brief, for anyone familiar with EMDR who doesn't want to read all the details...
+
+The EMDR tool is here: [EMDR](./emdr)
 
 - This tool can be used by one person or by two (therapist and client). If a therapist and a client are using it, they can use one computer or two (therapist and client). A therapist can use the tool in face-to-face, online (voice) and telephone sessions.
 
@@ -61,11 +65,17 @@ If you are a therapist working live with a client in the room, then either your 
 
 If your client is using a separate device (either in the room or remotely), then your own device does not need to be able to play the sounds or display the eye movements. Your device only controls the EMDR tool on your client's separate device. You could use a small mobile device to control the EMDR tool.
 
+#### Internet connection
+
+When the EMDR tool is used on one device, it does not require an Internet connection. You only need an Internet connection initially to load the webpage. After that you can use the EMDR tool offline.
+
+When the EMDR tool is used on paired devices, then both devices require Internet connection throughout the session.
+
 ### For clients—Setting up the EMDR tool
 
 To use the EMDR tool as the client (either with a therapist, or on your own), go to the webpage to set up the tool:
 
-[EMDR](./emdr.md)
+[EMDR](./emdr)
 
 Open the Settings panel. This will start the side-to-side sounds together with a movement indicator. The indicator is too small to be used for side-to-side eye movement. It is only there to indicate when the tool is running:
 
