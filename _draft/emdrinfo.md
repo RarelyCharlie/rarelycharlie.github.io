@@ -23,7 +23,7 @@ EMDR is a technique that therapists use in the treatment of various mental healt
 
 EMDR is not completely understood. When it was first developed, it used side-to-side eye movements to make it easier for PTSD sufferers to reprocess remembered traumatic events from their past with less sensitivity to emotion. This is the reason for the name EMDR—Eye Movement Desensitisation Reprocessing. Since then, some researchers have found that side-to-side sounds or side-to-side touch work equally well.
 
-The EMDR tool described here provides both side-to-side eye movements and side-to-side sounds, but not touch. The eye-movements and sounds can be used together or separately.
+The EMDR tool described here provides both side-to-side eye movements and side-to-side sounds, but not touch. The eye-movements and sounds can be used together or separately. EMDR works with eye movements alone or sounds alone. There is no great advantage in using them both together.
 
 In an EMDR session, the client remembers a significant past event in as much detail as possible. The therapist uses the side-to-side stimulus to dampen down strong emotions that would otherwise block the client's remembering. When a lot of emotional blocking is needed, the therapist speeds up the side-to-side stimulus. When not much emotional blocking is needed, the therapist slows down the side-to-side stimulus.
 
@@ -43,8 +43,6 @@ To use the eye movements part of the tool, you need a computer with a fairly lar
 
 Your distance from the screen should be a little less than the width of the screen, so that when your eyes move from one side of the screen to the other, without moving your head, they move through an angle of about 90°. You cannot use a small laptop, a tablet, or any other mobile device unless you can connect it to a large screen and use the whole screen.
 
-If you are working live with a therapist in the room, then either the computer must have a separate keyboard, or the therapist must use a separate device (which could be a mobile device).
-
 On a device that does not support full screen eye movement, the eye movement settings are not available.
 
 #### Sounds
@@ -55,9 +53,13 @@ If you are working live with a therapist in the room, or with a therapist on the
 
 If you are working with a therapist online, then any kind of headphones or ear buds will work well, and noise-canceling types may be better.
 
-If you are a therapist and your client is using their own device, then your device does not need to be able to play the sounds. The sounds only play on your client's device. You could use a small mobile device to control the EMDR tool.
-
 On a device that does not support the sounds, the sound settings are not available.
+
+#### Therapists
+
+If you are a therapist working live with a client in the room, then either your computer must have a separate keyboard, or your client must use a separate device.
+
+If your client is using a separate device (either in the room or remotely), then your own device does not need to be able to play the sounds or display the eye movements. Your device only controls the EMDR tool on your client's separate device. You could use a small mobile device to control the EMDR tool.
 
 ### For clients—Setting up the EMDR tool
 
