@@ -115,7 +115,7 @@ To return from full screen to the web page, press the Esc key or the F11 key.
 
 ### For therapists—EMDR with two devices
 
-To use the EMDR tool with two devices, either in the same room or remotely, you can set up your own device up to an hour in advance, if you wish, or you can set it up during the session.
+To use the EMDR tool with two devices, either in the same room or remotely, you can set up your own device up to an hour in advance, if you wish, or you can set it up during the session (which normally takes less than a minute).
 
 You must be in voice contact with your client. You could be in the same room or remote from each other. Your client must also have access to the EMDR tool. Invite your client to set up the EMDR tool as described in the section above.
 
@@ -138,3 +138,5 @@ Use the left arrow key <i class="fa fa-arrow-left"></i> to slow the stimulus whe
 These keys only do this when the Settings panel is closed.
 
 The PIN remains valid for at least an hour after it is last used. You can use the same PIN with more than one client if the sessions follow with a break of less than an hour or so. After the PIN expires, the tool will allocate a new PIN automatically when you start a new session. The PIN can never expire in the middle of a session.
+
+Note that the PIN is not valid on the same device that it was issued to. When you want to use a single device, set the Pairing to None so that no PIN is needed.
