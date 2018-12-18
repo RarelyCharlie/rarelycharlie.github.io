@@ -300,7 +300,6 @@ Remote = {
 		},
 
 	api: async function (action, data) {
-		console.log('api: ' + action + ' ' + JSON.stringify(data))
 		if (!action) return
 		if (!data) data = {}
 		data.action = action
@@ -314,12 +313,10 @@ Remote = {
 				})
 			}
 		catch (e) {
-			console.log('+++ ERROR ' + e)
 			return [0, 'No connection']
 			}
 		if (response) {
 			var body = await response.text()
-			console.log('  +api: ' + response.status + ' ' + body)
 			return [response.status, body]
 			}
 		else return [404, 'Not found']
@@ -330,25 +327,20 @@ Remote = {
 
 		UI.hide('connect-wait', false)
 		var [status, data] = await this.api('notify', {id: this.id, mode: this.mode})
-		console.log('connect: ' + status + ' ' + data)
 		var [status, data] = await this.api('read', {pin: this.pin})
-		console.log('  initial read: ' + data)
 		UI.hide('connect-wait', true)
 		if (status == 200 ) {
 			UI['client-connected'].className = ''
 			var s = parseInt(data)
 			this.speed = s
 			if (s == 0) { // stop...
-				console.log('connected, stopped')
 				this.idle(true)
 				Pinger.stop()
 				}
 			else { // set speed...
-				console.log('connected, speed ' + s)
 				UI.speed.value = Math.round(60000 / s)
 				Pinger.vary('speed', UI.speed)
 				this.idle(false)
-				console.log('  run now!')
 				Pinger.run()
 				}
 			}
@@ -365,7 +357,6 @@ Remote = {
 		},
 
 	idle: function (idle) { // free-running poll while stopped...
-		console.log('>>> idle ' + idle) 
 		if (idle && !this.idler) this.idler = setInterval(function () {Remote.poll(true)}, 2000)
 		else if (!idle && this.idler) this.idler = clearInterval(this.idler), 0
 		},
@@ -379,12 +370,10 @@ Remote = {
 			}
 		
 		var [status, data] = await this.api('read', {pin: this.pin})
-		console.log('poll: ' + data)
 		if (status == 200 ) {
 			var swas = this.speed, s = parseInt(data)
 			this.speed = s
 			if (s == 0) { // stop...
-				console.log('poll: stopped, idling...' + swas)
 				if (swas) this.idle(true), Pinger.stop()
 				}
 			else { // set speed...
@@ -392,7 +381,6 @@ Remote = {
 					this.idle(false)
 					UI.speed.value = Math.round(60000 / s)
 					Pinger.vary('speed', UI.speed)
-					console.log('poll: speed ' + s)
 					Pinger.run()
 					}
 				}
@@ -408,8 +396,6 @@ Remote = {
 		},
 
 	setmode: async function (m) { // 0 = single, 1 = client, 2 = therapist
-		console.log('setmode ' + m)
-		
 		var pin = UI.pin
 		pin.value = ''
 		
@@ -433,7 +419,6 @@ Remote = {
 			UI.hideinline('pin', true)
 			UI.hide('connect-wait', false)
 			var [status, data] = await this.api('notify', {id: this.id, mode: 2})
-			console.log('notify: ' + status + ' ' + data)
 			if (status == 200) {
 				UI.hideinline('pin', false)
 				UI.hide('connect-wait', true)
@@ -467,7 +452,6 @@ Remote = {
 
 	update: function (v) {
 		if (this.mode != 2) return // only therapist sends updates		
-		console.log('Remote update: ' + v)
 		this.api('update', {pin: this.pin, value: v})
 		}
 	
@@ -529,7 +513,7 @@ UI = {
 
 	disable: function (id, disable) { // disable label and control...
 		var r = this[id]
-		if (!r) console.log('disable ' + id + ' failed')
+		if (!r) return
 		r.disabled = disable
 		if (r.parentNode.tagName == 'LABEL') {
 			r.parentNode.className = (disable? 'disabled' : '')
