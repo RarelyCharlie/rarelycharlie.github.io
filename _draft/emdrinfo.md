@@ -131,7 +131,7 @@ To use the EMDR tool with two devices, either in the same room or remotely, you 
 
 You must be in voice contact with your client. You could be in the same room or remote from each other. Your client must also have access to the EMDR tool. Invite your client to set up the EMDR tool as described in the section above.
 
-On your own device, go to the web page, [EMDR]()
+On your own device, go to the web page: [EMDR]()
 
 Open the Settings panel and in the Pairing section choose Therapist. Wait for the EMDR service to tell you the PIN that identifies the session. This can take 15 seconds or so.
 
@@ -145,9 +145,9 @@ Use the space bar or the Play <i class="fa fa-play"></i> and Pause <i class="fa 
 
 On your device both the sound and full-screen eye movement are disabled. You see the indicator when the EMDR stimulus is running. You might hear the sounds from your client's device if they are using speakers, but it's unlikely that they will synchronize perfectly with the indicator that you can see.
 
-Use the left arrow key <i class="fa fa-arrow-left"></i> to slow the stimulus when your client feels comfortable with the memory they are experiencing. Use the right arrow key <i class="fa fa-arrow-right"></i> to speed up the stimulus and block your client's unhelpful emotions, so they can experience their memories in more detail.
+Use the left arrow key <i class="fa fa-arrow-left"></i> to slow the stimulus when your client feels comfortable with the memory they are experiencing. Use the right arrow key <i class="fa fa-arrow-right"></i> to speed up the stimulus and block your client's unhelpful emotions, so they can experience their memories in more detail. Alternatively, use the Speed control on the web page to control the speed.
 
-These keys only do this when the Settings panel is closed.
+The keys only control the EMDR stimulus when the Settings panel is closed.
 
 The PIN remains valid for at least an hour after it is last used. You can use the same PIN with more than one client if the sessions follow with a break of less than an hour or so. After the PIN expires, the tool will allocate a new PIN automatically when you start a new session. The PIN can never expire in the middle of a session.
 
