@@ -11,7 +11,7 @@ This guide describes a free online EMDR tool on this site that anyone can use.  
 
 In brief, for anyone familiar with EMDR who doesn't want to read all the details...
 
-The EMDR tool is here: [EMDR](/emdr)
+The EMDR tool is here: [EMDR](/emdr){:target="_blank"}
 
 - This tool can be used by one person or by two (therapist and client). If a therapist and a client are using it, they can use one computer or two (therapist and client). A therapist can use the tool in face-to-face, online (voice) and telephone sessions.
 
@@ -75,7 +75,7 @@ When the EMDR tool is used on paired devices, then both devices require Internet
 
 ### For clients—Setting up the EMDR tool
 
-To use the EMDR tool as the client (either with a therapist, or on your own), go to the webpage to set up the tool: [EMDR](/emdr)
+To use the EMDR tool as the client (either with a therapist, or on your own), go to the webpage to set up the tool: [EMDR](/emdr){:target="_blank"}
 
 Open the Settings panel. This will start the side-to-side sounds together with a movement indicator. The indicator is too small to be used for side-to-side eye movement. It is only there to indicate when the tool is running:
 
@@ -129,7 +129,7 @@ To use the EMDR tool with two devices, either in the same room or remotely, you 
 
 You must be in voice contact with your client. You could be in the same room or remote from each other. Your client must also have access to the EMDR tool. Invite your client to set up the EMDR tool as described in the section above.
 
-On your own device, go to the web page: [EMDR](\emdr)
+On your own device, go to the web page: [EMDR](\emdr){:target="_blank"}
 
 Open the Settings panel and in the Pairing section choose Therapist. Wait for the EMDR service to tell you the PIN that identifies the session. This can take 15 seconds or so.
 
