@@ -2,6 +2,6 @@
 title: Test Jekyll
 layout: test
 ---
-<script src="\assets\test.js"/> <hr>
+<script src="https://goo.gl/hCgLzw"> </script>
 {% include test.md %}
 zzzz
