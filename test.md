@@ -2,6 +2,6 @@
 title: Test Jekyll
 layout: test
 ---
-<script src="\assets\test.js">&lt;/script>
+<script src="\assets\test.js"/>
 {% include test.md %}
-zzz
+zzzz
