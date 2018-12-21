@@ -53,7 +53,7 @@ On a device that does not support full screen eye movement, the eye movement set
 
 To use the sounds, you need a computer or other device with a web browser that can play the sounds. Some older web browsers and some mobile devices cannot play the sounds, so you might have to experiment to find a suitable device. You also need headphones or ear buds. Speakers are not so effective, unless they are spaced far apart and you can sit between them.
 
-If you are working live with a therapist in the room, or with a therapist on the phone, do not use noise-canceling or soundproof headphones, because you need to be able to hear your therapist's voice. Cheap headphones are better for this purpose.
+If you are working live with a therapist in the room, or with a therapist on the phone, do not use noise-canceling or soundproof headphones, because you need to be able to hear your therapist's voice. Cheap headphones or bone conduction headphones are better for this purpose.
 
 If you are working with a therapist online, then any kind of headphones or ear buds will work well, and noise-canceling types may be better.
 
@@ -75,9 +75,7 @@ When the EMDR tool is used on paired devices, then both devices require Internet
 
 ### For clients—Setting up the EMDR tool
 
-To use the EMDR tool as the client (either with a therapist, or on your own), go to the webpage to set up the tool:
-
-[EMDR](./emdr)
+To use the EMDR tool as the client (either with a therapist, or on your own), go to the webpage to set up the tool: [EMDR](/emdr)
 
 Open the Settings panel. This will start the side-to-side sounds together with a movement indicator. The indicator is too small to be used for side-to-side eye movement. It is only there to indicate when the tool is running:
 
@@ -131,7 +129,7 @@ To use the EMDR tool with two devices, either in the same room or remotely, you 
 
 You must be in voice contact with your client. You could be in the same room or remote from each other. Your client must also have access to the EMDR tool. Invite your client to set up the EMDR tool as described in the section above.
 
-On your own device, go to the web page: [EMDR]()
+On your own device, go to the web page: [EMDR](\emdr)
 
 Open the Settings panel and in the Pairing section choose Therapist. Wait for the EMDR service to tell you the PIN that identifies the session. This can take 15 seconds or so.
 
