@@ -32,6 +32,16 @@ To install each of these in turn, click the relevant link and follow the instruc
 ### Apple iOS
 Instructions for enhancing the editor in an Apple iOS web browser are not available yet. They are expected to be available by the middle of January 2019.
 
+### Using the enhancement
+
+The enhanced editor replaces the normal editor in the forums in new threads, replies to threads, and replies to posts. Ideally, it should replace the editor used when moderating posts, but this is uncertain at the time of writing.
+
+It replaces the feed editor.
+
+It does not replace the profile (About You or "bio") editor in your My Settings page.
+
+When replying in a forum thread, you can scroll up and down the thread, and you can copy text from the thread to paste in your reply. If you lose your place, the Post to Thread button at the top, any Reply button anywhere in the thread link directly to the reply you are typing.
+
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
 
