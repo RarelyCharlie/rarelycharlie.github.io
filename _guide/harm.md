@@ -702,7 +702,7 @@ You can find out more about postnatal depression by watching this video, made fo
 Listeners at 7 Cups are here to understand.
 
 - Mark each statement true or false:
-- Listeners can learn to diagnose depression by watching videos on YouTube.# Listeners should not try to diagnose.
+- Listeners should learn to diagnose depression by watching videos on YouTube.# Listeners should not try to diagnose.
 - Postnatal depression can cause worrying thoughts about babies coming to harm.#Mothers with postnatal depression often feel unable to look after their babies well.
 - Members with depression value feeling understood by listeners.#All members value feeling understood by listeners.
 - Listeners should tell members who feel depressed to call their local emergency services, and then end the chat immediately.# Depression is not an emergency, and listeners should listen to members' feelings.
