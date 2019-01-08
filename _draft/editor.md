@@ -6,7 +6,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
 The editor is the part of 7 Cups where you type posts in the forums and entries in your feed.
 
-This page describes how you might be able to enhance the editor with more features.
+This page describes how you might be able to enhance the editor with more features. The features include lists, quotes and tables.
 
 ### Who can enhance the editor
 
@@ -14,7 +14,7 @@ You can probably enhance the editor if you use 7 Cups in a web browser on a comp
 
 You might be able to enhance the editor if you use 7 Cups in a web browser on an Android device.
 
-You cannot easily enhance the editor on an Apple iOS device.
+You can enhance the editor on an Apple iOS device, but it's more awkward.
 
 You cannot enhance the editor if you use the 7 Cups App on any kind of device.
 
@@ -30,7 +30,7 @@ To enhance the editor (except on Apple iOS), you need to install two things in t
 To install each of these in turn, click the relevant link and follow the instructions.
 
 ### Apple iOS
-Instructions for enhancing the editor in an Apple iOS web browser are not available yet.
+Instructions for enhancing the editor in an Apple iOS web browser are not available yet. They are expected to be available by the middle of January 2019.
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
