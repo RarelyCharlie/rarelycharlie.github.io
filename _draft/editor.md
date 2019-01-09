@@ -32,7 +32,15 @@ To enhance the editor (except on Apple iOS), you need to install two things in t
 To install each of these in turn, click the relevant link and follow the instructions.
 
 ### Apple iOS
-Instructions for enhancing the editor in an Apple iOS web browser are not available yet. They are expected to be available by the middle of January 2019.
+*Instructions for enhancing the editor in an Apple iOS web browser are not yet complete.*
+
+Apple iOS browsers do not support Tampermonkey or similar features. This means you cannot configure Apple iOS browsers to activate the ehnanced editor automatically. However, you can activate the ehnanced editor manually each time you want to use it.
+
+These instructions are for the Safari browser. Similar methods are likely to work in other Apple iOS browsers.
+
+To set up the enhanced editor, create a bookmarklet as follows... *[to be completed]*
+
+To use the enhanced editor in a 7 Cups webpage, go to the webpage and tap the bookmarklet's icon. A message in the webpage tells you the enhanced editor is active. Then you can use the enhanced editor in that web page. If you reload the page, or if you go to a different page, then the enhanced editor is no longer active. To make it active again you must use the bookmarklet again.
 
 ### Using the enhancement
 
