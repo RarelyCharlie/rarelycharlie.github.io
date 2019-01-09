@@ -6,7 +6,9 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
 The editor is the part of 7 Cups where you type posts in the forums and entries in your feed.
 
-This page describes how you might be able to enhance the editor with more features. The features include lists, quotes and tables.
+This page describes how you might be able to enhance the editor with more features. The features include lists, quotes, and tables.
+
+Some of the other features in the enhanced editor are experimental, and some of them might not work. The enhanced editor is only supported on a best efforts basis without any guarantees.
 
 ### Who can enhance the editor
 
@@ -47,3 +49,5 @@ If you want to remove the enhancement, you can temporarily disable the script or
 
 ### Feedback
 To provide feedback to the author, go to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and send a message.
+
+7 Cups does not provide any support for the enhanced editor. Please do not contact 7 Cups support about it, because no one at 7 Cups can help. Instead, provide feedback to the author.
