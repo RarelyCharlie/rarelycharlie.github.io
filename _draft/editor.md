@@ -55,8 +55,17 @@ When replying in a forum thread, you can scroll up and down the thread, and you 
 However, if you switch to another page in a long thread you lose the reply you are typing. To copy text from another page, open it in a new browser tab or window.
 
 ### Example
+This example show a reply in a forum:
 
 ![Editor example](/assets/editor.png){:style="width:616px;height:299px;"}
+
+To create a table like this press the Table button (on the bottom row, 4th from the right). In the dialog that pops up the number of rows is already 3. Change the number of columns to 8, the width to 100%, and press OK.
+
+Type the text in the table now or leave it for later.
+
+Select the top row and press the Bold button.
+
+Select the bottom two rows, right-click to get a context menu, choose Cell – Cell Properties, and set the background color (to #ffddbb in this example—[color names](https://www.w3schools.com/colors/colors_names.asp) and all the other standard ways to specify colors also work).
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
