@@ -54,6 +54,10 @@ When replying in a forum thread, you can scroll up and down the thread, and you 
 
 However, if you switch to another page in a long thread you lose the reply you are typing. To copy text from another page, open it in a new browser tab or window.
 
+### Example
+
+![Editor example](./assets/editor.png){:style="width:616px;height:299px;"}
+
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
 
