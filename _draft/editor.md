@@ -16,7 +16,7 @@ You can probably enhance the editor if you use 7 Cups in a web browser on a comp
 
 You might be able to enhance the editor if you use 7 Cups in a web browser on an Android device.
 
-You can enhance the editor on an Apple iOS device, but it's more awkward.
+You can enhance the editor on an Apple iOS device, but it's more awkward *and the instructions are not yet available*.
 
 You cannot enhance the editor if you use the 7 Cups App on any kind of device.
 
@@ -50,7 +50,9 @@ It replaces the feed editor.
 
 It does not replace the profile (About You or "bio") editor in your My Settings page.
 
-When replying in a forum thread, you can scroll up and down the thread, and you can copy text from the thread to paste in your reply. If you lose your place, the Post to Thread button at the top, any Reply button anywhere in the thread link directly to the reply you are typing.
+When replying in a forum thread, you can scroll up and down the thread, and you can copy text from the thread to paste in your reply. If you lose your place, the Post to Thread button at the top and any Reply button anywhere in the thread link directly to the reply you are typing.
+
+However, if you switch to another page in a long thread you lose the reply you are typing. To copy text from another page, open it in a new browser tab or window.
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
