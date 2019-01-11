@@ -78,3 +78,7 @@ To provide feedback, please use the forum thread: [An enhanced editor](https://w
 Alternatively go to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and send a message.
 
 7 Cups does not provide any support for the enhanced editor. Please do not contact 7 Cups support about it, because no one at 7 Cups can help. Instead, provide feedback to the author.
+
+### Acknowledgment
+The smiley icons are provided by [Twem<span style="color:red">❤</span>ji](https://twemoji.maxcdn.com/) and delivered by [StackPath](https://www.stackpath.com/)
+
