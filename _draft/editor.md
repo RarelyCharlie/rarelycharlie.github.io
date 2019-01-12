@@ -11,7 +11,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
     lk.setAttribute('src', 'https://fonts.googleapis.com/css?family=' + f)
     lk.rel = 'stylesheet'
     document.head.append(lk)
-  }})(['Noto+Serif','Noto-Sans-Mono','Italianno','Shadows Into Light'])
+  }})(['Noto+Serif','Noto+Sans+Mono','Italianno','Shadows+Into+Light'])
 </script>
 The editor is the part of 7 Cups where you type posts in the forums and entries in your feed.
 
