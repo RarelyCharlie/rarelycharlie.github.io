@@ -92,14 +92,14 @@ All the other font choices may appear slightly different on different devices:
 **Serif** is the default serif font on the device displaying the forum. A serif font has slightly fancier letter shapes that are sometimes said to be faster to read.
 
 <table><tbody>
-<tr><td>Similar to:</td><td style="font-family:"Noto Serif";">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>Similar to:</td><td style="font-family:\"Noto Serif\";">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:serif;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
 
 **Typewriter** is the default monospaced font on the device displaying the forum. In a monospaced font every character is the same width, like typewritten text.
 
 <table><tbody>
-<tr><td>Similar to:</td><td style="font-family:"Noto Sans Mono";">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>Similar to:</td><td style="font-family:\"Noto Sans Mono\";">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:monospace;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
 
@@ -113,7 +113,7 @@ All the other font choices may appear slightly different on different devices:
 **Novelty** is the default fantasy font on the device displaying the forum. It is often an informal handwriting font with separate characters.
 
 <table><tbody>
-<tr><td>Similar to:</td><td style="font-family:"Shadows Into Light";">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>Similar to:</td><td style="font-family:\"Shadows Into Light\";">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:fantasy;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
 
