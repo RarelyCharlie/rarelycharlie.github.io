@@ -4,6 +4,15 @@ title: Enhance the editor
 linkas: false
 feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
+<script>
+(ff => {
+  for (let f of ff) {
+    let lk = document.CreateElement('LINK')
+    lk.setAttribute('src', 'https://fonts.googleapis.com/css?family=' + f)
+    lk.rel = 'stylesheet'
+    document.head.append(lk)
+  }})(['Noto+Serif'])
+</script>
 The editor is the part of 7 Cups where you type posts in the forums and entries in your feed.
 
 This page describes how you might be able to enhance the editor with more features. The features include lists, quotes, tables, and extra simleys.
