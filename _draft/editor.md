@@ -74,6 +74,10 @@ The enhanced editor supports five font choices:
 
 **7 Cups** is the normal font used in 7 Cups forums (and on the page you are reading now). This normally appears identical on every device.
 
+<table><tbody>
+<tr><td>On this device:</td><td style="font-family:Raleway,sans-serif;">Pack my box with five dozen liquor jugs.</td></tr>
+</tbody></table>
+
 All the other font choices may appear slightly different on different devices:
 
 **Serif** is the default serif font on the device displaying the forum. A serif font has slightly fancier letter shapes that are sometimes said to be faster to read.
@@ -85,9 +89,24 @@ All the other font choices may appear slightly different on different devices:
 
 **Typewriter** is the default monospaced font on the device displaying the forum. In a monospaced font every character is the same width, like typewritten text.
 
+<table><tbody>
+<tr><td>Intended:</td><td style="font-family:monospace;">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>On this device:</td><td style="font-family:monospace;">Pack my box with five dozen liquor jugs.</td></tr>
+</tbody></table>
+
 **Cursive** is the default cursive font on the device displaying the forum. In a cursive font the letters join up, like formal joined-up handwriting.
 
+<table><tbody>
+<tr><td>Intended:</td><td style="font-family:cursive;">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>On this device:</td><td style="font-family:cursive;">Pack my box with five dozen liquor jugs.</td></tr>
+</tbody></table>
+
 **Novelty** is the default fantasy font on the device displaying the forum. It is often an informal handwriting font with separate characters.
+
+<table><tbody>
+<tr><td>Intended:</td><td style="font-family:fantasy;">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>On this device:</td><td style="font-family:fantasy;">Pack my box with five dozen liquor jugs.</td></tr>
+</tbody></table>
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
