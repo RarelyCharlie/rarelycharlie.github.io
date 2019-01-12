@@ -78,8 +78,10 @@ All the other font choices may appear slightly different on different devices:
 
 **Serif** is the default serif font on the device displaying the forum. A serif font has slightly fancier letter shapes that are sometimes said to be faster to read.
 
-|Intended:|Pack my box with five dozen liquor jugs.{: style="font-family:serif;"}|
-|On this device:|<span style="font-family:serif;">Pack my box with five dozen liquor jugs.</style>|
+<table><tbody>
+<tr<td>Intended:</td><td style="font-family:serif;">Pack my box with five dozen liquor jugs.</td></tr>
+<tr<td>On this device:</td><td style="font-family:serif;">Pack my box with five dozen liquor jugs.</td></tr>
+</tbody></table>
 
 **Typewriter** is the default monospaced font on the device displaying the forum. In a monospaced font every character is the same width, like typewritten text.
 
