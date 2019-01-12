@@ -78,19 +78,14 @@ All the other font choices may appear slightly different on different devices:
 
 **Serif** is the default serif font on the device displaying the forum. A serif font has slightly fancier letter shapes that are sometimes said to be faster to read.
 
+|Intended:|<span style="font-family:serif;">Pack my box with five dozen liquor jugs.</style>|
+|On this device:|<span style="font-family:serif;">Pack my box with five dozen liquor jugs.</style>|
+
 **Typewriter** is the default monospaced font on the device displaying the forum. In a monospaced font every character is the same width, like typewritten text.
 
 **Cursive** is the default cursive font on the device displaying the forum. In a cursive font the letters join up, like formal joined-up handwriting.
 
 **Novelty** is the default fantasy font on the device displaying the forum. It is often an informal handwriting font with separate characters.
-
-You can check how the five font choices appear on the device you are using now:
-
-|7 Cups    |Pack my box with five dozen liquor jugs.|
-|Serif     |Pack my box with five dozen liquor jugs.|
-|Typewriter|Pack my box with five dozen liquor jugs.|
-|Cursive   |Pack my box with five dozen liquor jugs.|
-|Novelty   |Pack my box with five dozen liquor jugs.|
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
