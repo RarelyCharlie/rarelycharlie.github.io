@@ -11,7 +11,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
     lk.setAttribute('src', 'https://fonts.googleapis.com/css?family=' + f)
     lk.rel = 'stylesheet'
     document.head.append(lk)
-  }})(['Noto+Serif'])
+  }})(['Noto+Serif','Noto-Sans-Mono','Italianno','Shadows Into Light'])
 </script>
 The editor is the part of 7 Cups where you type posts in the forums and entries in your feed.
 
@@ -92,28 +92,28 @@ All the other font choices may appear slightly different on different devices:
 **Serif** is the default serif font on the device displaying the forum. A serif font has slightly fancier letter shapes that are sometimes said to be faster to read.
 
 <table><tbody>
-<tr><td>Similar to:</td><td style="font-family:serif;">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>Similar to:</td><td style="font-family:"Noto Serif";">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:serif;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
 
 **Typewriter** is the default monospaced font on the device displaying the forum. In a monospaced font every character is the same width, like typewritten text.
 
 <table><tbody>
-<tr><td>Similar to:</td><td style="font-family:monospace;">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>Similar to:</td><td style="font-family:"Noto Sans Mono";">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:monospace;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
 
 **Cursive** is the default cursive font on the device displaying the forum. In a cursive font the letters join up, like formal joined-up handwriting.
 
 <table><tbody>
-<tr><td>Similar to:</td><td style="font-family:cursive;">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>Similar to:</td><td style="font-family:Italianno;">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:cursive;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
 
 **Novelty** is the default fantasy font on the device displaying the forum. It is often an informal handwriting font with separate characters.
 
 <table><tbody>
-<tr><td>Similar to:</td><td style="font-family:fantasy;">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>Similar to:</td><td style="font-family:"Shadows Into Light";">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:fantasy;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
 
