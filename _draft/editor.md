@@ -7,7 +7,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 <script>
 (ff => {
   for (let f of ff) {
-    let lk = document.CreateElement('LINK')
+    let lk = document.createElement('LINK')
     lk.setAttribute('src', 'https://fonts.googleapis.com/css?family=' + f)
     lk.rel = 'stylesheet'
     document.head.append(lk)
