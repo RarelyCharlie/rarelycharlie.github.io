@@ -8,7 +8,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 (ff => {
   for (let f of ff) {
     let lk = document.createElement('LINK')
-    lk.setAttribute('src', 'https://fonts.googleapis.com/css?family=' + f)
+    lk.setAttribute('href', 'https://fonts.googleapis.com/css?family=' + f)
     lk.rel = 'stylesheet'
     document.head.append(lk)
   }})(['Noto+Serif','Noto+Sans+Mono','Italianno','Shadows+Into+Light'])
