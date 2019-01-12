@@ -92,30 +92,36 @@ All the other font choices may appear slightly different on different devices:
 **Serif** is the default serif font on the device displaying the forum. A serif font has slightly fancier letter shapes that are sometimes said to be faster to read.
 
 <table><tbody>
-<tr><td>Intended:</td><td style="font-family:serif;">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>Similar to:</td><td style="font-family:serif;">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:serif;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
 
 **Typewriter** is the default monospaced font on the device displaying the forum. In a monospaced font every character is the same width, like typewritten text.
 
 <table><tbody>
-<tr><td>Intended:</td><td style="font-family:monospace;">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>Similar to:</td><td style="font-family:monospace;">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:monospace;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
 
 **Cursive** is the default cursive font on the device displaying the forum. In a cursive font the letters join up, like formal joined-up handwriting.
 
 <table><tbody>
-<tr><td>Intended:</td><td style="font-family:cursive;">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>Similar to:</td><td style="font-family:cursive;">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:cursive;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
 
 **Novelty** is the default fantasy font on the device displaying the forum. It is often an informal handwriting font with separate characters.
 
 <table><tbody>
-<tr><td>Intended:</td><td style="font-family:fantasy;">Pack my box with five dozen liquor jugs.</td></tr>
+<tr><td>Similar to:</td><td style="font-family:fantasy;">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:fantasy;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
+
+If serif and typewriter don't work on your device, you can almost always fix this by changing the font settings in your web browser or in your operating system.
+
+If cursive and novelty don't work on your device, you might sometimes be able to fix this by changing the font settings in your web browser or in your operating system. If not, you can use the enhanced editor to fix it. Log in to 7 Cups and go to your My Settings page. In the Display Preferences section, check the box: Load extra fonts in forums
+
+Always be aware that other people who read your forum posts might not see the font effects the way you do. They might not see them at all. Therefore do not rely on font effects to convey important information.
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
