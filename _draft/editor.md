@@ -79,6 +79,7 @@ Select the top row and press the Bold button.
 Select the bottom two rows, right-click to get a context menu, choose Cell – Cell Properties, and set the background color (to #ffddbb in this example—[color names](https://www.w3schools.com/colors/colors_names.asp) and all the other standard ways to specify colors also work).
 
 ### Fonts
+<style>td img {height: 30px; position: relative; top: 4px;}</style>
 The enhanced editor supports five font choices:
 
 **7 Cups** is the normal font used in 7 Cups forums (and on the page you are reading now). This normally appears identical on every device.
@@ -92,28 +93,28 @@ All the other font choices may appear slightly different on different devices:
 **Serif** is the default serif font on the device displaying the forum. A serif font has slightly fancier letter shapes that are sometimes said to be faster to read.
 
 <table><tbody>
-<tr><td>Similar to:</td><td><img src="/assets/editor-serif.png" height="30"></td></tr>
+<tr><td>Similar to:</td><td><img src="/assets/editor-serif.png"></td></tr>
 <tr><td>On this device:</td><td style="font-family:serif;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
 **Typewriter** is the default monospaced font on the device displaying the forum. In a monospaced font every character is the same width, like typewritten text.
 
 <table><tbody>
-<tr><td>Similar to:</td><td><img src="/assets/editor-typewriter.png" height="30"></td></tr>
+<tr><td>Similar to:</td><td><img src="/assets/editor-typewriter.png"></td></tr>
 <tr><td>On this device:</td><td style="font-family:monospace;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
 **Cursive** is the default cursive font on the device displaying the forum. In a cursive font the letters join up, like formal joined-up handwriting.
 
 <table><tbody>
-<tr><td>Similar to:</td><td><img src="/assets/editor-cursive.png" height="30"></td></tr>
+<tr><td>Similar to:</td><td><img src="/assets/editor-cursive.png"></td></tr>
 <tr><td>On this device:</td><td style="font-family:cursive;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
 **Novelty** is the default fantasy font on the device displaying the forum. It is often an informal handwriting font with separated characters.
 
 <table><tbody>
-<tr><td>Similar to:</td><td><img src="/assets/editor-novelty.png" height="30"></td></tr>
+<tr><td>Similar to:</td><td><img src="/assets/editor-novelty.png"></td></tr>
 <tr><td>On this device:</td><td style="font-family:fantasy;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
