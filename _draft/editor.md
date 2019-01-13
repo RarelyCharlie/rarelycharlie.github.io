@@ -4,7 +4,7 @@ title: Enhance the editor
 linkas: false
 feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
-<script>
+<!-- script>
 (ff => {
   for (let f of ff) {
     let lk = document.createElement('LINK')
@@ -12,7 +12,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
     lk.rel = 'stylesheet'
     document.head.append(lk)
   }})(['Noto+Serif','Noto+Sans+Mono','Italianno','Shadows+Into+Light'])
-</script>
+</script -->
 The editor is the part of 7 Cups where you type posts in the forums and entries in your feed.
 
 This page describes how you might be able to enhance the editor with more features. The features include lists, quotes, tables, and extra simleys.
@@ -92,6 +92,7 @@ All the other font choices may appear slightly different on different devices:
 **Serif** is the default serif font on the device displaying the forum. A serif font has slightly fancier letter shapes that are sometimes said to be faster to read.
 
 <table><tbody>
+<tr><td>Similar to:</td><td>[Serif](/assets/editor-serif.png)</td></tr>
 <tr><td>Similar to:</td><td style="font-family:'Noto Serif';">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:serif;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
@@ -99,6 +100,7 @@ All the other font choices may appear slightly different on different devices:
 **Typewriter** is the default monospaced font on the device displaying the forum. In a monospaced font every character is the same width, like typewritten text.
 
 <table><tbody>
+<tr><td>Similar to:</td><td>[Serif](/assets/editor-monospace.png)</td></tr>
 <tr><td>Similar to:</td><td style="font-family:'Noto Sans Mono';">Pack my box with five dozen liquor jugs.</td></tr>
   <tr><td>On this device:</td><td style="font-family:monospace;">Pack my box with f<i></i>ive dozen liquor jugs.</td></tr>
 </tbody></table>
@@ -106,6 +108,7 @@ All the other font choices may appear slightly different on different devices:
 **Cursive** is the default cursive font on the device displaying the forum. In a cursive font the letters join up, like formal joined-up handwriting.
 
 <table><tbody>
+<tr><td>Similar to:</td><td>[Serif](/assets/editor-cursive.png)</td></tr>
 <tr><td>Similar to:</td><td style="font-family:Italianno;">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:cursive;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
@@ -113,6 +116,7 @@ All the other font choices may appear slightly different on different devices:
 **Novelty** is the default fantasy font on the device displaying the forum. It is often an informal handwriting font with separate characters.
 
 <table><tbody>
+<tr><td>Similar to:</td><td>[Serif](/assets/editor-novelty.png)</td></tr>
 <tr><td>Similar to:</td><td style="font-family:'Shadows Into Light';">Pack my box with five dozen liquor jugs.</td></tr>
 <tr><td>On this device:</td><td style="font-family:fantasy;">Pack my box with five dozen liquor jugs.</td></tr>
 </tbody></table>
