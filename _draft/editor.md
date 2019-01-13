@@ -100,7 +100,7 @@ All the other font choices may appear slightly different on different devices:
 
 <table><tbody>
 <tr><td>Similar to:</td><td style="font-family:'Noto Sans Mono';">Pack my box with five dozen liquor jugs.</td></tr>
-<tr><td>On this device:</td><td style="font-family:monospace;">Pack my box with five dozen liquor jugs.</td></tr>
+  <tr><td>On this device:</td><td style="font-family:monospace;">Pack my box with f<i></i>ive dozen liquor jugs.</td></tr>
 </tbody></table>
 
 **Cursive** is the default cursive font on the device displaying the forum. In a cursive font the letters join up, like formal joined-up handwriting.
