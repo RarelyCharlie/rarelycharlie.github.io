@@ -99,8 +99,8 @@ All the other font choices may appear slightly different on different devices:
 **Typewriter** is the default monospaced font on the device displaying the forum. In a monospaced font every character is the same width, like typewritten text.
 
 <table><tbody>
-<tr><td>Similar to:</td><td style="font-family:'Noto Sans Mono';">Woven silk pyjamas exchanged for blue quartz!</td></tr>
-  <tr><td>On this device:</td><td style="font-family:monospace;">Woven silk pyjamas exchanged for blue quartz!</td></tr>
+<tr><td>Similar to:</td><td style="font-family:'Noto Sans Mono';">Woven silk pyjamas exchanged for blue quartz?</td></tr>
+  <tr><td>On this device:</td><td style="font-family:monospace;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
 **Cursive** is the default cursive font on the device displaying the forum. In a cursive font the letters join up, like formal joined-up handwriting.
