@@ -84,7 +84,7 @@ The enhanced editor supports five font choices:
 **7 Cups** is the normal font used in 7 Cups forums (and on the page you are reading now). This normally appears identical on every device.
 
 <table><tbody>
-<tr><td>On this device:</td><td style="font-family:Raleway,sans-serif;">Woven silk pyjamas exchanged for blue quartz!</td></tr>
+<tr><td>On this device:</td><td style="font-family:Raleway,sans-serif;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
 All the other font choices may appear slightly different on different devices:
@@ -92,29 +92,29 @@ All the other font choices may appear slightly different on different devices:
 **Serif** is the default serif font on the device displaying the forum. A serif font has slightly fancier letter shapes that are sometimes said to be faster to read.
 
 <table><tbody>
-<tr><td>Similar to:</td><td style="font-family:'Noto Serif';">Woven silk pyjamas exchanged for blue quartz!</td></tr>
-<tr><td>On this device:</td><td style="font-family:serif;">Woven silk pyjamas exchanged for blue quartz!</td></tr>
+<tr><td>Similar to:</td><td style="font-family:'Noto Serif';">Fix problem quickly with galvanized jets!</td></tr>
+<tr><td>On this device:</td><td style="font-family:serif;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
 **Typewriter** is the default monospaced font on the device displaying the forum. In a monospaced font every character is the same width, like typewritten text.
 
 <table><tbody>
-<tr><td>Similar to:</td><td style="font-family:'Noto Sans Mono';">Woven silk pyjamas exchanged for blue quartz?</td></tr>
+<tr><td>Similar to:</td><td style="font-family:'Noto Sans Mono';">Fix problem quickly with galvanized jets!</td></tr>
   <tr><td>On this device:</td><td style="font-family:monospace;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
 **Cursive** is the default cursive font on the device displaying the forum. In a cursive font the letters join up, like formal joined-up handwriting.
 
 <table><tbody>
-<tr><td>Similar to:</td><td style="font-family:Italianno; font-size: 180%;">Woven silk pyjamas exchanged for blue quartz!</td></tr>
-<tr><td>On this device:</td><td style="font-family:cursive;">Woven silk pyjamas exchanged for blue quartz!</td></tr>
+<tr><td>Similar to:</td><td style="font-family:Italianno; font-size: 180%;">Fix problem quickly with galvanized jets!</td></tr>
+<tr><td>On this device:</td><td style="font-family:cursive;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
 **Novelty** is the default fantasy font on the device displaying the forum. It is often an informal handwriting font with separated characters.
 
 <table><tbody>
-<tr><td>Similar to:</td><td style="font-family:'Shadows Into Light'; font-size: 105%;">Woven silk pyjamas exchanged for blue quartz!</td></tr>
-<tr><td>On this device:</td><td style="font-family:fantasy;">Woven silk pyjamas exchanged for blue quartz!</td></tr>
+<tr><td>Similar to:</td><td style="font-family:'Shadows Into Light'; font-size: 105%;">Fix problem quickly with galvanized jets!</td></tr>
+<tr><td>On this device:</td><td style="font-family:fantasy;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
 If serif and typewriter don't work on your device, you can almost always fix this by changing the font settings in your web browser or in your operating system.
