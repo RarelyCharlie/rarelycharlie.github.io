@@ -67,15 +67,20 @@ To set up the enhanced editor, create a bookmarklet as follows:
  1. First copy this very long line of code, making sure you get all of it:
 ~~~
 javascript:with(document)void(head.appendChild(createElement('script')).src='https://greasyfork.org/scripts/36395-7-cups-forum-inline-editor/code/7%20Cups%20-%20forum%20inline%20editor.user.js
-~~~
-{:style="overflow-x: scroll;"}
+~~~ {:style="overflow-x: scroll;"}
 
  2. Bookmark any page, for example, this page.
+
  3. Go to your list of bookmarks and find the bookmark you just made.
+
  4. Tap Edit at the bottom right of the list, and then tap the new bookmark.
- 5. Change the title to something sensible, like **7 Cups editor**.
+
+ 5. Change the title to something sensible, like **7 Cups editor**
+
  6. Long-tap the URL and choose Select All.
+
  7. Paste the code, completely replacing the URL.
+
  8. On the keyboard, tap Done, and then Done in the list to cancel edit mode.
 
 To use the enhanced editor in a 7 Cups webpage, go to the webpage and tap the bookmarklet's icon. A message in the webpage tells you the enhanced editor is active. Then you can use the enhanced editor in that web page. If you reload the page, or if you go to a different page, then the enhanced editor is no longer active. To make it active again you must use the bookmarklet again.
