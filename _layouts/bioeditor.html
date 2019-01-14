@@ -49,14 +49,14 @@ a[href]:hover {text-decoration: underline;}
 <script>
 biowait = 0
 loadbio = function () {
-  document.getElementById('source').value = document.getElementById('bio').innerHTML
+  document.getElementById('source').value = document.getElementById('bio').innerHTML.trim()
   }
 showbio = function () {
   if (biowait) biowait = clearTimeout(biowait)
   setTimeout(renderbio, 800)
   }
 renderbio = function () {
-  document.getElementById('bio').innerHTML = document.getElementById('source').value
+  document.getElementById('bio').innerHTML = document.getElementById('source').value.trim()
   }
 </script>
 </head>
