@@ -1,6 +1,8 @@
 ---
 ---
-<pre>
+<div style="width: 1140px; margin: 0 auto;">
+            
+<pre style="border: 1px solid black;">
 &lt;div style="background: #F4F6F7 url(https://i.imgur.com/RuRI45G.jpg) no-repeat; font-size:17px;color:#ffffff;padding:10px;border:4px solid #ffffff;">
 &lt;strong> My Involvement&lt;/strong>&lt;br/>
 Community Mentory Leader for 35+ &lt;br/>
@@ -14,6 +16,7 @@ Verifying Listeners&lt;br/>
 &lt;/div>
 </pre>
 <hr>
+
 <div style="background: #F4F6F7 url(https://i.imgur.com/RuRI45G.jpg) no-repeat; font-size:17px;color:#ffffff;padding:10px;border:4px solid #ffffff;">
 <strong> My Involvement</strong><br />
 Community Mentory Leader for 35+ <br />
@@ -25,3 +28,4 @@ Feed Team<br/>
 Peer Support<br />
 Verifying Listeners<br />
 </div>
+                                                                                                                               <div>
