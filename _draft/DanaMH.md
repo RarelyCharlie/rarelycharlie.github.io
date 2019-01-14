@@ -16,7 +16,7 @@ onload = show
 <div id="container" style="width: 1140px; margin: 0 auto;">
             
 <textarea id="html" style="width: 100%; min-height: 20em; font-family: monospace; border: 1px solid black; padding: 1ex; white-space: pre-wrap;" onkeyup="show()" spellcheck="false">
-&lt;div style="background: url(https://i.imgur.com/RuRI45G.jpg) no-repeat #F4F6F7;
+&lt;div style="background: url(https://i.imgur.com/RuRI45G.jpg) no-repeat #F4F6F7 0 35%;
 font-size:17px;color:#ffffff;padding:10px;border:4px solid #ffffff;">
 &lt;strong> My Involvement&lt;/strong>&lt;br/>
 Community Mentory Leader for 35+ &lt;br/>
