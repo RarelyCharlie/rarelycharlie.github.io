@@ -9,13 +9,13 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
     google: {families: ['Italianno','Shadows+Into+Light']},
     loading: function () {console.log('++ loading')},
     active: function () {console.log('++ active')}
-    }
-   (function(d) {
+    },
+   (function (d) {
       var wf = d.createElement('script'), s = d.scripts[0]
       wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js'
       wf.async = true
       s.parentNode.insertBefore(wf, s)
-   })(document)
+      })(document)
 </script>
 <!-- script>
 (ff => {
