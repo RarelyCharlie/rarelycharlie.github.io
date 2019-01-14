@@ -68,6 +68,7 @@ To set up the enhanced editor, create a bookmarklet as follows:
 ~~~
 javascript:with(document)void(head.appendChild(createElement('script')).src='https://greasyfork.org/scripts/36395-7-cups-forum-inline-editor/code/7%20Cups%20-%20forum%20inline%20editor.user.js
 ~~~
+{:style="overflow-x: scroll;"}
 
 2 Bookmark any page, for example, this page.
 3 Go to your list of bookmarks and find the bookmark you just made.
