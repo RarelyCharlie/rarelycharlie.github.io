@@ -167,5 +167,7 @@ Alternatively go to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and s
 
 7 Cups does not provide any support for the enhanced editor. Please do not contact 7 Cups support about it, because no one at 7 Cups can help. Instead, provide feedback to the author.
 
-### Acknowledgment
+### Acknowledgments
 The smiley icons are provided by [Twem<span style="color:red">❤</span>ji](https://twemoji.maxcdn.com/) and delivered by [StackPath](https://www.stackpath.com/)
+
+The fonts on this page are provided by [Google Fonts](https://fonts.google.com/): Raleway ("7 Cups"), Source Serif Pro ("serif"), Source Code Pro ("typewriter") and Shadows Into Light ("novelty"). Source Code Pro and Shadows Into Light are also loaded by the enhanced editor when required.
