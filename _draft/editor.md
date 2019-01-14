@@ -4,6 +4,19 @@ title: Enhance the editor
 linkas: false
 feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
+<script>
+  WebFontConfig = {
+    google: {families: ['Italianno','Shadows+Into+Light']},
+    loading: function () {console.log('++ loading')},
+    active: function () {console.log('++ active')}
+    }
+   (function(d) {
+      var wf = d.createElement('script'), s = d.scripts[0]
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js'
+      wf.async = true
+      s.parentNode.insertBefore(wf, s)
+   })(document)
+</script>
 <!-- script>
 (ff => {
   for (let f of ff) {
@@ -11,7 +24,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
     lk.setAttribute('href', 'https://fonts.googleapis.com/css?family=' + f)
     lk.rel = 'stylesheet'
     document.head.append(lk)
-  }})(['Noto+Serif','Noto+Sans+Mono','Italianno','Shadows+Into+Light'])
+  }})(['Noto+Serif','Source+Code+Pro','Italianno','Shadows+Into+Light'])
 </script -->
 The editor is the part of 7 Cups where you type posts in the forums and entries in your feed.
 
