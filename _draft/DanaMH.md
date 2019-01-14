@@ -2,7 +2,7 @@
 ---
 <div style="width: 1140px; margin: 0 auto;">
             
-<pre style="border: 1px solid black; padding: 1ex; overflow: scroll;">
+<pre style="border: 1px solid black; padding: 1ex; white-space: pre-wrap;">
 &lt;div style="background: url(https://i.imgur.com/RuRI45G.jpg) no-repeat #F4F6F7;
 font-size:17px;color:#ffffff;padding:10px;border:4px solid #ffffff;">
 &lt;strong> My Involvement&lt;/strong>&lt;br/>
