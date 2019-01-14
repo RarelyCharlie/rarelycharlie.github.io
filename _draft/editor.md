@@ -6,7 +6,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
 <script>
   WebFontConfig = {
-    google: {families: ['Italianno','Shadows+Into+Light']},
+    google: {families: ['Source Serif Pro', 'Source Code Pro', 'Italianno','Shadows+Into+Light']},
     loading: function () {console.log('++ loading')},
     active: function () {console.log('++ active')}
     },
@@ -17,15 +17,6 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
       s.parentNode.insertBefore(wf, s)
       })(document)
 </script>
-<!-- script>
-(ff => {
-  for (let f of ff) {
-    let lk = document.createElement('LINK')
-    lk.setAttribute('href', 'https://fonts.googleapis.com/css?family=' + f)
-    lk.rel = 'stylesheet'
-    document.head.append(lk)
-  }})(['Noto+Serif','Source+Code+Pro','Italianno','Shadows+Into+Light'])
-</script -->
 The editor is the part of 7 Cups where you type posts in the forums and entries in your feed.
 
 This page describes how you might be able to enhance the editor with more features. The features include lists, quotes, tables, and extra simleys.
