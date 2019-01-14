@@ -6,7 +6,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
 <script>
   WebFontConfig = {
-    google: {families: ['Source Serif Pro', 'Source Code Pro', 'Italianno','Shadows+Into+Light']},
+    google: {families: ['Source Serif Pro', 'Source Code Pro', 'Italianno','Shadows Into Light']},
     loading: function () {console.log('++ loading')},
     active: function () {console.log('++ active')}
     },
@@ -17,6 +17,17 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
       s.parentNode.insertBefore(wf, s)
       })(document)
 </script>
+<style>
+.serif {font-family: 'Source Serif Pro';}
+.typewriter {font-family: Source Code Pro';}
+.cursive {font-family: Italianno;}
+.novelty {font-family: 'Shadows Into Light';}
+.sample {display: none;}
+.wf-italianno-n4-active .sample,
+.wf-shadowsintolight-n4-active .sample,
+.wf-sourceserifpro-n4-active .sample,
+.wf-sourcecodepro-n4-active wf-active .sample {display: block;}
+</style>
 The editor is the part of 7 Cups where you type posts in the forums and entries in your feed.
 
 This page describes how you might be able to enhance the editor with more features. The features include lists, quotes, tables, and extra simleys.
@@ -97,28 +108,28 @@ All the other font choices may appear slightly different on different devices:
 **Serif** is the default serif font on the device displaying the forum. A serif font has slightly fancier letter shapes that are sometimes said to be faster to read.
 
 <table><tbody>
-<tr><td>Similar to:</td><td><img src="/assets/editor-serif.png"></td></tr>
+<tr><td>Similar to:</td><td class="serif sample">Fix problem quickly with galvanized jets!</td></tr>
 <tr><td>On this device:</td><td style="font-family:serif;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
 **Typewriter** is the default monospaced font on the device displaying the forum. In a monospaced font every character is the same width, like typewritten text.
 
 <table><tbody>
-<tr><td>Similar to:</td><td><img src="/assets/editor-typewriter.png"></td></tr>
+<tr><td>Similar to:</td><td class="typewriter sample">Fix problem quickly with galvanized jets!</td></tr>
 <tr><td>On this device:</td><td style="font-family:monospace;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
 **Cursive** is the default cursive font on the device displaying the forum. In a cursive font the letters join up, like formal joined-up handwriting.
 
 <table><tbody>
-<tr><td>Similar to:</td><td><img src="/assets/editor-cursive.png"></td></tr>
+<tr><td>Similar to:</td><td class="cursive sample">Fix problem quickly with galvanized jets!</td></tr>
 <tr><td>On this device:</td><td style="font-family:cursive;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
 **Novelty** is the default fantasy font on the device displaying the forum. It is often an informal handwriting font with separated characters.
 
 <table><tbody>
-<tr><td>Similar to:</td><td><img src="/assets/editor-novelty.png"></td></tr>
+<tr><td>Similar to:</td><td class="novelty sample">Fix problem quickly with galvanized jets!</td></tr>
 <tr><td>On this device:</td><td style="font-family:fantasy;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
