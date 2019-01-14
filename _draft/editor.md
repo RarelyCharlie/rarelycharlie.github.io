@@ -86,6 +86,8 @@ javascript:with(document)void(head.appendChild(createElement('script')).src='htt
 
 To use the enhanced editor in a 7 Cups webpage, go to the webpage and tap the bookmarklet's icon. A message in the webpage tells you the enhanced editor is active. Then you can use the enhanced editor in that web page. If you reload the page, or if you go to a different page, then the enhanced editor is no longer active. To make it active again you must use the bookmarklet again.
 
+You do not need to load the enhanced editor in every page, of course. Only load it before creating a new thread or replying.
+
 ### Using the enhancement
 
 The enhanced editor replaces the normal editor in the forums in new threads, replies to threads, and replies to posts. Ideally, it should replace the editor used when moderating posts, but this is uncertain at the time of writing.
