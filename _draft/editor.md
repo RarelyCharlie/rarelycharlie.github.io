@@ -6,9 +6,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
 <script>
   WebFontConfig = {
-    google: {families: ['Source Serif Pro', 'Source Code Pro', 'Italianno','Shadows Into Light']},
-    loading: function () {console.log('++ loading')},
-    active: function () {console.log('++ active')}
+    google: {families: ['Source Serif Pro', 'Source Code Pro', 'Italianno','Shadows Into Light']}
     },
    (function (d) {
       var wf = d.createElement('script'), s = d.scripts[0]
