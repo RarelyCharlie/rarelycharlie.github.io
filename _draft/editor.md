@@ -64,7 +64,7 @@ To set up the enhanced editor, create a bookmarklet as follows:
 
  1. First copy this very long line of code, making sure you get all of it. Hint: it begins `ja` and ends `js`.
  
-<input readonly style="font-family: monospace; overflow-wrap: anywhere; width: 100%;" value="javascript:with(document)void(head.appendChild(createElement('script')).src='https://greasyfork.org/scripts/36395-7-cups-forum-inline-editor/code/7%20Cups%20-%20forum%20inline%20editor.user.js">
+<div style="font-family: monospace; overflow-wrap: break-word; width: 100%; background: #eee; border: 1px solid #aaa;">javascript:with(document)void(head.appendChild(createElement('script')).src='https://greasyfork.org/scripts/36395-7-cups-forum-inline-editor/code/7%20Cups%20-%20forum%20inline%20editor.user.js</div>
 
  2. Bookmark any page, for example, this page.
 
