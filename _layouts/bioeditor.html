@@ -43,6 +43,7 @@ input {font-size: inherit; margin-left: 1ex; padding: 0 2px;}
 a[href] {color: #29f; text-decoration: none;}
 a[href]:hover {text-decoration: underline;}
 .bio {color: #898fa2;font-size:1.2em;margin-top:1.5em;width:50%;margin-right:auto;margin-left:auto;text-align:center;}
+#source {width: 100%; font-family: monospace; white-space: pre-wrap; border: 1px solid #444; padding: 1ex; margin: 1em 0;}
 </style>
 <script>
 showbio = function () {}
@@ -59,6 +60,7 @@ showbio = function () {}
 <div class="container">
 <div class="row">
 <div class="col-xs-12">
+<textarea id="source"></textarea>
 <div class="card card-block main-box-shadow">
 <div class="bio">
 {{ content }}
