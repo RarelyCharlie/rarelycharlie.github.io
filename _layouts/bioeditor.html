@@ -48,19 +48,19 @@ a[href]:hover {text-decoration: underline;}
 </style>
 <script>
 biowait = 0
-showbio = function (now) {
-  if (now) renderbio()
-  else {
-    if (biowait) biowait = clearTimeout(biowait)
-    setTimeout(renderbio, 800)
-    }
+loadbio = function () {
+  document.getElementById('source').value = document.getElementById('bio').innerHTML
+  }
+showbio = function () {
+  if (biowait) biowait = clearTimeout(biowait)
+  setTimeout(renderbio, 800)
   }
 renderbio = function () {
   document.getElementById('bio').innerHTML = document.getElementById('source').value
   }
 </script>
 </head>
-<body onload="showbio(true)">
+<body onload="loadbio()">
 <div id="header">
 {% if page.prefix %}
 <span>{{ page.prefix }}</span>
@@ -71,7 +71,7 @@ renderbio = function () {
 <div class="container">
 <div class="row">
 <div class="col-xs-12">
-<textarea id="source" autofocus placeholder="Type HTML code here" spellcheck="false" onkeyup="showbio(false)"></textarea>
+<textarea id="source" autofocus placeholder="Type HTML code here" spellcheck="false" onkeyup="showbio()"></textarea>
 <div class="card card-block main-box-shadow">
 <div id="bio" class="bio">
 {{ content }}
