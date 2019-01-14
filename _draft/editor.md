@@ -18,10 +18,10 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
       })(document)
 </script>
 <style>
-.serif {font-family: 'Source Serif Pro';}
+.serif {font-family: 'Source Serif Pro'; font-size: 105%;}
 .typewriter {font-family: 'Source Code Pro';}
-.cursive {font-family: Italianno;}
-.novelty {font-family: 'Shadows Into Light';}
+.cursive {font-family: Italianno; font-size: 180%;}
+.novelty {font-family: 'Shadows Into Light'; font-size: 105%;}
 .sample {display: none;}
 .wf-italianno-n4-active .sample,
 .wf-shadowsintolight-n4-active .sample,
@@ -103,7 +103,7 @@ The enhanced editor supports five font choices:
 <tr><td>On this device:</td><td style="font-family:Raleway,sans-serif;">Fix problem quickly with galvanized jets!</td></tr>
 </tbody></table>
 
-All the other font choices may appear slightly different on different devices:
+All the other font choices may appear slightly different on different devices. The shape of the characters is the important feature, not the size or weight.
 
 **Serif** is the default serif font on the device displaying the forum. A serif font has slightly fancier letter shapes that are sometimes said to be faster to read.
 
