@@ -19,7 +19,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 </script>
 <style>
 .serif {font-family: 'Source Serif Pro';}
-.typewriter {font-family: Source Code Pro';}
+.typewriter {font-family: 'Source Code Pro';}
 .cursive {font-family: Italianno;}
 .novelty {font-family: 'Shadows Into Light';}
 .sample {display: none;}
