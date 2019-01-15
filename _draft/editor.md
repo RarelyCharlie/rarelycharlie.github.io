@@ -72,11 +72,11 @@ To set up the enhanced editor, create a bookmarklet as follows:
 
  4. Tap Edit at the bottom right of the list, and then tap the new bookmark.
 
- 5. Change the title to something sensible, like **7 Cups editor**
+ 5. Optionally change the title, perhaps to something like "Load 7 Cups editor"
 
  6. Long-tap the URL and choose Select All.
 
- 7. Paste the code, completely replacing the URL.
+ 7. Paste the line of code you copied, completely replacing the URL.
 
  8. On the keyboard, tap Done, and then Done in the list to cancel edit mode.
 
