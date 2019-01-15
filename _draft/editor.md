@@ -110,8 +110,7 @@ Select the top row and press the Bold button.
 Select the bottom two rows, right-click to get a context menu, choose Cell – Cell Properties, and set the background color (to #ffddbb in this example—[color names](https://www.w3schools.com/colors/colors_names.asp) and all the other standard ways to specify colors also work).
 
 ### Fonts
-<style>td img {height: 30px; position: relative; top: 4px;}</style>
-The enhanced editor supports five font choices, but limitations in web browsers mean that other forum users will all not see your choice of font. Do not rely on font effects to convey important information.
+The enhanced editor supports five font choices, but limitations in web browsers mean that many other forum users will not see your choice of font. Do not rely on font effects to convey important information.
 
 **7 Cups** is the normal font used in 7 Cups forums (and on the page you are reading now). This normally appears identical on every device.
 
@@ -151,7 +150,9 @@ All the other font choices may appear slightly different on different devices. T
 
 If serif and typewriter don't work on your device, you can almost always fix this by changing the font settings in your web browser or in your operating system.
 
-If cursive and novelty don't work on your device, you might sometimes be able to fix this by changing the font settings in your web browser or in your operating system. If not, you can use the enhanced editor to fix it. Log in to 7 Cups and go to your My Settings page. In the Display Preferences section, check the box: Load extra fonts in forums
+If cursive and novelty don't work on your device, you might sometimes be able to fix this by changing the font settings in your web browser or in your operating system.
+
+If you cannot fix the cursive and novelty fonts by changing font settings, then you can use the enhanced editor to fix them. Log in to 7 Cups and go to your My Settings page. In the Display Preferences section, check the box: Load extra fonts in forums  There is no need to save the settings, because the change takes effect immediately. If you have member and listener accounts, it affects both.
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
