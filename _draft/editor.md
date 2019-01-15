@@ -70,7 +70,7 @@ To set up the enhanced editor, create a bookmarklet as follows:
 
  3. Go to your list of bookmarks and find the bookmark you just made.
 
- 4. Tap Edit at the bottom right of the list, and then tap the new bookmark.
+ 4. Tap Edit at the bottom right of the list, and then tap the new bookmark to edit it.
 
  5. Optionally change the title, perhaps to something like "Load 7 Cups editor"
 
