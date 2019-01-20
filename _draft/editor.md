@@ -25,6 +25,8 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 .wf-shadowsintolight-n4-active .sample,
 .wf-sourceserifpro-n4-active .sample,
 .wf-sourcecodepro-n4-active wf-active .sample {display: block;}
+img[src*=twemoji] {width: 24px; height: 24px;}
+.twemoji i {font-style: normal; color: #80f;}
 </style>
 The editor is the part of 7 Cups where you type posts in the forums and entries in your feed.
 
@@ -110,7 +112,8 @@ Select the top row and press the Bold button.
 Select the bottom two rows, right-click to get a context menu, choose Cell – Cell Properties, and set the background color (to #ffddbb in this example—[color names](https://www.w3schools.com/colors/colors_names.asp) and all the other standard ways to specify colors also work).
 
 ### Emoji
-A button in the toolbar provides more than 120 built-in emoji. You can also copy and paste emoji from various web pages. The built-in emoji are from a set of 2,841 emoji you can copy and paste from [Twem❤️{:style="color:#f08"}ji](https://twemoji.maxcdn.com/2/test/preview.html).
+A button in the toolbar provides more than 120 built-in emoji. You can also copy and paste emoji from various web pages. The built-in emoji are from a set of 2,841 emoji you can copy and paste from [Twem*❤️*ji](https://twemoji.maxcdn.com/2/test/preview.html).
+{:.twemoji}
 
 In chats 7 Cups supports 15 smileys. You type them as text, like `:)` and they are converted to images later. For convenience most of the same text smileys are also supported in the editor, although the resulting emoji are not identical. Here's the list:
 
