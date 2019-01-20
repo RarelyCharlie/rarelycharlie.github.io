@@ -56,9 +56,9 @@ To enhance the editor (except on Apple iOS), you need to install two things in t
 To install each of these in turn, click the relevant link and follow the instructions.
 
 ### Apple iOS
-Apple iOS browsers and some others do not support Tampermonkey or similar features. This means you cannot configure these browsers to activate the ehnanced editor automatically. This is a limitation imposed by Apple or the browser manufacturer.
+Apple iOS browsers and some others do not support Tampermonkey or similar features. This means you cannot configure these browsers to activate the enhanced editor automatically. This is a limitation imposed by Apple or the browser manufacturer.
 
-However, you can activate the ehnanced editor manually each time you want to use it.
+However, you can activate the enhanced editor manually each time you want to use it.
 
 These instructions are for the Safari browser. Similar methods are likely to work in some other browsers.
 
