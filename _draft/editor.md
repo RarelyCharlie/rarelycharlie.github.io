@@ -26,7 +26,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 .wf-sourceserifpro-n4-active .sample,
 .wf-sourcecodepro-n4-active wf-active .sample {display: block;}
 img[src*=twemoji] {width: 24px; height: 24px;}
-.twemoji i {font-style: normal; color: #80f;}
+.twemoji em {font-style: normal; color: #d8f;}
 </style>
 The editor is the part of 7 Cups where you type posts in the forums and entries in your feed.
 
@@ -109,7 +109,7 @@ Type the text in the table now or leave it for later.
 
 Select the top row and press the Bold button.
 
-Select the bottom two rows, right-click to get a context menu, choose Cell – Cell Properties, and set the background color (to #ffddbb in this example—[color names](https://www.w3schools.com/colors/colors_names.asp) and all the other standard ways to specify colors also work).
+Select the bottom two rows, right-click to get a context menu, choose Cell – Cell Properties, and set the background color (to `#ffddbb` in this example—[color names](https://www.w3schools.com/colors/colors_names.asp) and all the other standard ways to specify colors also work).
 
 ### Emoji
 A button in the toolbar provides more than 120 built-in emoji. You can also copy and paste emoji from various web pages. The built-in emoji are from a set of 2,841 emoji you can copy and paste from [Twem*❤️*ji](https://twemoji.maxcdn.com/2/test/preview.html).
@@ -117,7 +117,7 @@ A button in the toolbar provides more than 120 built-in emoji. You can also copy
 
 In chats 7 Cups supports 15 smileys. You type them as text, like `:)` and they are converted to images later. For convenience most of the same text smileys are also supported in the editor, although the resulting emoji are not identical. Here's the list:
 
-|:D|![Grinning](https://twemoji.maxcdn.com/2/72x72/1f600.png)|;)|![Winking](https://twemoji.maxcdn.com/2/72x72/1f609.png)|
+|`:D`|![Grinning](https://twemoji.maxcdn.com/2/72x72/1f600.png)|`;)`|![Winking](https://twemoji.maxcdn.com/2/72x72/1f609.png)|
 
 ### Fonts
 The enhanced editor supports five font choices, but limitations in web browsers mean that many other forum users will not see your choice of font. Do not rely on font effects to convey important information.
