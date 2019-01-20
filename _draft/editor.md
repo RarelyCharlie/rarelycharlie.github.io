@@ -117,22 +117,22 @@ A button in the toolbar provides more than 120 built-in emoji. You can also copy
 
 In chats 7 Cups supports 15 smileys. You type them as text, like `:)` and they are converted to images later. For convenience most of the same text smileys are also supported in the editor, although the resulting emoji are not identical. Here's the list:
 
-|`o.O`|![](https://twemoji.maxcdn.com/2/72x72/1f615.png)
-|`:'(`|![](https://twemoji.maxcdn.com/2/72x72/1f622.png)
-|`3:)`|[](https://twemoji.maxcdn.com/2/72x72/1f608.png)
-|`>:(`|[](https://twemoji.maxcdn.com/2/72x72/1f620.png)
-|`>:O`|[](https://twemoji.maxcdn.com/2/72x72/1f628.png)
-|`:(`|[](https://twemoji.maxcdn.com/2/72x72/2639.png)
-|`:O`|[](https://twemoji.maxcdn.com/2/72x72/1f632.png)
-|`8)`|[](https://twemoji.maxcdn.com/2/72x72/1f913.png)
-|`:D`|[](https://twemoji.maxcdn.com/2/72x72/1f600.png)
-|`<3`|[](https://twemoji.maxcdn.com/2/72x72/2764.png)
-|`:*`|[](https://twemoji.maxcdn.com/2/72x72/1f618.png)
-|`:)`|[](https://twemoji.maxcdn.com/2/72x72/1f642.png)
-|`8|`|[](https://twemoji.maxcdn.com/2/72x72/1f60e.png)
-|`:P`|[](https://twemoji.maxcdn.com/2/72x72/1f61b.png)
-|`:\`|[](https://twemoji.maxcdn.com/2/72x72/1f61f.png)
-|`;)`|[](https://twemoji.maxcdn.com/2/72x72/1f609.png)
+|`o.O`|![](https://twemoji.maxcdn.com/2/72x72/1f615.png)|Confused
+|`:'(`|![](https://twemoji.maxcdn.com/2/72x72/1f622.png)|Crying
+|`3:)`|![](https://twemoji.maxcdn.com/2/72x72/1f608.png)|Smiling with horns
+|`>:(`|![](https://twemoji.maxcdn.com/2/72x72/1f620.png)|Angry
+|`>:O`|![](https://twemoji.maxcdn.com/2/72x72/1f628.png)|Fearful
+|`:(`|![](https://twemoji.maxcdn.com/2/72x72/2639.png)|Frowning
+|`:O`|![](https://twemoji.maxcdn.com/2/72x72/1f632.png)|Astonished
+|`8)`|![](https://twemoji.maxcdn.com/2/72x72/1f913.png)|Nerd
+|`:D`|![](https://twemoji.maxcdn.com/2/72x72/1f600.png)|Grinning
+|`<3`|![](https://twemoji.maxcdn.com/2/72x72/2764.png)|Red heart
+|`:*`|![](https://twemoji.maxcdn.com/2/72x72/1f618.png)|Blowing a kiss
+|`:)`|![](https://twemoji.maxcdn.com/2/72x72/1f642.png)|Slightly smiling
+|`8|`|![](https://twemoji.maxcdn.com/2/72x72/1f60e.png)|Sunglasses
+|`:P`|![](https://twemoji.maxcdn.com/2/72x72/1f61b.png)|Tongue
+|`:/`|![](https://twemoji.maxcdn.com/2/72x72/1f61f.png)|Worried
+|`;)`|![](https://twemoji.maxcdn.com/2/72x72/1f609.png)|Winking
 
 ### Fonts
 The enhanced editor supports five font choices, but limitations in web browsers mean that many other forum users will not see your choice of font. Do not rely on font effects to convey important information.
