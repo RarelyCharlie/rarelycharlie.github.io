@@ -115,7 +115,11 @@ Select the bottom two rows, right-click to get a context menu, choose Cell – C
 A button in the toolbar provides more than 120 built-in emoji. You can also copy and paste emoji from various web pages. The built-in emoji are from a set of 2,841 emoji you can copy and paste from [Twem*❤️*ji](https://twemoji.maxcdn.com/2/test/preview.html).
 {:.twemoji}
 
-In chats 7 Cups supports 15 smileys. You type them as text, like `:)` and they are converted to images later. For convenience most of the same text smileys are also supported in the editor, although the resulting emoji are not identical. Here's the list:
+In chats, 7 Cups supports 15 smileys. You type them as text, like `:)` and 7 Cups converts them to images later. For convenience, similar (but not identical) text smileys are supported in the editor.
+
+Many of these smileys have alternative forms, like `:-)` for `:)`. Most of these alternative are also supported.
+
+Here's the list, showing only the shortest text forms, not the alternatives:
 
 |`o.O`|![](https://twemoji.maxcdn.com/2/72x72/1f615.png)|Confused
 |`:'(`|![](https://twemoji.maxcdn.com/2/72x72/1f622.png)|Crying
@@ -133,6 +137,8 @@ In chats 7 Cups supports 15 smileys. You type them as text, like `:)` and they a
 |`:P`|![](https://twemoji.maxcdn.com/2/72x72/1f61b.png)|Tongue
 |`:/`|![](https://twemoji.maxcdn.com/2/72x72/1f61f.png)|Worried
 |`;)`|![](https://twemoji.maxcdn.com/2/72x72/1f609.png)|Winking
+
+The editor automatically converts any text smileys to emoji when you send the post, or when you click somewhere else on the page.
 
 ### Fonts
 The enhanced editor supports five font choices, but limitations in web browsers mean that many other forum users will not see your choice of font. Do not rely on font effects to convey important information.
