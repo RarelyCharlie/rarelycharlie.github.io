@@ -117,7 +117,7 @@ A button in the toolbar provides more than 120 built-in emoji. You can also copy
 
 In chats, 7 Cups supports 15 smileys. You type them as text, like `:)` and 7 Cups converts them to images later. For convenience, similar (but not identical) text smileys are supported in the editor.
 
-Many of these smileys have alternative forms, like `:-)` for `:)`. Most of these alternative are also supported.
+Many of these smileys have alternative forms, like `:-)` for `:)`. Most of these alternatives are also supported.
 
 Here's the list, showing only the shortest text forms, not the alternatives:
 
