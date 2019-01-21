@@ -223,7 +223,7 @@ Taglist = {
 		$('#register-name').prop('readonly', true)
 		$('#register-spin').css('display', 'inline-block')
 		var v = $('#register-name').val().trim()
-		var [status, key] = await this.api('register', {name: v})
+		var [status, key] = await this.api('register', {name: v, list: ''})
 		$('#register-spin').hide()
 		$('#register-button').prop('disabled', true)
 		if (status == 200) {
