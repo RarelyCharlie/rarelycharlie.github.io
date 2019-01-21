@@ -140,6 +140,16 @@ Here's the list, showing only the shortest text forms, not the alternatives:
 
 The editor automatically converts any text smileys to emoji when you send the post, or when you click somewhere else on the page.
 
+### Signature
+
+To add a plain text signature to your posts, go to your My Settings page in 7 Cups. In the Display Settings section, specify your signature.
+
+You can edit or remove the signature in each post.
+
+If more than one 7 Cups account uses the computer, then each account has a separate signature—for example, if you are a listener with a member account, or if more than one person shares a computer.
+
+To turn the signature off, go back to your My Settings page and remove the signature.
+
 ### Fonts
 The enhanced editor supports five font choices, but limitations in web browsers mean that many other forum users will not see your choice of font. Do not rely on font effects to convey important information.
 
@@ -184,6 +194,10 @@ If serif and typewriter don't work on your device, you can almost always fix thi
 If cursive and novelty don't work on your device, you might sometimes be able to fix this by changing the font settings in your web browser or in your operating system.
 
 If you cannot fix the cursive and novelty fonts by changing font settings, then you can use the enhanced editor to fix them. Log in to 7 Cups and go to your My Settings page. In the Display Preferences section, check the box: Load extra fonts in forums  There is no need to save the settings, because the change takes effect immediately. If you have member and listener accounts, it affects both.
+
+### Known issues
+
+- The toolbar sometimes appears in the wrong place, or not at all. This could be because 7 Cups is using an old version of the editor. If it happens to you, click away from the box you are typing in, then click back there again to make the toolbar reappear.
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
