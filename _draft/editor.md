@@ -142,7 +142,7 @@ The editor automatically converts any text smileys to emoji when you send the po
 
 ### Signature
 
-To add a plain text signature to your posts, go to your My Settings page in 7 Cups. In the Display Settings section, specify your signature.
+To add a plain text signature to your posts, go to your My Settings page in 7 Cups. In the Display Settings section, specify your signature. Your signature is saved automatically. There is no need to save all of your settings.
 
 You can edit or remove the signature in each post.
 
