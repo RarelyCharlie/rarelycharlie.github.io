@@ -197,7 +197,7 @@ If you cannot fix the cursive and novelty fonts by changing font settings, then 
 
 ### Known issues
 
-- The toolbar sometimes appears in the wrong place, or not at all. This could be because 7 Cups is using an old version of the editor. If it happens to you, click away from the box you are typing in, then click back there again to make the toolbar reappear.
+- In a feed the toolbar buttons are black-and-white. This is low priority and it's not being worked on.
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
