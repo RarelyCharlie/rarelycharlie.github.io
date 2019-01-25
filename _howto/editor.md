@@ -197,6 +197,7 @@ If you cannot fix the cursive and novelty fonts by changing font settings, then 
 
 ### Known issues
 
+- Blockquote doesn't work in a feed. This will be investigated.
 - In a feed the toolbar buttons are black-and-white. This is low priority and it's not being worked on.
 
 ### Removing the enhancement
