@@ -196,9 +196,9 @@ If cursive and novelty don't work on your device, you might sometimes be able to
 If you cannot fix the cursive and novelty fonts by changing font settings, then you can use the enhanced editor to fix them. Log in to 7 Cups and go to your My Settings page. In the Display Preferences section, check the box: Load extra fonts in forums  There is no need to save the settings, because the change takes effect immediately. If you have member and listener accounts, it affects both.
 
 ### Known issues
+Known issues in version 0.8:
 
-- Blockquote doesn't work in a feed. This will be investigated.
-- In a feed the toolbar buttons are black-and-white. This is low priority and it's not being worked on.
+- In a feed, various things don't work. This is being investigated.
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
