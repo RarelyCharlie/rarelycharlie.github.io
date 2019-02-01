@@ -144,7 +144,7 @@ The editor automatically converts any text smileys to emoji when you send the po
 
 The editor automatically converts complete URLs and 7 Cups e-mail addresses to links.
 
-Note that incomplete URLs like `nami.org/About-NAMI` are not converted, even though this incomplete URL would get you to the web page. Only the complete URL, `https://nami.org/About-NAMI`, is converted.
+Note that incomplete URLs like `nami.org/About-NAMI` are not converted, even though this incomplete URL would get you to the web page. Only the complete URL, `https://nami.org/About-NAMI` is converted.
 
 Only e-mail addresses that end in `@7cups.com` are converted.
 
