@@ -32,7 +32,7 @@ The editor is the part of 7 Cups where you type posts in the forums and entries 
 
 This page describes how you might be able to enhance the editor with more features. The features include lists, quotes, tables, and extra smileys.
 
-Some of the other features in the enhanced editor are experimental, and some of them might not work. The enhanced editor is only supported on a best efforts basis without any guarantees. The current version is 0.9
+Some of the other features in the enhanced editor are experimental, and some of them might not work. The enhanced editor is only supported on a best efforts basis without any guarantees. The current version is 0.10.
 
 ### Who can enhance the editor
 
@@ -138,17 +138,35 @@ Here's the list, showing only the shortest text forms, not the alternatives:
 |`:/`|![](https://twemoji.maxcdn.com/2/72x72/1f61f.png)|Worried
 |`;)`|![](https://twemoji.maxcdn.com/2/72x72/1f609.png)|Winking
 
-The editor automatically converts any text smileys to emoji when you send the post, or when you click somewhere else on the page.
+The editor automatically converts any text smileys to emoji when you send the post, or when you click somewhere else on the page. (But the conversion is disabled if you are editing someone else's post.)
+
+### Links
+
+The editor automatically converts complete URLs and 7 Cups e-mail addresses to links.
+
+Note that incomplete URLs like `nami.org/About-NAMI` are not converted, even though this incomplete URL would get you to the web page. Only the complete URL, `https://nami.org/About-NAMI` is converted.
+
+Only e-mail addresses that end in `@7cups.com` are converted.
+
+The conversion happens when you send the post, or when you click somewhere else on the page. (But the conversion is disabled if you are editing someone else's post.)
 
 ### Signature
 
-To add a plain text signature to your posts, go to your My Settings page in 7 Cups. In the Display Settings section, specify your signature. Your signature is saved automatically. There is no need to save all of your settings.
+To add a plain text signature to your posts, go to your My Settings page in 7 Cups. Specify your signature below your screen name (for listeners) or in the Display Settings section (for members). Your signature is saved automatically as you type. There is no need to save all of your settings.
 
-You can edit or remove the signature in each post.
+You can edit or remove the signature in each post individually.
 
 If more than one 7 Cups account uses the computer, then each account has a separate signature—for example, if you are a listener with a member account, or if more than one person shares a computer.
 
 To turn the signature off, go back to your My Settings page and remove the signature.
+
+### Spelling checker
+
+The enhanced editor contains a spelling checker, and there's a button in the toolbar to manage it. When it finds a misspelled word, right-click the word for suggestions and other options.
+
+You can use your web browser's built-in spelling checker instead. To do this, go to your your My Settings page in 7 Cups and in the Display Preferences section check the box "Use browser's spellchecker".
+
+When your web browser's built-in spelling checker finds a misspelled word, for suggestions and other options hold down the Ctrl key on your keyboard while you right-click the word.
 
 ### Fonts
 The enhanced editor supports five font choices, but limitations in web browsers mean that many other forum users will not see your choice of font. Do not rely on font effects to convey important information.
@@ -196,10 +214,9 @@ If cursive and novelty don't work on your device, you might sometimes be able to
 If you cannot fix the cursive and novelty fonts by changing font settings, then you can use the enhanced editor to fix them. Log in to 7 Cups and go to your My Settings page. In the Display Preferences section, check the box: Load extra fonts in forums  There is no need to save the settings, because the change takes effect immediately. If you have member and listener accounts, it affects both.
 
 ### Known issues
-Known issues in version 0.9:
+Known issues in version 0.10:
 
 - There has been little testing in feed posts, and various things might still not work. Testing is ongoing.
-- If you type a worried smiley `:/` after a URL in the same line, the smiley does not get converted to an image. This is considered minor and it's not actively being investigated.
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
