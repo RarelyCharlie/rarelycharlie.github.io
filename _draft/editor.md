@@ -138,7 +138,7 @@ Here's the list, showing only the shortest text forms, not the alternatives:
 |`:/`|![](https://twemoji.maxcdn.com/2/72x72/1f61f.png)|Worried
 |`;)`|![](https://twemoji.maxcdn.com/2/72x72/1f609.png)|Winking
 
-The editor automatically converts any text smileys to emoji when you send the post, or when you click somewhere else on the page. (But this feature is disabled if you are editing someone else's post.)
+The editor automatically converts any text smileys to emoji when you send the post, or when you click somewhere else on the page. (But the conversion is disabled if you are editing someone else's post.)
 
 ### Links
 
@@ -148,7 +148,7 @@ Note that incomplete URLs like `nami.org/About-NAMI` are not converted, even tho
 
 Only e-mail addresses that end in `@7cups.com` are converted.
 
-The conversion happens when you send the post, or when you click somewhere else on the page. (But this feature is disabled if you are editing someone else's post.)
+The conversion happens when you send the post, or when you click somewhere else on the page. (But the conversion is disabled if you are editing someone else's post.)
 
 ### Signature
 
