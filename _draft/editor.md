@@ -32,7 +32,7 @@ The editor is the part of 7 Cups where you type posts in the forums and entries 
 
 This page describes how you might be able to enhance the editor with more features. The features include lists, quotes, tables, and extra smileys.
 
-Some of the other features in the enhanced editor are experimental, and some of them might not work. The enhanced editor is only supported on a best efforts basis without any guarantees. The current version is 0.9
+Some of the other features in the enhanced editor are experimental, and some of them might not work. The enhanced editor is only supported on a best efforts basis without any guarantees. The current version is 0.10.
 
 ### Who can enhance the editor
 
@@ -214,10 +214,9 @@ If cursive and novelty don't work on your device, you might sometimes be able to
 If you cannot fix the cursive and novelty fonts by changing font settings, then you can use the enhanced editor to fix them. Log in to 7 Cups and go to your My Settings page. In the Display Preferences section, check the box: Load extra fonts in forums  There is no need to save the settings, because the change takes effect immediately. If you have member and listener accounts, it affects both.
 
 ### Known issues
-Known issues in version 0.9:
+Known issues in version 0.10:
 
 - There has been little testing in feed posts, and various things might still not work. Testing is ongoing.
-- If you type a worried smiley `:/` after a URL in the same line, the smiley does not get converted to an image. This is considered minor and it's not actively being investigated.
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
