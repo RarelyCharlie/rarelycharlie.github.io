@@ -228,6 +228,9 @@ Someone responsible for overseeing a ~~subcommunity.~~
 # community manager
 One of several members of ~~staff~~ responsible for the ~~community.~~ 
 
+# community mod
+An ~~internmod./~~
+
 # compassion campaign
 The ongoing campaign to obtain financial contributions to ~~7 Cups~~ through paid membership and donations. Part of the approach to ~~sustainability~~..
 
@@ -476,6 +479,9 @@ A cloud-based system used to provide faster response times and better security f
 # intern
 A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed for student placements (although people who are not students can also join the program). _See:_ [7 Cups of Tea Internship Program](https://www.7cups.com/about/internships.php)
 
+# internmod
+A paid intern providing support and backup ~~moderation~~, especially in ~~chatrooms./chatroom~~
+
 
 ## J
 
@@ -604,7 +610,10 @@ A short communication sent to a person or to a ~~room~~. It is part of a ~~chat~
 A ~~1-to-1 chat~~ between ~~listeners/listener~~ in which one listener plays the role of a ~~member~~ or ~~guest~~.
 
 # mod
-Short for moderator. A ~~member~~ or ~~listener~~ designated as having a special role in supporting the ~~community~~, and having powers to enforce ~~rules/rule~~.
+Short for moderator. A ~~member,/~~ ~~listener~~ or paid intern designated as having a special role in supporting the ~~community~~, and having powers to enforce ~~rules./rule~~
+
+# moderation
+The task of enforcing ~~rules./rule~~ and maintaining a helpful environment in ~~chatrooms/~~ and ~~forums./~~
 
 # Moving Along
 5th of the twenty groups of ~~member~~ ~~levels./level~~
