@@ -150,6 +150,8 @@ A period of time when someone deliberately stops using 7 Cups, or parts of 7 Cup
 # bridge
 No longer in use. At one time a phone bridge system provided for anonymous phone calls between ~~listeners/~~ and ~~members./~~
 
+# bubble
+A private area of the ~~forums/~~ for ~~Subcommunity~~ leaders.
 
 # buddy
 Someone paired with someone else, typically in order to provide each other with support. ~~7 Cups~~ has various buddy schemes for different purposes.
