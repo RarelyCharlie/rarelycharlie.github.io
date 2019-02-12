@@ -238,6 +238,11 @@ White on white text can be read by selecting it. This might reveal the text imme
 Few black taxis drive up major roads on quiet hazy nights.
 {:style="color: #fff; background: #555;"}
 
+*While reading:*
+
+Few black taxis drive up major roads on quiet hazy nights.
+{:style="color: #fff; background: #fff;"}
+
 (In fact the text and the background are 99% white, not pure white, but the difference is almost impossible to see.)
 
 **Reveal** provides a sky blue box with a Reveal button above it. When you save the post, the box disappears completely and everything you typed in the box is concealed, but pressing the button reveals it. This could be used, for example, to reveal the answers to a quiz.
