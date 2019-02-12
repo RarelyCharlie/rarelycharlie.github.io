@@ -247,6 +247,20 @@ Few black taxis drive up major roads on quiet hazy nights.
 
 **Reveal** provides a sky blue box with a Reveal button above it. When you save the post, the box disappears completely and everything you typed in the box is concealed, but pressing the button reveals it. This could be used, for example, to reveal the answers to a quiz.
 
+*While editing:*
+
+<button style="background: #5bc0de; color: #fff; padding: 6px 12px; border-radius: .5em; border: 1px solid #5bc0de; ">Reveal</button>
+
+By Jove, my quick study of lexicography won a prize.
+{:style="border: 1px dotted #0aa;"}
+
+*While reading:*
+
+<button style="background: #5bc0de; color: #fff; padding: 6px 12px; border-radius: .5em; border: 1px solid #5bc0de; ">Reveal</button>
+
+By Jove, my quick study of lexicography won a prize.
+{:style="color: #fff; background: #fff;"}
+
 You can change the button label from Reveal to something else.
 
 **Vanishing** provides a red box. When you save the post, the box and everything you typed in the box disappear completely. There is nothing to select and no sign of the text you typed. However, tags in the vanished text still work. This could be used, for example, to post a very long taglist because it doesn't create a big white space.
