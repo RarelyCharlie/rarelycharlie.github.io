@@ -247,19 +247,21 @@ Few black taxis drive up major roads on quiet hazy nights.
 
 **Reveal** provides a sky blue box with a Reveal button above it. When you save the post, the box disappears completely and everything you typed in the box is concealed, but pressing the button reveals it. This could be used, for example, to reveal the answers to a quiz.
 
+<script>revealtoggle = function () {var p = document.getElementById('revealsample'); p.style.height = parseInt(p.style.height)? '0' : '22.5px'}</script>
+
 *While editing:*
 
-<button style="background: #5bc0de; color: #fff; padding: 6px 12px; border-radius: .5em; border: 1px solid #5bc0de; ">Reveal</button>
+<button style="cursor: default; pointer-events: none; background: #5bc0de; color: #fff; padding: 6px 12px; border-radius: .5em; border: 1px solid #5bc0de;">Reveal</button>
 
 By Jove, my quick study of lexicography won a prize.
 {:style="border: 1px dotted #0aa;"}
 
 *While reading:*
 
-<button style="background: #5bc0de; color: #fff; padding: 6px 12px; border-radius: .5em; border: 1px solid #5bc0de; ">Reveal</button>
+<button style="cursor: pointer; background: #5bc0de; color: #fff; padding: 6px 12px; border-radius: .5em; border: 1px solid #5bc0de;" onclick="revealtoggle()">Reveal</button>
 
 By Jove, my quick study of lexicography won a prize.
-{:style="color: #fff; background: #fff;"}
+{:id="revealsample" style="color: #fff; background: #fff; height: 0; transition: height 1s;"}
 
 You can change the button label from Reveal to something else.
 
