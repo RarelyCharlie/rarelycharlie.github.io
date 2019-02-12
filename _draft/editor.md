@@ -213,6 +213,18 @@ If cursive and novelty don't work on your device, you might sometimes be able to
 
 If you cannot fix the cursive and novelty fonts by changing font settings, then you can use the enhanced editor to fix them. Log in to 7 Cups and go to your My Settings page. In the Display Preferences section, check the box: Load extra fonts in forums  There is no need to save the settings, because the change takes effect immediately. If you have member and listener accounts, it affects both.
 
+### Captured style
+
+If you always prefer to write in a particular color or font size, you can capture this style so it becomes the default in all of your posta and replies.
+
+To do this, type some text and set its color, background and font size. Right-click the text and from the menu choose Capture style.
+
+To return to the default color, background and font size, right click any text and from the menu choose Release style.
+
+A captured style only applies to a particular username on a particular device. If you have more than one account, or if more than one person shares a computer, then any captured style does not affect other accounts.
+
+Note that some styles are not easy for other people to read, especially if they use 7 Cups on a different kind of device or if their eyesight is different from yours. For example, a pale color on a white background might be unreadable.
+
 ### Known issues
 Known issues in version 0.12:
 
