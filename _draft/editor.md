@@ -225,6 +225,22 @@ A captured style only applies to a particular username on a particular device. I
 
 Note that some styles are not easy for other people to read, especially if they use 7 Cups on a different kind of device or if their eyesight is different from yours. For example, a pale color on a white background might be unreadable.
 
+### Hiding text
+
+Three methods for hiding text are provided in the Styles menu at the left of the toolbar. Text that is hidden by any of these methods can be seen when the post is being edited, but not when the post is being read.
+
+**White on White** provides a dark gray box where you can type white text. When you save the post, the dark gray box disappears leaving white text on the white background. White on white text cannot be read by humans, but white on white tags still work, so this is often used as a way to hide taglists.
+
+White on white text can be read by selecting it. This might reveal the text immediately, or if not the text can be copied and pasted somewhere else so it can be read.
+
+(In fact the text and the background are 99% white, not pure white, but the difference is almost impossible to see.)
+
+**Reveal** provides a sky blue box with a Reveal button above it. When you save the post, the box disappears completely and everything you typed in the box is concealed, but pressing the button reveals it. This could be used, for example, to reveal the answers to a quiz.
+
+You can change the button label from Reveal to something else.
+
+**Vanishing** provides a red box. When you save the post, the box and everything you typed in the box disappear completely. There is nothing to select and no sign of the text you typed. However, tags in the vanished text still work. This could be used, for example, to post a very long taglist because it doesn't create a big white space.
+
 ### Known issues
 Known issues in version 0.12:
 
