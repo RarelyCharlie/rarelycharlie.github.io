@@ -215,7 +215,7 @@ If you cannot fix the cursive and novelty fonts by changing font settings, then 
 
 ### Captured style
 
-If you always prefer to write in a particular color or font size, you can capture this style so it becomes the default in all of your posta and replies.
+If you always prefer to write in a particular color or font size, you can capture this style so it becomes the default in all of your posts and replies.
 
 To do this, type some text and set its color, background and font size. Right-click the text and from the menu choose Capture style.
 
@@ -232,6 +232,11 @@ Three methods for hiding text are provided in the Styles menu at the left of the
 **White on White** provides a dark gray box where you can type white text. When you save the post, the dark gray box disappears leaving white text on the white background. White on white text cannot be read by humans, but white on white tags still work, so this is often used as a way to hide taglists.
 
 White on white text can be read by selecting it. This might reveal the text immediately, or if not the text can be copied and pasted somewhere else so it can be read.
+
+*While editing:*
+
+Few black taxis drive up major roads on quiet hazy nights.
+{:style="color: #fff; background: #555;"}
 
 (In fact the text and the background are 99% white, not pure white, but the difference is almost impossible to see.)
 
