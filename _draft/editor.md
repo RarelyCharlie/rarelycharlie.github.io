@@ -265,7 +265,17 @@ By Jove, my quick study of lexicography won a prize.
 
 You can change the button label from Reveal to something else.
 
-**Vanishing** provides a red box. When you save the post, the box and everything you typed in the box disappear completely. There is nothing to select and no sign of the text you typed. However, tags in the vanished text still work. This could be used, for example, to post a very long taglist because it doesn't create a big white space.
+**Vanishing** provides a red box. When you save the post, the box and everything you typed in the box disappear completely and take up no space on the page. There is nothing to select, and no sign of the text you typed. However, tags in the vanished text still work. This could be used, for example, to post a very long taglist because it doesn't create a big white space.
+
+*While editing:*
+
+Back in June we delivered oxygen equipment of the same size.
+{:style="border: 1px dotted #a00;"}
+
+*While reading:*
+
+Back in June we delivered oxygen equipment of the same size.
+{:style="display: none;"}
 
 ### Known issues
 Known issues in version 0.12:
