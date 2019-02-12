@@ -245,7 +245,9 @@ Few black taxis drive up major roads on quiet hazy nights.
 
 (In fact the text and the background are 99% white, not pure white, but the difference is almost impossible to see.)
 
-**Reveal** provides a sky blue box with a Reveal button above it. When you save the post, the box disappears completely and everything you typed in the box is concealed, but pressing the button reveals it. This could be used, for example, to reveal the answers to a quiz.
+**Reveal** provides a sky blue box with an inactive Reveal button above it. When you save the post, the box disappears completely and everything you typed in the box is concealed, but pressing the Reveal button reveals the text. This could be used, for example, to reveal the answers to a quiz.
+
+You can change the button label from Reveal to something else.
 
 <script>revealtoggle = function () {var p = document.getElementById('revealsample'); p.style.height = parseInt(p.style.height)? '0' : '22.5px'}</script>
 
@@ -261,11 +263,11 @@ By Jove, my quick study of lexicography won a prize.
 <button style="cursor: pointer; background: #5bc0de; color: #fff; padding: 6px 12px; border-radius: .5em; border: 1px solid #5bc0de;" onclick="revealtoggle()">Reveal</button>
 
 By Jove, my quick study of lexicography won a prize.
-{:id="revealsample" style="height: 0; transition: height .5s;"}
-
-You can change the button label from Reveal to something else.
+{:id="revealsample" style="height: 0; transition: height .5s; overflow: hidden;"}
 
 **Vanishing** provides a red box. When you save the post, the box and everything you typed in the box disappear completely and take up no space on the page. There is nothing to select, and no sign of the text you typed. However, tags in the vanished text still work. This could be used, for example, to post a very long taglist because it doesn't create a big white space.
+
+(If you suspect that there is vanishing text in a post, and you know how to read the page source, you can find the vanishing text there.)
 
 *While editing:*
 
