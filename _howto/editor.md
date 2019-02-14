@@ -228,6 +228,7 @@ Note that some styles are not easy for other people to read, especially if they 
 ### Known issues
 Known issues in version 0.12:
 
+- When replying, the person you are replying to is tagged at the bottom of your reply. It should instead be at the top.
 - There has been little testing in feed posts, and various things might still not work. Testing is ongoing.
 
 ### Removing the enhancement
