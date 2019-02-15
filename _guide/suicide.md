@@ -8,6 +8,8 @@ feedback: https://www.7cups.com/@RarelyCharlie
 
 General information for all listeners.
 
+<div style="font-size: 150%; color: #a00; background: #fee; padding: 1ex; margin: 1em 0 1em -1ex;">This guide is obsolete. Listeners should **not** use the information in this guide.</div>
+
 This guide is an unofficial training guide for listeners about chats involving non-emergency suicidal thoughts. It is not a self-help guide for members. If you are not a listener you can still read this guide, but becoming a listener first is recommended as a starting point.
 
 The guide is in many short sections. Most sections have a quiz at the end. You must correctly complete the quiz before you can move to the next section. There is no limit to the number of times you can retry each quiz.
