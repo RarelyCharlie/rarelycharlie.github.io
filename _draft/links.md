@@ -60,7 +60,9 @@ When you visit the page it loses its star. The page remains in the menu if it's 
 
 ### <i class="fa fa-pencil"></i> Edit page title
 
-To change a 7 Cups page's title, go to the page and press the star icon in the toolbar. Smart Links might eventually forget the new title, unless the page is pinned to the menu.
+To change a 7 Cups page's title, go to the page and press the star icon in the toolbar.
+
+Smart Links might eventually forget the new title, unless the page is pinned to the menu.
 
 ### <i class="fa fa-plus"></i> Add a link
 
