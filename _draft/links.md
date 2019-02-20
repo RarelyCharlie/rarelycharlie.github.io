@@ -4,7 +4,7 @@ title: Use Smart Links
 linkas: false
 feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
-<style>.fa-plus {color: #0a0;} .fa-minus {color: #a00;} .fa-thumb-tack {color: #fa0; transform: rotate(17deg);} .fa-star {color: #f44; transform: rotate(-7deg);} .fa-pencil {color: #07d;} .fa-cog {color: #667;}</style>
+<style>i.fa {display: inline-block; margin-right: 1ex;} .fa-plus {color: #0a0;} .fa-minus {color: #a00;} .fa-thumb-tack {color: #fa0; transform: rotate(17deg);} .fa-star {color: #f44; transform: rotate(-7deg);} .fa-pencil {color: #07d;} .fa-cog {color: #667;}</style>
 Smart Links is an additional menu for the 7 Cups website. The Smart Links menu continuously learns which 7 Cups webpages you use most often, and provides upiu with 1-click access to them. As your use of the 7 Cups website changes, the Smart Links menu continuously adapts.
 
 Some Smart Links features are experimental, and some might not work. Smart Links is only supported on a best efforts basis without any guarantees. The current version is 0.1.
