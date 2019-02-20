@@ -88,6 +88,17 @@ You can make Smart Links more forgetful, so that links to pages you do not visit
 
 If you make the forgetfulness zero, then Smart Links never forgets, and when the menu is full it never changes. If you make it too large, then the menu might be unstable, making it difficult to use reliably.
 
+### Link type
+
+Smart Links uses icons to indicate links to certain types of page. These icons are only for information.
+
+<i class="fa fa-external-link"></i> External link (not at 7 Cups)
+<i class="fa fa-quote-left"></i> Forum
+<i class="fa fa-comment-o"></i> Chat
+<i class="fa fa-comments-o"></i> Room
+
+
 ### Further information
 
+Chats and chatrooms all use a page with the title Connect. Smart Links changes the page title to match the name of the person or room. 
 
