@@ -60,9 +60,9 @@ When you visit the page it loses its star. The page remains in the menu if it's 
 
 ### <i class="fa fa-pencil"></i> Edit page title
 
-To change a 7 Cups page's title, go to the page and press the star icon in the toolbar.
+Page titles at 7 Cups are inconsistent. At 7 Cups the text of a link, the title of the page it links to, and the main heading on that page might all be different. Smart Links generally uses the page title, but it can sometimes be useful to change the title.
 
-Smart Links might eventually forget the new title, unless the page is pinned to the menu.
+To change a 7 Cups page's title, go to the page and press the pencil icon in the toolbar. Smart Links might eventually forget the new title, unless the page is pinned to the menu.
 
 ### <i class="fa fa-plus"></i> Add a link
 
@@ -87,5 +87,7 @@ You can change the maximum number of smart links shown in the menu. This number 
 You can make Smart Links more forgetful, so that links to pages you do not visit often disappear from the menu more quickly, allowing new links to take their place.
 
 If you make the forgetfulness zero, then Smart Links never forgets, and when the menu is full it never changes. If you make it too large, then the menu might be unstable, making it difficult to use reliably.
+
+### Further information
 
 
