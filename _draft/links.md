@@ -66,9 +66,11 @@ Smart Links might eventually forget the new title, unless the page is pinned to 
 
 ### <i class="fa fa-plus"></i> Add a link
 
-To add any link to the menu, go to the page and copy its URL. Press the plus button in the Smart Links toolbar. Type a title for the link, and paste the URL that you copied.
+To add any link to the menu, copy the URL from the page itself or from a link. Press the plus button in the Smart Links toolbar. Type a title for the link, and paste the URL that you copied.
 
 You can add links to external pages in this way. They are pinned to the menu until you manually remove them.
+
+If you add a link to a 7 Cups page in this way, it is no different from any other pinned 7 Cups page.
 
 ### <i class="fa fa-minus"></i> Remove a link
 
@@ -83,4 +85,7 @@ To adjust Smart Links' behavior, press the cog wheel button in the Smart Links t
 You can change the maximum number of smart links shown in the menu. This number does not include starred and pinned links at the top.
 
 You can make Smart Links more forgetful, so that links to pages you do not visit often disappear from the menu more quickly, allowing new links to take their place.
+
+If you make the forgetfulness zero, then Smart Links never forgets, and when the menu is full it never changes. If you make it too large, then the menu might be unstable, making it difficult to use reliably.
+
 
