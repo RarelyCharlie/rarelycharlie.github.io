@@ -44,19 +44,41 @@ To customize Smart Links, use the toolbar at the bottom of the Smart Links menu.
 
 ### <i class="fa fa-thumb-tack"></i> Pin this page
 
+A pin indicates a page that is fixed in the menu, overriding the learning algorithm.
+
 To pin a 7 Cups page to the top of the menu, go to the page and press the thumb tack icon in the toolbar. Optionally change the page title.
 
 To unpin a pinned page, go to the page and press the thumb tack icon again. The page remains in the menu if it's a page you often visit. Otherwise the page disappears from the menu.
 
 ### <i class="fa fa-star"></i> Star this page
 
-To star a page, at the top of the menu, go to the page and press the star icon in the toolbar. Optionally type a reminder of the reason for starring the page.
+A star indicates a temporary reminder to visit a 7 Cups page and do something.
 
-When you visit the page it loses its star. The page remains in the menu if it's a page you often visit, or if it's pinned. Otherwise the page disappears from the menu.
+To star a page at the top of the menu, go to the page and press the star icon in the toolbar. Optionally type a reminder of your reason for starring the page.
 
+When you visit the page it loses its star. The page remains in the menu if it's a page you often visit, or if it's pinned. Otherwise the page disappears from the menu. You can star it again if you need another reminder to visit the page.
 
-### <i class="fa fa-plus"></i> Adding a link
+### <i class="fa fa-pencil"></i> Edit page title
 
-To add a link to 
+To change a 7 Cups page's title, go to the page and press the star icon in the toolbar. Smart Links might eventually forget the new title, unless the page is pinned to the menu.
 
-press the <i class="fa fa-plus"></i> button in the Smart Links toolbar. 
+### <i class="fa fa-plus"></i> Add a link
+
+To add any link to the menu, go to the page and copy its URL. Press the plus button in the Smart Links toolbar. Type a title for the link, and paste the URL that you copied.
+
+You can add links to external pages in this way. They are pinned to the menu until you manually remove them.
+
+### <i class="fa fa-minus"></i> Remove a link
+
+To remove any link from the menu, press the minus button in the Smart Links toolbar. Then click the icon at the left of the link you want to remove.
+
+Removing a link to a 7 Cups page does not prevent it from reappearing if you continue visit the page often.
+
+### <i class="fa fa-cog"></i> Settings
+
+To adjust Smart Links' behavior, press the cog wheel button in the Smart Links toolbar.
+
+You can change the maximum number of smart links shown in the menu. This number does not include starred and pinned links at the top.
+
+You can make Smart Links more forgetful, so that links to pages you do not visit often disappear from the menu more quickly, allowing new links to take their place.
+
