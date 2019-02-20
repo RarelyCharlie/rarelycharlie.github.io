@@ -48,14 +48,11 @@ To pin a 7 Cups page to the top of the menu, go to the page and press the thumb 
 
 To unpin a pinned page, go to the page and press the thumb tack icon again. The page remains in the menu if it's a page you often visit. Otherwise the page disappears from the menu.
 
-### <i class="fa fa-thumb-tack"></i> Pin this page
+### <i class="fa fa-star"></i> Star this page
 
-To pin a 7 Cups page to the top of the menu, go to the page and press the thumb tack icon in the toolbar. Optionally change the page title.
+To star a page, at the top of the menu, go to the page and press the star icon in the toolbar. Optionally type a reminder of the reason for starring the page.
 
-The link remains at the top of the menu until you remove it.
-
-
-
+When you visit the page it loses its star. The page remains in the menu if it's a page you often visit, or if it's pinned. Otherwise the page disappears from the menu.
 
 
 ### <i class="fa fa-plus"></i> Adding a link
