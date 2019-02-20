@@ -42,6 +42,22 @@ If you stop visiting certain pages, Smart Links eventually forgets them and the 
 
 To customize Smart Links, use the toolbar at the bottom of the Smart Links menu.
 
+### <i class="fa fa-thumb-tack"></i> Pin this page
+
+To pin a 7 Cups page to the top of the menu, go to the page and press the thumb tack icon in the toolbar. Optionally change the page title.
+
+To unpin a pinned page, go to the page and press the thumb tack icon again. The page remains in the menu if it's a page you often visit. Otherwise the page disappears from the menu.
+
+### <i class="fa fa-thumb-tack"></i> Pin this page
+
+To pin a 7 Cups page to the top of the menu, go to the page and press the thumb tack icon in the toolbar. Optionally change the page title.
+
+The link remains at the top of the menu until you remove it.
+
+
+
+
+
 ### <i class="fa fa-plus"></i> Adding a link
 
 To add a link to 
