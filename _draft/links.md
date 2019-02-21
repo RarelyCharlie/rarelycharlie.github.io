@@ -51,9 +51,11 @@ To customize Smart Links, use the toolbar at the bottom of the Smart Links menu.
 
 A pin indicates a page that is fixed in the menu, overriding the learning algorithm.
 
-To pin a 7 Cups page to the top of the menu, go to the page and press the thumb tack icon in the toolbar. Optionally change the page title.
+To pin a link to the top of the menu, go to the page and press the thumb tack icon in the toolbar. Optionally change the page title.
 
 To unpin a pinned page, go to the page and press the thumb tack icon again. The page remains in the menu if it's a page you often visit. Otherwise the page disappears from the menu.
+
+If you find you need to pin many pages, a better way to manage them might be to use your web browser's bookmarks feature, perhaps in combination with an extension,
 
 ### <i class="fa fa-star"></i> Star this page
 
@@ -61,13 +63,13 @@ A star indicates a temporary reminder to visit a 7 Cups page and do something.
 
 To star a link, go to the page and press the star icon in the toolbar. Optionally type a reminder of your reason for starring the link.
 
-When you visit the page it loses its star. The page remains in the menu if it's a page you often visit, or if it's pinned. Otherwise the page disappears from the menu. You can star it again if you need another reminder to visit the page.
+When you next visit the page it automatically loses its star. The page remains in the menu if it's a page you often visit, or if it's pinned. Otherwise the page disappears from the menu. You can star it again if you need another reminder to visit the page.
 
 It's not possible to star an external link.
 
 ### <i class="fa fa-pencil"></i> Edit page title
 
-Page titles at 7 Cups are inconsistent. At 7 Cups the text of a link, the title of the page it links to, and the main heading on that page might all be different. Smart Links generally uses the page title, but it can sometimes be useful to change the title.
+Page titles at 7 Cups are inconsistent. It can sometimes be useful to change the title.
 
 To change a 7 Cups page's title, go to the page and press the pencil icon in the toolbar. Smart Links might eventually forget the new title, unless the page is pinned to the menu.
 
