@@ -92,21 +92,30 @@ If you make the forgetfulness zero, then Smart Links never forgets, and when the
 
 ### Link types
 
-Smart Links uses icons to indicate the type of link:
+Smart Links uses these icons to indicate the type of link:
 
-<i class="fa fa-star"></i> Starred link (temporary reminder)
+<i class="fa fa-star"></i> Starred link (temporary reminder)\\
 <i class="fa fa-thumb-tack blue"></i> Pinned or external link\\
 <i class="fa fa-link"></i> Smart link
 
-It uses more icons to indicate links to certain types of page:
+It uses these icons to indicate links to certain types of page:
 
-<i class="fa fa-external-link"></i> External link (not at 7 Cups)\\
+<i class="fa fa-external-link"></i> External page (that is, not at 7 Cups)\\
 <i class="fa fa-quote-left"></i> Forum\\
 <i class="fa fa-comment-o"></i> 1-to-1 chat\\
 <i class="fa fa-comments-o"></i> Chatroom
 
-
 ### Further information
 
-Chats and chatrooms all use a page with the title Connect. Smart Links changes the page title to match the name of the person or room. 
+Note that page titles at 7 Cups are not consistent.
+
+For example, if you click on the link [About 7 Cups](https://www.7cups.com/about/) you see a page with the top-level heading, "7 Cups is an on-demand emotional health service and online therapy provider" where the page title is "About Us - Online Therapy Provider". Smart Links uses the page title, and you have the option to change it.
+
+Chats and chatrooms all use a page with the title "Connect". On the Connect page, Smart Links changes the page title to match the name of the person or room that loads first. If you switch person or room within the page, Smart Links is not aware of the switch.
+
+The main Forums page has the title "Online Therapy & Suppost Forum". It has four tabs: Popular, New, Top and Needs Reply. Smart Links recognizes the four tabs as separate URLs, but they all have the same page title. You can change the page title manually. It's possible a future version of Smart Links will change the page title automatically.
+
+The [Our Team](https://www.7cups.com/about/ourteam.php) page has nine tabs, but 7 Cups does not distinquish between them either in the URL or in the page title. Therefore Smart Links cannot tell them apart, and it is not possible to link to a particular tab.
+
+
 
