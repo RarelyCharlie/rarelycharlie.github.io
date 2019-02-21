@@ -4,7 +4,7 @@ title: Use Smart Links
 linkas: false
 feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
-<style>.fa {display: inline-block; margin-right: 1ex; color: #07d;} .fa-plus {color: #0a0;} .fa-minus {color: #a00;} .fa-thumb-tack {color: #fa0; transform: rotate(17deg);} .fa-star {color: #f44; transform: rotate(-7deg);} .fa-pencil {color: #07d;} .fa-cog {color: #667;} .fa-quote-left {color: #fff; text-shadow: 1px 0 0 #07d, 0 1px 0 #07d, -1px 0 0 #07d, 0 -1px 0 #07d;} .blue {color: #07d;}</style>
+<style>.fa {display: inline-block; margin-right: 4px; color: #07d;} .fa-plus {color: #0a0;} .fa-minus {color: #a00;} .fa-thumb-tack {color: #fa0; transform: rotate(17deg);} .fa-star {color: #f44; transform: rotate(-7deg);} .fa-pencil {color: #07d;} .fa-cog {color: #667;} .fa-quote-left {color: #fff; text-shadow: 1px 0 0 #07d, 0 1px 0 #07d, -1px 0 0 #07d, 0 -1px 0 #07d;} .blue {color: #07d;}</style>
 Smart Links is an additional menu for the 7 Cups website. The Smart Links menu continuously learns which 7 Cups webpages you use most often, and provides upiu with 1-click access to them. As your use of the 7 Cups website changes, the Smart Links menu continuously adapts.
 
 Some Smart Links features are experimental, and some might not work. Smart Links is only supported on a best efforts basis without any guarantees. The current version is 0.1.
@@ -54,9 +54,11 @@ To unpin a pinned page, go to the page and press the thumb tack icon again. The 
 
 A star indicates a temporary reminder to visit a 7 Cups page and do something.
 
-To star a page at the top of the menu, go to the page and press the star icon in the toolbar. Optionally type a reminder of your reason for starring the page.
+To star a link, go to the page and press the star icon in the toolbar. Optionally type a reminder of your reason for starring the link.
 
 When you visit the page it loses its star. The page remains in the menu if it's a page you often visit, or if it's pinned. Otherwise the page disappears from the menu. You can star it again if you need another reminder to visit the page.
+
+It's not possible to star an external link.
 
 ### <i class="fa fa-pencil"></i> Edit page title
 
