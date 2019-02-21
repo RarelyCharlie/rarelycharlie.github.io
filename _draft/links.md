@@ -5,7 +5,10 @@ linkas: false
 feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
 <style>.fa {display: inline-block; margin-right: 4px; color: #07d;} .fa-plus {color: #0a0;} .fa-minus {color: #a00;} .fa-thumb-tack {color: #fa0; transform: rotate(17deg);} .fa-star {color: #f44; transform: rotate(-7deg);} .fa-pencil {color: #07d;} .fa-cog {color: #667;} .fa-quote-left {color: #fff; text-shadow: 1px 0 0 #07d, 0 1px 0 #07d, -1px 0 0 #07d, 0 -1px 0 #07d;} .blue {color: #07d;}</style>
-Smart Links is an additional menu for the 7 Cups website. The Smart Links menu continuously learns which 7 Cups webpages you use most often, and provides you with 1-click access to them. As your use of the 7 Cups website changes, the Smart Links menu continuously adapts.
+
+Smart Links is an additional menu for the 7 Cups website. It pops up when you move your mouse pointer over the teacup icon at the top left.
+
+The Smart Links menu continuously learns which 7 Cups webpages you use most often, and provides you with 1-click access to them. As your use of the 7 Cups website changes, the Smart Links menu continuously adapts.
 
 ![screenshot](/assets/smartlinks1.png)
 
