@@ -4,7 +4,7 @@ title: Use Smart Links
 linkas: false
 feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
-<style>.fa {display: inline-block; margin-right: 1ex; color: #07d;} .fa-plus {color: #0a0;} .fa-minus {color: #a00;} .fa-thumb-tack {color: #fa0; transform: rotate(17deg);} .fa-star {color: #f44; transform: rotate(-7deg);} .fa-pencil {color: #07d;} .fa-cog {color: #667;} .fa-quote-left {color: #fff; text-shadow: 1px 0 0 #07d, 0 1px 0 #07d, -1px 0 0 #07d, 0 -1px 0 #07d;}</style>
+<style>.fa {display: inline-block; margin-right: 1ex; color: #07d;} .fa-plus {color: #0a0;} .fa-minus {color: #a00;} .fa-thumb-tack {color: #fa0; transform: rotate(17deg);} .fa-star {color: #f44; transform: rotate(-7deg);} .fa-pencil {color: #07d;} .fa-cog {color: #667;} .fa-quote-left {color: #fff; text-shadow: 1px 0 0 #07d, 0 1px 0 #07d, -1px 0 0 #07d, 0 -1px 0 #07d;} .blue {color: #07d;}</style>
 Smart Links is an additional menu for the 7 Cups website. The Smart Links menu continuously learns which 7 Cups webpages you use most often, and provides upiu with 1-click access to them. As your use of the 7 Cups website changes, the Smart Links menu continuously adapts.
 
 Some Smart Links features are experimental, and some might not work. Smart Links is only supported on a best efforts basis without any guarantees. The current version is 0.1.
@@ -88,14 +88,20 @@ You can make Smart Links more forgetful, so that links to pages you do not visit
 
 If you make the forgetfulness zero, then Smart Links never forgets, and when the menu is full it never changes. If you make it too large, then the menu might be unstable, making it difficult to use reliably.
 
-### Link type
+### Link types
 
-Smart Links uses icons to indicate links to certain types of page. These icons are only for information.
+Smart Links uses icons to indicate the type of link:
+
+<i class="fa fa-star"></i> Starred link (temporary reminder)
+<i class="fa fa-thumb-tack blue"></i> Pinned or external link\\
+<i class="fa fa-link"></i> Smart link
+
+It uses more icons to indicate links to certain types of page:
 
 <i class="fa fa-external-link"></i> External link (not at 7 Cups)\\
 <i class="fa fa-quote-left"></i> Forum\\
-<i class="fa fa-comment-o"></i> Chat\\
-<i class="fa fa-comments-o"></i> Room\\
+<i class="fa fa-comment-o"></i> 1-to-1 chat\\
+<i class="fa fa-comments-o"></i> Chatroom
 
 
 ### Further information
