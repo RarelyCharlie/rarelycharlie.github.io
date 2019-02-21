@@ -115,7 +115,25 @@ Chats and chatrooms all use a page with the title "Connect". On the Connect page
 
 The main Forums page has the title "Online Therapy & Suppost Forum". It has four tabs: Popular, New, Top and Needs Reply. Smart Links recognizes the four tabs as separate URLs, but they all have the same page title. You can change the page title manually. It's possible a future version of Smart Links will change the page title automatically.
 
+The [Browse Listeners](https://www.7cups.com/BrowseListeners/) link in the Chat menu links to a page with the title and heading, "Need to talk to someone?" You can customize the search on this page, and 7 Cups reflects the customized search in the URL. Therefore Smart Links recognizes each customized search as a separate page. However, the pages all have the same title. You can change the title manually.
+
 The [Our Team](https://www.7cups.com/about/ourteam.php) page has nine tabs, but 7 Cups does not distinquish between them either in the URL or in the page title. Therefore Smart Links cannot tell them apart, and it is not possible to link to a particular tab.
 
+### Known issues
+Known issues in version 0.1:
 
+- On the main Forums page, the four tabs all have the same page title.
 
+### Removing Smart Links
+If you want to remove Smart Links, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
+
+### Feedback
+To provide feedback, please use the forum thread: [Smart Links]()
+
+Alternatively go to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and send a message.
+
+7 Cups does not provide any support for Smart Links. Please do not contact 7 Cups support about it, because no one at 7 Cups can help. Instead, provide feedback to the author.
+
+### Acknowledgments
+
+Smart Links was inspired by an idea posted in the forums by @DanaMH.
