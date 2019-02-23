@@ -140,6 +140,12 @@ The [Browse Listeners](https://www.7cups.com/BrowseListeners/) link in the Chat 
 
 The [Our Team](https://www.7cups.com/about/ourteam.php) page has nine tabs, but 7 Cups does not distinquish between them either in the URL or in the page title. Therefore Smart Links cannot tell them apart, and it is not possible to link to a particular tab.
 
+Three pages are ignored by the learning algorithm, which never creates links to them, but you can pin them or star them just like any other pages. They are:
+
+- The Login page
+- Your Progress Path
+- Your Notes
+
 ### Known issues
 Known issues in version 0.1:
 
@@ -148,7 +154,8 @@ Known issues in version 0.1:
 - When capturing a link from a menu, the title is sometimes weird.
 - It's not possible to star an external link (unless you capture it from a 7 Cups page).
 - On the Browse Listeners page, the title does not reflect the search parameters.
-- It's not possible to link to a particular tab on the Our Team page.
+- On the Our Team page it's not possible to link to a particular tab.
+- You always get the same smart links, regardless of context.
 
 ### Removing Smart Links
 If you want to remove Smart Links, you can temporarily disable the script in Tampermonkey's menu. Or you can delete it from Tampermonkey's dashboard. You can also disable or delete Tampermonkey as a whole.
