@@ -10,8 +10,7 @@ Smart Links is an additional menu for the 7 Cups website. It pops up when you mo
 
 The Smart Links menu continuously learns which 7 Cups webpages you use most often, and provides you with 1-click access to them. As your use of the 7 Cups website changes, the Smart Links menu continuously adapts.
 
-![screenshot](/assets/smartlinks1.png)
-{:style="width: 358px; height: 328px;"}
+![screenshot](/assets/smartlinks1.png){:style="width: 358px; height: 328px;"}
 
 Some Smart Links features are experimental, and some might not work. Smart Links is only supported on a best efforts basis without any guarantees. The current version is 0.1.
 
