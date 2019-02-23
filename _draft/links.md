@@ -146,6 +146,8 @@ Three pages are ignored by the learning algorithm, which never creates links to 
 - Your Progress Path
 - Your Notes
 
+On your Notes page, Smart Links is not available.
+
 ### Known issues
 Known issues in version 0.1:
 
