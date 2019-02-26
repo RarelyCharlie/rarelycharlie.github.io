@@ -31,7 +31,7 @@ To use Smart Links, you need to install two things in this order:
 
    If your web browser is not compatible with Tampermonkey, then you cannot proceed with the next step.
 
-2. Next, install the [7 Cups - Smart Links](https://greasyfork.org/en/scripts/zzzzzzzzzzz) script.
+2. Next, install the [7 Cups - Smart Links](https://greasyfork.org/en/scripts/378285-7-cups-smart-links) script.
 
 To install each of these in turn, click the relevant link and follow the instructions.
 
