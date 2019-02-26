@@ -3,6 +3,7 @@ layout: default
 title: percy pig
 ---
 <style>
+html {display: initial;}
 img {width: 648px; height: 484px; opacity: 0; transition: opacity .5s; position: absolute; top: 0; left: 0;}
 .show {opacity: 1;}
 #shell {width: 648px; margin: 80px auto;}
