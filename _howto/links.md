@@ -168,7 +168,7 @@ Known issues in version 0.2:
 If you want to remove Smart Links, you can temporarily disable the script in Tampermonkey's menu. Or you can delete it from Tampermonkey's dashboard. You can also disable or delete Tampermonkey as a whole.
 
 ### Feedback
-To provide feedback, please use the forum thread: [Smart Links]()
+To provide feedback, please use the forum thread: [Smart Links](https://www.7cups.com/forum/KitchenTable_133/SuggestionsandProblemSolving_383/SmartLinks_195078/)
 
 Alternatively go to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and send a message.
 
