@@ -109,6 +109,8 @@ You can make Smart Links more forgetful, so that links to pages you do not visit
 
 If you make the forgetfulness zero, then Smart Links never forgets, and once the menu is full it never changes. If you make it too large, then the menu might be unstable, making it difficult to use reliably.
 
+You can check a box to delete all link data. This deletes all smart links, pinned links and starred links, clearing the menu completely.
+
 ### Link types
 
 Smart Links uses these icons to indicate the type of link:
