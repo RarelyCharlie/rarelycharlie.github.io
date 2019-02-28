@@ -12,7 +12,7 @@ The Smart Links menu continuously learns which 7 Cups webpages you use most ofte
 
 ![screenshot](/assets/smartlinks1.png){:style="width: 358px; height: 328px;"}
 
-Some Smart Links features are experimental, and some might not work. Smart Links is only supported on a best efforts basis without any guarantees. The current version is 0.1.
+Some Smart Links features are experimental, and some might not work. Smart Links is only supported on a best efforts basis without any guarantees. The current version is 0.2.
 
 ### Who can use Smart Links
 
@@ -149,13 +149,14 @@ Three pages are ignored by the learning algorithm, which never creates links to 
 On your Notes page, Smart Links is not available.
 
 ### Known issues
-Known issues in version 0.1:
+Known issues in version 0.2:
 
+- The learning algorithm is not well tested
 - On the main Forums page, the four tabs all have the same page title.
 - On the Connect page, Smart Links is not aware if you change the person or room.
-- When capturing a link from a menu, the title is sometimes weird.
+- When capturing a link from a menu, the suggested title is sometimes weird.
 - It's not possible to star an external link (unless you capture it from a 7 Cups page).
-- On the Browse Listeners page, the title does not reflect the search parameters.
+- On the Browse Listeners page, the title does not reflect any search parameters you might have set.
 - On the Our Team page it's not possible to link to a particular tab.
 - You always get the same smart links, regardless of context.
 
