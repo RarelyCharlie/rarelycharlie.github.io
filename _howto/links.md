@@ -97,7 +97,7 @@ To remove any link from the menu, press the minus button in the Smart Links tool
 
 To remove another link from the menu, you must press the minus button again.
 
-Removing a link to a 7 Cups page does not prevent it from reappearing if you continue visit the page often.
+Removing a link to a 7 Cups page does not prevent it from reappearing if you continue to visit the page often.
 
 ### <i class="fa fa-cog"></i> Settings
 
