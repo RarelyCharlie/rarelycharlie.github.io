@@ -12,7 +12,9 @@ The Smart Links menu continuously learns which 7 Cups webpages you use most ofte
 
 ![screenshot](/assets/smartlinks1.png){:style="width: 358px; height: 328px;"}
 
-Some Smart Links features are experimental, and some might not work. Smart Links is only supported on a best efforts basis without any guarantees. The current version is 0.2.
+Some Smart Links features are experimental, and some might not work. In particular, the learning algorithm has not been tested well in this very early version.
+
+Smart Links is only supported on a best efforts basis without any guarantees. The current version is 0.2.
 
 ### Who can use Smart Links
 
