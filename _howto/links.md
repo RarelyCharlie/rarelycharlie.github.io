@@ -73,15 +73,15 @@ When you next visit the page it automatically loses its star. The page remains i
 
 It can sometimes be useful to change the title of a webpage, because page titles at 7 Cups are sometimes inconsistent.
 
-To change a 7 Cups page's title, go to the page and press the pencil icon in the toolbar. Smart Links might forget the new title if the page is one you don't often visit, unless the link is pinned to the menu.
+To change a 7 Cups page's title, go to the page and press the pencil icon in the toolbar. Smart Links might forget the new title after a time if the page is one you don't often visit, unless the link is pinned to the menu.
 
 ### <i class="fa fa-link"></i> Capture a link in this page
 
 You can capture any link that you see in a 7 Cups page and pin it to the Smart Links menu. This is particularly useful for external links. For example, you could capture a link from 7 Cups to a Google form.
 
-To capture a link, press the link button in the Smart Links toolbar. Then click the link in the page. It can be in the body of the page or in a menu. It must be a link to another page, not a link to another part of the same page.
+To capture a link, go to the 7 Cups page where you can see the link, and press the link button in the Smart Links toolbar. Then click the link itself. The link can be in the body of the page or in a menu. It must be a link to another page, not a link to another part of the same page.
 
-After capturing the title and URL, optionally edit the title and provide a reminder. If you provide a reminder, then the link will be starred. Otherwise it will be pinned.
+When you capture a link, its title and URL are captured. Optionally edit the title and provide a reminder. If you provide a reminder, then the link will be starred. Otherwise it will be pinned.
 
 ### <i class="fa fa-plus"></i> Add any link
 
