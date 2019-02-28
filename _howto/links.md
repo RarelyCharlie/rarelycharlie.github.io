@@ -71,7 +71,7 @@ When you next visit the page it automatically loses its star. The page remains i
 
 ### <i class="fa fa-pencil"></i> Edit this page's title
 
-It can sometimes be useful to change the title, because page titles at 7 Cups are inconsistent.
+It can sometimes be useful to change the title of a webpage, because page titles at 7 Cups are sometimes inconsistent.
 
 To change a 7 Cups page's title, go to the page and press the pencil icon in the toolbar. Smart Links might forget the new title if the page is one you don't often visit, unless the link is pinned to the menu.
 
