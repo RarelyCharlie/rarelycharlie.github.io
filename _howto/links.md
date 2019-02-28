@@ -22,7 +22,7 @@ You might be able to use Smart Links on an Android device, but some features mig
 
 You cannot use Smart Links on an Apple iOS device.
 
-You cannot use Smart Links if you use the 7 Cups App on any kind of device.
+You cannot use Smart Links in the 7 Cups App on any kind of device.
 
 ### What you need
 To use Smart Links, you need to install two things in this order: 
