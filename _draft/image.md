@@ -74,13 +74,17 @@ If you can't right-click because you have no mouse, or your mouse doesn't have a
 
 ### You only get a URL?
 
-If you don't end up with an image, only a URL like `https://classroomclipart.com/images/gallery/Clipart/Flowers/TN_pink-yellow-purple-tulips-floral-clipart.jpg` then remove the URL and press the editor's Image button. Past the URL in the popup Image Properties dialog.
+If you don't end up with an image, only a URL like `https://classroomclipart.com/images/...clipart.jpg` undo the paste operation or delete the URL, and press the editor's Image button. Paste the URL in the popup Image Properties dialog.
 
 ### Not even a URL?
 
 Some images on websites can't be dragged, and can't be copied. For example, profile images at 7 Cups are like this.
 
 Depending on your web browser, you might be able to right-click the image and choose Inspect. This reveals the images's URL embedded in other code. You can copy just the URL and use it as above.
+
+![Inspect example](/assets/post/Post7.png)
+
+In this example the URL is: `//7cupstearesources.s3.amazonaws.com/listenerImages/lGVjdnyYjpedlLBpVlqTxg!!.jpg`
 
 ### Image in the wrong place?
 
