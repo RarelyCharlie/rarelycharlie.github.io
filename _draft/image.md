@@ -101,9 +101,9 @@ Instead of imgur, you can use any kind of cloud storage that allows anonymous pu
 
 If an image is on your device, then you can see it but no one else can.
 
-If an image is on a website where you have to log in, then you and other logged in users can see it but other people might not be able to. Also, a hacker might be able to trace the image to your account. This depends on the website.
+If an image is on a website where you have to log in, or a website on a private network, then you and other logged in users can see it but other people might not be able to. Also, a hacker might be able to trace the image to your account. This depends on the website.
 
 If an image is on a public website that's not secure, then most people can see it but people who have strict security settings will not be able to see it. This is because images from unsecured websites can be hacked.
 
-This means the only good place to store images for use on 7 Cups is a secure public website.
+All this means the only good places to get images for use on 7 Cups are secure public websites.
 
