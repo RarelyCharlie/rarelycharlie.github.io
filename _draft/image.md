@@ -14,10 +14,9 @@ figure {opacity: 0; transition: opacity .5s; position: absolute; top: 0; left: 0
 .show {opacity: 1;}
 img {width: 406px; height: 259px;}
 #shell {width: 406px; margin: 80px auto;}
-#container {height: 320px; position: relative; overflow: hidden;}
-#next {position: absolute; bottom: 20px; right: 0; transform: translateX(-50%); border: 1px solid transparent; background: transparent;
-    padding: 0 1px; font-size: 40px; height: 40px; width: 60px; line-height: 40px; transform: scaleY(1.5); outline: none;
-    border-radius: 6px;}
+#container {width: 480px; height: 340px; position: relative; overflow: hidden;}
+#next {position: absolute; bottom: 20px; right: 0; transform: translateX(-50%); border: 1px solid transparent;
+    background: transparent; padding: 0 1px; height: 16px; 3em; line-height: 16px; outline: none;}
 #next:hover {border: 1px solid #ccc;}
 </style>
 <script>
