@@ -19,6 +19,7 @@ img {width: 406px; height: 259px;}
 #next {position: absolute; bottom: 20px; right: 0; transform: translateX(-50%); border: 1px solid transparent;
     background: transparent; padding: 0 1px; height: 16px; 3em; line-height: 16px; outline: none;}
 #next:hover {border: 1px solid #ccc;}
+code {font-size: 80%;}
 </style>
 <script>
 init = function () {
