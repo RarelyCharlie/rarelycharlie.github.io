@@ -81,11 +81,13 @@ If you don't end up with an image, only a URL like `https://classroomclipart.com
 
 Some images on websites can't be dragged, and can't be copied. For example, profile images at 7 Cups are like this.
 
-Depending on your web browser, you might be able to right-click the image and choose Inspect. This reveals the images's URL embedded in other code. You can copy just the URL and use it as above.
+Depending on your web browser, you might be able to right-click the image and choose Inspect. This reveals the images's URL embedded in other code. You can copy the URL alone and use it as above.
 
 ![Inspect example](/assets/post/Post7.png)
 
 In this example the URL is: `//7cupstearesources.s3.amazonaws.com/listenerImages/lGVjdnyYjpedlLBpVlqTxg!!.jpg`
+
+However, some URLs obtained in this way do not work, and some things that look like images do not have URLs at all.
 
 ### Image in the wrong place?
 
