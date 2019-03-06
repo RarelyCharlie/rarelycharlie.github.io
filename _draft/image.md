@@ -76,6 +76,12 @@ If you can't right-click because you have no mouse, or your mouse doesn't have a
 
 If you don't end up with an image, only a URL like `https://classroomclipart.com/images/gallery/Clipart/Flowers/TN_pink-yellow-purple-tulips-floral-clipart.jpg` then remove the URL and press the editor's Image button. Past the URL in the popup Image Properties dialog.
 
+### Not even a URL?
+
+Some images on websites can't be dragged, and can't be copied. For example, profile images at 7 Cups are like this.
+
+Depending on your web browser, you might be able to right-click the image and choose Inspect. This reveals the images's URL embedded in other code. You can copy just the URL and use it as above.
+
 ### Image in the wrong place?
 
 If the image is not on a secure public website, then you must place it on a secure public website before you can use it in 7 Cups. For example, you will have to do this if the image is on your own device or in your private blog.
