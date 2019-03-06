@@ -105,3 +105,5 @@ If an image is on a website where you have to log in, then you and other logged 
 
 If an image is on a public website that's not secure, then most people can see it but people who have strict security settings will not be able to see it. This is because images from unsecured websites can be hacked.
 
+This means the only good place to store images for use on 7 Cups is a secure public website.
+
