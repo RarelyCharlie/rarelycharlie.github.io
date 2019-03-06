@@ -61,9 +61,9 @@ You can also drag an image from one browser window to another.
 
 ### No mouse button?
 
-When using a mousepad, double-tap the image but don't release the second tap. Then move your mouse pointer to drag the image. 
+When using a mousepad, double-tap the image but don't release the second tap. Then move your mouse pointer to drag the image. If you run out of mousepad, you might be able to move things around so there is less distance to travel.
 
-If you run out of mousepad, you might be able to move things around so there is less distance to travel.
+On some touch screens you can tap and hold to drag the image.
 
 ### Device can't drag-and-drop?
 
