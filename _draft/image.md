@@ -2,10 +2,17 @@
 layout: howto
 title: Add an image to a post
 ---
+This guide describes how to add an image to a post in a 7 Cups forum or feed.
+
+### An image on a public website
+
+If the image is on a public website, you can drag it and drop it into 7 Cups:
+
 <style>
 html {display: block;}
-img {width: 406px; height: 259px; opacity: 0; transition: opacity .5s; position: absolute; top: 0; left: 0;}
+figure {opacity: 0; transition: opacity .5s; position: absolute; top: 0; left: 0;}
 .show {opacity: 1;}
+img {width: 406px; height: 259px;}
 #shell {width: 406px; margin: 80px auto;}
 #container {width: 406px; height: 560px; position: relative; overflow: hidden;}
 #next {position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); border: 1px solid transparent; background: transparent;
