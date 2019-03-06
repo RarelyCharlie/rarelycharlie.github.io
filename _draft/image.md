@@ -2,7 +2,9 @@
 layout: howto
 title: Add an image to a post
 ---
-This guide describes how to add an image to a post in a 7 Cups forum or feed.
+At 7 Cups you cannot upload images. This guide describes how to add an image to a post in a 7 Cups forum or feed.
+
+7 Cups does not support audio or video in forums and feeds, but animated images work normally.
 
 ### An image on a secure public website
 
@@ -54,7 +56,7 @@ next = function () {
 <button id="next" onclick="next()">Next &gt;</button>
 </div>
 
-You can also drag an image from one browser windoe to another.
+You can also drag an image from one browser window to another.
 
 ### No mouse button?
 
@@ -80,5 +82,13 @@ If the image is not on a secure public website, then you must place it on a secu
 
 Many people use [imgur](https://imgur.com) for this. Ensure that you are *not* signed in to imgur. Press the New Post button, then copy the image to imgur using any of the techiques described above. When the image is on imgur, use any of the techiques described above to copy it into a post on 7 Cups.
 
+Instead of imgur, you can use any kind of cloud storage that allows anonymous public access to images.
 
+### Why a secure public website?
+
+If an image is on your device, then you can see it but no one else can.
+
+If an image is on a website where you have to log in, then you and other logged in users can see it but other people might not be able to. Also, a hacker might be able to trace the image to your account. This depends on the website.
+
+If an image is on a public website that's not secure, then most people can see it but people who have strict security settings will not be able to see it. This is because images from unsecured websites can be hacked.
 
