@@ -93,7 +93,7 @@ However, some URLs obtained in this way do not work, and some things that look l
 
 If the image is not on a secure public website, then you must place it on a secure public website before you can use it in 7 Cups. For example, you will have to do this if the image is on your own device or in your private blog.
 
-Many people use [imgur](https://imgur.com) for this. Ensure that you are *not* signed in to imgur. Press the New Post button, then copy the image to imgur using any of the techiques described above. When the image is on imgur, use any of the techiques described above to copy it into a post on 7 Cups.
+Many people use [imgur](https://imgur.com) for this. Ensure that you are *not* signed in to imgur. Press the New Post button, then copy the image to imgur using any of the techniques described above. When the image is on imgur, use any of the techniques described above to copy it into a post on 7 Cups.
 
 Instead of imgur, you can use any kind of cloud storage that allows anonymous public access to images.
 
