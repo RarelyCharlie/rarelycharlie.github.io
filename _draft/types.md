@@ -6,12 +6,13 @@ feedback: https://www.7cups.com/@RarelyCharlie
 Matrix:
 
 <style>table {border-collapse: collapse; width: 100%;}
-  td {width: auto; height: 6em; border: 1px solid #ccc;}
+  td {width: 11em; height: 6em; border: 1px solid #ccc;}
   tr:first-child td {text-align: center;}
   tr.c td {text-align: center;}
   tr.b td, td.b {font-weight: bold;}
   tr.i td {font-style: italic; vertical-align: bottom;}
   tr.s td {height: 2em;}
+  td:first-child {width: 7em;}
   </style>
 <table><tbody>
 <tr class="c i s"><td></td><td colspan="4">Point of view</td></tr>
