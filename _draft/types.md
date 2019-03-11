@@ -14,8 +14,8 @@ Matrix:
   tr.s td {height: 2em;}
   </style>
 <table><tbody>
-<tr class="c i s"><td colspan="4">Point of view</td></tr>
-  <tr class="c b"><td></td><td>Reflective</td><td>Shared</td><td>Advisory</td><td>Self-centered</td></tr>
+<tr class="c i s"><td></td><td colspan="4">Point of view</td></tr>
+<tr class="c b s"><td></td><td>Reflective</td><td>Shared</td><td>Advisory</td><td>Self-centered</td></tr>
 <tr><td class="b">Emotional</td><td></td><td></td><td></td><td></td></tr>
 <tr><td class="b">Mental</td><td></td><td></td><td></td><td></td></tr>
 <tr><td class="b">Behavioural</td><td></td><td></td><td></td><td></td></tr>
