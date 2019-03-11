@@ -10,14 +10,15 @@ Matrix:
   tr:first-child td {text-align: center;}
   tr.c td {text-align: center;}
   tr.b td, td.b {font-weight: bold;}
-  tr.i td {font-style: italic;}
+  tr.i td {font-style: italic; vertical-align: bottom;}
+  tr.s td {height: 2em;}
   </style>
 <table><tbody>
-<tr class="c i"><td colspan="4">Point of view</td></tr>
-<tr class="c b"><td>Reflective</td><td>Shared</td><td>Advisory</td><td>Self-centered</td></tr>
-<tr><td class="b">Emotional</td></tr>
-<tr><td class="b">Mental</td></tr>
-<tr><td class="b">Behavioural</td></tr>
-<tr><td class="b">Objective</td></tr>
-<tr><td class="b">Robotic</td></tr>
+<tr class="c i s"><td colspan="4">Point of view</td></tr>
+  <tr class="c b"><td></td><td>Reflective</td><td>Shared</td><td>Advisory</td><td>Self-centered</td></tr>
+<tr><td class="b">Emotional</td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="b">Mental</td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="b">Behavioural</td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="b">Objective</td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="b">Robotic</td><td></td><td></td><td></td><td></td></tr>
 </tbody></table>
