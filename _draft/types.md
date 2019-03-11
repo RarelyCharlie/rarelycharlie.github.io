@@ -5,7 +5,8 @@ feedback: https://www.7cups.com/@RarelyCharlie
 ---
 Matrix:
 
-<style>td {width: 4em; height: 4em;}</style>
+<style>table {border-collapse: collapse;} td {width: 4em; height: 4em;} tr:first-child td {text-align: center;}</style>
+||*Point of view*{:colspan="4" style="text-align: center;"}|
 ||**Reflective**|**Shared**|**Advisory**|**Self-centered**|
 |**Emotional**||||
 |**Mental**||||
