@@ -1038,7 +1038,7 @@ It's not entirely possible to understand this member's situation. Maybe there ar
 - Listeners must not imagine things that could make them deny emotional support to a member.#Listeners should not allow their imagination to affect chats with members.
 - In an emergency, a member must get help themselves, not rely on a listener to get help.#Listeners cannot get emergency help for members.
 - Sometimes a member who feels anxious might try to control listeners because it feels reassuring to be in command.#Anxiety is one of the reasons people can be controlling. 
-- In an emotional crisis, it is always helpful for a member to call their local police, who can prevent possibe suicide.# An emotional crisis is not a police matter.
+- In an emotional crisis, it is always helpful for a member to call their local police, who can prevent possible suicide.# An emotional crisis is not a police matter.
 - Suicide plans are likely to be fatal eventually.# Plans are just thoughts, and they are not harmful in themselves.
 - Listeners must never ask members questions about their intentions, because of the risk of suicide.# Listeners can clarify member's intentions by asking about them directly.
 - Listeners must never mention the possibility of death, because 7 Cups censors all messages about it.# Listeners can mention death if it relates to something a member has already said, even though the chat censor does block certain phrases.
