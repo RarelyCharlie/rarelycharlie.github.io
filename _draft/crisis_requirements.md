@@ -56,12 +56,13 @@ These options are not meant to be exclusive. For example "A or D" could be an op
 
 I assume the listener must never use any of the following non-options. Let me know in the forum if you think I'm wrong about any of these, or if there are other non-options, and I'll edit this list.
 
-**X1** The listener calls their own emergency services.
+ - **X1** The listener calls their own emergency services.
 
-**X2** The listener calls any other service local to the listener (for example, the listener's local suicide hotline).
+ - **X2** The listener calls any other service local to the listener (for example, the listener's local suicide hotline).
 
-**X3** Anything involving offsite contact details.
+ - **X3** Anything involving offsite contact details.
 
-**X4** The listener tries to persuade the member not to take some action (for example, not to commit suicide).
+ - **X4** The listener tries to persuade the member not to take some action (for example, not to commit suicide).
 
-**X5** The listener advises the member not to talk about the crisis (for example, not to talk about suicide).
+ - **X5** The listener advises the member not to talk about the crisis (for example, not to talk about suicide).
+{:style="list-style-type: none;"}
