@@ -6,6 +6,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 <style>
   @import url("https://fonts.googleapis.com/css?family=Work+Sans:300,400,700");
   #content p.chat {font-family: "Work Sans", sans-serif; margin-left: 2em;}
+  #content p.chat em {font-family: inherit;}
 </style>
 ## Crisis scenarios
 
