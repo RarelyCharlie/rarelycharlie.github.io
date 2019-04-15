@@ -3,7 +3,7 @@ title: Crisis scenarios
 layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-<style>.chat {margin-left: 2em;}</style>
+<style>#content p.chat {margin-left: 2em;}</style>
 ## Crisis scenarios
 
 I'm hoping the protocol will provide listeners with enough information to know exactly which option or options to use in each of the following scenarios.
