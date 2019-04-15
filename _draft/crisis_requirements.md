@@ -29,27 +29,28 @@ Let me know in the forum if you think I'm wrong about any of these, or if there 
 
 These options are not meant to be exclusive. For example "A or D" could be an option, depending the listener's personal boundaries. Or "E then C" could be an option.
 
-**A** Continue the chat without conditions.
+- **A** Continue the chat without conditions.
 
-**B** Block the conversation.
+- **B** Block the conversation.
 
-**C** End the current chat but allow future chats.
+- **C** End the current chat but allow future chats.
 
-**D** Refer the chat to another listener.
+- **D** Refer the chat to another listener.
 
-**E** Advise the member to call a volunteer suicide hotline in their country.
+- **E** Advise the member to call a volunteer suicide hotline in their country.
 
-**F** Advise the member to call a volunteer peer support warmline in their country.
+- **F** Advise the member to call a volunteer peer support warmline in their country.
 
-**G** Advise the member to call blue-light emergency services (police, fire, ambulance) in their country.
+- **G** Advise the member to call blue-light emergency services (police, fire, ambulance) in their country.
 
-**H** Advise the member to call a doctor or seek medical treatment in some other way.
+- **H** Advise the member to call a doctor or seek medical treatment in some other way.
 
-**I** Advise the member to call a mental health professional or go to a mental hospital.
+- **I** Advise the member to call a mental health professional or go to a mental hospital.
 
-**J** Change the subject and continue chatting about something else.
+- **J** Change the subject and continue chatting about something else.
 
-**K** Continue the chat if the member changes the subject themselves.
+- **K** Continue the chat if the member changes the subject themselves.
+{:style="list-style-type: none;"}
 
 ## Non-options
 
