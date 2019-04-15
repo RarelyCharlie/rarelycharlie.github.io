@@ -1,7 +1,7 @@
 ---
 title: Crisis scenarios
 layout: default
-feedback: https://www.7cups.com/@RarelyCharlie
+feedback: https://www.7cups.com/forum/ListenerLearningJourney_149/ForumDiscussionsDiscussionNotes_1848/Crisisprotocoloptionsandscenarios_198934/
 ---
 <style>
   @import url("https://fonts.googleapis.com/css?family=Work+Sans:300,400,700");
@@ -12,7 +12,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 
 I'm hoping the protocol will provide listeners with enough information to know exactly which option or options to use in each of the following scenarios.
 
-Let me know in the forum if you think any of them should not be considered, or if there are other distinct scenarios that should be considered, and I'll edit this list.
+Let me know [in the forum](https://www.7cups.com/forum/ListenerLearningJourney_149/ForumDiscussionsDiscussionNotes_1848/Crisisprotocoloptionsandscenarios_198934/) if you think any of them should not be considered, or if there are other distinct scenarios that should be considered, and I'll edit this list.
 
 **Scenario 1**: Suicide mentioned, but no suggestion of any risk.
 
