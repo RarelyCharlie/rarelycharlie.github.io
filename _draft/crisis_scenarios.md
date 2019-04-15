@@ -3,7 +3,10 @@ title: Crisis scenarios
 layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-<style>#content p.chat {margin-left: 2em;}</style>
+<style>
+  @import url("https://fonts.googleapis.com/css?family=Work+Sans:300,400,700");
+  #content p.chat {font-family: "Work Sans", sans-serif; margin-left: 2em;}
+</style>
 ## Crisis scenarios
 
 I'm hoping the protocol will provide listeners with enough information to know exactly which option or options to use in each of the following scenarios.
