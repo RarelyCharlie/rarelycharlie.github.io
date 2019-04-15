@@ -1,11 +1,11 @@
 ---
 title: Crisis requirements
 layout: default
-feedback: https://www.7cups.com/@RarelyCharlie
+feedback: https://www.7cups.com/forum/ListenerLearningJourney_149/ForumDiscussionsDiscussionNotes_1848/Crisisprotocoloptionsandscenarios_198934/
 ---
 ## Basic requirements
 
-I think my requirements for an effective protocol are as follows. Let me know in the forum if you think I'm wrong about any of these, or if there are other requirements, and I'll edit this list.
+I think my requirements for an effective protocol are as follows. Let me know [in the forum](https://www.7cups.com/forum/ListenerLearningJourney_149/ForumDiscussionsDiscussionNotes_1848/Crisisprotocoloptionsandscenarios_198934/) if you think I'm wrong about any of these, or if there are other requirements, and I'll edit this list.
 
 1. The protocol must clearly and unabiguously define which situations it applies to and which situations it does not apply to.
 
