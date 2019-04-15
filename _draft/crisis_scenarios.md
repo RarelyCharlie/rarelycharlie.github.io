@@ -110,6 +110,7 @@ In this scenario the listener is triggered by the phrase "seeing my own blood", 
 **Scenario 15**: Transient mention
 
 *Member:* This illness makes me suicidal all the time but I try not to think about it too much. I just wish my mom could understand my illness better and be stronger. She gets so angry and upset. I'm always having to comfort her.
+{:.chat}
 
 **Scenario 16**: No hotline
 
