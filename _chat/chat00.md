@@ -89,4 +89,4 @@ Morinda also adds comments to tell you what's going on.
 
 People sometimes use the word "depression" simply to mean there's something they're unhappy about. It doesn't mean they are actually depressed, just that life is hard.
 
-At 7 Cups one of [Our Key Values](https://www.7cups.com/about/values.php) is: *We recognize that life is messy, unpredictable, hard, and surprising.*
+At 7 Cups, originally, one of [Our Key Values](https://web.archive.org/web/20170710164036/https://www.7cups.com/about/values.php) was: *We recognize that life is messy, unpredictable, hard, and surprising.*
