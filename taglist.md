@@ -342,6 +342,6 @@ For more information, see the <a title="Taglist service documentation" href="/ho
 
 ## Taglist service {#notfound}
 
-No taglist was found.
+This taglist was not found, or it is temporarily unavailable.
 
 For more information, see the <a title="Taglist service documentation" href="/howto/taglist">Howto guide</a>.
