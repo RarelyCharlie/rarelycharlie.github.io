@@ -46,3 +46,5 @@ For any other maintenance requirements, to suggest a new feature, or to report a
  - When a taglist owner adds tags, there is no check that the tags are valid. (But when someone adds themselves, the tag is guaranteed to be valid at that time.)
  
  - In the event that this service runs into unforseen problems for any reason, taglist owners will be informed.
+ 
+ - There is currently (August 2019) a bug that makes a taglist temporarily unavailable whenever its control thread extends on to another page. No data is lost when this happens, but the taglist is not visible. While a fix for this bug is being worked on, contact @RarelyCharlie if this happens and you need a taglist to be repaired.
