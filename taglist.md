@@ -427,6 +427,8 @@ Please paste the thread's URL here and press the Setup button:
 
 This is an auto-updating taglist controlled by a forum thread. Post there to add or remove yourself: <a id="open-control" title="Control thread for this taglist" href=""></a>
 
+<p id="open-restrict" hidden></p>
+
 The taglist was not found.
 {:.warning #open-warn}
 
@@ -437,7 +439,7 @@ The taglist was not found.
 <span id="open-spin" class="spinner"></span>
 </div>
 
-<button class="open" id="open-copy" onclick="Taglist.copy()">Copy</button><span id="open-copied"></span>
+<button class="open" id="open-copy" onclick="Taglist.copy()" disabled>Copy</button><span id="open-copied"></span>
 
 <span id="open-count"></span><br>List owner: <a id="open-owner" title="This taglist's owner" href=""></a>
 
