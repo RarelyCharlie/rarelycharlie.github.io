@@ -42,10 +42,15 @@ const serviceurl = 'https://rarelycharlie.herokuapp.com/taglist/'
 
 Taglist = {
 	key: '',
+	problems: [
+		'No problems found.',
+		'Two tags or one? Type an @-sign or delete the space.',
+		'Unexpected symbols'
+		],
 	service: null,
 
 	api: async function (action, data) {
-		//console.log('api: ' + action)
+		console.log('api: ' + action)
 		if (!action) return
 		if (!data) data = {}
 		data.action = action
@@ -64,10 +69,45 @@ Taglist = {
 			}
 		if (response) {
 			var body = await response.text()
-			//console.log('  +api: ' + response.status + ' ' + response.statusText + ' ' + body)
+			console.log('  +api: ' + response.status + ' ' + response.statusText)
 			return [response.status, body]
 			}
 		else return [404, 'Not found']		
+		},
+
+	clean: function () { // clean the list...
+		var list = document.getElementById('list')
+		list.removeAttribute('contenteditable')
+		
+		var t = list.textContent
+		t = t.replace(/<[^>]+>/g, '')
+		t = t.replace(/[^A-Za-z0-9_ @]/g, '')
+		t = t.replace(/@+\s+/g, '@')
+		t = t.replace(/([^ ])@/g, '$1 @')
+		t = t.replace(/\s+/g, ' ')
+		
+		var m = /@[^@ ]+\s[^@ ]+/.exec(t)
+		if (m) {
+			this.problem(m[0], 1)
+			t = t.replace(m[0], '<span class="bad">' + m[0] + '</span>')
+			list.innerHTML = t
+			return false
+			}
+		else {
+			t = t.replace(/[ @]+/g, ' ')
+			t = t.split(' ')
+			t.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()))
+
+			var dup = 0
+			for (let i = 1; i < t.length; ++i)
+				if (t[i].toLowerCase() == t[i - 1].toLowerCase()) t[i] = '', ++dup
+		
+			t = t.filter(n => n.trim() != '')
+			t = t.map(n => '@' + n)
+			list.textContent = t.join(' ')
+			if (t.length) this.noproblem(dup, t.length)
+			return true
+			}
 		},
 
 	control: async function () { // set the control URL...
@@ -110,7 +150,7 @@ Taglist = {
 			}
 		setTimeout(function () {$('#open-copied').fadeOut(800)}, 1500)
 		},
-
+	
 	init: async function () {
 		this.section('init', true)
 		this.key = location.search.substring(1)
@@ -132,7 +172,7 @@ Taglist = {
 			b.prop('disabled', v.length < 4)
 			if (event.keyCode == 13 && v.length >= 4) b.click() 
 			}
-		else if (id == 'setup-url'){
+		else if (id == 'setup-url') {
 			let b = $('#setup-button') 
 			b.prop('disabled', v = '')
 			if (event.keyCode == 13 && v) b.click() 
@@ -145,14 +185,28 @@ Taglist = {
 			}
 		},
 
+	noproblem: function (dup, n) {
+		document.getElementById('problem').setAttribute('disabled', true)
+		var p = document.getElementById('problem-tags')
+		p.value = ''
+		p.disabled = true
+		document.getElementById('problem-report')
+			.textContent = this.problems[0] + ' '
+			+ (dup == 0? 'No duplicates.' : (dup == 1? '1 duplicate removed.' : dup + ' duplicates removed.'))
+			+ ' '
+			+ (n == 0? 'No tags remain.' : (n == 1? '1 tag' : n + ' tags'))
+			+ ' in the list.'
+		document.getElementById('problem-fix').disabled = true
+		},		
+	
 	nosearch: function () {
 		$('#open-search').val('').focus()
 		this.keyup({target: {id: 'open-search', value: ''}})
 		},
 
 	open: async function () {
-		var [status, data] = await this.api('open', {key: this.key})
-		//console.log('open: ' + status + ' ' + data)
+		var [status, data] = await this.api('open', {key: this.key, mode: 'peek'})
+		console.log('open: ' + status)
 		$('#open-wait').hide()
 		if (status == 200) {
 			this.section('open', true)
@@ -160,7 +214,7 @@ Taglist = {
 			data = JSON.parse(data)
 			$('h2#open').text(data.name)
 			document.title = data.name + ' | Taglist service'
-			//console.log('control: ' + data.control)
+			console.log('control: ' + data.control)
 			if (!data.control) {
 				this.section('open', false)
 				$('h2#setup').text('Setup: ' + data.name)
@@ -170,20 +224,30 @@ Taglist = {
 			if (data.owner) $('#open-owner')
 				.attr('href', [controldomain, '@' + data.owner].join('/'))
 				.text('@' + data.owner)
+			if (data.delegates && data.delegates[0]) {
+				let rr = [], d = data.delegates[0]
+				if (d.includes('A')) rr.push('adult') 
+				if (d.includes('T')) rr.push('teen') 
+				if (d.includes('M')) rr.push('member') 
+				if (d.includes('L')) rr.push('listener') 
+				$('#open-restrict').text('Restriction: ' + rr.join(' ') + 's only.')
+				}
+
+			var [status, data] = await this.api('open', {key: this.key, mode: 'update'})
+			console.log('update status: ' + status)
+			if (status != 200) return // <<<<<<<<<<<<<<<<<<<<
+			data = JSON.parse(data)
+
 			var t = $('#open-list')
 			$('#open-spin').hide()
 			if (data.list) data.list = data.list.filter(t => t.trim() != '')
 			if (data.list && data.list.length) {
-				data.list.sort(function (a, b) {
-					a = a.toLowerCase(), b = b.toLowerCase()
-					return a == b? 0 : (a < b? -1 : 1)
-					})
 				t.text(data.list.map(t => '@' + t).join(' '))
 				 .removeClass('empty')
 				t[0].style.height = t[0].parentNode.style.height = (t[0].scrollHeight - 10) + 'px'
-				$('#open-copy').prop('disabled', false)
 				let n = data.list.length
 				$('#open-count').text(n == 0? 'No tags.' : (n == 1? '1 tag.' : n + ' tags.'))
+				$('#open-copy').prop('disabled', false)
 				}
 			else {
 				t.text('\nThe list is empty')
@@ -197,7 +261,7 @@ Taglist = {
 		
 	ping: async function () {
 		var [status, text] = await this.api('ping')
-		//console.log('ping status: ' + status)
+		console.log('ping status: ' + status)
 		$('#start').hide()
 		if (status == 200) {
 			this.section('init', false)
@@ -207,7 +271,6 @@ Taglist = {
 				this.open()
 				}
 			else {
-				this.section('init', false)
 				this.section('register', true)
 				$('#register-spin').css('visibility', 'hidden')
 				$('#register-name').focus()
@@ -219,18 +282,56 @@ Taglist = {
 			}
 		},
 
+	problem: function (tags, type) {
+		this.badtags = tags
+		document.getElementById('problem').removeAttribute('disabled')
+		var p = document.getElementById('problem-tags')
+		p.value = tags
+		p.removeAttribute('disabled')
+		p.focus()
+		document.getElementById('problem-report')
+			.textContent = this.problems[type]
+		document.getElementById('problem-fix').removeAttribute('disabled')
+		},
+
+	query: async function () {
+		var v = $('#register-name').val().trim()
+		if (v == '') return false
+		$('#register-spin').css('visibility', 'visible')
+		var [status, key] = await this.api('query', {name: v})
+		$('#register-spin').css('visibility', 'hidden')
+		var ok = status == 200
+		if (!ok) {
+			$('#register-warn').css('opacity', 1)
+			setTimeout(function () {$('#register-warn').css('opacity', 0)}, 4000)
+			$('#register-name').focus()
+			}
+		return ok
+		},
+
 	register: async function () {
+		//if (!this.clean()) return
+		
+		var taml = $('[name=restrict-ta]:checked').val() + $('[name=restrict-ml]:checked').val()
+		var rr = []
+		if (taml.includes('T')) rr.push('teen')
+		if (taml.includes('A')) rr.push('adult')
+		if (taml.includes('M')) rr.push('member')
+		if (taml.includes('L')) rr.push('listener')
+		if (rr.length) $('#rc-restrict').text('The taglist can only be used by ' + rr.join(' ') + 's.')
+		
 		$('#register-name').prop('readonly', true)
 		$('#register-spin').css('display', 'inline-block')
-		var v = $('#register-name').val().trim()
-		var [status, key] = await this.api('register', {name: v, list: ''})
+		var v = $('#register-name').val().trim(),
+			a = $('#list').text().trim()
+
+		var [status, key] = await this.api('register', {name: v, restrict: taml, list: a})
 		$('#register-spin').hide()
 		$('#register-button').prop('disabled', true)
 		if (status == 200) {
 			$('#register-warn').hide()
 			$('.listname').text(v).css('visibility', 'visible')
 			$('a.listname').attr('href', location.href + '?' + key)
-			this.section('register', false)
 			this.section('control', true)
 			}
 		else {
@@ -245,6 +346,7 @@ Taglist = {
 		},
 
 	section: function (id, show) {
+		if (show) console.log('show section: ' + id)
 		$('#' + id).nextUntil('h2').addBack()[show? 'show' : 'hide']()
 		},
 
@@ -252,6 +354,7 @@ Taglist = {
 		await new Promise(done => setTimeout(done, 1000 * s))
 		}
 	}
+
 init = function () {
 	document.documentElement.style.display = 'block'
 	Taglist.init()
