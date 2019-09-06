@@ -33,6 +33,8 @@ blockquote {font-size: 80%; border: 1px solid #444; background: #f4f4f4; padding
 #open-nosearch {font-weight: bold; line-height: 16px; display: inline-block; color: #777;
 	position: relative; left: -1em; cursor: pointer;}
 span.found {background: #5df;}
+
+#content p {margin: 1em 0;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
