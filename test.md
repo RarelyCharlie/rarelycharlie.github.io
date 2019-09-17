@@ -3,13 +3,20 @@ title: Find a forum
 layout: howto
 ---
 
-<style>#content h4 {margin-left: 2em;} #content p {margin-left: 2em;}
-</style>
+<style>#content h4 {margin: 1em 0 0 2em;} #content p {margin: 0 0 1em 2em; font-style: italic;}</style>
 
 Blurb...
 
 ### [Category](#cat)
 
-#### [Forum](#forum)
+#### [Forum one](#forum)
 
-Description
+Description one
+
+#### [Forum two](#forum)
+
+Description two
+
+#### [Forum three](#forum)
+
+Description three
