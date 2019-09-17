@@ -4,7 +4,7 @@ layout: howto
 ---
 
 <style>#content h4 {margin: 1em 0 0 2em;} #content p {margin: 0 0 1em 3em; font-style: italic;}
-#content h3::before {content: "\f07b"; font-family: "FontAwesome"}
+#content h3::before {content: "\f07b"; font-family: "FontAwesome"; display: inline-block; margin-right: 1ex; color: #29f;}
 </style>
 
 Blurb...
