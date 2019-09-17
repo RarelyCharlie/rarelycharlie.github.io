@@ -8,7 +8,7 @@ layout: howto
 
 Blurb...
 
-###[Category](#cat)
+### [Category](#cat)
 
 [Forum](#forum)\\
 Description
