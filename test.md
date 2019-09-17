@@ -3,7 +3,9 @@ title: Find a forum
 layout: howto
 ---
 
-<style>#content h4 {margin: 1em 0 0 2em;} #content p {margin: 0 0 1em 2em; font-style: italic;}</style>
+<style>#content h4 {margin: 1em 0 0 2em;} #content p {margin: 0 0 1em 3em; font-style: italic;}
+#content h4::before {content: "\xf07b"; font-family: "FontAwesome"}
+</style>
 
 Blurb...
 
