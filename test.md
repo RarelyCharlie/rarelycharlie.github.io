@@ -1,7 +1,12 @@
 ---
-title: Test Jekyll
-layout: test
+title: Find a forum
+layout: howto
 ---
-<script src="//goo.gl/hCgLzw"> </script>
-{% include test.md %}
-zzz
+
+Blurb...
+
+++Category
+
+[Forum](#)
+
+Description
