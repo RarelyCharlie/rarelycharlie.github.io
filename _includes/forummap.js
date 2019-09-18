@@ -1,0 +1,1 @@
+alert('Map: ' + map.length)
