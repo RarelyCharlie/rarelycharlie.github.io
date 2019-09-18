@@ -7,5 +7,5 @@ layout: howto
 #content h3::before {content: "\f0da"; font-family: "FontAwesome"; display: inline-block; margin-right: .25ex; color: #29f;}
 #content h3::after {content: "\f07b"; font-family: "FontAwesome"; display: inline-block; margin-left: .5ex; color: #29f; font-size: 80%;}
 </style>
-
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
 <script>{% include forummap.js %}</script>
