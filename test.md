@@ -9,3 +9,5 @@ layout: howto
 </style>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
 <script>{% include forummap.js %}</script>
+
+<div id="map"></div>
