@@ -8,18 +8,4 @@ layout: howto
 #content h3::after {content: "\f07b"; font-family: "FontAwesome"; display: inline-block; margin-left: .5ex; color: #29f; font-size: 80%;}
 </style>
 
-Blurb...
-
-### [Category](#cat)
-
-#### [Forum one](#forum)
-
-Description one
-
-#### [Forum two](#forum)
-
-Description two
-
-#### [Forum three](#forum)
-
-Description three
+<script>{% include forummap.js %}</script>
