@@ -1,4 +1,4 @@
-#map h4, results h4 {margin: 1em 0 0 2em;}
+#map h4, #results h4 {margin: 1em 0 0 2em;}
 #map p, #results p {margin: 0 0 1em 3em; font-style: italic;}
 .far, .fas {color: #29f; transition: transform 1s ease-in;}
 .fa-caret-right {transform: scale(1.5); display: inline-block; margin-right: .75ex;}
