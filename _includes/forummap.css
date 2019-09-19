@@ -1,0 +1,11 @@
+#map h4, results h4 {margin: 1em 0 0 2em;}
+#map p, #results p {margin: 0 0 1em 3em; font-style: italic;}
+.far, .fas {color: #29f; transition: transform 1s ease-in;}
+.fa-caret-right {transform: scale(1.5); display: inline-block; margin-right: .75ex;}
+.open {transform: scale(1.5) rotate(90deg);}
+.fa-user-friends, .fa-folder {font-size: 80%;}
+#map div {transition: height 1s ease-in;}
+#map div.collapsed {height: 0; overflow: hidden;}
+.count {font-weight: normal; font-size: 80%;}
+#results {display: none;}
+.cat {color: #999;}
