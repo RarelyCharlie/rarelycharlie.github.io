@@ -4,8 +4,7 @@ $(function () {
   data.sort((a, b) => a.title.localeCompare(b.title))
   for (let c of data) {
     let td = 'style="transition-duration: ' + (40 * c.forums.length) + 'ms" '
-    h += '<h3><button class="caret"><i class="fas fa-caret-right" '
-      + td
+    h += '<h3><button class="caret"' + td + '><i class="fas fa-caret-right" '
       + 'title="Expand: ' + c.forums.length + ' forums"></i></button>'
       + '<a href="' + base + c.url + '">' + c.title + '</a> '
       + '<i class="' + (c.url.includes('/home/')? 'fas fa-user-friends' : 'far fa-folder') + '" '
