@@ -9,3 +9,4 @@
 .count {font-weight: normal; font-size: 80%;}
 #results {display: none;}
 .cat {color: #999;}
+.caret {border: none; background: transparent; font-size: inherit; padding: 0;}
