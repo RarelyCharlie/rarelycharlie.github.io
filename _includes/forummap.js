@@ -23,7 +23,7 @@ $(function () {
     }
   $('#map').html(h)
 
-  $('body').on('click', '.fa-caret-right', function () {
+  $('body').on('click', '.caret', function () {
     let d = $(this).parent().nextAll('div').first()
     if ($(this).hasClass('open')) {
       d.height(0)
