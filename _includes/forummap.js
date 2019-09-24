@@ -13,7 +13,11 @@ $(function () {
       + '</h3>'
     if (c.strap) h += '<p>' + c.strap + '</p>'
     h += '<div class="collapsed" ' + td + '>'
-    c.forums.sort((a, b) => a.title.localeCompare(b.title))
+    c.forums.sort(c.url == '/home/siteupdates/'? (a, b) => {
+      var da = (new Date(a.title)).getTime() || (new Date(a.title.match(/\d{4}/))).getTime() || 0
+        db = (new Date(b.title)).getTime() || (new Date(b.title.match(/\d{4}/))).getTime() || 0
+      return db - da
+      } : (a, b) => a.title.localeCompare(b.title))
     for (let f of c.forums) {
       h += '<h4><a href="' + base + f.url + '">' + f.title + '</a></h4>'
       if (f.strap) h += '<p>' + f.strap + '</p>'
