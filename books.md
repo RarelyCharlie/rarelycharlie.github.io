@@ -11,3 +11,5 @@ A book about what we now call active listening, explaining where the idea of act
 
 If you're a listener, or thinking of becoming a listener, and if you only read one book from the list, I recommend that this should be the one (the first half of it, anyway).
 
+[Review](#) &bull; [Google Books](https://books.google.com/books/about/Counseling_and_psychotherapy.html?id=nbU4AAAAIAAJ)
+
