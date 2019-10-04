@@ -1,10 +1,13 @@
 ---
 layout: default
-title: Books
+title: Listeners' Reading List
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-Blurb
+This is an unofficial reading list for listeners, curated by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and presented in order of publication date. For more information, see [A reading list for listeners](#). \[LINK TO BE ADDED\]
 
-## About this list
+### Carl R. Rogers (1942) *Counseling and Psychotherapy: Newer Concepts in Practice*
 
-Blurb
+A book about what we now call active listening, explaining where the idea of active listening originally came from, how it helps people, and how to do it. Full of real examples transcribed from recorded sessions. 
+
+If you're a listener, or thinking of becoming a listener, and if you only read one book from the list, I recommend that this should be the one (the first half of it, anyway).
+
