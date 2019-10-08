@@ -242,6 +242,9 @@ Taglist = {
 
 			var t = $('#open-list')
 			$('#open-spin').hide()
+			if (data.owner) $('#open-owner')
+				.attr('href', [controldomain, '@' + data.owner].join('/'))
+				.text('@' + data.owner)
 			if (data.list) data.list = data.list.filter(t => t.trim() != '')
 			if (data.list && data.list.length) {
 				t.text(data.list.map(t => '@' + t).join(' '))
