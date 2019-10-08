@@ -314,7 +314,7 @@ Taglist = {
 	register: async function () {
 		//if (!this.clean()) return
 		
-		var taml = $('[name=restrict-ta]:checked').val() + $('[name=restrict-ml]:checked').val()
+		var taml = $('[name=restrict-ta]:checked').val() + $('[name=restrict-ml]:checked').val() || ''
 		var rr = []
 		if (taml.includes('T')) rr.push('teen')
 		if (taml.includes('A')) rr.push('adult')
