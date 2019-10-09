@@ -3,7 +3,11 @@ layout: default
 title: Listeners' Reading List
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-This is an unofficial reading list for listeners, curated by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and presented in order of publication date. For more information, see [A reading list for listeners](#). \[LINK TO BE ADDED\]
+This is an unofficial reading list for listeners, curated by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and presented in order of publication date within each section. For more information, see [A reading list for listeners](#). \[LINK TO BE ADDED\]
+
+# Listening and related techniques
+
+Books about listening in the wider context of techniques that help people. Rogers (1942) is the most important book in this entire list.
 
 **Carl R. Rogers (1942) _Counseling and Psychotherapy: Newer Concepts in Practice_**
 
@@ -13,8 +17,18 @@ If you're a listener, or thinking of becoming a listener, and if you only read o
 
 [Review at 7 Cups](# "TO BE ADDED") &bull; [Google Books](https://books.google.com/books?id=nbU4AAAAIAAJ)
 
+# Mental illness and society
+
+Books that discuss mental illness in relation to culture and society.
+
 **Johann Hari (2018) _Lost Connections — Uncovering the Real Causes of Depression and the Unexpected Solutions_**
 
 A journalist and storyteller explores some of the causes of depression, anxiety and addiction. The unexpected solutions include what 7 Cups was created to do.
 
 [Review at 7 Cups](# "TO BE ADDED") &bull; [Google Books](https://books.google.com/books?id=WIg2DwAAQBAJ)
+
+# Psychotherapy
+
+Books that describe the techniques of psychotherapy, which mostly include active listening but go a long way beyond active listening.
+
+\[TO BE ADDED\]
