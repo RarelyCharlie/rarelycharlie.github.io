@@ -8,7 +8,7 @@ This is an unofficial reading list for listeners, curated by [@RarelyCharlie](ht
 
 # Listening and related techniques
 
-Books about listening in the wider context of techniques that help people. Rogers (1942) is the most important book in this entire list.
+Listening in the wider context of techniques that help people. Rogers (1942) is the most important book in this entire list.
 
 #### Carl R. Rogers (1942) _Counseling and Psychotherapy: Newer Concepts in Practice_
 
@@ -20,7 +20,7 @@ If you're a listener, or thinking of becoming a listener, and if you only read o
 
 # Mental illness and society
 
-Books that discuss mental illness in relation to culture and society.
+Mental illness in relation to culture and society.
 
 #### Johann Hari (2018) _Lost Connections: Uncovering the Real Causes of Depression and the Unexpected Solutions_
 
@@ -30,14 +30,22 @@ A journalist and storyteller explores some of the causes of depression, anxiety 
 
 # 7 Cups
 
+The background story of 7 Cups.
+
 \[TO BE ADDED\]
 
 # Individual stories
 
-\[TO BE ADDED\]
+Biography and fiction describing mental illness.
+
+#### Kay Redfield Jamison (1997) _An Unquiet Mind: A Memoir of Moods and Madness_
+
+A first-hand account of living with bipolar disorder, by a renowned clinical psychologist, now a professor of psychiatry.
 
 # Psychotherapy
 
-Books that describe the techniques of psychotherapy, which mostly include active listening but go a long way beyond active listening.
+The techniques of psychotherapy, which mostly include active listening but go a long way beyond active listening.
 
-\[TO BE ADDED\]
+#### Judith Beck (1995) _Cognitive Behavior Therapy: Basics and Beyond_
+
+A textbook by the daughter of CBT's originator, Aaron T. Beck, showing how very different therapy with a professional therapist is from active listening (even though it includers active listening), and also why particular therapy techniques taken out of context do not amount to therapy.
