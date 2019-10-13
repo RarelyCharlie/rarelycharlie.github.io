@@ -3,7 +3,7 @@ layout: default
 title: Listeners' Reading List
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-<style>h4>em {display: block;}</style>
+<style>h4>em {display: block; font-size: 120%;}</style>
 This is an unofficial reading list for listeners, curated by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and presented in order of publication date within each section. For more information, see [A reading list for listeners](#). \[LINK TO BE ADDED\]
 
 # Listening and related techniques
@@ -27,6 +27,10 @@ Books that discuss mental illness in relation to culture and society.
 A journalist and storyteller explores some of the causes of depression, anxiety and addiction. The unexpected solutions include what 7 Cups was created to do.
 
 [Review at 7 Cups](# "TO BE ADDED") &bull; [Google Books](https://books.google.com/books?id=WIg2DwAAQBAJ)
+
+# Individual stories
+
+\[TO BE ADDED\]
 
 # Psychotherapy
 
