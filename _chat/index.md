@@ -5,7 +5,7 @@ class: index
 ---
 This page lists the chats on this unofficial site.
 
-All the chats are fictional chats between an active listener called Morinda and a member or guest. In every chat Morinda types messages and you, the reader, press the Send button to send them. In some of the chats that is all you have to do.
+Most of the chats are fictional chats between an active listener called Morinda and a member or guest. In all of these chats Morinda types messages and you, the reader, press the Send button to send them. In some of the chats that is all you have to do.
 
 In many of the chats you have to choose the correct messages to send. You start these chats with five stars, and every time you make an incorrect choice you lose a star. If you lose all five of your stars the chat immediately ends.
 
