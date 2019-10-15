@@ -49,3 +49,12 @@ The techniques of psychotherapy, which mostly include active listening but go a 
 #### Judith Beck (1995) _Cognitive Behavior Therapy: Basics and Beyond_
 
 A textbook by the daughter of CBT's originator, Aaron T. Beck, showing how very different therapy with a professional therapist is from active listening (even though it includers active listening), and also why particular therapy techniques taken out of context do not amount to therapy.
+
+#### Irvin D. Yalom (2009) _The Gift of Therapy_
+
+This _Open Letter to a New Generation of Therapists and their Patients_ provides a fascinating insight into the mind of a very experienced therapist. It shows how psychotherapy (mostly long-term existential therapy and group therapy) builds on the very basic techniques of active listening.
+
+In 85 short chapters, with little jargon and many anecdotes and quotes.
+
+[Google Books](https://books.google.com/books/about/The_Gift_of_Therapy.html?id=yEnodbQ-u3MC)
+
