@@ -3,8 +3,10 @@ layout: default
 title: Listeners' Reading List
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-<style>h4>em {display: block; font-size: 120%;}</style>
-This is an unofficial reading list for listeners, curated by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and presented in order of publication date within each section. For more information, see [A reading list for listeners](#). \[LINK TO BE ADDED\]
+<style>h4 {font-weight: 500;} h4>em {display: block; font-size: 120%;}</style>
+This is an unofficial reading list for listeners, intended to provide background information about the work listeners do at 7 Cups.
+
+The list is curated by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and presented in order of publication date within each section. For more information, see [A reading list for listeners](#). \[LINK TO BE ADDED\]
 
 # Listening and related techniques
 
@@ -30,7 +32,7 @@ A journalist and storyteller explores some of the causes of depression, anxiety 
 
 # 7 Cups
 
-The background story of 7 Cups.
+7 Cups' background story.
 
 \[TO BE ADDED\]
 
@@ -44,11 +46,7 @@ A first-hand account of living with bipolar disorder, by a renowned clinical psy
 
 # Psychotherapy
 
-The techniques of psychotherapy, which mostly include active listening but go a long way beyond active listening.
-
-#### Judith Beck (1995) _Cognitive Behavior Therapy: Basics and Beyond_
-
-A textbook by the daughter of CBT's originator, Aaron T. Beck, showing how very different therapy with a professional therapist is from active listening (even though it includers active listening), and also why particular therapy techniques taken out of context do not amount to therapy.
+The techniques of psychotherapy, which are mostly based on active listening but go much further. For interest only, especially for listeners considering future training to become therapists. Not intended to encourage listeners to play at being amateur therapists while they are volunteers at 7 Cups!
 
 #### Irvin D. Yalom (2009) _The Gift of Therapy_
 
@@ -57,4 +55,10 @@ This _Open Letter to a New Generation of Therapists and their Patients_ provides
 In 85 short chapters, with little jargon and many anecdotes and quotes.
 
 [Google Books](https://books.google.com/books/about/The_Gift_of_Therapy.html?id=yEnodbQ-u3MC)
+
+#### Danny Wedding and Raymond J. Corsini (2014) _Case Studies in Psychotherapy_
+
+A collection of case studies illustrating different approaches to psychotherapy, with transcripts of actual therapy sessions. The therapists are all experts in their respective approaches, and they explain their thinking as they work with each client.
+
+[Google Books](https://books.google.com/books?id=R8rZbvAnpnoC)
 
