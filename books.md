@@ -20,6 +20,10 @@ If you're a listener, or thinking of becoming a listener, and if you only read o
 
 [Review at 7 Cups](# "TO BE ADDED") &bull; [Google Books](https://books.google.com/books?id=nbU4AAAAIAAJ)
 
+#### Carl R. Rogers (1961) _On Becoming a Person_
+
+Subtitled, _A Therapists View of Psychotherapy_, this book sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could be used by listeners at 7 Cups.
+
 # Mental illness and society
 
 Mental illness in relation to culture and society.
