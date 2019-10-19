@@ -80,6 +80,10 @@ This _Open Letter to a New Generation of Therapists and their Patients_ provides
 
 In 85 short chapters, with little jargon and many anecdotes and quotes.
 
+#### Paul Moloney (2013) _The Therapy Industry: The Irresistible Rise of the Talking Cure and Why It Doesn’t Work_
+
+Well researched and detailed critique of all forms of psychotherapy by an experienced practising psychologist.
+
 [Google Books](https://books.google.com/books/about/The_Gift_of_Therapy.html?id=yEnodbQ-u3MC)
 
 #### Danny Wedding and Raymond J. Corsini (2014) _Case Studies in Psychotherapy_
