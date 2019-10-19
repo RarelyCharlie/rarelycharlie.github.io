@@ -32,6 +32,10 @@ Mental illness in relation to culture and society.
 
 A journalist investigates the reasons for the recent huge increase in mental illness in America.
 
+#### Allen Frances (2014) _Saving Normal: An Insider's Revolt against Out-of-Control Psychiatric Diagnosis, DSM-5, Big Pharma, and the Medicalization of Ordinary Life_
+
+An influential psychiatrist warns us how diagnostic inflation is leading society towards thinking that everyone is mentally ill and no one is normal.
+
 #### Johann Hari (2018) _Lost Connections: Uncovering the Real Causes of Depression and the Unexpected Solutions_
 
 A journalist and storyteller explores some of the causes of depression, anxiety and addiction. The unexpected solutions include what 7 Cups was created to do.
