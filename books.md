@@ -48,6 +48,10 @@ A somewhat confused explanation of the reasons for 7 Cups' existence, by its fou
 
 Biography and fiction describing mental illness.
 
+### Fyodor Dostoevsky (1866) _Crime and Punishment_
+
+Classic tale of madness and eventual recovery.
+
 #### Kay Redfield Jamison (1997) _An Unquiet Mind: A Memoir of Moods and Madness_
 
 A first-hand account of living with bipolar disorder, by a renowned clinical psychologist, now a professor of psychiatry.
