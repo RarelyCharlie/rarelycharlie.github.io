@@ -78,9 +78,9 @@ Only for historical interest. This book is thought to be the first to describe l
 
 [Google Books](https://books.google.com/books/about/Studies_On_Hysteria.html?id=AO_X3hZn5YwC)
 
-#### Irvin D. Yalom (2009) _The Gift of Therapy_
+#### Irvin D. Yalom (2009) _The Gift of Therapy: An Open Letter to a New Generation of Therapists and their Patients_
 
-This _Open Letter to a New Generation of Therapists and their Patients_ provides a fascinating insight into the mind of a very experienced therapist. It shows how psychotherapy (mostly long-term existential therapy and group therapy) builds on the very basic techniques of active listening.
+A fascinating insight into the mind of a very experienced therapist. It shows how psychotherapy (mostly long-term existential therapy and group therapy) builds on the very basic techniques of active listening.
 
 In 85 short chapters, with little jargon and many anecdotes and quotes.
 
