@@ -20,13 +20,17 @@ If you're a listener, or thinking of becoming a listener, and if you only read o
 
 [Review at 7 Cups](# "TO BE ADDED") &bull; [Google Books](https://books.google.com/books?id=nbU4AAAAIAAJ)
 
-#### Carl R. Rogers (1961) _On Becoming a Person_
+#### Carl R. Rogers (1961) _On Becoming a Person: A Therapists View of Psychotherapy_
 
-Subtitled, _A Therapists View of Psychotherapy_, this book sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could be used by listeners at 7 Cups.
+Sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could optionally be used by listeners at 7 Cups who want to go beyind the basics, but some couldn't.
 
 # Mental illness and society
 
 Mental illness in relation to culture and society.
+
+#### Robert Whitaker (2010) _Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America_
+
+A journalist investigates the reasons for the recent huge increase in mental illness in America.
 
 #### Johann Hari (2018) _Lost Connections: Uncovering the Real Causes of Depression and the Unexpected Solutions_
 
@@ -40,7 +44,7 @@ A journalist and storyteller explores some of the causes of depression, anxiety 
 
 #### Paul Graham (2004) _Hackers and Painters_
 
-An insider view of the Silicon Valley culture where 7 Cups grew up. A collection of loosely related essays. Some tech jargon (which you can mostly skim over). Some very techie chapters that you can skim over, but it's wortwhile reading enough to get a flavour of the culture, which explains a lot about 7 Cups.
+An insider view of the Silicon Valley culture where 7 Cups grew up. A collection of loosely related essays. Some tech jargon (which you can mostly skim over). Some very techie chapters that you could skim over, but it's worthwhile reading enough to get a flavour of the culture, which explains a lot about 7 Cups.
 
 [Open Library](https://openlibrary.org/books/OL3327779M/Hackers_painters)
 
@@ -54,11 +58,11 @@ Biography and fiction describing mental illness.
 
 ### Fyodor Dostoevsky (1866) _Crime and Punishment_
 
-Classic tale of madness and eventual recovery.
+Classic tale of madness with terrible consequences, and of recovery through love.
 
 #### Kay Redfield Jamison (1997) _An Unquiet Mind: A Memoir of Moods and Madness_
 
-A first-hand account of living with bipolar disorder, by a renowned clinical psychologist, now a professor of psychiatry.
+First-hand account of living with bipolar disorder, by a renowned clinical psychologist, now a professor of psychiatry.
 
 # Psychotherapy
 
