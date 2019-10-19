@@ -14,15 +14,15 @@ Listening in the wider context of techniques that help people. Rogers (1942) is 
 
 #### Carl R. Rogers (1942) _Counseling and Psychotherapy: Newer Concepts in Practice_
 
-A book about what we now call active listening, explaining where the idea of active listening originally came from, how it helps people, and how to do it. Full of real examples transcribed from recorded sessions. 
+An early book about what we now call active listening, explaining where the idea of active listening originally came from, how it helps people, and how to do it. Full of real examples transcribed from recorded sessions. 
 
-If you're a listener, or thinking of becoming a listener, and if you only read one book from the list, I recommend that this should be the one (the first half of it, anyway).
+If you're a listener, or thinking of becoming a listener, and if you only read one book from the list, I recommend that this should be the one (the first part, anyway).
 
 [Review at 7 Cups](# "TO BE ADDED") &bull; [Google Books](https://books.google.com/books?id=nbU4AAAAIAAJ)
 
 #### Carl R. Rogers (1961) _On Becoming a Person: A Therapists View of Psychotherapy_
 
-Sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could optionally be used by listeners at 7 Cups who want to go beyind the basics, but some couldn't.
+Sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could optionally be used by listeners at 7 Cups who want to go beyind the basics without attempting amateur therapy.
 
 # Mental illness and society
 
@@ -60,7 +60,7 @@ A somewhat confused explanation of the reasons for 7 Cups' existence, by its fou
 
 Biography and fiction describing mental illness.
 
-### Fyodor Dostoevsky (1866) _Crime and Punishment_
+#### Fyodor Dostoevsky (1866) _Crime and Punishment_
 
 Classic tale of madness with terrible consequences, and of recovery through love.
 
