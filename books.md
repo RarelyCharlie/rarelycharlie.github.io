@@ -12,12 +12,6 @@ The list is curated by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) an
 
 Listening in the wider context of techniques that help people. Rogers (1942) is the most important book in this entire list.
 
-#### Josef Breuer and Sigmund Freud (1895) _Studies on Hysteria_
-
-Only for historical interest, this book is thought to be the first to describe listening as a treatment for mental illness. In the first of the cases studies in this book, Fräulein Anna O., the patient demanded to talk while Dr. Breuer only listened to her. Thus, the talking cure is said to have been invented by this patient, whose real name was Bertha Pappenheim. She recovered and became well known as a social pioneer.
-
-[Google Books](https://books.google.com/books/about/Studies_On_Hysteria.html?id=AO_X3hZn5YwC)
-
 #### Carl R. Rogers (1942) _Counseling and Psychotherapy: Newer Concepts in Practice_
 
 A book about what we now call active listening, explaining where the idea of active listening originally came from, how it helps people, and how to do it. Full of real examples transcribed from recorded sessions. 
@@ -40,7 +34,15 @@ A journalist and storyteller explores some of the causes of depression, anxiety 
 
 7 Cups' background story.
 
-\[TO BE ADDED\]
+#### Paul Graham (2004) _Hackers and Painters_
+
+An insider view of the Silicon Valley culture where 7 Cups grew up. A collection of loosely related essays. Some tech jargon (which you can mostly skim over). Some very techie chapters that you can skim over, but it's wortwhile reading enough to get a flavour of the culture, which explains a lot about 7 Cups.
+
+[Open Library](https://openlibrary.org/books/OL3327779M/Hackers_painters)
+
+#### Glen Moriarty (2016) _7 Cups for the Searching Soul_
+
+A somewhat confused explanation of the reasons for 7 Cups' existence, by its founder. Examines the role of denial and distraction in preventing people from realising their true potential, and how love and care are the antidote. 
 
 # Individual stories
 
@@ -53,6 +55,12 @@ A first-hand account of living with bipolar disorder, by a renowned clinical psy
 # Psychotherapy
 
 The techniques of psychotherapy, which are mostly based on active listening but go much further. For interest only, especially for listeners considering future training to become therapists. Not intended to encourage listeners to play at being amateur therapists while they are volunteers at 7 Cups!
+
+#### Josef Breuer and Sigmund Freud (1895) _Studies on Hysteria_
+
+Only for historical interest. This book is thought to be the first to describe listening as a treatment for mental illness. In the first of the cases studies in this book, Fräulein Anna O., the patient demanded to talk while Dr. Breuer only listened to her. Thus, the talking cure is said to have been invented by this patient, whose real name was Bertha Pappenheim. According to some reports she recovered and became well known as a social pioneer, but the story has been disputed.
+
+[Google Books](https://books.google.com/books/about/Studies_On_Hysteria.html?id=AO_X3hZn5YwC)
 
 #### Irvin D. Yalom (2009) _The Gift of Therapy_
 
