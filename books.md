@@ -82,7 +82,7 @@ The techniques of psychotherapy, which are mostly based on active listening but 
 
 #### Josef Breuer and Sigmund Freud (1895) _Studies on Hysteria_
 
-Only for historical interest. This book is thought to be the first to describe listening as a treatment for mental illness. In the first of the cases studies in this book, Fräulein Anna O., the patient demanded to talk while Dr. Breuer only listened to her. Thus, the talking cure is said to have been invented by this patient, whose real name was Bertha Pappenheim. According to some reports she recovered and became well known as a social pioneer, but the story has been disputed.
+Only for historical interest. This book is thought to be the first to describe listening as a treatment for mental illness. In the first of the cases studies in this book, Fräulein Anna O., the patient demanded to talk while Herr Dr. Breuer only listened to her. Thus, the talking cure is said to have been invented by this patient, whose real name was Bertha Pappenheim. According to some reports she recovered and became well known as a social pioneer, but the story has been disputed.
 
 [Google Books](https://books.google.com/books/about/Studies_On_Hysteria.html?id=AO_X3hZn5YwC)
 
