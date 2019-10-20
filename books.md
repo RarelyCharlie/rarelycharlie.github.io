@@ -24,6 +24,10 @@ If you're a listener, or thinking of becoming a listener, and if you only read o
 
 Sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could optionally be used by listeners at 7 Cups who want to go beyind the basics without attempting amateur therapy.
 
+#### Chad Varah (1987) _The Samaritans: Befriending the suicidal_
+
+The story of the listening service staffed by volunteers that has been preventing suicides since 1953.
+
 # Mental illness and society
 
 Mental illness in relation to culture and society.
@@ -42,15 +46,19 @@ A journalist and storyteller explores some of the causes of depression, anxiety 
 
 [Review at 7 Cups](# "TO BE ADDED") &bull; [Google Books](https://books.google.com/books?id=WIg2DwAAQBAJ)
 
-# 7 Cups
+# 7 Cups and related ideas
 
-7 Cups' background story.
+7 Cups' background story and other related ideas.
 
 #### Paul Graham (2004) _Hackers and Painters_
 
 An insider view of the Silicon Valley culture where 7 Cups grew up. A collection of loosely related essays. Some tech jargon (which you can mostly skim over). Some very techie chapters that you could skim over, but it's worthwhile reading enough to get a flavour of the culture, which explains a lot about 7 Cups.
 
 [Open Library](https://openlibrary.org/books/OL3327779M/Hackers_painters)
+
+#### Martin E.P. Seligman (2012) _Flourish: A Visionary New Understanding of Happiness and Well-being_
+
+A theoretical exploration and a practical guide to how happiness, engagement, relationships, meaning, and accomplishment combine to make life fulfilling.
 
 #### Glen Moriarty (2016) _7 Cups for the Searching Soul_
 
