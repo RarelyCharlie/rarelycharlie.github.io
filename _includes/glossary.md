@@ -175,7 +175,11 @@ A ~~status~~ setting indicating that a ~~listener~~ is active on 7 Cups but not 
 ![](https://www.7cups.com/cloudfront/img/zodiac/icon-04.png) The ~~animal cohort~~ for the month of April.
 
 # category
-One of the topics that a ~~listener~~ can specialize in and that ~~Noni~~ asks about. Also one of the groups of ~~forums./forum~~ Also a group of ~~articles/~~ in the ~~wiki.~~
+One of the topics that a ~~listener~~ can specialize in and that ~~Noni~~ asks about.
+
+Also one of subdivisions of the ~~forum.~~ Some categories in the forum match ~~subcommunities/subcommunity~~, but some don't. A forum category contains ~~subforums/~~.
+
+Also a group of ~~articles/~~ in the ~~wiki.~~
 
 # CCM
 Community Centered Moderation. The system of appointing ~~forum~~ ~~mods/~~ according to the ~~subcommunity~~ the forum is in.
@@ -211,7 +215,7 @@ A point awarded for activity on ~~7 Cups~~. Cheers accumulate and form part of t
 Community Manager. A ~~staff~~ member whose job is ~~community~~ management.
 
 # community
-All the people involved in ~~7 Cups~~. Sometimes used informally to mean a ~~subcommunity.~~
+All the people involved in ~~7 Cups~~. (Sometimes used informally to mean a ~~subcommunity.~~)
 
 # Community Guidelines
 ~~Rules/rule~~ and guidance that apply to behavior in the ~~community~~. There is a separate version for ~~listeners/listener~~.
@@ -356,9 +360,9 @@ A reporting system for inappropriate content in ~~forum~~ ~~posts/post~~.
 A way to read all the future ~~posts/post~~ in someone's ~~feed~~. The posts of all the people you follow appear in your own feed.
 
 # forum
-A discussion system with a focus on a particular subject. ~~7 Cups~~ has forums on many subjects. Within a forum, each discussion is called a ~~thread~~.
+~~7 Cups'~~ discussion system, supporting a variety of communications including questions, diaries, checkins, reference information, and information to coordinate the work of teams. The forum is organized in subject ~~categories/category~~.
 
-Forums at 7 Cups are also used to store reference information and to coordinate the work of teams.
+(Sometimes used to mean a ~~subforum.~~)
 
 # Forum Friend
 Former term for a ~~forum~~ ~~supporter.~~
@@ -726,7 +730,7 @@ No longer in use. At one time a phone bridge system provided for anonymous phone
 Personal Message. A ~~message~~, particularly a message that is not sent in the course of a ~~chat~~ (for example, a message sent to a ~~listener~~ who is ~~offline~~). 7 Cups does not have a separate system for personal messages. The chat system is used for all messages.
 
 # post
-A statement made in a personal ~~feed~~ or in a ~~thread~~ in a ~~forum~~.
+A statement made in a personal ~~feed,~~ or in a ~~thread~~ in a ~~subforum~~.
 
 # Professional
 16th of the 18 levels in the listener ~~certification~~ program.
@@ -894,7 +898,11 @@ A step on a ~~growth path~~ associated with some activity that must be completed
 5th of the 18 levels in the listener ~~certification~~ program.
 
 # subcommunity
-A community within the ~~7 Cups~~ ~~community~~, with its own ~~forums/forum~~. Sometimes hyphenated: sub-community
+A subdivision of the ~~7 Cups~~ ~~community~~, with its own ~~category~~ in the forum and other features. Sometimes hyphenated: sub-community
+
+# subforum
+
+A subdivision of a ~~category~~ in the forum. A subforum contains ~~threads/~~.
 
 # subscription
 A system for receiving automatic ~~notification~~ whenever a particular ~~forum~~ ~~thread~~ receives a new ~~post~~ or whenever something of interest happens in a ~~subcommunity.~~
@@ -966,7 +974,7 @@ Any of various professional methodologies for helping people with mental or emot
 A ~~chatroom~~ where certain topics that are not allowed in other chatrooms can be discussed. 
 
 # thread
-A ~~discussion~~ about a particular topic in a ~~forum~~.
+A ~~discussion~~ about a particular topic in a ~~subforum~~. A thread contains ~~posts./~~
 
 # time zone
 The system for managing the way clocks around the world reflect local time. The time zone of ~~7 Cups~~ is standardized as local time on the East coast of the US, for example in New York.
