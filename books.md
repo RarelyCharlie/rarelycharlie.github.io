@@ -20,9 +20,9 @@ If you're a listener, or thinking of becoming a listener, and if you only read o
 
 [Review at 7 Cups](# "TO BE ADDED") &bull; [Google Books](https://books.google.com/books?id=nbU4AAAAIAAJ)
 
-#### Carl R. Rogers (1961) _On Becoming a Person: A Therapists View of Psychotherapy_
+#### Michael P. Nichols (2009) _The Lost Art of Listening: How Learning to Listen Can Improve Relationships_
 
-Sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could optionally be used by listeners at 7 Cups who want to go beyind the basics without attempting amateur therapy.
+A detailed guide to listening, with many examples. The focus is on real life relationships and family therapy, but all the listening techniques can be used by listeners at 7 Cups. Also, the focus on relationships is useful for listeners because so many members come to 7 Cups with relationship issues.
 
 # Mental illness and society
 
@@ -79,6 +79,10 @@ First-hand account of living with bipolar disorder, by a renowned clinical psych
 # Psychotherapy
 
 The techniques of psychotherapy, which are mostly based on active listening but go much further. For interest only, especially for listeners considering future training to become therapists. Not intended to encourage listeners to play at being amateur therapists while they are volunteers at 7 Cups!
+
+#### Carl R. Rogers (1961) _On Becoming a Person: A Therapists View of Psychotherapy_
+
+Sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could optionally be used by any listeners at 7 Cups who want to go beyind the basics without attempting amateur therapy.
 
 #### Josef Breuer and Sigmund Freud (1895) _Studies on Hysteria_
 
