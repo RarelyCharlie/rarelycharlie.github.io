@@ -10,7 +10,11 @@ The list is curated by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) an
 
 # Listening and related techniques
 
-Listening in the wider context of techniques that help people. Rogers (1942) is the most important book in this entire list.
+Listening in the wider context of techniques that help people.
+
+#### Dale Carnegie (1936) _How to Win Friends and Influence People_
+
+Classic advice on getting along with people, valuable for listening to members and also for participating in the 7 Cups community. Based on a large collection of illustrative stories. Some of the language and culture is of its time, but human nature hasn't changed. Many later editions, including one for the digital age.
 
 #### Carl R. Rogers (1942) _Counseling and Psychotherapy: Newer Concepts in Practice_
 
@@ -45,6 +49,10 @@ A journalist and storyteller explores some of the causes of depression, anxiety 
 # 7 Cups and related ideas
 
 7 Cups' background story and other related ideas.
+
+#### Robert M. Pirsig (1974) _Zen and the Art of Motorcycle Maintenance: An Inquiry into Values_
+
+Weird but very engaging exploration of, amongst other things, the relationship between humanity and technology (which, in a way is what 7 Cups is about).
 
 #### Chad Varah (1987) _The Samaritans: Befriending the suicidal_
 
