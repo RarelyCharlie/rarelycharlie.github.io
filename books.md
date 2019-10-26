@@ -52,7 +52,7 @@ A journalist and storyteller explores some of the causes of depression, anxiety 
 
 #### Robert M. Pirsig (1974) _Zen and the Art of Motorcycle Maintenance: An Inquiry into Values_
 
-Weird but very engaging exploration of, amongst other things, the relationship between humanity and technology (which, in a way is what 7 Cups is about).
+Weird but very engaging exploration of, amongst other things, the relationship between humanity and technology (which, in a way, is what 7 Cups is about).
 
 #### Chad Varah (1987) _The Samaritans: Befriending the suicidal_
 
