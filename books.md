@@ -16,6 +16,9 @@ Listening in the wider context of techniques that help people.
 
 Classic advice on getting along with people, valuable for listening to members and also for participating in the 7 Cups community. Based on a large collection of illustrative stories. Some of the language and culture is of its time, but human nature hasn't changed. Many later editions, including one for the digital age.
 
+[Open Library](https://openlibrary.org/books/OL1186728M/How_to_Win_Friends_and_Influence_People)
+{:.links}
+
 #### Carl R. Rogers (1942) _Counseling and Psychotherapy: Newer Concepts in Practice_
 
 An early book about what we now call active listening, explaining where the idea of active listening originally came from, how it helps people, and how to do it. Full of real examples transcribed from recorded sessions. 
@@ -29,6 +32,9 @@ If you're a listener, or thinking of becoming a listener, and if you only read o
 
 A detailed guide to listening, with many examples. The focus is on real life relationships and family therapy, but all the listening techniques can be used by listeners at 7 Cups. Also, the focus on relationships is useful for listeners because so many members come to 7 Cups with relationship issues.
 
+[Open Library](https://openlibrary.org/works/OL1859226W/The_lost_art_of_listening)
+{:.links}
+
 # Mental illness and society
 
 Mental illness in relation to culture and society.
@@ -40,6 +46,9 @@ A journalist investigates the reasons for the recent huge increase in mental ill
 #### Allen Frances (2014) _Saving Normal: An Insider's Revolt against Out-of-Control Psychiatric Diagnosis, DSM-5, Big Pharma, and the Medicalization of Ordinary Life_
 
 An influential psychiatrist warns us how diagnostic inflation is leading society towards thinking that everyone is mentally ill and no one is normal.
+
+[Open Library](https://openlibrary.org/works/OL17627109W/Saving_normal)
+{:.links}
 
 #### Johann Hari (2018) _Lost Connections: Uncovering the Real Causes of Depression and the Unexpected Solutions_
 
