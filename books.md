@@ -3,7 +3,7 @@ layout: default
 title: Listeners' Reading List
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-<style>h4 {font-weight: 500; margin: 24px 0 6px 0; position: relative;} h4>em {display: block; font-size: 120%;} p {margin: 6px 0;} h4::before {content: "\f02d"; font-family: FontAwesome; font-size: 42px; display: inline-block; position: absolute; top: 11px; left: -44px; color: #7ad; text-shadow: #369 1px 1px 1px;}</style>
+<style>h4 {font-weight: 500; margin: 24px 0 6px 0; position: relative;} h4>em {display: block; font-size: 120%;} p {margin: 6px 0;} h4::before {content: "\f02d"; font-family: FontAwesome; font-size: 42px; display: inline-block; position: absolute; top: 11px; left: -44px; color: #7ad; text-shadow: #369 1px 1px 1px;} p.links {text-align: right;}</style>
 This is an unofficial reading list for listeners, intended to provide background information about the work listeners do at 7 Cups.
 
 The list is curated by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and presented in order of publication date within each section. For more information, see [A reading list for listeners](#). \[LINK TO BE ADDED\]
@@ -23,6 +23,7 @@ An early book about what we now call active listening, explaining where the idea
 If you're a listener, or thinking of becoming a listener, and if you only read one book from the list, I recommend that this should be the one (the first part, anyway).
 
 [Review at 7 Cups](# "TO BE ADDED") &bull; [Google Books](https://books.google.com/books?id=nbU4AAAAIAAJ)
+{.links}
 
 #### Michael P. Nichols (2009) _The Lost Art of Listening: How Learning to Listen Can Improve Relationships_
 
@@ -45,6 +46,7 @@ An influential psychiatrist warns us how diagnostic inflation is leading society
 A journalist and storyteller explores some of the causes of depression, anxiety and addiction. The unexpected solutions include what 7 Cups was created to do.
 
 [Review at 7 Cups](# "TO BE ADDED") &bull; [Google Books](https://books.google.com/books?id=WIg2DwAAQBAJ)
+{.links}
 
 # 7 Cups and related ideas
 
@@ -63,6 +65,7 @@ The story of the listening service staffed by volunteers that has been preventin
 An insider view of the Silicon Valley culture where 7 Cups grew up. A collection of loosely related essays. Some tech jargon (which you can mostly skim over). Some very techie chapters that you could skim over, but it's worthwhile reading enough to get a flavour of the culture, which explains a lot about 7 Cups.
 
 [Open Library](https://openlibrary.org/books/OL3327779M/Hackers_painters)
+{.links}
 
 #### Martin E.P. Seligman (2012) _Flourish: A Visionary New Understanding of Happiness and Well-being_
 
@@ -93,6 +96,7 @@ The techniques of psychotherapy, which are mostly based on active listening but 
 Only for historical interest. This book is thought to be the first to describe listening as a treatment for mental illness. In the first of the cases studies in this book, Fräulein Anna O., the patient demanded to talk while Herr Dr. Breuer only listened to her. Thus, the talking cure is said to have been invented by this patient, whose real name was Bertha Pappenheim. According to some reports she recovered and became well known as a social pioneer, but the story has been disputed.
 
 [Google Books](https://books.google.com/books/about/Studies_On_Hysteria.html?id=AO_X3hZn5YwC)
+{.links}
 
 #### Carl R. Rogers (1961) _On Becoming a Person: A Therapists View of Psychotherapy_
 
@@ -100,19 +104,18 @@ Sets out the basis of client-centered therapy, which builds on active listening 
 
 #### Irvin D. Yalom (2009) _The Gift of Therapy: An Open Letter to a New Generation of Therapists and their Patients_
 
-A fascinating insight into the mind of a very experienced therapist. It shows how psychotherapy (mostly long-term existential therapy and group therapy) builds on the very basic techniques of active listening.
-
-In 85 short chapters, with little jargon and many anecdotes and quotes.
+A fascinating insight into the mind of a very experienced therapist. It shows how psychotherapy (mostly long-term existential therapy and group therapy) builds on the very basic techniques of active listening. 85 short chapters, with little jargon and many anecdotes and quotes.
 
 #### Paul Moloney (2013) _The Therapy Industry: The Irresistible Rise of the Talking Cure and Why It Doesn’t Work_
 
 Well researched and detailed critique of all forms of psychotherapy by an experienced practising psychologist.
 
 [Google Books](https://books.google.com/books/about/The_Gift_of_Therapy.html?id=yEnodbQ-u3MC)
+{.links}
 
 #### Danny Wedding and Raymond J. Corsini (2014) _Case Studies in Psychotherapy_
 
 A collection of case studies illustrating different approaches to psychotherapy, with transcripts of actual therapy sessions. The therapists are all experts in their respective approaches, and they explain their thinking as they work with each client.
 
 [Google Books](https://books.google.com/books?id=R8rZbvAnpnoC)
-
+{.links}
