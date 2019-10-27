@@ -43,7 +43,7 @@ Mental illness in relation to culture and society.
 
 A journalist investigates the reasons for the recent huge increase in mental illness in America.
 
-[Google Books](https://books.google.co.uk/books?id=eUch4UPibi4C)
+[Open Library](https://openlibrary.org/works/OL16105659W/Anatomy_of_an_epidemic) &bull; [Google Books](https://books.google.co.uk/books?id=eUch4UPibi4C)
 {:.links}
 
 #### Allen Frances (2014) _Saving Normal: An Insider's Revolt against Out-of-Control Psychiatric Diagnosis, DSM-5, Big Pharma, and the Medicalization of Ordinary Life_
@@ -73,7 +73,7 @@ Weird but very engaging exploration of, amongst other things, the relationship b
 
 #### Chad Varah (1987) _The Samaritans: Befriending the suicidal_
 
-The story of the listening service staffed by volunteers that has been preventing suicides since 1953.
+The story of the UK (and now worldwide) listening service run by volunteers that has been preventing suicides since 1953.
 
 [Google Books](https://books.google.co.uk/books?id=l08wNAAACAAJ)
 
