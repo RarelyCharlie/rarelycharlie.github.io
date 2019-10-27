@@ -16,7 +16,7 @@ Listening in the wider context of techniques that help people.
 
 Classic advice on getting along with people, valuable for listening to members and also for participating in the 7 Cups community. Based on a large collection of illustrative stories. Some of the language and culture is of its time, but human nature hasn't changed. Many later editions, including one for the digital age.
 
-[Open Library](https://openlibrary.org/books/OL1186728M/How_to_Win_Friends_and_Influence_People)
+[Open Library](https://openlibrary.org/books/OL1186728M/How_to_Win_Friends_and_Influence_People) &bull; [Google Books](https://books.google.com/books?id=jcC2DQAAQBAJ)
 {:.links}
 
 #### Carl R. Rogers (1942) _Counseling and Psychotherapy: Newer Concepts in Practice_
@@ -32,7 +32,7 @@ If you're a listener, or thinking of becoming a listener, and if you only read o
 
 A detailed guide to listening, with many examples. The focus is on real life relationships and family therapy, but all the listening techniques can be used by listeners at 7 Cups. Also, the focus on relationships is useful for listeners because so many members come to 7 Cups with relationship issues.
 
-[Open Library](https://openlibrary.org/works/OL1859226W/The_lost_art_of_listening)
+[Open Library](https://openlibrary.org/works/OL1859226W/The_lost_art_of_listening) &bull; [Google Books](https://books.google.com/books?id=OzEIXFk0lNQC)
 {:.links}
 
 # Mental illness and society
@@ -43,18 +43,21 @@ Mental illness in relation to culture and society.
 
 A journalist investigates the reasons for the recent huge increase in mental illness in America.
 
+[Google Books](https://books.google.co.uk/books?id=eUch4UPibi4C)
+{:.links}
+
 #### Allen Frances (2014) _Saving Normal: An Insider's Revolt against Out-of-Control Psychiatric Diagnosis, DSM-5, Big Pharma, and the Medicalization of Ordinary Life_
 
 An influential psychiatrist warns us how diagnostic inflation is leading society towards thinking that everyone is mentally ill and no one is normal.
 
-[Open Library](https://openlibrary.org/works/OL17627109W/Saving_normal)
+[Open Library](https://openlibrary.org/works/OL17627109W/Saving_normal) &bull; [Google Books](https://books.google.co.uk/books?id=XoyYBwAAQBAJ)
 {:.links}
 
 #### Johann Hari (2018) _Lost Connections: Uncovering the Real Causes of Depression and the Unexpected Solutions_
 
 A journalist and storyteller explores some of the causes of depression, anxiety and addiction. The unexpected solutions include what 7 Cups was created to do.
 
-[Review at 7 Cups](# "TO BE ADDED") &bull; [Google Books](https://books.google.com/books?id=WIg2DwAAQBAJ)
+[Google Books](https://books.google.com/books?id=WIg2DwAAQBAJ)
 {:.links}
 
 # 7 Cups and related ideas
@@ -65,20 +68,28 @@ A journalist and storyteller explores some of the causes of depression, anxiety 
 
 Weird but very engaging exploration of, amongst other things, the relationship between humanity and technology (which, in a way, is what 7 Cups is about).
 
+[Google Books](https://books.google.com/books?id=gx2ev_vwGKAC)
+{:.links}
+
 #### Chad Varah (1987) _The Samaritans: Befriending the suicidal_
 
 The story of the listening service staffed by volunteers that has been preventing suicides since 1953.
+
+[Google Books](https://books.google.co.uk/books?id=l08wNAAACAAJ)
 
 #### Paul Graham (2004) _Hackers and Painters_
 
 An insider view of the Silicon Valley culture where 7 Cups grew up. A collection of loosely related essays. Some tech jargon (which you can mostly skim over). Some very techie chapters that you could skim over, but it's worthwhile reading enough to get a flavour of the culture, which explains a lot about 7 Cups.
 
-[Open Library](https://openlibrary.org/books/OL3327779M/Hackers_painters)
+[Open Library](https://openlibrary.org/books/OL3327779M/Hackers_painters) &bull; [Google Books](https://books.google.co.uk/books?id=shycAgAAQBAJ)
 {:.links}
 
 #### Martin E.P. Seligman (2012) _Flourish: A Visionary New Understanding of Happiness and Well-being_
 
 A theoretical exploration and a practical guide to how happiness, engagement, relationships, meaning, and accomplishment combine to make life fulfilling.
+
+[Google Books](https://books.google.com/books?id=YVAQVa0dAE8C)
+{:.links}
 
 #### Glen Moriarty (2016) _7 Cups for the Searching Soul_
 
@@ -92,9 +103,15 @@ Biography and fiction describing mental illness.
 
 Classic tale of madness with terrible consequences, and of recovery through love.
 
+[Google Books](https://books.google.com/books?id=hG5P6jrzJLAC)
+{:.links}
+
 #### Kay Redfield Jamison (1997) _An Unquiet Mind: A Memoir of Moods and Madness_
 
 First-hand account of living with bipolar disorder, by a renowned clinical psychologist, now a professor of psychiatry.
+
+[Google Books](https://books.google.co.uk/books?id=gWV-BAAAQBAJ)
+{:.links}
 
 # Psychotherapy
 
@@ -111,9 +128,13 @@ Only for historical interest. This book is thought to be the first to describe l
 
 Sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could optionally be used by any listeners at 7 Cups who want to go beyind the basics without attempting amateur therapy.
 
+[Google Books](https://books.google.co.uk/books?id=FTEPV9IYQ5EC)
+
 #### Irvin D. Yalom (2009) _The Gift of Therapy: An Open Letter to a New Generation of Therapists and their Patients_
 
 A fascinating insight into the mind of a very experienced therapist. It shows how psychotherapy (mostly long-term existential therapy and group therapy) builds on the very basic techniques of active listening. 85 short chapters, with little jargon and many anecdotes and quotes.
+
+[Google Books](https://books.google.co.uk/books?id=Ry8ab_ptBTEC)
 
 #### Paul Moloney (2013) _The Therapy Industry: The Irresistible Rise of the Talking Cure and Why It Doesn’t Work_
 
