@@ -88,15 +88,15 @@ First-hand account of living with bipolar disorder, by a renowned clinical psych
 
 The techniques of psychotherapy, which are mostly based on active listening but go much further. For interest only, especially for listeners considering future training to become therapists. Not intended to encourage listeners to play at being amateur therapists while they are volunteers at 7 Cups!
 
-#### Carl R. Rogers (1961) _On Becoming a Person: A Therapists View of Psychotherapy_
-
-Sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could optionally be used by any listeners at 7 Cups who want to go beyind the basics without attempting amateur therapy.
-
 #### Josef Breuer and Sigmund Freud (1895) _Studies on Hysteria_
 
 Only for historical interest. This book is thought to be the first to describe listening as a treatment for mental illness. In the first of the cases studies in this book, Fräulein Anna O., the patient demanded to talk while Herr Dr. Breuer only listened to her. Thus, the talking cure is said to have been invented by this patient, whose real name was Bertha Pappenheim. According to some reports she recovered and became well known as a social pioneer, but the story has been disputed.
 
 [Google Books](https://books.google.com/books/about/Studies_On_Hysteria.html?id=AO_X3hZn5YwC)
+
+#### Carl R. Rogers (1961) _On Becoming a Person: A Therapists View of Psychotherapy_
+
+Sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could optionally be used by any listeners at 7 Cups who want to go beyind the basics without attempting amateur therapy.
 
 #### Irvin D. Yalom (2009) _The Gift of Therapy: An Open Letter to a New Generation of Therapists and their Patients_
 
