@@ -3,7 +3,7 @@ layout: default
 title: Listeners' Reading List
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-<style>h4 {font-weight: 500; margin: 24px 0 6px 0; position: relative;} h4>em {display: block; font-size: 120%;} p {margin: 6px 0;} h4::before {content: "\f02d"; font-family: FontAwesome; font-size: 42px; display: inline-block; position: absolute; top: 11px; left: -44px; color: #7ad; text-shadow: #369 1px 1px 1px;} p.links {text-align: right;}</style>
+<style>h4 {font-weight: 500; margin: 24px 0 6px 0; position: relative;} h4>em {display: block; font-size: 120%;} p {margin: 6px 0;} h4::before {content: "\f02d"; font-family: FontAwesome; font-size: 42px; display: inline-block; position: absolute; top: 11px; left: -46px; color: #7ad; text-shadow: #369 1px 1px 1px;} p.links {text-align: right;}</style>
 This is an unofficial reading list for listeners, intended to provide background information about the work listeners do at 7 Cups.
 
 The list is curated by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and presented in order of publication date within each section. For more information, see [A reading list for listeners](#). \[LINK TO BE ADDED\]
@@ -76,6 +76,7 @@ Weird but very engaging exploration of, amongst other things, the relationship b
 The story of the UK (and now worldwide) listening service run by volunteers that has been preventing suicides since 1953.
 
 [Google Books](https://books.google.co.uk/books?id=l08wNAAACAAJ)
+{:.links}
 
 #### Paul Graham (2004) _Hackers and Painters_
 
@@ -129,12 +130,14 @@ Only for historical interest. This book is thought to be the first to describe l
 Sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could optionally be used by any listeners at 7 Cups who want to go beyind the basics without attempting amateur therapy.
 
 [Google Books](https://books.google.co.uk/books?id=FTEPV9IYQ5EC)
+{:.links}
 
 #### Irvin D. Yalom (2009) _The Gift of Therapy: An Open Letter to a New Generation of Therapists and their Patients_
 
 A fascinating insight into the mind of a very experienced therapist. It shows how psychotherapy (mostly long-term existential therapy and group therapy) builds on the very basic techniques of active listening. 85 short chapters, with little jargon and many anecdotes and quotes.
 
 [Google Books](https://books.google.co.uk/books?id=Ry8ab_ptBTEC)
+{:.links}
 
 #### Paul Moloney (2013) _The Therapy Industry: The Irresistible Rise of the Talking Cure and Why It Doesn’t Work_
 
