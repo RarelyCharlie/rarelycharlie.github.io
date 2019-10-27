@@ -3,7 +3,7 @@ layout: default
 title: Listeners' Reading List
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-<style>h4 {font-weight: 500;} h4>em {display: block; font-size: 120%;}</style>
+<style>h4 {font-weight: 500; margin: 12px 0 6px 0;} h4>em {display: block; font-size: 120%;} p {margin: 6px 0;}</style>
 This is an unofficial reading list for listeners, intended to provide background information about the work listeners do at 7 Cups.
 
 The list is curated by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and presented in order of publication date within each section. For more information, see [A reading list for listeners](#). \[LINK TO BE ADDED\]
