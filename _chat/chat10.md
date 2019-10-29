@@ -10,11 +10,11 @@ which could equally be long-term listening at 7 Cups.
 #### The client
 
 The client, here called Barbara, is sixteen and in high school in the US. She saw the counsellor, a psychologist, for 
-fifteen one-hour sessions, during which Barbara was able to resolve some confusion abut what we would now call her gender
+fifteen one-hour sessions, during which Barbara was able to resolve some confusion about what we might now call her gender
 identity. 
 
 But all this happened about 80 years ago. It appeared in a book published in 1942. Some of the language and 
-culture is different from today, and the term gender identity didn't exist back then.
+culture are different from today, and the term gender identity didn't exist back then.
 
 #### The counsellor
 
