@@ -64,13 +64,6 @@ A journalist and storyteller explores some of the causes of depression, anxiety 
 
 7 Cups' background story and other related ideas.
 
-#### Robert M. Pirsig (1974) _Zen and the Art of Motorcycle Maintenance: An Inquiry into Values_
-
-Weird but very engaging exploration of, amongst other things, the relationship between humanity and technology (which, in a way, is what 7 Cups is about).
-
-[Google Books](https://books.google.com/books?id=gx2ev_vwGKAC)
-{:.links}
-
 #### Chad Varah (1987) _The Samaritans: Befriending the suicidal_
 
 The story of the UK (and now worldwide) listening service run by volunteers that has been preventing suicides since 1953.
@@ -99,6 +92,13 @@ A somewhat confused explanation of the reasons for 7 Cups' existence, by its fou
 # Individual stories
 
 Biography and fiction describing mental illness.
+
+#### Robert M. Pirsig (1974) _Zen and the Art of Motorcycle Maintenance: An Inquiry into Values_
+
+Weird but very engaging exploration of, amongst other things, the relationship between humanity and technology (which, in a way, is what 7 Cups is about).
+
+[Google Books](https://books.google.com/books?id=gx2ev_vwGKAC)
+{:.links}
 
 #### Fyodor Dostoevsky (1866) _Crime and Punishment_
 
