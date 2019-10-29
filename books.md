@@ -14,23 +14,23 @@ Listening in the wider context of techniques that help people.
 
 #### Dale Carnegie (1936) _How to Win Friends and Influence People_
 
-Classic advice on getting along with people, valuable for listening to members and also for participating in the 7 Cups community. Based on a large collection of illustrative stories. Some of the language and culture is of its time, but human nature hasn't changed. Many later editions, including one for the digital age.
+Classic advice on getting along with people, valuable for listening to members and also for participating in the 7 Cups community. Based on a large collection of illustrative stories. Some of the language and culture is of its time, but human nature hasn't changed. Many later editions, including one "for the digital age".
 
 [Open Library](https://openlibrary.org/books/OL1186728M/How_to_Win_Friends_and_Influence_People) &bull; [Google Books](https://books.google.com/books?id=jcC2DQAAQBAJ)
 {:.links}
 
 #### Carl R. Rogers (1942) _Counseling and Psychotherapy: Newer Concepts in Practice_
 
-An early book about what we now call active listening, explaining where the idea of active listening originally came from, how it helps people, and how to do it. Full of real examples transcribed from recorded sessions. 
+A very early book about what we now call active listening, explaining where the idea of active listening originally came from, how it helps people, and how to do it. Full of real examples transcribed from recorded sessions. Part IV is a complete transcript of eight hour-long conselling sessions, with comments by the author.
 
-If you're a listener, or thinking of becoming a listener, and if you only read one book from the list, I recommend that this should be the one (the first part, anyway).
+If you're a listener, or thinking of becoming a listener, and if you only read one book from this list, I recommend that this should be the one (Parts I to III, anyway).
 
 [Review at 7 Cups](# "TO BE ADDED") &bull; [Google Books](https://books.google.com/books?id=nbU4AAAAIAAJ)
 {:.links}
 
 #### Michael P. Nichols (2009) _The Lost Art of Listening: How Learning to Listen Can Improve Relationships_
 
-A detailed guide to listening, with many examples. The focus is on real life relationships and family therapy, but all the listening techniques can be used by listeners at 7 Cups. Also, the focus on relationships is useful for listeners because so many members come to 7 Cups with relationship issues.
+A detailed guide to listening, with many examples. The focus is on real life relationships and family therapy, but many of the listening techniques can be used by listeners at 7 Cups. The focus on relationships is also useful for listeners, because so many members come to 7 Cups with relationship issues.
 
 [Open Library](https://openlibrary.org/works/OL1859226W/The_lost_art_of_listening) &bull; [Google Books](https://books.google.com/books?id=OzEIXFk0lNQC)
 {:.links}
@@ -66,7 +66,7 @@ A journalist and storyteller explores some of the causes of depression, anxiety 
 
 #### Chad Varah (1987) _The Samaritans: Befriending the suicidal_
 
-The story of the UK (and now worldwide) listening service run by volunteers that has been preventing suicides since 1953.
+The story of the UK (and now worldwide) listening service run by volunteers that has been preventing suicides since it began in London 1953.
 
 [Google Books](https://books.google.co.uk/books?id=l08wNAAACAAJ)
 {:.links}
@@ -120,12 +120,12 @@ The techniques of psychotherapy, which are mostly based on active listening but 
 
 #### Josef Breuer and Sigmund Freud (1895) _Studies on Hysteria_
 
-Only for historical interest. This book is thought to be the first to describe listening as a treatment for mental illness. In the first of the cases studies in this book, Fräulein Anna O., the patient demanded to talk while Herr Dr. Breuer only listened to her. Thus, the talking cure is said to have been invented by this patient, whose real name was Bertha Pappenheim. According to some reports she recovered and became well known as a social pioneer, but the story has been disputed.
+Only for historical interest. This book is thought to be the first to describe listening as a treatment for mental illness. In the first of the cases studies in this book, Fräulein Anna O., the patient demanded to talk while Herr Dr. Breuer only listened to her. Thus, "the talking cure" is said to have been invented by this patient, whose real name was Bertha Pappenheim. According to some reports she recovered and became well known as a social pioneer, but aspects of the story are been disputed.
 
 [Google Books](https://books.google.com/books/about/Studies_On_Hysteria.html?id=AO_X3hZn5YwC)
 {:.links}
 
-#### Carl R. Rogers (1961) _On Becoming a Person: A Therapists View of Psychotherapy_
+#### Carl R. Rogers (1961) _On Becoming a Person: A Therapist's View of Psychotherapy_
 
 Sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could optionally be used by any listeners at 7 Cups who want to go beyind the basics without attempting amateur therapy.
 
@@ -149,6 +149,8 @@ Well researched and detailed critique of all forms of psychotherapy by an experi
 #### Danny Wedding and Raymond J. Corsini (2014) _Case Studies in Psychotherapy_
 
 A collection of case studies illustrating different approaches to psychotherapy, with transcripts of actual therapy sessions. The therapists are all experts in their respective approaches, and they explain their thinking as they work with each client.
+
+Unfortunately the CBT case study is not at all like typical CBT (as its author acknowledges).
 
 [Google Books](https://books.google.com/books?id=R8rZbvAnpnoC)
 {:.links}
