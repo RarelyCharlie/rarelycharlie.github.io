@@ -29,3 +29,5 @@ Guests can only reach Announcements by using a link like the one below.
 
 [Announcements](https://www.7cups.com/member/alerts.php)
 {: .link}
+
+Traffic data: [Alexa Traffic Rank](https://www.rank2traffic.com/)
