@@ -24,5 +24,5 @@ conversation herself. The counsellor is also careful to avoid trying to solve Ba
 
 The story of Barbara's counselling is in this 12-page PDF document: [Barbara](../assets/Barbara.pdf)
 
-The book it came from is worth reading from cover to cover. It's _Counselling and Psychotherapy: Newer Concepts in
+The book it came from is worth reading for its many other examples of active listening: _Counselling and Psychotherapy: Newer Concepts in
 Practice, by Carl R. Rogers_ ([Google Books](https://books.google.fr/books/about/Counseling_and_psychotherapy.html?id=nbU4AAAAIAAJ)).
