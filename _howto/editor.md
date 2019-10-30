@@ -88,7 +88,7 @@ You do not need to load the enhanced editor in every page, of course. Only load 
 
 ### Using the enhancement
 
-The enhanced editor replaces the normal editor in the forums in new threads, replies to threads, eplies to posts, and when editing existing posts.
+The enhanced editor replaces the normal editor in the forums in new threads, replies to threads, replies to posts, and when editing existing posts.
 
 It replaces the feed editor.
 
