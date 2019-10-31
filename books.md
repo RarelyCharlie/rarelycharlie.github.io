@@ -95,7 +95,7 @@ Biography and fiction describing mental illness.
 
 #### Robert M. Pirsig (1974) _Zen and the Art of Motorcycle Maintenance: An Inquiry into Values_
 
-Weird but very engaging exploration of, amongst other things, the relationship between humanity and technology (which, in a way, is what 7 Cups is about).
+Weird but very engaging exploration of, amongst other things, the relationship between humanity and technology (which, in a way, is what 7 Cups is about) and the relationship between sanity and madness.
 
 [Google Books](https://books.google.com/books?id=gx2ev_vwGKAC)
 {:.links}
