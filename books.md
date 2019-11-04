@@ -132,7 +132,7 @@ The techniques of psychotherapy, which are mostly based on active listening but 
 
 Only for historical interest. This book is thought to be the first to describe listening as a treatment for mental illness. In the first of the cases studies in this book, Fräulein Anna O., the patient demanded to talk while Herr Dr. Breuer only listened to her. Thus, "the talking cure" is said to have been invented by this patient, whose real name was Bertha Pappenheim. According to some reports she recovered and became well known as a social pioneer, but aspects of the story have been disputed.
 
-[Google Books](https://books.google.com/books/about/Studies_On_Hysteria.html?id=AO_X3hZn5YwC)
+[SigmundFreud.net (free PDF)](https://www.sigmundfreud.net/study-on-hysteria.pdf) &bull; [Google Books](https://books.google.com/books/about/Studies_On_Hysteria.html?id=AO_X3hZn5YwC)
 {:.links}
 
 #### Carl R. Rogers (1961) _On Becoming a Person: A Therapist's View of Psychotherapy_
