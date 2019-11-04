@@ -96,6 +96,9 @@ A theoretical exploration and a practical guide to how happiness, engagement, re
 
 A somewhat confused explanation of the reasons for 7 Cups' existence, by its founder. Examines the role of denial and distraction in preventing people from realising their true potential, and how love and care are the antidote. 
 
+[Smashwords](https://www.smashwords.com/books/view/611898) &bull; [7 Cups Guide](https://www.7cups.com/7cups-for-the-searching-soul/)
+{:.links}
+
 # Individual stories
 
 Biography and fiction describing mental illness.
