@@ -73,7 +73,7 @@ A journalist and storyteller explores some of the causes of depression, anxiety 
 
 #### Chad Varah (1987) _The Samaritans: Befriending the suicidal_
 
-The story of the UK (and now worldwide) listening service run by volunteers that has been preventing suicides since it began in London 1953.
+The story of the volunteer listening service in the UK (now with spinoffs worldwide) that has been preventing suicides since it began in London in 1953.
 
 [Google Books](https://books.google.co.uk/books?id=l08wNAAACAAJ)
 {:.links}
@@ -130,14 +130,14 @@ The techniques of psychotherapy, which are mostly based on active listening but 
 
 #### Josef Breuer and Sigmund Freud (1895) _Studies on Hysteria_
 
-Only for historical interest. This book is thought to be the first to describe listening as a treatment for mental illness. In the first of the cases studies in this book, Fräulein Anna O., the patient demanded to talk while Herr Dr. Breuer only listened to her. Thus, "the talking cure" is said to have been invented by this patient, whose real name was Bertha Pappenheim. According to some reports she recovered and became well known as a social pioneer, but aspects of the story are been disputed.
+Only for historical interest. This book is thought to be the first to describe listening as a treatment for mental illness. In the first of the cases studies in this book, Fräulein Anna O., the patient demanded to talk while Herr Dr. Breuer only listened to her. Thus, "the talking cure" is said to have been invented by this patient, whose real name was Bertha Pappenheim. According to some reports she recovered and became well known as a social pioneer, but aspects of the story have been disputed.
 
 [Google Books](https://books.google.com/books/about/Studies_On_Hysteria.html?id=AO_X3hZn5YwC)
 {:.links}
 
 #### Carl R. Rogers (1961) _On Becoming a Person: A Therapist's View of Psychotherapy_
 
-Sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could optionally be used by any listeners at 7 Cups who want to go beyind the basics without attempting amateur therapy.
+Sets out the basis of client-centered therapy, which builds on active listening and extends it. Some of the philosophy and techniques described could optionally be used by any listeners at 7 Cups who want to go beyind the basics, especially in long term relationships with members, but without attempting amateur therapy.
 
 [Google Books](https://books.google.co.uk/books?id=FTEPV9IYQ5EC)
 {:.links}
