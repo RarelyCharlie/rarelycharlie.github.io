@@ -25,7 +25,7 @@ A very early book about what we now call active listening, explaining where the 
 
 If you're a listener, or thinking of becoming a listener, and if you only read one book from this list, I recommend that this should be the one (Parts I to III, anyway).
 
-[Review at 7 Cups](# "TO BE ADDED") &bull; [Google Books](https://books.google.com/books?id=nbU4AAAAIAAJ)
+[Google Books](https://books.google.com/books?id=nbU4AAAAIAAJ)
 {:.links}
 
 #### Michael P. Nichols (2009) _The Lost Art of Listening: How Learning to Listen Can Improve Relationships_
@@ -39,7 +39,8 @@ A detailed guide to listening, with many examples. The focus is on real life rel
 
 An antidote to _How to Win Friends and Influence People_ that explores the many ways in which people can be happy and successful without buying in to groupthink and the currently fashionable extrovert ideal.
 
-[Google Books](https://books.google.com/books?id=Dc3T6Y7g7LQC)
+[Open Library](https://openlibrary.org/works/OL16484595W/Quiet) &bull; [Google Books](https://books.google.com/books?id=Dc3T6Y7g7LQC)
+{:.links}
 
 # Mental illness and society
 
