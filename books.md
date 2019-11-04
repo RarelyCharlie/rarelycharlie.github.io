@@ -35,6 +35,12 @@ A detailed guide to listening, with many examples. The focus is on real life rel
 [Open Library](https://openlibrary.org/works/OL1859226W/The_lost_art_of_listening) &bull; [Google Books](https://books.google.com/books?id=OzEIXFk0lNQC)
 {:.links}
 
+#### Susan Cain (2012) _Quiet: The Power of Introverts in a World that Can't Stop Talking_
+
+An antidote to _How to Win Friends and Influence People_ that explores the many ways in which people can be happy and successful without buying in to groupthink and the currently fashionable extrovert ideal.
+
+[Google Books](https://books.google.com/books?id=Dc3T6Y7g7LQC)
+
 # Mental illness and society
 
 Mental illness in relation to culture and society.
