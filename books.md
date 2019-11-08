@@ -6,7 +6,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 <style>h4 {font-weight: 500; margin: 24px 0 6px 0; position: relative;} h4>em {display: block; font-size: 120%;} p {margin: 6px 0;} h4::before {content: "\f02d"; font-family: FontAwesome; font-size: 42px; display: inline-block; position: absolute; top: 11px; left: -46px; color: #7ad; text-shadow: #369 1px 1px 1px;} p.links {text-align: right;}</style>
 This is an unofficial reading list for listeners, intended to provide background information about the work listeners do at 7 Cups.
 
-The list is curated by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and presented in order of publication date within each section. For more information, see [A reading list for listeners](#). \[LINK TO BE ADDED\]
+The list is curated by [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and presented in order of publication date within each section. For more information, see [A reading list for listeners](https://www.7cups.com/forum/HobbyZone_125/Reading_348/Areadinglistforlisteners_211855/).
 
 # Listening and related techniques
 
@@ -73,7 +73,7 @@ A journalist and storyteller explores some of the causes of depression, anxiety 
 
 #### Chad Varah (1987) _The Samaritans: Befriending the suicidal_
 
-The story of the volunteer listening service in the UK (now with spinoffs worldwide) that has been preventing suicides since it began in London in 1953.
+The story of the anonymous volunteer listening service in the UK (now with spinoffs worldwide) that has been preventing suicides since it began in London in 1953.
 
 [Google Books](https://books.google.co.uk/books?id=l08wNAAACAAJ)
 {:.links}
@@ -103,18 +103,18 @@ A somewhat confused explanation of the reasons for 7 Cups' existence, by its fou
 
 Biography and fiction describing mental illness.
 
-#### Robert M. Pirsig (1974) _Zen and the Art of Motorcycle Maintenance: An Inquiry into Values_
-
-Weird but very engaging exploration of, amongst other things, the relationship between humanity and technology (which, in a way, is what 7 Cups is about) and the relationship between sanity and madness.
-
-[Google Books](https://books.google.com/books?id=gx2ev_vwGKAC)
-{:.links}
-
 #### Fyodor Dostoevsky (1866) _Crime and Punishment_
 
 Classic tale of madness with terrible consequences, and of recovery through love.
 
 [Google Books](https://books.google.com/books?id=hG5P6jrzJLAC)
+{:.links}
+
+#### Robert M. Pirsig (1974) _Zen and the Art of Motorcycle Maintenance: An Inquiry into Values_
+
+Weird but very engaging exploration of, amongst other things, the relationship between humanity and technology (which, in a way, is what 7 Cups is about) and the relationship between sanity and madness.
+
+[Google Books](https://books.google.com/books?id=gx2ev_vwGKAC)
 {:.links}
 
 #### Kay Redfield Jamison (1997) _An Unquiet Mind: A Memoir of Moods and Madness_
