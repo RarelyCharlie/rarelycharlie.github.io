@@ -1,4 +1,4 @@
-table {border-spacing: 0 1ex;}
+#content table {border-spacing: 0 1ex; margin-left: -1ex;}
 td {vertical-align: top;}
 td:first-child {min-width: 16em;}
 td>span:first-child {display: inline-block; margin: 0 1ex 1ex 0; padding: .5ex 1ex; border-radius: 1ex; color: white;}
