@@ -9,6 +9,6 @@ feedback: https://www.7cups.com/@RarelyCharlie
 <script>{% include forumdata.js %}</script>
 <script>{% include forummap.js %}</script>
 <p>This is a list of the public forums at 7 Cups, arranged by <i class="fas fa-user-friends"></i>&nbsp;subcommunity or <i class="far fa-folder"></i>&nbsp;category.</p>
-<p><label for="search">Search for forums: <input id="search"></label></p>
+<p><label for="search">Search for forums: <input id="search" autofocus></label></p>
 <div id="results"></div>
 <div id="map"></div>
