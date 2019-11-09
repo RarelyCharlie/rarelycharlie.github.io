@@ -1,0 +1,12 @@
+table {border-spacing: 0 1ex;}
+td {vertical-align: top;}
+td:first-child {min-width: 16em;}
+td>span:first-child {display: inline-block; margin: 0 1ex 1ex 0; padding: .5ex 1ex; border-radius: 1ex; color: white;}
+td>span.d {display: inline; margin: 0; padding: 0; color: #000; font-style: normal;}
+td>span.m {background-color: #5bc0de;}
+td>span.l {background-color: #5cb85c;}
+td>span.n {display: inline; margin: 0; padding: 0; color: #777; font-style: italic;}
+td a {text-decoration: none; color: #66f;}
+#map div.collapsed {height: 0; overflow: hidden;}
+#results {display: none;}
+.cat {color: #999;}
