@@ -7,8 +7,11 @@ feedback: https://www.7cups.com/@RarelyCharlie
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
 <script>{% include badgedata.js %}</script>
 <script>{% include badgemap.js %}</script>
-<p>This is a list of the member and listener badges at 7 Cups.</p>
-<p>Note that some details might be out of date by the time you see it. Contact [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) to have it refreshed, or use the official [Member Reputation](https://www.7cups.com/about/memberReputation.php) and [Listener Reputation](https://www.7cups.com/about/faqBadgesCheers.php) pages.</p>
+
+This is a list of the member and listener badges at 7 Cups.
+
+Note that some details might be out of date by the time you see it. Contact [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) to have it refreshed, or use the official [Member Reputation](https://www.7cups.com/about/memberReputation.php) and [Listener Reputation](https://www.7cups.com/about/faqBadgesCheers.php) pages.
+
 <p><label for="search">Search for badges: <input id="search" autofocus></label></p>
 <table><tbody id="results"></tbody></table>
 <table><tbody id="map"></tbody></table>
