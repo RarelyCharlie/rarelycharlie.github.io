@@ -89,7 +89,7 @@ An insider view of the Silicon Valley culture where 7 Cups grew up. A collection
 
 A theoretical exploration and a practical guide to how happiness, engagement, relationships, meaning, and accomplishment combine to make life fulfilling.
 
-[Google Books](https://books.google.com/books?id=YVAQVa0dAE8C)
+[Simon & Schuster](https://www.simonandschuster.com/books/Flourish/Martin-E-P-Seligman/9781439190760) &bull; [Google Books](https://books.google.com/books?id=YVAQVa0dAE8C)
 {:.links}
 
 #### Glen Moriarty (2016) _7 Cups for the Searching Soul_
