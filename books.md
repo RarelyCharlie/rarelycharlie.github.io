@@ -99,6 +99,15 @@ A somewhat confused explanation of the reasons for 7 Cups' existence, by its fou
 [Smashwords](https://www.smashwords.com/books/view/611898) &bull; [7 Cups Guide](https://www.7cups.com/7cups-for-the-searching-soul/)
 {:.links}
 
+#### Yuval Levin (2016) _The Fractured Republic: Renewing America's Social Contract in the Age of Individualism_
+
+A scholarly attempt to understand politics, economics and culture in America in their historical context, and to construct a realistic vision for the future (as envisaged in 2016). Strongly critical of current thinking both on the political left (socialist, Democrat) and on the political right (conservative, Republican), although written from a conservative viewpoint overall.
+
+Relevant because the model of society that 7 Cups has tried to implement, with somewhat mixed results, can be seen as reflecting current American socialist thinking about society as a whole. This book goes some way towards explaining how that model arose, why it fails, and how it might be fixed.
+
+[Basic Books](https://www.basicbooks.com/titles/yuval-levin/the-fractured-republic/9781478944638/) &bull; [Google Books](https://books.google.com/books?id=FXCQDQAAQBAJ)
+{:.links}
+
 # Individual stories
 
 Biography and fiction describing mental illness.
