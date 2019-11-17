@@ -123,14 +123,14 @@ Classic tale of madness with terrible consequences, and of recovery through love
 
 Weird but very engaging exploration of, amongst other things, the relationship between humanity and technology (which, in a way, is what 7 Cups is about) and the relationship between sanity and madness.
 
-[Google Books](https://books.google.com/books?id=gx2ev_vwGKAC)
+[HarperCollins](https://www.harpercollins.com/9780688002305/zen-and-the-art-of-motorcycle-maintenance/) &bull; [Google Books](https://books.google.com/books?id=gx2ev_vwGKAC)
 {:.links}
 
 #### Kay Redfield Jamison (1997) _An Unquiet Mind: A Memoir of Moods and Madness_
 
 First-hand account of living with bipolar disorder, by a renowned clinical psychologist, now a professor of psychiatry.
 
-[Google Books](https://books.google.co.uk/books?id=gWV-BAAAQBAJ)
+[Penguin Random House](https://www.penguinrandomhouse.com/books/86625/an-unquiet-mind-by-kay-redfield-jamison/) &bull; [Google Books](https://books.google.co.uk/books?id=gWV-BAAAQBAJ)
 {:.links}
 
 # Psychotherapy
