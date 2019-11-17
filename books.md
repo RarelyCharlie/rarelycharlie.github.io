@@ -64,7 +64,7 @@ An influential psychiatrist warns us how diagnostic inflation is leading society
 
 A journalist and storyteller explores some of the causes of depression, anxiety and addiction. The unexpected solutions include what 7 Cups was created to do.
 
-[Google Books](https://books.google.com/books?id=WIg2DwAAQBAJ)
+[Bloomsbury](https://www.bloomsbury.com/lost-connections-9781408878729/) &bull; [Google Books](https://books.google.com/books?id=WIg2DwAAQBAJ)
 {:.links}
 
 # 7 Cups and related ideas
