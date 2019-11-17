@@ -155,14 +155,14 @@ Sets out the basis of client-centered therapy, which builds on active listening 
 
 A fascinating insight into the mind of a very experienced therapist. It shows how psychotherapy (mostly long-term existential therapy and group therapy) builds on the very basic techniques of active listening. 85 short chapters, with little jargon and many anecdotes and quotes.
 
-[Google Books](https://books.google.co.uk/books?id=Ry8ab_ptBTEC)
+[Yalom.com](https://www.yalom.com/gift-of-therapy) &bull; [Google Books](https://books.google.co.uk/books?id=Ry8ab_ptBTEC)
 {:.links}
 
 #### Paul Moloney (2013) _The Therapy Industry: The Irresistible Rise of the Talking Cure and Why It Doesn’t Work_
 
 Well researched and detailed critique of all forms of psychotherapy by an experienced practising psychologist.
 
-[Google Books](https://books.google.com/books/about/The_Gift_of_Therapy.html?id=yEnodbQ-u3MC)
+[Pluto Books](https://www.plutobooks.com/9780745329864/the-therapy-industry/) &bull; [Google Books](https://books.google.com/books/about/The_Gift_of_Therapy.html?id=yEnodbQ-u3MC)
 {:.links}
 
 #### Danny Wedding and Raymond J. Corsini (2014) _Case Studies in Psychotherapy_
@@ -171,5 +171,5 @@ A collection of case studies illustrating different approaches to psychotherapy,
 
 Unfortunately the CBT case study is not at all like typical CBT (as its author acknowledges).
 
-[Google Books](https://books.google.com/books?id=R8rZbvAnpnoC)
+[Cengage](https://www.cengage.com/c/case-studies-in-psychotherapy-7e-wedding/) &bull; [Google Books](https://books.google.com/books?id=R8rZbvAnpnoC)
 {:.links}
