@@ -119,6 +119,15 @@ Classic tale of madness with terrible consequences, and of recovery through love
 [Google Books](https://books.google.com/books?id=hG5P6jrzJLAC)
 {:.links}
 
+#### Virginia Axline (1964) _Dibs in Search of Self_
+
+Heartwarming account of real life play therapy with a gifted but emotionally damaged five-year-old, which actually illustrates almost perfect active listening by the therapist. Accurate dialog from tape recordings of the therapy sessions.
+
+[Random House](http://www.randomhousebooks.com/books/6746/) &bull; 
+[Open Library](https://openlibrary.org/works/OL4639980W/Dibs_in_search_of_self) &bull; 
+[Google Books](https://books.google.com/books?id=MvkgHEXDwgQC)
+{:.links}
+
 #### Robert M. Pirsig (1974) _Zen and the Art of Motorcycle Maintenance: An Inquiry into Values_
 
 Weird but very engaging exploration of, amongst other things, the relationship between humanity and technology (which, in a way, is what 7 Cups is about) and the relationship between sanity and madness.
