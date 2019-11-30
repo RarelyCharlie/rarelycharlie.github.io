@@ -24,13 +24,21 @@ For someone who has a mental illness we can provide online therapy, but it costs
 
 For someone seeking community because they are lonely, we actively discourage offsite contact, teaching them that being with other people is risky.
 
+### 7 Cups dangers
+
+Worse than 7 Cups' limitations, there are dangers in 7 Cups' approach if someone gets the wrong kind of help.
+
+For example, if someone expects problem-solving, and what they get is a medical diagnosis as if they have a mental illness, there's a danger it will make it less likely they will solve their problem.
+
+Or, if someone has a mental illness, and what they get is community, there's a danger they will feel they have to accept their illness because being ill is rewarded by the community, and if that happens they are less likely to recover.
+
 ### What is listening?
 
 There's deep confusion over what listeners are supposed to be doing.
 
 The initial training hints that it's about active listening, but the initial mock chat hints that it's about amateur diagnosis and treatment. New listeners are often bewildered when people seem to expect advice, because they've been told not to give advice. Some give advice anyway, and some just leave 7 Cups.
 
-A better way to train listeners would be to train them in the four categories separately, so they can give advice to thos who need it, give support to those who need support, and so on.
+A better way to train listeners would be to train them in the four categories separately, so they can give advice to those who need it, give support to those who need support, and so on.
 
 ### The technology platform
 
@@ -38,4 +46,5 @@ A better way to train listeners would be to train them in the four categories se
 
 Soon after 7 Cups began, something went wrong between the tech side and the community side, causing poor tech support for the community to become embedded as a 7 Cups tradition.
 
-A better way to manage the tech would be to outsource it, or at least to use open source components. Forums and web chat are commonplace and cheap.
+A better way to manage the tech would be to outsource it, or at least to use open source components. Forums and web chat are commonplace and cheap. Some tech support would still be needed, and the people who do that work should be day-to-day users of the systems they are supporting so that they can respond to what's required.
+
