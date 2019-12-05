@@ -55,7 +55,7 @@ can make the change. You can also ask for your entire diary to be deleted.
 Everyone on the Internet can see your diary, unless it's in a listener-only forum.
 
 If you plan to post secrets in your diary that you don't want certain people to see, then you must remember
-never to post any details that could identify you. Don't let anyone you have a diary at all, unless you completely trust them, in case they go looking for it.
+never to post any details that could identify you. Don't let anyone know you have a diary at all, unless you completely trust them. If they know you have a diary, they might go looking for it.
 
 If what you want is a place to keep secret notes that only you can see, do not use a diary. Use 7 Cups' Notes feature instead. To open your notes, click on your own profile picture at the top right of any 7 Cups webpage, and choose [My Notes](https://www.7cups.com/notes.php) from the menu. (The link provided here only works if you are logged in to 7 Cups.)
 
@@ -97,8 +97,7 @@ If your diary has more than one page, you must keep a copy of each page separate
 
 ### Copyright
 
-When you publish anything in your diary, 7 Cups' terms of service mean that 7 Cups owns what 
-you publish. This might be a problem for you if you publish original work like stories, poems or artwork.
+When you publish anything in your diary, 7 Cups' [terms of service](https://www.7cups.com/Documents/TermsOfService/) mean that 7 Cups owns what you publish. This might be a problem for you if you publish original work like stories, poems or artwork.
 
 You might be able to get around this problem by publishing your original work in some other place first,
 displaying the date of publication and a copyright notice. There must not be any way to contact you in the place where you publish the work (because of Rule 4). 
