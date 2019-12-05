@@ -78,7 +78,11 @@ you must ensure that no one can contact you outside 7 Cups. For example, if you 
 
 ### Who can write in your diary
 
-If you don't want other people to post in your diary, you can say so either in the title or in your first post.
+If you don't want other people to post in your diary, you can say so either in the title or in your first post. Some examples are:
+
+- All replies are welcome.
+- Please don't reply unless I tag you
+- Please don't post here.
 
 If people post in your diary but you don't want them to, message a forum mentor to have their posts deleted.
 
