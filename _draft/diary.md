@@ -57,6 +57,8 @@ Everyone on the Internet can see your diary, unless it's in a listener-only foru
 If you plan to post secrets in your diary that you don't want certain people to see, then you must remember
 never to post any details that could identify you. Don't let anyone you have a diary at all, unless you completely trust them, in case they go looking for it.
 
+If what you want is a place to keep secret notes that only you can see, do not use a diary. Use 7 Cups' Notes feature instead. To open your notes, click on your own profile picture at the top right of any 7 Cups webpage, and choose [My Notes](https://www.7cups.com/notes.php) from the menu. (The link provided here only works if you are logged in to 7 Cups.)
+
 ### Staying anonymous
 
 At 7 Cups most members and listeners keep their real identity secret (although doing so is a recommendation, 
