@@ -46,8 +46,8 @@ You might be able to link to a particular post if your web browser supports it. 
 from your browser's address bar and add a page number if necessary, as described above.
 
 Go to the post and right-click the top part of it to get a context menu. Choose Inspect from the menu.
-In the list of elements, scroll up a few lines until you see something like id="forum-post-1234567".
-Copy this. At the end of the URL, type a #-sign and paste the id. The complete URL looks like:
+In the list of elements, scroll up a few lines until you see something like `id="forum-post-1234567"`.
+Copy this. At the end of the URL, type a `#`-sign and paste the id. The complete URL looks like:
 
 `https://www.7cups.com/forum/Subcommunity_123/Subforum_456/Thread_789012/1/#forum-post-1234567`
 
