@@ -27,16 +27,16 @@ Test the URL before you put it in a link.
 ### Last page links
 
 To link to the last page of a thread, go there and copy the URL from your browser's addresss bar.
-If the URL ends with a page number, like `1/` then remove the page number. This ensures that the 
+If the URL ends with a page number, like `8/` then remove the page number. This ensures that the 
 link always points to the last page of the thread, even in the future when it has more pages than now.
 
 *Example:*
 
 If the URL looks like this:
-`https://www.7cups.com/forum/Subcommunity_123/Subforum_456/Thread_789012/`
+`https://www.7cups.com/forum/Subcommunity_123/Subforum_456/Thread_789012/8/`
 
 Add the page number like this:
-`https://www.7cups.com/forum/Subcommunity_123/Subforum_456/Thread_789012/1/`
+`https://www.7cups.com/forum/Subcommunity_123/Subforum_456/Thread_789012/`
 
 Test the URL before you put it in a link.
 
