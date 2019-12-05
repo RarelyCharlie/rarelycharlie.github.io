@@ -2,9 +2,9 @@
 layout: howto
 title: Add an image to a post
 ---
-At 7 Cups you cannot upload images. This guide describes how to add an image to a post in a 7 Cups forum or feed.
+At 7 Cups you cannot upload images. This guide describes how to add an image to a post in the 7 Cups forum.
 
-7 Cups does not support audio or video in forums and feeds, but animated images work normally.
+7 Cups does not support audio or video in the forum, but animated images work normally.
 
 ### An image on a secure public website
 
