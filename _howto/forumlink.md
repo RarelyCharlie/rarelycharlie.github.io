@@ -24,6 +24,13 @@ Add the page number like this:
 
 Test the URL before you put it in a link.
 
+### Specific page links
+
+To link to a specific page of a thread, go there and copy the URL from your browser's addresss bar.
+
+The URL will end with a page number, like `8/`, unless the thread only has one page so far, in which case you
+must add the page number `1/` yourself as described above.
+
 ### Last page links
 
 To link to the last page of a thread, go there and copy the URL from your browser's addresss bar.
@@ -35,7 +42,7 @@ link always points to the last page of the thread, even in the future when it ha
 If the URL looks like this:
 `https://www.7cups.com/forum/Subcommunity_123/Subforum_456/Thread_789012/8/`
 
-Add the page number like this:
+Remove the page number like this:
 `https://www.7cups.com/forum/Subcommunity_123/Subforum_456/Thread_789012/`
 
 Test the URL before you put it in a link.
