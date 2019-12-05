@@ -13,10 +13,10 @@ A personal diary is somewhere you can write things mainly for yourself, but also
 You can put your personal diary anywhere in the forum, but there are two places specially
 set aside for diaries:
 
-[Diary Entries & Connections](https://www.7cups.com/forum/GeneralSupport_28/DiaryEntriesConnections_1597/) in General Support//
+[Diary Entries & Connections](https://www.7cups.com/forum/GeneralSupport_28/DiaryEntriesConnections_1597/) in General Support\\
 This is intended to be used for most diaries.
 
-[My Diary](https://www.7cups.com/forum/TraumaSupport_60/MyDiary_1301/) in Trauma Support//
+[My Diary](https://www.7cups.com/forum/TraumaSupport_60/MyDiary_1301/) in Trauma Support\\
 This is intended to be used for diaries of members of the Trauma Support subcommunity.
 
 There is no special place for listeners' diaries, but if you are a listener and you want to
@@ -113,8 +113,10 @@ in a place where you own the copyright.
 ### Links
 
 7 Cups does not provide an easy and reliable way to link to threads or posts in the forum, 
-and diaries are just the same as any other threads. For more information about how to link 
-to threads or posts, see: [Link to forums](https://rarelycharlie.github.io/howto/forumlink )
+and diaries are just the same as any other threads. There are ways to work around some of
+the limitations.
+
+See: [Link to forums](https://rarelycharlie.github.io/howto/forumlink )
 
 ### Additional formatting
 
