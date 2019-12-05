@@ -8,6 +8,8 @@ Here are some notes about personal diaries at 7 Cups.
 A personal diary is somewhere you can write things mainly for yourself, but also to discuss with other
 7 Cups members and listeners. Diaries at 7 Cups are not private.
 
+If what you want is a place to keep secret notes that only you can see, do not use a diary. Use 7 Cups' Notes feature instead. To open your notes, click on your own profile picture at the top right of any 7 Cups webpage, and choose [My Notes](https://www.7cups.com/notes.php) from the menu. (The link provided here only works if you are logged in to 7 Cups.)
+
 ### Where to put your diary
 
 You can put your personal diary anywhere in the forum, but there are two places specially
@@ -59,8 +61,6 @@ Everyone on the Internet can see your diary, unless it's in a listener-only foru
 If you plan to post secrets in your diary that you don't want certain people to see, then you must remember
 never to post any details that could identify you. Don't let anyone know you have a diary at all, unless you completely trust them. If they know you have a diary, they might go looking for it.
 
-If what you want is a place to keep secret notes that only you can see, do not use a diary. Use 7 Cups' Notes feature instead. To open your notes, click on your own profile picture at the top right of any 7 Cups webpage, and choose [My Notes](https://www.7cups.com/notes.php) from the menu. (The link provided here only works if you are logged in to 7 Cups.)
-
 ### Staying anonymous
 
 At 7 Cups most members and listeners keep their real identity secret (although doing so is a recommendation, 
@@ -83,6 +83,8 @@ If you don't want other people to post in your diary, you can say so either in t
 - All replies are welcome.
 - Please don't reply unless I tag you
 - Please don't post here.
+
+You can also mention a particular person in the title and use the thread for a discussion with just that one person.
 
 If people post in your diary but you don't want them to, message a forum mentor to have their posts deleted.
 
