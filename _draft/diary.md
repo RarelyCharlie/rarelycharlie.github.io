@@ -17,7 +17,7 @@ set aside for diaries:
 This is intended to be used for most diaries.
 
 [My Diary](https://www.7cups.com/forum/TraumaSupport_60/MyDiary_1301/) in Trauma Support\\
-This is intended to be used for diaries of members of the Trauma Support subcommunity.
+This is intended to be used for diaries of trauma survivors.
 
 There is no special place for listeners' diaries, but if you are a listener and you want to
 keep a diary about listening that only listeners can read, you could put it in:
