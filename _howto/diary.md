@@ -84,7 +84,7 @@ If you don't want other people to post in your diary, you can say so either in t
 - Please don't reply unless I tag you
 - Please don't post here.
 
-You can also mention a particular person in the title and use the thread for a discussion with just that one person.
+You can also mention a particular person in the title and use the thread for a discussion with just that one person. This allows any two or more members to communicate, or any combination of adults and teens.
 
 If people post in your diary but you don't want them to, message a forum mentor to have their posts deleted.
 
