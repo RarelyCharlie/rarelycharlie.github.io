@@ -117,10 +117,27 @@ the limitations.
 
 See: [Link to forums](https://rarelycharlie.github.io/howto/forumlink )
 
+### Reposting
+
+Rule 8 in the guidelines means you cannot repost something from someone else's diary, because it would be a duplicate post.
+
+You can link to another post anywhere else in the forum, and you can quote selectively from any other post.
+
+### Tagging and subscriptions
+
+Tags and subscriptions work in diaries in the same way as in the rest of the forum.
+
+To tag someone, mention their name with an `@`-sign before it, like: @RarelyCharlie\\
+The person you tagged receives a notification.
+
+It is best to type a space or end the line immediately after a tag, in case the tag doesn't work. This means that to tag multiple people, separate the tags with spaces.
+
+There is no way to tell how many people are subscribed to your diary, or who they are.
+
 ### Additional formatting
 
 Some additional formatting is possible in diaries (just like in the rest of the forum) 
 if you use an enhanced editor, but this only works in some web browsers. For example, 
-with an enhanced editor you can make tables and lists, and add a signature to every post.
+with an enhanced editor you can make quotes, tables and lists, and add a signature to every post you make.
 
 See: [Enhance the editor](https://rarelycharlie.github.io/howto/editor)
