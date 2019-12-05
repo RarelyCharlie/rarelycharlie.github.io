@@ -12,7 +12,7 @@ To link to the first page of a thread, go there and copy the URL from your brows
 If the URL does not end in `1/` then you should add `1/` to the end of the URL. This ensures that the 
 link always points to page 1 of the thread, even in the future when it has more than one page.
 
-Example:
+*Example:*
 
 If the URL looks like this:
 
@@ -30,7 +30,7 @@ To link to the last page of a thread, go there and copy the URL from your browse
 If the URL ends with a page number, like `1/` then remove the page number. This ensures that the 
 link always points to the last page of the thread, even in the future when it has more pages than now.
 
-Example:
+*Example:*
 
 If the URL looks like this:
 `https://www.7cups.com/forum/Subcommunity_123/Subforum_456/Thread_789012/`
@@ -53,5 +53,5 @@ Copy this. At the end of the URL, type a #-sign and paste the id. The complete U
 
 Test the URL before you put it in a link.
 
-*Note:* When you click on a link to a particular post, 7 Cups hides the top part of the post underneath the
+**Note:** When you click on a link to a particular post, 7 Cups hides the top part of the post underneath the
 navigation bar at the top of the screen. This is a bug in 7 Cups.
