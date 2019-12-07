@@ -9,7 +9,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 ### First page links
 
 To link to the first page of a thread, go there and copy the URL from your browser's addresss bar.
-If the URL does not end in `1/` then you should add `1/` to the end of the URL. This ensures that the 
+If the URL does not end in `/1/` then you should add `1/` to the end of the URL. This ensures that the 
 link always points to page 1 of the thread, even in the future when it has more than one page.
 
 *Example:*
@@ -28,7 +28,7 @@ Test the URL before you put it in a link.
 
 To link to a specific page of a thread, go there and copy the URL from your browser's addresss bar.
 
-The URL will end with a page number, like `8/`, unless it's the last page (or the only page). In this case you
+The URL will end with a page number, like `/8/`, unless it's the last page (or the only page). In this case you
 must add the page number, maybe `8/`, yourself as described above. If it's the first or only page, add `1/`.
 
 ### Last page links
