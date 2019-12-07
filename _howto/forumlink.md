@@ -28,8 +28,8 @@ Test the URL before you put it in a link.
 
 To link to a specific page of a thread, go there and copy the URL from your browser's addresss bar.
 
-The URL will end with a page number, like `8/`, unless the thread only has one page so far, in which case you
-must add the page number `1/` yourself as described above.
+The URL will end with a page number, like `8/`, unless it's the last page (or the only page). In this case you
+must add the page number, maybe `8/`, yourself as described above. If it's the first or only page, add `1/`.
 
 ### Last page links
 
