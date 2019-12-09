@@ -52,7 +52,7 @@ can make the change. You can also ask for your entire diary to be deleted.
 
 [Listener Mentors](https://www.7cups.com/listener/listenerMentors.php)
 
-You can also e-mail [forum@7cups.com](mailto:forum@7cups.com) if things go badly wrong. Send the e-mail from the address that you used to log in to 7 Cups, and provide full details inclusing a link.
+You can also e-mail [forum@7cups.com](mailto:forum@7cups.com) if things go badly wrong. Send the e-mail from the address that you used to log in to 7 Cups, and provide full details including a link.
 
 ### Who can see your diary
 
