@@ -6,7 +6,7 @@ serial: 21
 ---
 To start a chat, you normally open the general request queue and select the member at the top of the list. This is because the member at the top of the list has been waiting longest.
 
-You can also choose a member from the general request queue based on their preferred language or topic.
+You can also choose a member from the general request queue based on their preferred language or topic. It is a bad idea to start a chat with someone who does not want to chat in your language.
 
 Another way to start a chat is by responding to a personal request from a member. When you receive a personal request, it's likely the member has read your profile and chose you for some good reason.
 
