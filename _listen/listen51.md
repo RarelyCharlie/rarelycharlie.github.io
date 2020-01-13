@@ -8,7 +8,7 @@ You will encounter members who try to have conversations that are purely or part
 
 Sometimes these fantasies are based on TV shows, films or games. Sometimes they are invented in the moment.
 
-Some fantasists try to involve you, the listener, in a specific role in their their fantasy world.. If you don't concentrate on reflecting the member's feelings, then it is easy to get drawn into very weird chats.
+Some fantasists try to involve you, the listener, in a specific role in their their fantasy world. If you don't concentrate on reflecting the member's feelings, then it is easy to get drawn into very weird chats.
 
 Member: *“I need to know your age because I feel uncomfortable talking to anyone who's not in a certain age range. It's your job to help me in any way you can, and this is something you can easily do for me. PLEASE TELL ME YOUR AGE. If you don't tell me I'll give you a bad review and you'll be banned.”*
 {: .conv}
