@@ -27,7 +27,7 @@ label, p {text-align: left;}
 option.placeholder, #reason.disabled, #explainshot.disabled, #nodetail.disabled, #problem.disabled {opacity: .25;}
 option {color: #000;}
 #explain1 {display: none;}
-#success {font-size: 200%; margin: 30vh auto 0 auto;}
+#success {font-size: 200%; margin: 30vh auto 0 auto; display: none;}
 </style>
 <script>
 $(() => {
@@ -45,6 +45,7 @@ $(() => {
 		return ok
 		}
 	var reset = () => {
+		$('#success').hide()
 		$('#dorep').prop('checked', true)
 		$('#reason').prop('disabled', false).val('none').css('color', '#888')
 		$('#problem').prop('disabled', false).val('').attr('placeholder', 'Describe what happened in detail. If possible, include the screenshot URL.')
@@ -77,12 +78,12 @@ $(() => {
 	$('#go').on('click', function () {
 		if (!enableGo()) return
 		$('#success').text($('#dorep').prop('checked')?
-			'The listener was blocked and reported.' : 'The listener was blocked.')
+			'The listener was blocked and reported.' : 'The listener was blocked.').show()
 		$('#blue').fadeOut(50)
 		setTimeout(reset, 2500)
 		})
 	$('#close').on('click', function () {
-		$('#success').text('The dialog was canceled.')
+		$('#success').text('The dialog was canceled.').show()
 		$('#blue').fadeOut(50)
 		setTimeout(reset, 2500)
 		})
