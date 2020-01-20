@@ -60,11 +60,12 @@ $(() => {
 		$('#explainshot, #nodetail').toggleClass('disabled')
 		
 		$('#reason').prop('disabled', !this.checked)
-		$('#reason, #problem').css('color', this.checked? ($('#reason').val() == 'none'? '#888' : '#000') : 'transparent')
+		$('#reason').css('color', this.checked? ($('#reason').val() == 'none'? '#888' : '#000') : 'transparent')
 		
 		$('#problem').prop('disabled', !this.checked)
 		$('#problem').attr('placeholder', this.checked? 'Describe what happened in detail. If possible, include the screenshot URL.' : '')
-		$('#problem').attr('spellcheck', this.checked)
+		$('#problem').prop('spellcheck', this.checked)
+		$('#problem').css('color', this.checked? '#000' : 'transparent')
 		
 		enableGo()
 		})
