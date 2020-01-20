@@ -62,10 +62,13 @@ $(() => {
 		$('#reason').prop('disabled', !this.checked)
 		$('#reason').css('color', this.checked? ($('#reason').val() == 'none'? '#888' : '#000') : 'transparent')
 		
-		$('#problem').prop('disabled', !this.checked)
-		$('#problem').attr('placeholder', this.checked? 'Describe what happened in detail. If possible, include the screenshot URL.' : '')
-		$('#problem').prop('spellcheck', this.checked)
-		$('#problem').css('color', this.checked? '#000' : 'transparent')
+		var p = $('#problem')
+		p.prop('disabled', !this.checked)
+		p.attr('placeholder', this.checked?
+			'Describe what happened in detail. If possible, include the screenshot URL.' : '')
+		p.css('color', this.checked? '#000' : 'transparent')
+		if (this.checked) p.val(p.attr('data-was'))
+		else p.attr('data-was', p.val()).val('')
 		
 		enableGo()
 		})
