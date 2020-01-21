@@ -17,43 +17,43 @@ Many of the ideas that follow apply to writing in the forums, because this is wh
 
 The ideas are in no particular order.
 
-### When you are asked a question, answer the question.
+### When you are asked a question, answer the question
 
 It's good to respond to a member's overall situation and to provide additional information and advice, but if a member asks a specific question, remember to answer the specific question. If you cannot answer it, at least acknowledge it.
 
 _Example:_ A member who has OCD asks about treatment with EMDR. Provide any appropriate information and advice about OCD, but don't forget that EMDR was the question. 
 
-### Be supportive to members.
+### Be supportive to members
 
 Accept a member's situation as they themselves describe it. Don't contradict or argue with a member's point of view.
 
 _Example:_ A member says they tried mindfulness meditation for anxiety but it made them feel terrible and they decided never to try it agin. Don't contradict the member by recommending mindfulness meditation.  
 
-### When there's something you don't know, don't guess.
+### When there's something you don't know, don't guess
 
 You are writing for 7 Cups because of your professional expertise. When some topic is outside your professional expertise, saying so is a positive way to respond. If you simply guess, you risk misleading members or being corrected, which looks bad and will make you feel bad.
 
 _Example:_ You are a therapist and a member asks you a question only a psychiatrist is qualified to answer. Don't guess what a psychiatrist might say.
 
-### When providing facts, also provide links to sources.
+### When providing facts, also provide links to sources
 
 Although you are writing becuase you have professional expertise, providing links to current authoritative sources helps to establish your own knowledge and authority.
 
 _Example:_ You want to tell your readers what bipolar disorder is. You can provide a link to the World Health Organization's [definition in ICD-10](https://icd.who.int/browse10/2010/en#F31).
 
-### Sources of facts should be current.
+### Sources of facts should be current
 
 Ensure that the sources of information you rely on are not obsolete, because some readers will have up-to-date information.
 
 _Example:_ Instead of linking to a quote from the obsolete DSM-IV, link to a quote from the current DSM-5. ICD-10 is even better, because it applies internationally and you can link to it directly. However, do not rely on the newer ICD-11 draft before it has come into effect.
 
-### Sources of facts should be public.
+### Sources of facts should be public
 
 Ensure that readers can find out more about the information you provide, without having to pay for access to private sources of information.
 
 _Example:_ Instead of linking to a research paper that requires a payment to download, link to an open access paper that supports the same conclusions.
 
-### Sources of facts should be authoritative.
+### Sources of facts should be authoritative
 
 When choosing sources of factual information, choose expert authorities if at all possible, instead of the opinions of journalists or other non-experts.
 
@@ -61,7 +61,7 @@ _Example:_ Instead of (or in addition to) linking to a blog that describes the s
 
 _Example:_ Instead of (or in addition to) linking to a magazine article based on a press release based on an abstract of a research paper, link to the full text of the research paper.
 
-### When you cannot provide a link, check that Google will back you up.
+### When you cannot provide a link, check that Google will back you up
 
 If you state a fact without any link, there's a risk that some readers might Google it and find conflicting information. It is better to Google it yourself first, so that you can avoid problems.
 
@@ -73,13 +73,14 @@ Use current terminology that's in general use and, if possible, acceptable to sp
 
 _Example:_ Do not use the obsolete terminology "axis II disorder" to mean a personality disorder.
 
-### Avoid taking sides in controversy.
+### Avoid taking sides in controversy
 
 Many ideas in the field of mental health are controversial. Your readers will include people on both sides of any controversy, people who are confused by it all, and people who don't even know there is a controversy. Don't take sides. Express your professional opinion on the matter, but acknowledge that others think differently.
 
 _Example:_ Do not write as if you are an authority on whether or not SSRIs like fluoxetine (Prozac) are safe and effective (unless you really are an authority and you have evidence to back that up).
 
-### Write for 7 Cups' international audience.
+### Write for 7 Cups' international audience
+Bear in mind that you will have readers in many countries, with different national and local laws and services, some of which might be very different from those you are familiar with.
 
 _Example:_ Instead of advising someone to call 9-1-1 (which doesn't work in much of the world), advise them to call their local emergency number. (There is an international emergency number, 112, but even that doesn't work everywhere.)
 
@@ -89,7 +90,7 @@ _Example:_ Instead of referring to licensed therapists, refer to qualified thera
 
 _Example:_ When you mention a law that applies to you (for example, HIPAA in the US), make it clear that other places have different laws.  
 
-### Draw on your own experience.
+### Draw on your own experience
 
 When you make a very broad statement, there is a risk that it will not apply to some of your readers. It is better to limit the statement to your professional experience, which no one can argue with.
 
@@ -99,9 +100,9 @@ _Example:_ Instead of saying that depression can always be managed effectively, 
 
 If at all possible, provide examples to support the ideas you introduce.
 
-_Example:_ You are writing about depression following the birth of a child (post-partum depression). It is useful to invent a typical client story based on your experience in your own practice, or to link to a blog or magazine article that describes someone's real-life experience.
+_Example:_ You are writing about depression following the birth of a child (post-partum depression). It is useful to invent a typical client story based on your experience in your own practice, or to link to a blog, magazine article or video that describes someone's real-life experience.
 
-### In a forum, be prepared for surprises.
+### In a forum, be prepared for surprises
 
 The whole purpose of a forum is to facilitate an exchange of views. So when you write in a forum it's possible you will get an exchange of views. Some of them will seem surprising or wrong to you, but that's the purpose of a forum.
 
