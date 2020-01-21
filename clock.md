@@ -1,6 +1,4 @@
 ---
 layout: clock
 ---
-Charlie's clock
-
-
+My clock
