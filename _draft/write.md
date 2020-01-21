@@ -1,10 +1,9 @@
 ---
 title: Write for the community
-layout: default
+layout: howto
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 <style>#content h3 {font-weight: 500;}</style>
-Howto: Write for the community
 
 This unofficial guide contains some ideas about writing for the 7 Cups community. It is mainly intended for therapists, although many of the ideas apply to anyone.
 
