@@ -114,7 +114,7 @@ There is no rule that says everyone must agree on everything. It is usually best
 
 Sometimes disagreement occurs because something you didn't realize was controversial turns out to be controversial, and you unwittingly supported one side or the other. Sometimes it occurs because you wrote something that is generally true, but one of your readers happens to be a rare exception.
 
-_Example:_ Someone who has schizophrenia asks you a question about online therapy, and in your reply you briefly mention antipsychotic medication, not realizing that the use of antipsychchotic medication is highly controversial in some circles. You get a strongly worded reply warning agoinst antipsychotic medication, supported by links to books and research papers.  
+_Example:_ Someone who has schizophrenia asks you a question about online therapy, and in your reply you briefly mention antipsychotic medication, not realizing that the use of antipsychchotic medication is highly controversial in some circles. You get a strongly worded reply warning against antipsychotic medication, supported by links to books and research papers.  
 
 ### Correct all mistakes and misunderstandings
 
@@ -126,7 +126,7 @@ _Example:_ You mistakenly write that OCD is an anxiety disorder, forgetting that
 
 ### Do not feed the trolls
 
-In a forum, if someone writes something that causes you outrage or triggers you for any reason, it is possible they are a troll who specializes in in writing things that cause outrage.
+In a forum, if someone writes something that causes you outrage or triggers you for any reason, it is possible they are a troll who specializes in writing things that cause outrage.
 
 Do not reply if you are outraged or triggered.
 
