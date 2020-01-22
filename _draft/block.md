@@ -27,7 +27,7 @@ label, p {text-align: left;}
 option.placeholder, #reason.disabled, #explainshot.disabled, #nodetail.disabled, #problem.disabled {opacity: .25;}
 option {color: #000;}
 #explain1 {display: none;}
-#success {font-size: 200%; text-align: center; margin-top: 30%; display: none;}
+#success {font-size: 200%; text-align: center; margin-top: 15%; display: none;}
 </style>
 <script>
 $(() => {
