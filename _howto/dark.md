@@ -5,8 +5,6 @@ feedback: https://www.7cups.com/@RarelyCharlie
 ---
 *Dark* is a customizable theme modifer for 7 Cups that provides an inverted (white on black), high contrast or low contrast theme.
 
-At the present time, Dark is still being developed. It's possible that future versions might work better.
-
 ### Who can use Dark?
 You can probably use Dark if you use 7 Cups in a web browser on a computer.
 
