@@ -86,6 +86,8 @@ _Example:_ Instead of advising someone to call 9-1-1 (which doesn't work in much
 
 _Example:_ Instead of advising that a certain medication is available but requires a prescription, advise that it is available on prescription where you are but other places might be different.
 
+_Example:_ Avoid referring to medication by brand name, such as Tylenol or Xanax, because brand names differ between countries. A brand you are familiar with might not exist another country, or it might exist but contain different ingredients. You can use a generic name instead, but if the generic name also differs from country to country (like acetaminophen/paracetamol and dosulepin/dothiapin), mention all the variants.
+
 _Example:_ Instead of referring to licensed therapists, refer to qualified therapists, because licencing has no legal meaning in some parts of the world.
 
 _Example:_ When you mention a law that applies to you (for example, HIPAA in the US), make it clear that other places have different laws.  
