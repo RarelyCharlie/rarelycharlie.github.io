@@ -51,7 +51,7 @@ The smiley's keyboard equivalent is inserted in your message:
 
 You can also use the menu from your keyboard using these keys:
 
-|Ctrl+I|Open the smiley menu|
-|arrow keys|Select a smiley|
+|Ctrl+`I`|Open the smiley menu|
+|<i class="fa fa-arrow-left"></i><i class="fa fa-arrow-up"></i><i class="fa fa-arrow-down"></i><i class="fa fa-arrow-right"></i>|Select a smiley|
 |Space bar|Insert the smiley in your message and close the menu|
-|Ctrl-I or Escape|Cancel the menu|
+|Ctrl+`I` or Escape|Cancel the menu|
