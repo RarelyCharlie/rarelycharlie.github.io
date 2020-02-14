@@ -38,3 +38,11 @@ To install each of these in turn, click the relevant link and follow the instruc
 To use the menu, click on the yellow button at the left of your message:
 
 ![Menu button](..\assets\smile0.png)
+
+Then click on one of the supported smileys:
+
+![Menu](..\assets\smile1.png)
+
+The smiley's keyboard equivalent is inserted in your message:
+
+![Menu button](..\assets\smile2.png)
