@@ -52,7 +52,6 @@ The smiley's keyboard equivalent is inserted in your message:
 You can also use the menu from your keyboard using these keys:
 
 |Ctrl+`I`|Open the smiley menu|
-|<i class="fa fa-long-arrow-alt-left"></i><i class="fa fa-long-arrow-alt-up"></i><i class="fa fa-long-arrow-alt-down"></i><i class="fa fa-long-arrow-alt-right"></i>|Select a smiley|
-|➝|Select a smiley|
+|<span style="font-size: 167%; font-weight: bold;">🠠 🠡 🠣 🠢</span>|Select a smiley|
 |Space bar|Insert the smiley in your message and close the menu|
 |Ctrl+`I` or Escape|Cancel the menu|
