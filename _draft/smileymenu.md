@@ -1,0 +1,39 @@
+---
+layout: howto
+title: Add a smiley menu to chats
+linkas: false
+feedback: "https://www.7cups.com/@RarelyCharlie"
+---
+This page describes how you might be able to enhance chats with a popup menu for inserting smileys in your messages.
+
+The 15 smileys in the menu are supported by 7 Cups. When you use them, everyone sees the same smileys.
+
+If you insert other smileys in your messages, some people might not see them in the same way you do, and some 
+people might not be able to see them at all. This depends on what kind of device they are using and how it is configured.
+
+### Who can use the smiley menu?
+
+You can probably use the smiley menu if you use 7 Cups in a web browser on a computer.
+
+You might be able to use the smiley menu if you use 7 Cups in a web browser on an Android device.
+
+You cannot use the smiley menu on an Apple iOS device.
+
+You cannot enhance the editor if you use the 7 Cups App on any kind of device.
+
+### What you need
+To use the smiley menu, you need to install two things in this order: 
+
+1. First install [Tampermonkey](http://tampermonkey.net/) in your web browser.
+
+   If your web browser is not compatible with Tampermonkey, then you cannot proceed with the next step
+   (but you might be able to use the method for Apple iOS instead).
+
+2. Next, install the [7 Cups - Smiley menu](https://greasyfork.org/en/scripts/????????????????) script.
+
+To install each of these in turn, click the relevant link and follow the instructions.
+
+### Using the menu
+
+To use the menu, click on the yellow button at the left of your message:
+
