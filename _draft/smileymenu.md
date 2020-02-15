@@ -4,6 +4,7 @@ title: Add a smiley menu to chats
 linkas: false
 feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
+<style>img {box-shadow: 4px 4px 12px #aaa;}</style>
 This page describes how you might be able to enhance chats with a popup menu for inserting smileys in your messages.
 
 The 15 smileys in the menu are supported by 7 Cups. When you use them, everyone sees the same smileys.
@@ -45,13 +46,20 @@ Then click on one of the supported smileys:
 
 The smiley's keyboard equivalent is inserted in your message:
 
-![Menu button](..\assets\smile2.png)
+![Keyboard equivalent](..\assets\smile2.png)
 
 ### Keyboard shortcuts
 
 You can also use the menu from your keyboard using these keys:
 
-|Ctrl + `I`|Open the smiley menu for keyboard selection|
+|Ctrl + `I`|Open the smiley menu in keyboard mode|
 |<span style="font-size: 108%; font-weight: bold;">🠠 🠡 🠣 🠢</span>|Select a smiley|
 |Space bar|Insert the smiley in your message and close the menu|
-|Ctrl + `I` or Escape|Cancel the menu|
+|Ctrl + `I`, Escape|Cancel the menu|
+|Any other key|Normal key action, and cancel the menu|
+
+In keyboard mode an outline shows you the selected smiley. Press the space bar to insert it into your message:
+
+![Keyboard mode](..\assets\smile3.png)
+
+**Note:** If you press the Return or Enter key, it sends the message in the usual way.
