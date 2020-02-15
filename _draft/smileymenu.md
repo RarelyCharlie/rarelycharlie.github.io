@@ -20,7 +20,7 @@ You might be able to use the smiley menu if you use 7 Cups in a web browser on a
 
 You cannot use the smiley menu on an Apple iOS device.
 
-You cannot enhance the editor if you use the 7 Cups App on any kind of device.
+You cannot use the smiley menu if you use the 7 Cups App on any kind of device.
 
 ### What you need
 To use the smiley menu, you need to install two things in this order: 
