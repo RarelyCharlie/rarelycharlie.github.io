@@ -30,7 +30,7 @@ To use the smiley menu, you need to install two things in this order:
    If your web browser is not compatible with Tampermonkey, then you cannot proceed with the next step
    (but you might be able to use the method for Apple iOS instead).
 
-2. Next, install the [7 Cups - Smiley menu](https://greasyfork.org/en/scripts/????????????????) script.
+2. Next, install the [7 Cups - Chat smiley menu](https://greasyfork.org/en/scripts/396512-7-cups-chat-smiley-menu) script.
 
 To install each of these in turn, click the relevant link and follow the instructions.
 
