@@ -54,12 +54,11 @@ You can also use the menu from your keyboard using these keys:
 
 |Ctrl + `I`|Open the smiley menu in keyboard mode|
 |<span style="font-size: 108%; font-weight: bold;">🠠 🠡 🠣 🠢</span>|Select a smiley|
-|Space bar|Insert the smiley in your message and close the menu|
-|Ctrl + `I`, Escape|Cancel the menu|
+|Space bar, Return or Enter|Insert the smiley in your message and close the menu|
+|Ctrl + `I` or Escape|Cancel the menu|
 |Any other key|Normal key action, and cancel the menu|
 
-In keyboard mode an outline shows you the selected smiley. Press the space bar to insert it into your message:
+In keyboard mode an outline shows you the selected smiley. Press the space bar, Return or Enter to insert it into your message:
 
 ![Keyboard mode](..\assets\smile3.png)
 
-**Note:** If you press the Return or Enter key, it sends the message in the usual way.
