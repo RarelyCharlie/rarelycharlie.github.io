@@ -28,11 +28,11 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 img[src*=twemoji] {width: 24px; height: 24px;}
 .twemoji em {font-style: normal; color: #d8f;}
 </style>
-The editor is the part of 7 Cups where you type posts in the forums and entries in your feed.
+The editor is the part of 7 Cups where you type posts in the forums.
 
 This page describes how you might be able to enhance the editor with more features. The features include lists, quotes, tables, and extra smileys.
 
-Some of the other features in the enhanced editor are experimental, and some of them might not work. The enhanced editor is only supported on a best efforts basis without any guarantees. The current version is 0.12.
+Some of the other features in the enhanced editor are permanently experimental, and some of them might not work. The enhanced editor is only supported on a best efforts basis without any guarantees. The current version is 0.18.
 
 ### Who can enhance the editor
 
@@ -89,8 +89,6 @@ You do not need to load the enhanced editor in every page, of course. Only load 
 ### Using the enhancement
 
 The enhanced editor replaces the normal editor in the forums in new threads, replies to threads, replies to posts, and when editing existing posts.
-
-It replaces the feed editor.
 
 It does not replace the profile (About You or "bio") editor in your My Settings page.
 
@@ -226,10 +224,9 @@ A captured style only applies to a particular username on a particular device. I
 Note that some styles are not easy for other people to read, especially if they use 7 Cups on a different kind of device or if their eyesight is different from yours. For example, a pale color on a white background might be unreadable.
 
 ### Known issues
-Known issues in version 0.12:
+Known issues in version 0.18:
 
-- When replying, the person you are replying to is tagged at the bottom of your reply. It should instead be at the top.
-- There has been little testing in feed posts, and various things might still not work. Testing is ongoing.
+- Some URLs are not made into links correctly. Please provide feedback if you find an example of this.
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
