@@ -6,7 +6,7 @@ serial: 55
 ---
 As a listener you are entitled to support from 7 Cups administration and from the listener community.
 
-To contact 7 Cups administration about any serious concern, send an e-mail from the address you used when you registered as a listener, to: community@7cups.com
+To contact 7 Cups administration about any serious concern, [Submit a request](https://help.7cups.com/hc/en-us/requests/new) in the Help Center. Alternatively, send an e-mail from the address you used when you registered as a listener, to: community@7cups.com
 
 For immediate help, even in the middle of a chat, go to the Listener Support Room.
 
