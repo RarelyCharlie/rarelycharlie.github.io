@@ -6,7 +6,7 @@ serial: 52
 ---
 A *referral* is when you hand a member over to someone else.
 
-When a member is actively suicidal (taking action right now), you *must* refer them to local specialist help through suicide.org, and you must end the chat.
+When a member is actively suicidal (taking action right now), you *must* refer them to local specialist help through 7 Cups' [Crisis](https://www.7cups.com/crisis) page, and you must end the chat.
 
 When a chat hits any of your personal boundaries, you must end the chat. You *may* refer the member, if they consent, to another listener who has different boundaries.
 
