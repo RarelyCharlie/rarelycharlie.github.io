@@ -16,7 +16,7 @@ Member: *“You're my last chance. If you refuse to help me I'm going to end it 
 Listener: *“You feel that threatening suicide is a good way to get me to help you.”*
 {: .conv}
 
-When you have to end a chat because the member is actively suicidal, you should normally give the member information about specialist suicide services local to them. The easiest way to do this is to refer them to suicide.org where they can find relevant information depending on where they are in the world. Do not assume that the member is in the same country as you.
+When you have to end a chat because the member is actively suicidal, you should normally give the member information about specialist suicide services local to them. The easiest way to do this is to refer them to 7 Cups' [Crisis](https://www.7cups.com/crisis) page, from where they can find relevant information depending on where they are in the world. Do not assume that the member is in the same country as you.
 
 Be careful not to give the impression that 7 Cups is giving up on the member. Withdrawing emotional support in time of crisis might make the crisis much worse. It may be appropriate to refer the member to another listener who is more comfortable with talk of suicide. You can ask for help in the Listeners Support Room to discuss this.
 
