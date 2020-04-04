@@ -892,7 +892,7 @@ A member has been chatting about her eating disorder:
 |Member:|Befrienders crap? Haha!
 |Listener:|If you tell me what country you're in I can look up the number for you.
 |Member:|Like I'm going to tell you where I am. You must be mad.
-|Listener:|Or you can go to suicide.org and look it up.
+|Listener:|Or you can go to 7cups.com/crisis and look it up.
 |Member:|24 seems about right.
 |Listener:|I have to end this chat now.
 ||*Ends the chat*
