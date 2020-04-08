@@ -227,6 +227,8 @@ Note that some styles are not easy for other people to read, especially if they 
 Known issues in version 0.18:
 
 - Some URLs are not made into links correctly. Please provide feedback if you find an example of this.
+- The toolbar occasionally appears in the wrong place. When this happens, click somewhere outside the editor to hide the toolbar, then click in the editor to display the toolbar again.
+- The toolbar very occasionally fails to appear at all. This is caused when the server where the coloured icons are stored is not responding. This is usually temporary. When it happens, wait a while and try again.
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
