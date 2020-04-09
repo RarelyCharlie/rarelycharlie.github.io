@@ -93,7 +93,14 @@ In this example the URL is:
 
 If necessary, as in this example, add `https:` at the start to make it a complete URL.
 
-However, some URLs obtained in this way do not work. This is sometimes because the website doesn't allow its images to be reused by other websites. And some things that look like images are not really images and do not have URLs at all.
+However, some URLs obtained in this way do not work.
+
+### URL still doesn't work?
+If the URL still doesn't work, it's sometimes because the website doesn't allow its images to be reused by other websites. 
+
+And some things that look like images are not really images and do not have URLs at all. For example, this picture by [Brian Lukis](http://www1.plurib.us/1shot/2009/anchorage-single/) is not an image, and what you're seeing here does not have a URL:
+
+<div style="transform: scale(.4); margin-left: -255px;">{% include anchorage.svg %}</div>
 
 ### Image in the wrong place?
 
