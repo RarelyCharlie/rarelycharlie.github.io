@@ -79,13 +79,15 @@ If you don't end up with an image, only a URL like `https://classroomclipart.com
 
 ### Not even a URL?
 
-Some images on websites can't be dragged, and can't be copied. For example, profile images at 7 Cups are like this.
+Some images on websites can't be dragged, and can't be copied. For example, profile images at 7 Cups are like this. Here's my profile image:
+
+[RarelyCharlie](https://7cupstearesources.s3.amazonaws.com/listenerImages/lGVjdnyYjpedlLBpVlqTxg!!.jpg){:style="width: 50px; height: 50px;"}
 
 Depending on your web browser, you might be able to right-click the image and choose Inspect. This reveals the images's URL embedded in other code. You can copy the URL alone and use it as above.
 
 ![Inspect example](/assets/post/Post7.png)
 
-In this example the URL is: `//7cupstearesources.s3.amazonaws.com/listenerImages/lGVjdnyYjpedlLBpVlqTxg!!.jpg`
+In this example the URL is: `//7cupstearesources.s3.amazonaws.com/listenerImages/lGVjdnyYjpedlLBpVlqTxg!!.jpg` If necessary, add `https:` at the start to make it a complete URL.
 
 However, some URLs obtained in this way do not work. This is sometimes because the website doesn't allow its images to be reused by other websites. And some things that look like images are not really images and do not have URLs at all.
 
