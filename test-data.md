@@ -1,3 +1,3 @@
 # THIS IS TEST DATA
 Yep.
-{% include anchorage.svg %}
+<div style="transform: scale(.4);">{% include anchorage.svg %}</div>
