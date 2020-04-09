@@ -87,7 +87,11 @@ Depending on your web browser, you might be able to right-click the image and ch
 
 ![Inspect example](/assets/post/Post7.png)
 
-In this example the URL is: `//7cupstearesources.s3.amazonaws.com/listenerImages/lGVjdnyYjpedlLBpVlqTxg!!.jpg` If necessary, add `https:` at the start to make it a complete URL.
+In this example the URL is:
+
+`//7cupstearesources.s3.amazonaws.com/listenerImages/lGVjdnyYjpedlLBpVlqTxg!!.jpg`
+
+If necessary, as in this example, add `https:` at the start to make it a complete URL.
 
 However, some URLs obtained in this way do not work. This is sometimes because the website doesn't allow its images to be reused by other websites. And some things that look like images are not really images and do not have URLs at all.
 
