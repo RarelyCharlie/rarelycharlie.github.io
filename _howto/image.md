@@ -8,7 +8,7 @@ At 7 Cups you cannot upload images. This guide describes how to add an image to 
 
 ### An image on a secure public website
 
-If the image is on a secure public website, where you do not have to log in, then you can drag the image and drop it into 7 Cups:
+If the image is on a secure (https) public website, where you do not have to log in, then you can usually drag the image and drop it into 7 Cups:
 <style>
 html {display: block;}
 figure {opacity: 0; transition: opacity .5s; position: absolute; top: 0; left: 0;}
@@ -87,15 +87,15 @@ Depending on your web browser, you might be able to right-click the image and ch
 
 In this example the URL is: `//7cupstearesources.s3.amazonaws.com/listenerImages/lGVjdnyYjpedlLBpVlqTxg!!.jpg`
 
-However, some URLs obtained in this way do not work, and some things that look like images do not have URLs at all.
+However, some URLs obtained in this way do not work. This is sometimes because the website doesn't allow its images to be reused by other websites. And some things that look like images are not really images and do not have URLs at all.
 
 ### Image in the wrong place?
 
-If the image is not on a secure public website, then you must place it on a secure public website before you can use it in 7 Cups. For example, you will have to do this if the image is on your own device or in your private blog.
+If the image is not on a secure (https) public website, then you must place it on a secure public website before you can use it in 7 Cups. For example, you will have to do this if the image is on your own device or in your private blog.
 
 Many people use [imgur](https://imgur.com) for this. Ensure that you are *not* signed in to imgur. Press the New Post button, then copy the image to imgur using any of the techniques described above. When the image is on imgur, use any of the techniques described above to copy it into a post on 7 Cups.
 
-Instead of imgur, you can use any kind of cloud storage that allows anonymous public access to images.
+Instead of imgur, you can use any kind of secure (https) cloud storage that allows anonymous public access to images.
 
 ### Why a secure public website?
 
