@@ -81,7 +81,7 @@ If you don't end up with an image, only a URL like `https://classroomclipart.com
 
 Some images on websites can't be dragged, and can't be copied. For example, profile images at 7 Cups are like this. Here's my profile image:
 
-<div style="width: 100px; height: 100px; border-radius: 50px; background: url(//7cupstearesources.s3.amazonaws.com/listenerImages/lGVjdnyYjpedlLBpVlqTxg!!.jpg) no-repeat top left / 100px 100px"></div>
+<div style="width: 100px; height: 100px; border-radius: 50px; margin-bottom: 1em; background: url(//7cupstearesources.s3.amazonaws.com/listenerImages/lGVjdnyYjpedlLBpVlqTxg!!.jpg) no-repeat top left / 100px 100px"></div>
 
 Depending on your web browser, you might be able to right-click the image and choose Inspect. This reveals the images's URL embedded in other code. You can copy the URL alone and use it as above.
 
