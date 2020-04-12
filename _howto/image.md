@@ -136,7 +136,7 @@ And some things that look like images are not really images and do not have URLs
   margin: 0 auto; position: relative; width: 200px; height: 200px;
   }
 #text {
-  font-size: 64px; font-weight: bold; letter-spacing: -6px; color: #acf;
+  font-size: 64px; font-weight: bold; letter-spacing: -2px; color: #acf;
   animation: 12s linear infinite rotate;
   }
 svg {float: left;}
