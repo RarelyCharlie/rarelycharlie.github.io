@@ -133,7 +133,7 @@ And some things that look like images are not really images and do not have URLs
 }
 #demo {
   display: flex; align-items: center; justify-content: center;
-  margin: 0 auto; position: relative; width: 200px; height: 200px;
+  margin: 0 auto; position: relative; left: 40px; width: 200px; height: 200px;
   }
 #text {
   font-size: 64px; font-weight: bold; letter-spacing: -2px; color: #acf;
