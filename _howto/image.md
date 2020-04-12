@@ -101,43 +101,38 @@ If the URL still doesn't work, it's sometimes because the website doesn't allow 
 And some things that look like images are not really images and do not have URLs at all. For example, this picture by [Brian Lukis](https://www1.plurib.us/1shot/2008/anchorage/) and the animated text beside it are not images. There are no URLs for them and you cannot copy them into posts:
 <style>
 @keyframes rotate {
-  from {
-    transform: rotateY(0turn) rotateZ(0turn);
-    ztext-shadow: 0 0 6px #00f;
-    }
-    
-   5% {
-    transform: rotateY(0turn) rotateZ(0turn);
-    ztext-shadow: 0 0 6px #00f;
-    }
-
-  40% {
-    transform: rotateY(2turn) rotateZ(0turn);
-    ztext-shadow: 0 0 6px #0f0;
-    }
-    
-  60% {
-    transform: rotateY(2turn) rotateZ(1turn);
-    ztext-shadow: 0 0 6px #f00;
-    }
-    
-  95% {
-    transform: rotateY(0turn) rotateZ(0turn);
-    ztext-shadow: 0 0 6px #00f;
-    }
-    
-  to {
-    transform: rotateY(0turn) rotateZ(0turn);
-    ztext-shadow: 0 0 6px #00f;
-    }
-}
+ from {transform: rotateY(0turn) rotateZ(0turn);}
+   2% {transform: rotateY(0turn) rotateZ(0turn);}
+  26% {transform: rotateY(1turn) rotateZ(.5turn);}
+  50% {transform: rotateY(0turn) rotateZ(1turn);}
+  74% {transform: rotateY(1turn) rotateZ(.5turn);}
+  98% {transform: rotateY(0turn) rotateZ(0turn);}
+   to {transform: rotateY(0turn) rotateZ(0turn);}
+  }
+@keyframes back {
+ from {color: #acf;}
+   2% {color: #acf;}
+   8% {color: #88a;}
+  20% {color: #acf;}
+  32% {color: #88a;}
+  44% {color: #acf;}
+  56% {color: #88a;}
+  68% {color: #acf;}
+  80% {color: #88a;}
+  92% {color: #acf;}
+  98% {color: #acf;}
+   to {color: #acf;}
+  }
 #demo {
   display: flex; align-items: center; justify-content: center;
   position: relative; left: 40px; width: 200px; height: 200px;
   }
 #text {
   font-size: 64px; font-weight: bold; letter-spacing: -2px; color: #acf;
-  animation: 12s linear infinite rotate;
+  animation-name: rotate, back;
+  animation-timing-function: linear, step-end;
+  animation-duration: 24s;
+  animation-iteration-count: infinite;
   }
 svg {float: left;}
 </style>
