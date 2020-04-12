@@ -99,8 +99,53 @@ However, some URLs obtained in this way do not work.
 If the URL still doesn't work, it's sometimes because the website doesn't allow its images to be reused by other websites. 
 
 And some things that look like images are not really images and do not have URLs at all. For example, this picture by [Brian Lukis](https://www1.plurib.us/1shot/2008/anchorage/) is not an image, and what you're seeing here in the page you're reading now does not have a URL:
+<style>
+@keyframes rotate {
+  from {
+    transform: rotateY(0turn) rotateZ(0turn);
+    ztext-shadow: 0 0 6px #00f;
+    }
+    
+   5% {
+    transform: rotateY(0turn) rotateZ(0turn);
+    ztext-shadow: 0 0 6px #00f;
+    }
 
+  40% {
+    transform: rotateY(2turn) rotateZ(0turn);
+    ztext-shadow: 0 0 6px #0f0;
+    }
+    
+  60% {
+    transform: rotateY(2turn) rotateZ(1turn);
+    ztext-shadow: 0 0 6px #f00;
+    }
+    
+  95% {
+    transform: rotateY(0turn) rotateZ(0turn);
+    ztext-shadow: 0 0 6px #00f;
+    }
+    
+  to {
+    transform: rotateY(0turn) rotateZ(0turn);
+    ztext-shadow: 0 0 6px #00f;
+    }
+}
+
+#demo {
+  display: flex; align-items: center; justify-content: center;
+  margin: 0 auto; position: relative; width: 200px; height: 200px;
+  }
+
+#text {
+  font-size: 64px; font-weight: bold; letter-spacing: -6px; color: #acf;
+  animation: 12s linear infinite rotate;
+  }
+</style>
 {% include anchorage.svg %}
+<div id="demo">
+<div id="text">7&nbsp;Cups</div>
+</div>
 
 ### Image in the wrong place?
 
