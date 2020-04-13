@@ -98,7 +98,7 @@ However, some URLs obtained in this way do not work.
 ### URL still doesn't work?
 If the URL still doesn't work, it's sometimes because the website doesn't allow its images to be reused by other websites. 
 
-And some things that look like images are not really images and do not have URLs at all. For example, this picture by [Brian Lukis](https://www1.plurib.us/1shot/2008/anchorage/) and the animated text beside it are not images. There are no URLs for them and you cannot copy them into posts:
+And some things that look like images are not really images and do not have URLs at all. For example, this picture by [Brian Lukis](https://www1.plurib.us/1shot/2008/anchorage/) and the animated text beside it are not images. The page you are reading now does not use URLs to display them, and therefore you cannot copy them into posts:
 <style>
 @keyframes rotate {
  from {transform: rotateY(0turn) rotateZ(0turn);}
