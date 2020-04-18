@@ -3,7 +3,7 @@ title: Transfer a chat to another listener
 layout: howto
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-This unofficial guide is for listeners, and also for members who are interestd in how things work at 7 Cups.
+This unofficial guide is for listeners, and also for members who are interested in how things work at 7 Cups.
 
 If you're a listener and you haven't already done so, take a few minutes to list the topics of conversation
 that lie outside your personal boundaries. You could write the list in your
@@ -22,7 +22,7 @@ Unfortunately 7 Cups' chat system does not directly support transferring chats, 
 1. Tell the member that you are unable to chat about this subject.
 2. Tell the member that another listener might be available.
 3. If the member agrees, go to the Listener Support Room (the question mark button 
-<span style="display: inline-block; width: 1.2em; height: 1.2em; text-align: center; border: 1px solid #555; border-radius: .6em; color: #555; font-weight: bold;">?</span> 
+<span style="display: inline-block; width: 1.2em; height: 1.2em; text-align: center; border: 1px solid #555; border-radius: .6em; color: #555; font-weight: bold;" title="Get help in listener support room">?</span> 
 at the top right of the chat).
 4. In five words or less, tell the room why you need to hand over the chat. 
 Do not share any more details of the chat, not even if asked.
