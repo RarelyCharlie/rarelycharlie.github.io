@@ -419,9 +419,9 @@ In the video, a patient explains:
 
 # The chat censor
 
-Every message in every chat and chatroom at 7 Cups is monitored by software known as the censor. The censor blocks entire messages that contain certain phrases that could upset some people. These phrases include some that relate to suicide.
+Every message in every chat and chatroom, and every forum post, at 7 Cups is monitored by software known as the censor. The censor blocks entire messages and posts that contain certain phrases that could upset some people. These phrases include some that relate to suicide.
 
-In chatrooms, the censor also blocks certain individual words. In this case the words are replaced by asterisks, but the censor does not block the entire message. The blocked words also include some that relate to suicide.
+In chats and chatrooms, the censor also blocks certain individual words. In this case the words are replaced by asterisks, but the censor does not block the entire message. The blocked words also include some that relate to suicide.
 
 ### Consequences of censorship
 
