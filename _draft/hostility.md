@@ -6,7 +6,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 # Part I
 {:.part}
 
-<div style="font-size: 24px; text-align: center; letter-spacing: 1px; padding: 1ex; margin: 0 0 1em -1ex; width: 16em; margin: 0 auto; border: 1px solid #a00; background: #fee;">UNPUBLISHED DRAFT</div>
+<div style="font-size: 24px; text-align: center; letter-spacing: 1px; padding: 1ex; margin: 0 auto 1em auto; width: 16em; border: 1px solid #a00; background: #fee;">UNPUBLISHED DRAFT</div>
 This guide is an unofficial training guide for listeners about chats with members who appear hostile.
 
 This is not a self-help guide for members. If you are not a listener you can still read this guide, but becoming a listener first and gaining some experience taking general requests is strongly recommended as a starting point.
