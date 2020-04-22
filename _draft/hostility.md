@@ -527,6 +527,9 @@ In a chat, a member doesn't quite know how you're going to respond to the things
 
 A typical task is telling the member something personal about yourself, such as your age. The member doesn't really need to know your age. The member needs to know that they can control you.
 
+|Member:|I need to know how old you are before I can chat to you.
+{:.chat}
+
 It is not part of your role as a listener to perform tasks for members, so you can't go along with being controlled. However, providing some reassurance that the member can relate to you as a human being is also valuable, so it's often a matter of judgement.
 
 It is certainly OK to give members personal information that's already in your profile or in your 7 Cups diary (if you have one). For other personal information it's useful if you can decide in advance what you're willing to disclose and what you want to keep hidden. Never provide information that could identify you or allow you to be contacted outside 7 Cups.
