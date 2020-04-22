@@ -428,7 +428,7 @@ It's pointless reflecting the imaginary threat. Doing that would make it seem mo
 
 It's also important not to get into a kind of role-playing game in which the member plays oppressor and you play victim, not even if you enjoy games of that kind in other circumstances. Playing games is not what 7 Cups is for.
 
-###Why members appear hostile
+### Why members appear hostile
 Members can appear hostile for a variety of reasons. The following sections will describe some of the common ones.
 
 Listeners cannot play at being therapists, diagnose mental illness, or make judgements about members' motives, so this guide must not be used to try and diagnose or treat any member.
