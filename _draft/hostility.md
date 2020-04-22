@@ -7,7 +7,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 # Part I
 {:.part}
 
-This guide is an unofficial training guide for listeners about chats with members who appear hostile.
+This is an unofficial training guide for listeners about chats with members who appear hostile.
 
 This is not a self-help guide for members. If you are not a listener you can still read this guide, but becoming a listener first and gaining some experience taking general requests is strongly recommended as a starting point.
 
@@ -23,7 +23,7 @@ To navigate back to a section you have completed, use the little square links al
 
 *Parts of this guide describe good practice in the opinion of the author, but are not necessarily consistent with other guidance at 7 Cups.*
 
-![decoration](/assets/guide/hostile/decow0.png){:.decow2}
+![decoration](/assets/hostile/decow0.png){:.decow2}
 
 *The comic strip characters are [Mimi and Eunice](http://mimiandeunice.com/)<br/>adapted from originals ♡ CC-BY-SA Nina Paley.*
 {:style="text-align: center;"}
@@ -46,7 +46,7 @@ The goals of this guide are to help ensure that, in the context of chats with me
 
 Some of the early sections of this guide overlap considerably with other guides, because they contain important information that underpins the later sections.
 
-Part I of this guide outlines general principles, and Part II is about applying the princuiples in particular cases.
+Part I of this guide outlines general principles, and Part II is about applying the princuiples in some particular cases.
 
 The next section is a reminder about the purpose of 7 Cups.
 
@@ -58,15 +58,17 @@ The next section is a reminder about the purpose of 7 Cups.
 >Our Goal: We are living in a world with an immense love deficit, which means that none of us is receiving the love we need to reach our true potential, to truly thrive. Our goal is to build a support system, a web, that can hold every member of our world. We believe that we can fill that love-gap for every person in the world, either because they are an active member of our community or because they are touched personally by someone who has been empowered by 7 Cups of Tea.
 
 from [Our Mission](https://www.7cups.com/forum/GlensNook_84/OurVisionforaBetterWorld_334/OurMission_18219/1/)
+{:.right}
 
 7 Cups has values that describe how we relate to people. They have since been altered, so they now make less sense, but our original values included:
 
 >We do not judge or look down on people. We recognize that people make sense in the larger context or story of their lives. Sometimes it can seem like people are making choices that do not make sense, but this is likely because we do not have all of the details. We understand that people are complicated and that life is not simple or easy.
 
 from [Our Key Values](https://web.archive.org/web/20170710164036/https://www.7cups.com/about/values.php) (archived)
+{:.right}
 
 ### Limitations
-However, 7 Cups imposes general limitations on the emotional support its listeners provide. If a member clearly says they are actively and seriously harming themselves or someone else, refer the member to 7 Cups' Crisis page (`[7cups.com/crisis](https://www.7cups.com/crisis)`). It is generally felt at 7 Cups that you cannot continue the chat when this happens.
+However, 7 Cups imposes general limitations on the emotional support its listeners provide. If a member clearly says they are actively and seriously harming themselves or someone else, refer the member to 7 Cups' Crisis page ([`7cups.com/crisis`](https://www.7cups.com/crisis)). It is generally felt at 7 Cups that you cannot continue the chat when this happens.
 
 It is important to be aware that the word “actively” means “taking action”. A thought or fantasy is not an action. Planning to take action is not the same as taking action. For more information on this, there is a spearate guide: [Harm](https://rarelycharlie.github.io/guide/harm)
 
@@ -78,6 +80,7 @@ Even so, if you become very uncomfortable with a chat because it appears hostile
 
 After the quiz, the next section is a further reminder about caring for yourself.
 
+- Mark each statement true or false:
 - You can only attempt this quiz three times.# You can attempt all the quizzes as many times as you need.
 - At 7 Cups there are no limitations on what members can chat about.# At 7 Cups members cannot chat about seriously harming themselves or other people.
 - The word "actively" means making definite plans to do something.# Actively means taking action.
@@ -130,6 +133,7 @@ It's OK to take a break from 1-to-1 chats but continue to be involved at 7 Cups 
 
 After the quiz, the next section is a reminder about active listening.
 
+- Mark each statement true or false:
 - Listeners should be clear about their personal boundaries.#Listeners are not required to take chats that violate their boundaries.
 - Listeners must not chat to members about any hostile thoughts that members might have.# It's OK for listeners to be willing to chat about any topic without restriction.
 - Listeners must never continue a chat if they become uncomfortable.# It's OK to be willing to chat with a member when the chat makes you uncomfortable.
@@ -178,6 +182,7 @@ For example, if a member appears hostile because of a threat, repeat back the fe
 
 After the quiz, the next section looks at 7 Cups's chat system.
 
+- Mark each statement true or false:
 - Using active listening ensures that the advice you give a member is correct for that member's individual circumstances.# Listeners do not give advice.
 - Listeners must solve members' problems in a sympathetic and collaborative way so that members do not become emotional.# Listeners must not try to solve problems.
 - Good listeners know how to move conversations on, and they avoid repeating what a member has just said.# Listeners often repeat back to the person the facts that they have just shared.
@@ -250,6 +255,7 @@ No one really knows why there are four different ways to do the same thing.
 
 After the quiz, the next section explores hostile language.
 
+- Mark each statement true or false:
 - Listeners should be clear about their personal boundaries.#Listeners are not required to take chats that violate their boundaries.
 - A member is automatically notified when a listener reads their message.# Members do not know that you have read any message they sent, unless you choose to respond.
 - Listeners can temporarily hide the chats in their chat list.#Hidden chats reappear when another message arrives.
@@ -312,6 +318,7 @@ The lesson from this is that you can read the message and get a sense of what it
 
 After the quiz, the next section looks at the chat censor.
 
+- Mark each statement true or false:
 - A listener who receives a hostile message can record it as a screenshot.#This is the only recommended way to record the evidence.
 - A listener who is logged out can never get hostile messages.# Members can send unexpected messages anyway.
 - Listeners should have personal boundaries.#Listeners should think carefully in advance about their personal boundaries.
@@ -373,6 +380,7 @@ There's a form you can use to suggest updates to the censor: [Censor Updates](ht
 
 After the quiz, Part II of this guide provides examples why members might appear hostile.
 
+- Mark each statement true or false:
 - Some listeners never set their status to Online.#They do this so that they never get personal requests.
 - Members you have never chatted to before can send you unexpected messages.#Any member can send you unexpected messages.
 - Members who chat to you regularly can send you unexpected messages.#Any member can send you unexpected messages.
@@ -428,6 +436,7 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section considers social cues.
 
+- Mark each statement true or false:
 - Experienced listeners can always judge whether a member's hostility is real.# Listeners cannot judge.
 - When a member appears to be threatening, there is no real-world threat.# o one knows who you are, so you cannot really be under threat.
 - What members say in chats is an indication of their state of mind.#Messages from members reveal their state of mind, which listeners then reflect back.
@@ -488,6 +497,7 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section describes anxious members.
 
+- Mark each statement true or false:
 - Listeners can make decisions in advance about the kinds of chats they are personally willing to take.#Doing this is recommended.
 - Listeners can hide chats from members they don't intend to respond to.#Listeners are not obliged to respond to unexpected messages from unknown members, and they can temporarily hide those chats.
 - Members who use words and abbreviations their listener doesn't understand must be reported.# Listeners must simply accept that members use language in different ways.
@@ -532,6 +542,7 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section describes members who have been abused.
 
+- Mark each statement true or false:
 - It's important to obey members even if it makes you feel very uncomfortable, because a member might be suffering from anxiety.# Obeying members is not part of a listener's role. If you feel very uncomfortable, transfer the chat to another listener.
 - 7 Cups very strongly encourages you to care for yourself as a priority at all times.#Self care is more important than any individual member. Other listeners can support the member.
 - When a member becomes unresponsive, it might be because the censor is blocking their messages.#The censor blocks some messages.
@@ -577,6 +588,7 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section discusses fantasies.
 
+- Mark each statement true or false:
 - Listeners can decide there are some topics they will not chat with members about.#It's recommended that you decide in advance which topics you cannot chat about.
 - Members who are frustrated sometimes say things that appear hostile.#Members feeling any negative emotion might express it in a waysthat appear hostile.
 - Listeners should always respond to messages from members they've chatted to in the past who return unexpectedly.#Responding to members' messages is expected when a previous chat restarts.
@@ -629,6 +641,7 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section is about delusions.
 
+- Mark each statement true or false:
 - At 7 Cups everything members say is true.# Members sometimes use 7 Cups to share fantasies, or say things that are not true for other reasons.
 - Sometimes members use chats to act out imaginary dramas.#Listeners can find themselves cast in a role.
 - When a members says something that cannot possibly be true, the member's feelings might be genuine.#Members sometimes express real feelings as fantasy.
@@ -686,6 +699,7 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section discusses stalkers.
 
+- Mark each statement true or false:
 - Psychosis is a symptom of mental illness.#There are several mental illnesses that can involve psychosis.
 - Sometimes members are not sure what is real.#For examples, members who experience psychosis might not be sure what's real.
 - Listeners must learn to diagnose psychosis accurately but with compassion, because members who experience psychosis need extra help.# Listeners do not diagnose.
@@ -739,6 +753,7 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section concludes this guide.
 
+- Mark each statement true or false:
 - Stalkers on 7 Cups often use multiple accounts.#7 Cups makes it easy for stakers to create new accounts.
 - Members who find their need for emotional support is not met sometimes give up and leave 7 Cups.#Sometimes they never return.
 - Members who find their need for emotional support is not met sometimes try again and again with other listeners.#Some members keep trying until they find a listener they feel supports them well.
@@ -767,4 +782,4 @@ Here is some further reading:
 
 - 
 
-![decoration](/assets/guide/hostile/decob0.png){:.decow2}
+![decoration](/assets/hostile/decob0.png){:.decow2}
