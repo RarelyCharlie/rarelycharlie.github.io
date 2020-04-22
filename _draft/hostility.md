@@ -215,7 +215,7 @@ Manage your status (in the website) by clicking on your own profile picture at t
 
 Your status is automatically set to Offline when you are logged out, but it's reset to what it was when you log back in.
 
-There's effectively no difference between offline and busy. Don't set your status to Online unless you really are prepared to accept personal requests.
+There's effectively no difference between Offline and Busy. Don't set your status to Online unless you really are prepared to accept personal requests.
 
 It's OK to set your status to Offline and never change it. You can still chat to members and do everything else.
 
@@ -226,7 +226,7 @@ If you feel you are at risk from members who appear hostile, never set your stat
 ### Unexpected messages
 On the page where your growth path is shown, a chat list shows the members you have chatted to recently.
 
-If a member you've never chatted to before sends you an unexpected message while your status is offline or busy, a chat starts automatically and the member appears in your chat list. You can go into the chat to read the message but you are not obliged to respond, because you were offline or busy when the member sent the message. The member will not know you read the message.
+If a member you've never chatted to before sends you an unexpected message while your status is Offline or Busy, a chat starts automatically and the member appears in your chat list. You can go into the chat to read the message but you are not obliged to respond, because you were Offline or Busy when the member sent the message. The member will not know you read the message.
 
 If you decide not to respond to an unexpected message, you can hide the chat by clicking its × symbol in your chat list. If the member sends another message the chat will reappear, and you can hide it again or block the member.
 
@@ -263,7 +263,7 @@ After the quiz, the next section explores hostile language.
 - A member is automatically notified when a listener reads their message.# Members do not know that you have read any message they sent, unless you choose to respond.
 - Listeners can temporarily hide the chats in their chat list.#Hidden chats reappear when another message arrives.
 - A listener who gets an unexpected message from a member they have never chatted to must respond to the message as soon as possible.# There is no obligation to respond, because the listener must have been Offline or Busy.
-- A listener who gets an unexpected message
+- Listeners must never use screenshots or any other means of recording chats, because confidentiality is required at all times.# Screenshots are allowed as evidence to send to 7 Cups, even though they are not completely secure.
 - A listener whose status is Busy will never get personal requests.#Busy status prevents personal requests.
 - A listener whose status is Offline must change it to Online if they want to take any chats.# While Offline you can still chat to members and do everything else.
 - A listener whose status is Online should be prepared to accept personal requests.#That's what Online means.
