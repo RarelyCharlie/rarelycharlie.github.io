@@ -451,7 +451,7 @@ After the quiz, the next section considers social cues.
 - A listener who becomes very uncomfortable in a chat can transfer the chat to some other listener.#Listeners can always transfer chats that make them too uncomfortable.
 - A listener who is triggered by the things a member is saying must arrange to see a psychiatrist as soon as possible.# Being triggered is a normal part of life.
 - A listener must never simply repeat back any emotions a member expresses, but should always try to offer a compassionate and caring solution to the problem.# Listeners should repeat back emotions, and listeners do not solve problems.
-- An automatic chat censor accurately detects hostile messages in order to protect vulnerable listeners.# The chat censor is inaccurate and provides no protection.
+- An automatic chat censor accurately detects hostile messages and protects vulnerable listeners.# The chat censor is inaccurate and provides no protection.
 {:.quiz}
 
 
