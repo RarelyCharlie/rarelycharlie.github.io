@@ -553,7 +553,7 @@ After the quiz, the next section describes members who have been abused.
 - 7 Cups very strongly encourages you to care for yourself as a priority at all times.#Self care is more important than any individual member. Other listeners can support the member.
 - When a member becomes unresponsive, it might be because the censor is blocking their messages.#The censor blocks some messages.
 - Members have a right to know everything about their listener, because for some members it's an essential part of emotional support.# Decide in advance what you're willing to disclose.
-- Listeners must limit the personal information they provide to members.# ever provide information that could identify you or allow you to be contacted outside 7 Cups.
+- Listeners must limit the personal information they provide to members.#Never provide information that could identify you or allow you to be contacted outside 7 Cups.
 - Listeners must accurately communicate their own feelings to members.# Listeners must reflect members' feelings, not their own.
 - Listeners must avoid causing members any anxiety.# Some members have anxiety because of a mental disorder, and anything listners do might cause them anxiety.
 - Listeners must avoid trying to provide therapy for members.#Therapy is not what listeners do.
@@ -570,15 +570,13 @@ Some members are suffering abuse, or they have suffered abuse in the past. They 
 
 But the member might not be able to express their hostility directly. This might be because they fear retaliation, or because the abuse was in the past and the abuser is no longer available.
 
-In some cases an unconscious psychological mechanism called displacement can become activated in a situation like this. Displacement is when someone is prevented from expressing how they really feel towards someone, so instead they act out the behaviour towards someone else.
+In some cases an unconscious psychological mechanism called [*displacement*](http://changingminds.org/explanations/behaviors/coping/displacement.htm) can become activated in a situation like this. Displacement is when someone is prevented from expressing how they really feel towards someone, so instead they act out the behaviour towards someone else.
 
 Displacement was first described by the psychoanalyst Anna Freud in her 1936 book *The Ego and the Mechanisms of Defence*.
 
-http://changingminds.org/explanations/behaviors/coping/displacement.htm
+A typical example is when a man is bullied by his boss, but he can't fight back because the boss might fire him. So he goes home and starts a fight with his wife. She can't fight back because she fears her husband's anger, so she shouts at their son. The boy can't argue with his mother so he kicks the dog. None of them has any awareness of the displacement mechanism.
 
-A typical example is when a man is bullied by his boss, but he can't fight back because the boss might fire him. So he goes home and starts a fight with his wife. She can't fight back because she fears her husband's anger, so she shouts at ther son. The boy can't argue with his mother so he kicks the dog. None of them has any awareness of the displacement mechanism.
-
-Displacement is unconscious. The abused member who displaces their hostility on to a listener is not aware they are doing it. Their hostility to the listener feels real and justified to them.
+Because displacement is unconscious, the abused member who displaces their hostility on to a listener is not aware they are doing it. Their hostility to the listener feels real and justified to them.
 
 For example, a member has a terrible boss, and she wishes she could report him, but she might lose her job. At 7 Cups she unconsciously displaces her feelings. As usual, a listener must try to reflect the member's feelings, not the listener's own feelings:
 
@@ -603,7 +601,7 @@ After the quiz, the next section discusses fantasies.
 - When a listener judges that a member is being abused, the listener should try to come up with a solution that takes everyone's needs into account.# Listeners do not judge. Listeners do not try to solve problems.
 - Abusers always welcome constructive feedback from the people they're abusing.# Abusers don't usually like feedback of any kind.
 - Members are not aware of psychological mechanisms such as displacement that can make them feel hostile to listeners.#Dispacement is unconscious.
-- When a member is hostile towards a listener, it's always the listener's fault, because all members deserve to be supported.# Members almost always appear hostile for other reasons.
+- When a member is hostile towards a listener it's always the listener's fault, because all members deserve to be supported.# Members almost always appear hostile for other reasons.
 - Displacement can cause hostility towards one person to be expressed towards a different person.#That's one of the ways displacement can work.
 - Displacement is an unconscious mechanism that researchers discovered very recently.# It was first described in 1936.
 - Members who have been abused by someone might express hostility.#Being abused can make people feel hostility.
@@ -627,13 +625,15 @@ In general, if at all possible, it is better for members if they can share their
 
 This is true even when the member's story is inconsistent or completely unbelieveable. The member might not be a skilled story-teller, but the emotional content of the chat is likey to be true in ways that the member really does need to share with someone.
 
-However, a listener should not generally accept a role in a members drama. It is better to remain detached, to observe the drama, and to reflect the emotional content without getting drawn in to the action.
+However, a listener should not generally accept a role in a member's drama. It is better to remain detached, to observe the drama, and to reflect the emotional content without getting drawn in to the action.
 
 |Member:|My dad is the captain of a merchant ship. He's away a lot because he travels such long distances. He's been at sea for 10 years. No contact with land for all that time. That's the kind of life I want to live one day. To me you are like the radio operator on the ship, and you can get messages to the captain.
 |Listener:|You want to live that life, with no contact for years and years like your dad. Do you mean there's something you want to tell him?
 {:.chat}
 
 In this chat the member assigns an absurd role to the listener, but the listener doesn't either accept the role or challenge the absurdity. Instead, the listener tries to reflect the member's feelings.
+
+### Porn
 
 A lot of published commercial fantasy, and amateur fantasy too, is porn, and a proportion is extreme and violent. When the listener's role in a fantasy is a victim role, the fantasy will appear hostile:
 
@@ -650,7 +650,7 @@ After the quiz, the next section is about delusions.
 - Mark each statement true or false:
 - At 7 Cups everything members say is true.# Members sometimes use 7 Cups to share fantasies, or say things that are not true for other reasons.
 - Sometimes members use chats to act out imaginary dramas.#Listeners can find themselves cast in a role.
-- When a members says something that cannot possibly be true, the member's feelings might be genuine.#Members sometimes express real feelings as fantasy.
+- When a member says something that cannot possibly be true, the member's feelings might be genuine.#Members sometimes express real feelings as fantasy.
 - 7 Cups is here to provide emotional support, not to judge the truth of what members say.#Emotional support is the purpose of 7 Cups, and listener cannot judge.
 - Listeners must be careful to judge whether what members tell them is true of false.# Listeners do not judge.
 - When a member is fantasizing in a chat, the listener must be particularly careful to give practical advice, because this will help the member to stop fantasizing.# Listeners do not give advice.
@@ -660,7 +660,7 @@ After the quiz, the next section is about delusions.
 - Some members want listeners to play victim while they play oppressor.#Members have all kinds of fantasies, but listeners should remain detached.
 - Listeners must obey members who have a strong need to be obeyed, because that is the best way to provide support.# Listeners provide emotional support, not obedience.
 - Members sometimes become hostile to listeners who don't obey them.#TMembers can react by becoming hostile, although there is no real-life threat.
-- A listener who has a therapist can ask their therapist to analyse the listener's chats and suggest ways the listener can improve.# Chats are confidential.
+- A listener who has a therapist can ask their therapist to analyse the listener's most difficult chats and suggest ways the listener can improve.# Chats are confidential.
 - Planning to take some harmful action is effectively the same as taking action, because harm will always be the end result,# Planning is just thoughts.
 {:.quiz}
 
