@@ -754,6 +754,7 @@ So the suggested things to try if you get nothing but hostility in a chat are:
 ||*\[Listener doesn't respond.\]*
 |Member account #3:|F*ck you.
 ||*\[Listener doesn't respond.\]*
+{:.chat}
 
 Remember, if you become very uncomfortable with a chat for any reason, it is strongly recommended that you transfer the member to another listener, or block the member, or both.
 
