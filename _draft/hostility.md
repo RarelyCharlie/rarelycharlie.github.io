@@ -676,7 +676,7 @@ And for example, in post-traumatic stress disorder (PTSD) the member might have 
 
 These are only two examples. Altered states of consciousness, in which a member is not experiencing reality the way the rest of us do, can have many causes and it is not for a listener to make judgements about what the cause might be. Sometimes they are episodic, and the member returns to normal between episodes. Sometimes they are a permanent disability.
 
-For a listener, the problem is that the member might incorprate the listener in some role within the member's altered reality. The effect can be the same as when a member displaces hostility or tries to involve you in a fantasy—as the listener you experience a hostile chat, and the member is unaware that you are not the person their hostility is really directed at.
+For a listener, the problem is that the member might incorporate the listener in some role within the member's altered reality. The effect can be the same as when a member displaces hostility or tries to involve you in a fantasy—as the listener you experience a hostile chat, and the member is unaware that you are not the person their hostility is really directed at.
 
 Sometimes members are aware that they have delusions:
 
@@ -690,10 +690,10 @@ Sometimes they are unaware:
 
 Sometimes it's not so clear:
 
-|Member:|My uncle is like a poisonous snake. He tries to make me do things that are wrong.
+|Member:|My uncle is like a poisonous snake. He tries to make me do things that are evil.
 {:.chat}
 
-Listeners can provide emotional support without validating perceptions that may be delusional, but listeners cannot judge what's real and what's not—even the member often can't judge:
+Listeners can provide emotional support without validating perceptions that may be delusional, but listeners cannot judge what's real and what's not—even the member often cannot judge:
 
 |Member:|I know you and I know what you do. You are evil but I'm strong and I'm not frightened of you.
 |Listener:|You have a sense of evil but you're not afraid because you're strong.
