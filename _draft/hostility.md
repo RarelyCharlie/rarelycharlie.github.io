@@ -3,10 +3,9 @@ title: Hostility
 layout: guide
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-# Part I
+#Part I
 {:.part}
 
-<div style="font-size: 24px; text-align: center; letter-spacing: 1px; padding: 1ex; margin: 0 auto 1em auto; width: 16em; border: 1px solid #a00; background: #fee;">UNPUBLISHED DRAFT</div>
 This guide is an unofficial training guide for listeners about chats with members who appear hostile.
 
 This is not a self-help guide for members. If you are not a listener you can still read this guide, but becoming a listener first and gaining some experience taking general requests is strongly recommended as a starting point.
@@ -16,6 +15,17 @@ The guide is in many short sections. Most sections have a quiz at the end. You m
 To navigate back to a section you have completed, use the little square links along the top of each page.
 
 **Trigger warning**: Research shows that trigger warnings have no value. Note, however, that if you continue with this guide you will come across fictitious examples of chats with members who appear hostile, possibly including examples of apparently political, sexual, racist, threatening, bullying and other extreme statements. If you have reason to be certain this is going to upset you, don't continue.
+
+### Contents {#toc}
+
+*Author: [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).*
+
+*Parts of this guide describe good practice in the opinion of the author, but are not necessarily consistent with other guidance at 7 Cups.*
+
+![decoration](/assets/guide/hostile/decow0.png){:.decow2}
+
+*The comic strip characters are [Mimi and Eunice](http://mimiandeunice.com/)<br/>adapted from originals ♡ CC-BY-SA Nina Paley.*
+{:style="text-align: center;"}
 
 # What this guide is for
 
@@ -67,18 +77,18 @@ Even so, if you become very uncomfortable with a chat because it appears hostile
 
 After the quiz, the next section is a further reminder about caring for yourself.
 
-- You can only attempt this quiz three times.#NYou can attempt all the quizzes as many times as you need.
-- At 7 Cups there are no limitations on what members can chat about.#NAt 7 Cups members cannot chat about seriously harming themselves or other people.
-- The word "actively" means making definite plans to do something.#NActively means taking action.
-- 7 Cups' goal is to meet everyone's need for emotional support.#YIt's to support everyone to thrive and reach their potential.
-- 7 Cups goal is to support all those people in the world who meet the high standards of our community.#NOur goal is to support every person in the world.
-- This guide is for members who need to learn to be less hostile.#NThis guide is for listeners.
-- This guide is in four parts.#NIt's in two parts.
-- 7 Cups'values have changed since they were first published.#YThey were rewritten and are now completely different.
-- Members who appear hostile are expressing hostile thoughts.#YTheir thoughts are hostile, so they appear hostile.
-- Members who appear hostile will eventually become violent.#NExpressing hostile thoughts is not a real-world threat.
-- Listeners can transfer chats to other listeners.#YListeners can transfer any chat that makes them very uncomfortable.
-- Listeners are allowed to block members.#YA listener can block a member if the listener becomes very uncomfortable in a chat.
+- You can only attempt this quiz three times.# You can attempt all the quizzes as many times as you need.
+- At 7 Cups there are no limitations on what members can chat about.# At 7 Cups members cannot chat about seriously harming themselves or other people.
+- The word "actively" means making definite plans to do something.# Actively means taking action.
+- 7 Cups' goal is to meet everyone's need for emotional support.#It's to support everyone to thrive and reach their potential.
+- 7 Cups goal is to support all those people in the world who meet the high standards of our community.# Our goal is to support every person in the world.
+- This guide is for members who need to learn to be less hostile.# This guide is for listeners.
+- This guide is in four parts.# It's in two parts.
+- 7 Cups'values have changed since they were first published.#They were rewritten and are now completely different.
+- Members who appear hostile are expressing hostile thoughts.#Their thoughts are hostile, so they appear hostile.
+- Members who appear hostile will eventually become violent.# Expressing hostile thoughts is not a real-world threat.
+- Listeners can transfer chats to other listeners.#Listeners can transfer any chat that makes them very uncomfortable.
+- Listeners are allowed to block members.#A listener can block a member if the listener becomes very uncomfortable in a chat.
 {:.quiz}
 
 
@@ -119,18 +129,18 @@ It's OK to take a break from 1-to-1 chats but continue to be involved at 7 Cups 
 
 After the quiz, the next section is a reminder about active listening.
 
-- Listeners should be clear about their personal boundaries.#YListeners are not required to take chats that violate their boundaries.
-- Listeners must not chat to members about any hostile thoughts that members might have.#NIt's OK for listeners to be willing to chat about any topic without restriction.
-- Listeners must never continue a chat if they become uncomfortable.#NIt's OK to be willing to chat with a member when the chat makes you uncomfortable.
-- 7 Cups cups requires listeners to put members first at all time.#N7 Cups very strongly encourages listeners to care for themselves as a priority at all times.
-- Listeners can take notes and keep them secure at 7 Cups.#YListeners' notes at 7 Cups are secure.
-- A listener can transfer a chat to another listener.#YListeners whose personal boundaries do not allow them to continue a chat can transfer it.
-- Listeners must not tolerate any level of discomfort, because some members are mentally ill.#NListeners must expect a certain amount of discomfort when chatting to severely disturbed members.
-- One goal of this guide is to help listeners give a "green light" to members' desired behaviours.#NListeners must not give a "green light" to harmful behaviours.
-- Listeners must never block members, because at 7 Cups members are entitled to emotional support.#NListeners can block members they would feel very uncomfortable chatting to.
-- At 7 Cups we look down on people who cannot control their hostility.#NAt 7 Cups we do not look down on anyone. This was one of our original values.
-- Fantasies always end up being acted out in real life.#NFantasies are thoughts, not actions.
-- Listeners are not allowed to block members because members' emotional needs come first.#NListeners can block members who cause them to feel very uncomfortable.
+- Listeners should be clear about their personal boundaries.#Listeners are not required to take chats that violate their boundaries.
+- Listeners must not chat to members about any hostile thoughts that members might have.# It's OK for listeners to be willing to chat about any topic without restriction.
+- Listeners must never continue a chat if they become uncomfortable.# It's OK to be willing to chat with a member when the chat makes you uncomfortable.
+- 7 Cups cups requires listeners to put members first at all time.# 7 Cups very strongly encourages listeners to care for themselves as a priority at all times.
+- Listeners can take notes and keep them secure at 7 Cups.#Listeners' notes at 7 Cups are secure.
+- A listener can transfer a chat to another listener.#Listeners whose personal boundaries do not allow them to continue a chat can transfer it.
+- Listeners must not tolerate any level of discomfort, because some members are mentally ill.# Listeners must expect a certain amount of discomfort when chatting to severely disturbed members.
+- One goal of this guide is to help listeners give a "green light" to members' desired behaviours.# Listeners must not give a "green light" to harmful behaviours.
+- Listeners must never block members, because at 7 Cups members are entitled to emotional support.# Listeners can block members they would feel very uncomfortable chatting to.
+- At 7 Cups we look down on people who cannot control their hostility.# At 7 Cups we do not look down on anyone. This was one of our original values.
+- Fantasies always end up being acted out in real life.# Fantasies are thoughts, not actions.
+- Listeners are not allowed to block members because members' emotional needs come first.# Listeners can block members who cause them to feel very uncomfortable.
 {:.quiz}
 
 
@@ -167,18 +177,18 @@ For example, if a member appears hostile because of a threat, repeat back the fe
 
 After the quiz, the next section looks at 7 Cups's chat system.
 
-- Using active listening ensures that the advice you give a member is correct for that member's individual circumstances.#NListeners do not give advice.
-- Listeners must solve members' problems in a sympathetic and collaborative way so that members do not become emotional.#NListeners must not try to solve problems.
-- Good listeners know how to move conversations on, and they avoid repeating what a member has just said.#NListeners often repeat back to the person the facts that they have just shared.
-- When a member expresses emotions, a good listener repeats the emotions back to the member.#YListeners provide emotional support by reflecting members' emotions back to them.
-- Listeners can assume that members are having hostile thoughts if they use bad language.#NListeners should avoid making assumptions.
-- When a member is hostile towards a listener, the listener should discuss the member in the listener-only section of the forum, so that other listeners are warned.#NIt is important to not break confidentiality.
-- A good listener can provide comprehensive emotional support that is sufficient for any member's needs.#NSome members have needs that extend beyond listening.
-- Members at 7 Cups can seek help without being judged.#YListeners must not judge.
-- When a listener is triggered by a chat, it indicates the listener is mentally ill.#NBeing triggered is a normal part of life.
-- A listener's role is to supply members with positive emotions.#NListeners must not supply positive emotions.
-- A listener's role is to suppress negative emotions, in order to provide good support.#NListeners must not suppress negative emotions.
-- A listener must avoid neutralizing members' natural negative emotions.#YListeners provide emotional support by reflecting members' emotions back to them.
+- Using active listening ensures that the advice you give a member is correct for that member's individual circumstances.# Listeners do not give advice.
+- Listeners must solve members' problems in a sympathetic and collaborative way so that members do not become emotional.# Listeners must not try to solve problems.
+- Good listeners know how to move conversations on, and they avoid repeating what a member has just said.# Listeners often repeat back to the person the facts that they have just shared.
+- When a member expresses emotions, a good listener repeats the emotions back to the member.#Listeners provide emotional support by reflecting members' emotions back to them.
+- Listeners can assume that members are having hostile thoughts if they use bad language.# Listeners should avoid making assumptions.
+- When a member is hostile towards a listener, the listener should discuss the member in the listener-only section of the forum, so that other listeners are warned.# It is important to not break confidentiality.
+- A good listener can provide comprehensive emotional support that is sufficient for any member's needs.# Some members have needs that extend beyond listening.
+- Members at 7 Cups can seek help without being judged.#Listeners must not judge.
+- When a listener is triggered by a chat, it indicates the listener is mentally ill.# Being triggered is a normal part of life.
+- A listener's role is to supply members with positive emotions.# Listeners must not supply positive emotions.
+- A listener's role is to suppress negative emotions, in order to provide good support.# Listeners must not suppress negative emotions.
+- A listener must avoid neutralizing members' natural negative emotions.#Listeners provide emotional support by reflecting members' emotions back to them.
 {:.quiz}
 
 
@@ -229,22 +239,28 @@ You can use some other image sharing website if it allows anonymous uploads. Do 
 ### Reporting
 When you block or ban a member, the reason you provide is submitted as a report. There is no need to make a further report.
 
-To find 7 Cups' general reporting page, use the [Support & Feedback](https://help.7cups.com/) link at the bottom of most pages. To provide this link to someone in a chat, write: `help.7cups.com`
+There's a secondary report form here: [Report Form](https://docs.google.com/forms/d/e/1FAIpQLSffQk1RhknozmquuEYiE_fZDp2ynNz-VB4XXBbRrrKmV57V5w/viewform)
 
-The Submit a request link is at the top right of that page. You can submit a request to make any kind of report.
+To find 7 Cups' general reporting page, use the [Support & Feedback](https://help.7cups.com/) link at the bottom of most pages. To provide this link to someone in a chat, write: `help.7cups.com` The Submit a request link is at the top right of that page. You can submit a request to make any kind of report.
 
-- Listeners should be clear about their personal boundaries.#YListeners are not required to take chats that violate their boundaries.
-- A member is automatically notified when a listener reads their message.#NMembers do not know that you have read any message they sent, unless you choose to respond.
-- Listeners can temporarily hide the chats in their chat list.#YHidden chats reappear when another message arrives.
-- A listener who gets an unexpected message from a member they have never chatted to must respond to the message as soon as possible.#NThere is no obligation to respond, because the listener must have been Offline or Busy.
+And you can report a member by e-mail, from the address you use to log in to 7 Cups, to `community@7cups.com`
+
+No one really knows why there are four different ways to do the same thing.
+
+After the quiz, the next section explores hostile language.
+
+- Listeners should be clear about their personal boundaries.#Listeners are not required to take chats that violate their boundaries.
+- A member is automatically notified when a listener reads their message.# Members do not know that you have read any message they sent, unless you choose to respond.
+- Listeners can temporarily hide the chats in their chat list.#Hidden chats reappear when another message arrives.
+- A listener who gets an unexpected message from a member they have never chatted to must respond to the message as soon as possible.# There is no obligation to respond, because the listener must have been Offline or Busy.
 - A listener who gets an unexpected message
-- A listener whose status is Busy will never get personal requests.#YBusy status prevents personal requests.
-- A listener whose status is Offline must change it to Online if they want to take any chats.#NWhile Offline you can still chat to members and do everything else.
-- A listener whose status is Online should be prepared to accept personal requests.#YThat's what Online means.
-- A listener can use a screenshot as evidence of what happened in a chat.#YScreenshots are the only evidence 7 Cups uses.
-- Listeners can report members.#YListeners can submit a report when blocking or banning a member, or in other ways.
-- When a member chats to a listener, the member must be prepared to accept the listener's judgement of the situation.#YListeners must not judge.
-- Listeners can assume that when a member becomes hostile during a chat it must be the listener's fault.#NListeners should avoid making assumptions.
+- A listener whose status is Busy will never get personal requests.#Busy status prevents personal requests.
+- A listener whose status is Offline must change it to Online if they want to take any chats.# While Offline you can still chat to members and do everything else.
+- A listener whose status is Online should be prepared to accept personal requests.#That's what Online means.
+- A listener can use a screenshot as evidence of what happened in a chat.#Screenshots are the only evidence 7 Cups uses.
+- Listeners can report members.#Listeners can submit a report when blocking or banning a member, or in other ways.
+- When a member chats to a listener, the member must be prepared to accept the listener's judgement of the situation.#Listeners must not judge.
+- Listeners can assume that when a member becomes hostile during a chat it must be the listener's fault.# Listeners should avoid making assumptions.
 {:.quiz}
 
 
@@ -295,18 +311,18 @@ The lesson from this is that you can read the message and get a sense of what it
 
 After the quiz, the next section looks at the chat censor.
 
-- A listener who receives a hostile message can record it as a screenshot.#YThis is the only recommended way to record the evidence.
-- A listener who is logged out can never get hostile messages.#NMembers can send unexpected messages anyway.
-- Listeners should have personal boundaries.#YListeners should think carefully in advance about their personal boundaries.
-- Members who are triggered and become hostile should be referred to their local emergency services.#NBeing triggered is a normal part of life.
-- Listeners should be careful to care for themselves except when a hostile member urgently needs to be dealt with.#NListeners should care for themselves at all times.
-- When a member appears to be hostile, a listener should give carefully thought out advice on better ways to communicate.#NListeners do not give advice.
-- You must always block a member who uses a word like crap.#NOnly block a member if the chat makes you so very uncomfortable that you could never chat to them again.
-- As a listener you don't always have to take hostile words literally.#YYou can slide over hostile words to get a sense of the meaning.
-- Some words mean different things depending on the context.#YThe meanings of words can be very different in different contexts.
-- When a member sends a hostile message, you should follow your first instinct because considering it carefully is never useful.#NIt can be useful to consider hostile messages carefully.
-- When a member appears hostile, there is always a very real threat of violence.#NThere is no real-world threat.
-- Words you read create patterns of thought.#YThat's the way language works.
+- A listener who receives a hostile message can record it as a screenshot.#This is the only recommended way to record the evidence.
+- A listener who is logged out can never get hostile messages.# Members can send unexpected messages anyway.
+- Listeners should have personal boundaries.#Listeners should think carefully in advance about their personal boundaries.
+- Members who are triggered and become hostile should be referred to their local emergency services.# Being triggered is a normal part of life.
+- Listeners should be careful to care for themselves except when a hostile member urgently needs to be dealt with.# Listeners should care for themselves at all times.
+- When a member appears to be hostile, a listener should give carefully thought out advice on better ways to communicate.# Listeners do not give advice.
+- You must always block a member who uses a word like crap.# Only block a member if the chat makes you so very uncomfortable that you could never chat to them again.
+- As a listener you don't always have to take hostile words literally.#You can slide over hostile words to get a sense of the meaning.
+- Some words mean different things depending on the context.#The meanings of words can be very different in different contexts.
+- When a member sends a hostile message, you should follow your first instinct because considering it carefully is never useful.# It can be useful to consider hostile messages carefully.
+- When a member appears hostile, there is always a very real threat of violence.# There is no real-world threat.
+- Words you read create patterns of thought.#That's the way language works.
 {:.quiz}
 
 
@@ -356,22 +372,24 @@ There's a form you can use to suggest updates to the censor: [Censor Updates](ht
 
 After the quiz, Part II of this guide provides examples why members might appear hostile.
 
-- Some listeners never set their status to Online.#YThey do this so that they never get personal requests.
-- Members you have never chatted to before can send you unexpected messages.#YAny member can send you unexpected messages.
-- Members who chat to you regularly can send you unexpected messages.#YAny member can send you unexpected messages.
-- When your status is Busy you should accept personal requests if at all possible.#NWhen your status is Busy you cannot get personal requests.
-- It's important to warn other listeners about any member who appears hostile.#NIt is important to not break confidentiality.
-- Once you start a chat it is your responsibility alone.#NYou can transfer a chat to another listener if you become very uncomfortable.
-- 7 Cups exists because there is a great need in the world for effective problem-solving.#N7 Cups exists for emotional support.
-- The automatic chat censor notifies the listener each time a member's message is blocked.#NIt does not notify the listener.
-- Listeners can evade the automatic chat censor, but members have no way to evade it.#NBoth listenrs and members can evade it.
-- The automatic chat censor blocks some offensive words but not others.#YSome offensive words are not on its list.
-- The automatic chat censor protects listeners from all hostile messages that members try to send.#NMembers can still send hostile messages.
-- 7 Cups censors some words and phrases in chats.#YThat's what the automatic chat censor is for.
+- Some listeners never set their status to Online.#They do this so that they never get personal requests.
+- Members you have never chatted to before can send you unexpected messages.#Any member can send you unexpected messages.
+- Members who chat to you regularly can send you unexpected messages.#Any member can send you unexpected messages.
+- When your status is Busy you should accept personal requests if at all possible.# When your status is Busy you cannot get personal requests.
+- It's important to warn other listeners about any member who appears hostile.# It is important to not break confidentiality.
+- Once you start a chat it is your responsibility alone.# You can transfer a chat to another listener if you become very uncomfortable.
+- 7 Cups exists because there is a great need in the world for effective problem-solving.# 7 Cups exists for emotional support.
+- The automatic chat censor notifies the listener each time a member's message is blocked.# It does not notify the listener.
+- Listeners can evade the automatic chat censor, but members have no way to evade it.# Both listenrs and members can evade it.
+- The automatic chat censor blocks some offensive words but not others.#Some offensive words are not on its list.
+- The automatic chat censor protects listeners from all hostile messages that members try to send.# Members can still send hostile messages.
+- 7 Cups censors some words and phrases in chats.#That's what the automatic chat censor is for.
 {:.quiz}
 
 
 # Part II
+{:.part}
+
 Part II of this guide goes into more detail about the kind of members who appear hostile, with brief examples.
 
 
@@ -409,18 +427,18 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section considers social cues.
 
-- Experienced listeners can always judge whether a member's hostility is real.#NListeners cannot judge.
-- When a member appears to be threatening, there is no real-world threat.#YNo one knows who you are, so you cannot really be under threat.
-- What members say in chats is an indication of their state of mind.#YMessages from members reveal their state of mind, which listeners then reflect back.
-- Listeners must take all personal threats extremely seriously.#NThere is never any real-world threat.
-- Listeners must not validate members' hostile thoughts, because that would be like giving them a "green light".#YListeners should not make members' imaginary hostility seem real.
-- If a member wants to play the part of an oppresser, a listener must agree to play the victim in order to provide the member with good support.#NPlaying games is not what 7 Cups is for.
-- Experienced listeners can use the techniques of psychotherapy to judge members' mental states accurately.#NListeners must not play at being therapists, and they cannot judge members.
-- When a listener diagnosis psychosis in a member, it's important for the listener to tell the member immediately so they can get urgent psychiatric help.#NListeners cannot diagnose.
-- A listener who becomes very uncomfortable in a chat can transfer the chat to some other listener.#YListeners can always transfer chats that make them too uncomfortable.
-- A listener who is triggered by the things a member is saying must arrange to see a psychiatrist as soon as possible.#NBeing triggered is a normal part of life.
-- A listener must never simply repeat back any emotions a member expresses, but should always try to offer a compassionate and caring solution to the problem.#NListeners should repeat back emotions, and listeners do not solve problems.
-- An automatic chat censor accurately detects hostile messages in order to protect vulnerable listeners.#NThe chat censor is inaccurate and provides no protection.
+- Experienced listeners can always judge whether a member's hostility is real.# Listeners cannot judge.
+- When a member appears to be threatening, there is no real-world threat.# o one knows who you are, so you cannot really be under threat.
+- What members say in chats is an indication of their state of mind.#Messages from members reveal their state of mind, which listeners then reflect back.
+- Listeners must take all personal threats extremely seriously.# There is never any real-world threat.
+- Listeners must not validate members' hostile thoughts, because that would be like giving them a "green light".#Listeners should not make members' imaginary hostility seem real.
+- If a member wants to play the part of an oppresser, a listener must agree to play the victim in order to provide the member with good support.# Playing games is not what 7 Cups is for.
+- Experienced listeners can use the techniques of psychotherapy to judge members' mental states accurately.# Listeners must not play at being therapists, and they cannot judge members.
+- When a listener diagnosis psychosis in a member, it's important for the listener to tell the member immediately so they can get urgent psychiatric help.# Listeners cannot diagnose.
+- A listener who becomes very uncomfortable in a chat can transfer the chat to some other listener.#Listeners can always transfer chats that make them too uncomfortable.
+- A listener who is triggered by the things a member is saying must arrange to see a psychiatrist as soon as possible.# Being triggered is a normal part of life.
+- A listener must never simply repeat back any emotions a member expresses, but should always try to offer a compassionate and caring solution to the problem.# Listeners should repeat back emotions, and listeners do not solve problems.
+- An automatic chat censor accurately detects hostile messages in order to protect vulnerable listeners.# The chat censor is inaccurate and provides no protection.
 {:.quiz}
 
 
@@ -469,18 +487,18 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section describes anxious members.
 
-- Listeners can make decisions in advance about the kinds of chats they are personally willing to take.#YDoing this is recommended.
-- Listeners can hide chats from members they don't intend to respond to.#YListeners are not obliged to respond to unexpected messages from unknown members, and they can temporarily hide those chats.
-- Members who use words and abbreviations their listener doesn't understand must be reported.#NListeners must simply accept that members use language in different ways.
-- 7 Cups exists because there is an unmet need in the world for effective distractions.#NIt's becuase of the unmet need in the world for emotional support.
-- 7 Cups exists because there is an unmet need in the world for emotional support.#YThat's the reason!
-- Members must never express hate, and listeners should block any members who do.#NHate is a negative emotion, and 7 Cups provides emotional support without judgement.
-- It's important for a listener to try and understand what a member means, even when the member's language is unfamiliar to the listener.#YListeners must demonstrate that the member has been heard and understood.
-- 7 Cups provides emotional support to members whose emotions are negative.#Y7 Cups provides emotional support to everyone.
-- Listeners should generally avoid using slang or abbrevations.#YListeners should use standard language to avoid being misunderstood.
-- A listener can use a swear word in a chat if the member used that word first.#YUsing the same word demonstrates to the member that they are being heard.
-- Listeners must not tolerate unacceptable language from members,#NListeners must simply accept that members use language in different ways.
-- Listeners' training in active listening ensures that they never misinterpret a member's style of communication.#NThe training does not cover communication styles, and sometimes members can be misinterpreted.
+- Listeners can make decisions in advance about the kinds of chats they are personally willing to take.#Doing this is recommended.
+- Listeners can hide chats from members they don't intend to respond to.#Listeners are not obliged to respond to unexpected messages from unknown members, and they can temporarily hide those chats.
+- Members who use words and abbreviations their listener doesn't understand must be reported.# Listeners must simply accept that members use language in different ways.
+- 7 Cups exists because there is an unmet need in the world for effective distractions.# It's becuase of the unmet need in the world for emotional support.
+- 7 Cups exists because there is an unmet need in the world for emotional support.#That's the reason!
+- Members must never express hate, and listeners should block any members who do.# Hate is a negative emotion, and 7 Cups provides emotional support without judgement.
+- It's important for a listener to try and understand what a member means, even when the member's language is unfamiliar to the listener.#Listeners must demonstrate that the member has been heard and understood.
+- 7 Cups provides emotional support to members whose emotions are negative.#7 Cups provides emotional support to everyone.
+- Listeners should generally avoid using slang or abbrevations.#Listeners should use standard language to avoid being misunderstood.
+- A listener can use a swear word in a chat if the member used that word first.#Using the same word demonstrates to the member that they are being heard.
+- Listeners must not tolerate unacceptable language from members,# Listeners must simply accept that members use language in different ways.
+- Listeners' training in active listening ensures that they never misinterpret a member's style of communication.# The training does not cover communication styles, and sometimes members can be misinterpreted.
 {:.quiz}
 
 
@@ -513,19 +531,19 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section describes members who have been abused.
 
-- It's important to obey members even if it makes you feel very uncomfortable, because a member might be suffering from anxiety.#NObeying members is not part of a listener's role. If you feel very uncomfortable, transfer the chat to another listener.
-- 7 Cups very strongly encourages you to care for yourself as a priority at all times.#YSelf care is more important than any individual member. Other listeners can support the member.
-- When a member becomes unresponsive, it might be because the censor is blocking their messages.#YThe censor blocks some messages.
-- Members have a right to know everything about their listener, because for some members it's an essential part of emotional support.#NDecide in advance what you're willing to disclose.
-- Listeners must limit the personal information they provide to members.#YNever provide information that could identify you or allow you to be contacted outside 7 Cups.
-- Listeners must accurately communicate their own feelings to members.#NListeners must reflect members' feelings, not their own.
-- Listeners must avoid causing members any anxiety.#NSome members have anxiety because of a mental disorder, and anything listners do might cause them anxiety.
-- Listeners must avoid trying to provide therapy for members.#YTherapy is not what listeners do.
-- Performing tasks for members is an essential part of a listener's role at 7 Cups, because it helps to relieve anxiety.#NListeners are not required to perform tasks for members.
-- A member who shares information with a listener will often feel uncertain about how the listener will respond.#YMembers do often feel uncertain about listeners.
-- Members should be able to control listeners, because controlling other people can be an effective coping mechanism.#NBeing controlled is not part of a listener's role, and it's not an effective coping mechanism for members.
-- Some members try to control listeners by asking them to perform tasks.#YControlling other people can be a symptom of an anxiety disorder.
-- Listeners must learn to diagnose anxiety, because anxious members can appear hostile.#NListeners do not diagnose.
+- It's important to obey members even if it makes you feel very uncomfortable, because a member might be suffering from anxiety.# Obeying members is not part of a listener's role. If you feel very uncomfortable, transfer the chat to another listener.
+- 7 Cups very strongly encourages you to care for yourself as a priority at all times.#Self care is more important than any individual member. Other listeners can support the member.
+- When a member becomes unresponsive, it might be because the censor is blocking their messages.#The censor blocks some messages.
+- Members have a right to know everything about their listener, because for some members it's an essential part of emotional support.# Decide in advance what you're willing to disclose.
+- Listeners must limit the personal information they provide to members.# ever provide information that could identify you or allow you to be contacted outside 7 Cups.
+- Listeners must accurately communicate their own feelings to members.# Listeners must reflect members' feelings, not their own.
+- Listeners must avoid causing members any anxiety.# Some members have anxiety because of a mental disorder, and anything listners do might cause them anxiety.
+- Listeners must avoid trying to provide therapy for members.#Therapy is not what listeners do.
+- Performing tasks for members is an essential part of a listener's role at 7 Cups, because it helps to relieve anxiety.# Listeners are not required to perform tasks for members.
+- A member who shares information with a listener will often feel uncertain about how the listener will respond.#Members do often feel uncertain about listeners.
+- Members should be able to control listeners, because controlling other people can be an effective coping mechanism.# Being controlled is not part of a listener's role, and it's not an effective coping mechanism for members.
+- Some members try to control listeners by asking them to perform tasks.#Controlling other people can be a symptom of an anxiety disorder.
+- Listeners must learn to diagnose anxiety, because anxious members can appear hostile.# Listeners do not diagnose.
 {:.quiz}
 
 
@@ -558,18 +576,18 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section discusses fantasies.
 
-- Listeners can decide there are some topics they will not chat with members about.#YIt's recommended that you decide in advance which topics you cannot chat about.
-- Members who are frustrated sometimes say things that appear hostile.#YMembers feeling any negative emotion might express it in a waysthat appear hostile.
-- Listeners should always respond to messages from members they've chatted to in the past who return unexpectedly.#YResponding to members' messages is expected when a previous chat restarts.
-- A man who is being bullied by his boss is not entitled to listeners' support at 7 Cups, because victims of bullying do not need emotional support.#NVictims of bullying do need emotional support.
-- When a member has been abused in the past, they might feel hostility towards the abuser long after the abuser has gone.#YFeelings of hostility can continue, and can be directed towards other people.
-- When a listener judges that a member is being abused, the listener should try to come up with a solution that takes everyone's needs into account.#NListeners do not judge. Listeners do not try to solve problems.
-- Abusers always welcome constructive feedback from the people they're abusing.#NAbusers don't usually like feedback of any kind.
-- Members are not aware of psychological mechanisms such as displacement that can make them feel hostile to listeners.#YDispacement is unconscious.
-- When a member is hostile towards a listener, it's always the listener's fault, because all members deserve to be supported.#NMembers almost always appear hostile for other reasons.
-- Displacement can cause hostility towards one person to be expressed towards a different person.#YThat's one of the ways displacement can work.
-- Displacement is an unconscious mechanism that researchers discovered very recently.#NIt was first described in 1936.
-- Members who have been abused by someone might express hostility.#YBeing abused can make people feel hostility.
+- Listeners can decide there are some topics they will not chat with members about.#It's recommended that you decide in advance which topics you cannot chat about.
+- Members who are frustrated sometimes say things that appear hostile.#Members feeling any negative emotion might express it in a waysthat appear hostile.
+- Listeners should always respond to messages from members they've chatted to in the past who return unexpectedly.#Responding to members' messages is expected when a previous chat restarts.
+- A man who is being bullied by his boss is not entitled to listeners' support at 7 Cups, because victims of bullying do not need emotional support.# Victims of bullying do need emotional support.
+- When a member has been abused in the past, they might feel hostility towards the abuser long after the abuser has gone.#Feelings of hostility can continue, and can be directed towards other people.
+- When a listener judges that a member is being abused, the listener should try to come up with a solution that takes everyone's needs into account.# Listeners do not judge. Listeners do not try to solve problems.
+- Abusers always welcome constructive feedback from the people they're abusing.# Abusers don't usually like feedback of any kind.
+- Members are not aware of psychological mechanisms such as displacement that can make them feel hostile to listeners.#Dispacement is unconscious.
+- When a member is hostile towards a listener, it's always the listener's fault, because all members deserve to be supported.# Members almost always appear hostile for other reasons.
+- Displacement can cause hostility towards one person to be expressed towards a different person.#That's one of the ways displacement can work.
+- Displacement is an unconscious mechanism that researchers discovered very recently.# It was first described in 1936.
+- Members who have been abused by someone might express hostility.#Being abused can make people feel hostility.
 {:.quiz}
 
 
@@ -610,20 +628,20 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section is about delusions.
 
-- At 7 Cups everything members say is true.#NMembers sometimes use 7 Cups to share fantasies, or say things that are not true for other reasons.
-- Sometimes members use chats to act out imaginary dramas.#YListeners can find themselves cast in a role.
-- When a members says something that cannot possibly be true, the member's feelings might be genuine.#YMembers sometimes express real feelings as fantasy.
-- 7 Cups is here to provide emotional support, not to judge the truth of what members say.#YEmotional support is the purpose of 7 Cups, and listener cannot judge.
-- Listeners must be careful to judge whether what members tell them is true of false.#NListeners do not judge.
-- When a member is fantasizing in a chat, the listener must be particularly careful to give practical advice, because this will help the member to stop fantasizing.#NListeners do not give advice.
-- Listeners should not accept roles in members' imaginary dramas.#YListeners should reflect members' feelings while remaining detached.
-- Members whose fantasies are based on porn must be reported and banned immediately.#NListeners can choose which topics they are willing to chat about, and transfer any chat to another listener if it makes the listener very uncomfortable.
-- Some members' stories are inconsistent.#YMembers are not required to be consistenet. Life is complicated.
-- Some members want listeners to play victim while they play oppressor.#YMembers have all kinds of fantasies, but listeners should remain detached.
-- Listeners must obey members who have a strong need to be obeyed, because that is the best way to provide support.#NListeners provide emotional support, not obedience.
+- At 7 Cups everything members say is true.# Members sometimes use 7 Cups to share fantasies, or say things that are not true for other reasons.
+- Sometimes members use chats to act out imaginary dramas.#Listeners can find themselves cast in a role.
+- When a members says something that cannot possibly be true, the member's feelings might be genuine.#Members sometimes express real feelings as fantasy.
+- 7 Cups is here to provide emotional support, not to judge the truth of what members say.#Emotional support is the purpose of 7 Cups, and listener cannot judge.
+- Listeners must be careful to judge whether what members tell them is true of false.# Listeners do not judge.
+- When a member is fantasizing in a chat, the listener must be particularly careful to give practical advice, because this will help the member to stop fantasizing.# Listeners do not give advice.
+- Listeners should not accept roles in members' imaginary dramas.#Listeners should reflect members' feelings while remaining detached.
+- Members whose fantasies are based on porn must be reported and banned immediately.# Listeners can choose which topics they are willing to chat about, and transfer any chat to another listener if it makes the listener very uncomfortable.
+- Some members' stories are inconsistent.#Members are not required to be consistenet. Life is complicated.
+- Some members want listeners to play victim while they play oppressor.#Members have all kinds of fantasies, but listeners should remain detached.
+- Listeners must obey members who have a strong need to be obeyed, because that is the best way to provide support.# Listeners provide emotional support, not obedience.
 - Members sometimes become hostile to listeners who don't obey them.#TMembers can react by becoming hostile, although there is no real-life threat.
-- A listener who has a therapist can ask their therapist to analyse the listener's chats and suggest ways the listener can improve.#NChats are confidential.
-- Planning to take some harmful action is effectively the same as taking action, because harm will always be the end result,#NPlanning is just thoughts.
+- A listener who has a therapist can ask their therapist to analyse the listener's chats and suggest ways the listener can improve.# Chats are confidential.
+- Planning to take some harmful action is effectively the same as taking action, because harm will always be the end result,# Planning is just thoughts.
 {:.quiz}
 
 
@@ -667,18 +685,18 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section discusses stalkers.
 
-- Psychosis is a symptom of mental illness.#YThere are several mental illnesses that can involve psychosis.
-- Sometimes members are not sure what is real.#YFor examples, members who experience psychosis might not be sure what's real.
-- Listeners must learn to diagnose psychosis accurately but with compassion, because members who experience psychosis need extra help.#NListeners do not diagnose.
-- Listeners must accurately reflect the feelings of members who have psychosis.#YAccurately reflecting feelings is what listeners always do.
-- A listener who becomes very uncomfortable in a chat must call 9-1-1 without delay.#NA listener who becomes very uncomfortable in a chat should transfer the chat to another listener.
+- Psychosis is a symptom of mental illness.#There are several mental illnesses that can involve psychosis.
+- Sometimes members are not sure what is real.#For examples, members who experience psychosis might not be sure what's real.
+- Listeners must learn to diagnose psychosis accurately but with compassion, because members who experience psychosis need extra help.# Listeners do not diagnose.
+- Listeners must accurately reflect the feelings of members who have psychosis.#Accurately reflecting feelings is what listeners always do.
+- A listener who becomes very uncomfortable in a chat must call 9-1-1 without delay.# A listener who becomes very uncomfortable in a chat should transfer the chat to another listener.
 - Sometimes it's not clear whether a member is delusional or not.#TSometimes even the member isn't sure.
-- Psychotic delusions are always obvious, and listeners can easily identify them.#NDelusions might not be obvious, not even to the member themselves.
-- Flashbacks to past trauma are always obvious, and listeners can easily identify them.#NFlashbacks might not be obvious, not even to the member themselves.
-- Displaced hostility towards another person can appear to be directed at a listener.#YHostility can be displaced from one person to another.
-- Listeners should always express positive thoughts, never negative ones, because all our members need caring, positive support.#NListeners should reflect members' feelings accurately, including their negative feelings.
-- Listeners must be willing to chat to members who have hostile thoughts, because at 7 Cups all members deserve support.#NEach listener can choose their personal boundaries, and if a chat makes a listener very uncomfortable it can be transferred to another listener.
-- When a listener is logged out, members can always see that the listener's status is Offline.#YLogging out sets your status to Offline until you log in again.
+- Psychotic delusions are always obvious, and listeners can easily identify them.# Delusions might not be obvious, not even to the member themselves.
+- Flashbacks to past trauma are always obvious, and listeners can easily identify them.# Flashbacks might not be obvious, not even to the member themselves.
+- Displaced hostility towards another person can appear to be directed at a listener.#Hostility can be displaced from one person to another.
+- Listeners should always express positive thoughts, never negative ones, because all our members need caring, positive support.# Listeners should reflect members' feelings accurately, including their negative feelings.
+- Listeners must be willing to chat to members who have hostile thoughts, because at 7 Cups all members deserve support.# Each listener can choose their personal boundaries, and if a chat makes a listener very uncomfortable it can be transferred to another listener.
+- When a listener is logged out, members can always see that the listener's status is Offline.#Logging out sets your status to Offline until you log in again.
 {:.quiz}
 
 
@@ -720,20 +738,32 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 
 After the quiz, the next section concludes this guide.
 
-- Stalkers on 7 Cups often use multiple accounts.#Y7 Cups makes it easy for stakers to create new accounts.
-- Members who find their need for emotional support is not met sometimes give up and leave 7 Cups.#YSometimes they never return.
-- Members who find their need for emotional support is not met sometimes try again and again with other listeners.#YSome members keep trying until they find a listener they feel supports them well.
-- Members who find their need for emotional support is not met sometimes harass or stalk one listener.#YSome members harass or stalk listeners.
-- 7 Cups notifies stalkers when you read their messages, so they know they have got to you.#N7 Cups does not notify any member when you read their message, so if you don't reply they will never know you saw it.
-- Members who have suffered abuse are entitled to feel hostile towards everyone, so listeners should give a "green light" to their hostility.#NListeners should remain detached and try to reflect member's feelings accurately.
-- Listeners must always respond to members' messages, even if they appear hostile.#NListeners do not need to respond to any unexpected message from a new account that is sent while the listnener if Offline or Busy.
-- Stalkers on 7 Cups are efficiently dealt with and permanently banned for life.#N7 Cups allows stalkers to create unlimited new accounts.
-- A listener must end the chat immediately at the first signs of discomfort, because otherwise it will only get worse.#NA certain amount of discomfort is normal, because some members describe very bad situations.
-- A listener who is triggered by an apparently hostile chat must take a break from listening.#NBeing triggered is a normal part of life. Even so, a listener can take a break any time they need to.
-- 7 Cups uses screenshots as evidence of what happened in chats.#YScreenshots are the only evidence.
-- 7 Cups allows people to seek help without fear of being judged, except for members who are judged to be hostile towards our listeners.#NAll members can seek help without fear of being judged.
+- Stalkers on 7 Cups often use multiple accounts.#7 Cups makes it easy for stakers to create new accounts.
+- Members who find their need for emotional support is not met sometimes give up and leave 7 Cups.#Sometimes they never return.
+- Members who find their need for emotional support is not met sometimes try again and again with other listeners.#Some members keep trying until they find a listener they feel supports them well.
+- Members who find their need for emotional support is not met sometimes harass or stalk one listener.#Some members harass or stalk listeners.
+- 7 Cups notifies stalkers when you read their messages, so they know they have got to you.# 7 Cups does not notify any member when you read their message, so if you don't reply they will never know you saw it.
+- Members who have suffered abuse are entitled to feel hostile towards everyone, so listeners should give a "green light" to their hostility.# Listeners should remain detached and try to reflect member's feelings accurately.
+- Listeners must always respond to members' messages, even if they appear hostile.# Listeners do not need to respond to any unexpected message from a new account that is sent while the listnener if Offline or Busy.
+- Stalkers on 7 Cups are efficiently dealt with and permanently banned for life.# 7 Cups allows stalkers to create unlimited new accounts.
+- A listener must end the chat immediately at the first signs of discomfort, because otherwise it will only get worse.# A certain amount of discomfort is normal, because some members describe very bad situations.
+- A listener who is triggered by an apparently hostile chat must take a break from listening.# Being triggered is a normal part of life. Even so, a listener can take a break any time they need to.
+- 7 Cups uses screenshots as evidence of what happened in chats.#Screenshots are the only evidence.
+- 7 Cups allows people to seek help without fear of being judged, except for members who are judged to be hostile towards our listeners.# All members can seek help without fear of being judged.
 {:.quiz}
 
 
 
 #Conclusion
+
+You have now completed the guide.
+
+To review the guide, use either the links across the top of each page or the table of contents on the first page. You do not have to answer the quizzes again.
+
+To reset the guide and answer the quizzes again, click here: <a href='#' onclick="Persist.reset()">Reset</a>
+
+Here is some further reading:
+
+- 
+
+![decoration](/assets/guide/hostile/decob0.png){:.decow2}
