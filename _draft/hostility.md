@@ -284,11 +284,11 @@ In an extreme example, a box labelled with the word *Gift* contains a present if
 
 Lewis Carroll's poem *Jabberwocky* is another example. Here's the first verse:
 
-|’Twas brillig, and the slithy toves||
-||Did gyre and gimble in the wabe:|
-|All mimsy were the borogoves,||
-||And the mome raths outgrabe.|
-{:style="width: 50%; margin: 0 auto;"}
+’Twas brillig, and the slithy toves<br/>
+<span style="display: inline-block; width: 2em;"></span>Did gyre and gimble in the wabe:<br/>
+All mimsy were the borogoves,<br/>
+<span style="display: inline-block; width: 2em;"></span>And the mome raths outgrabe.
+{:style="width: 50%; margin-left: 2em;"}
 
 To make any sense of this you have to kind of let go of the fact that many of the words are nonsense. You could stop reading when you get to brillig and just refuse to read any further, for the simple reason that brillig isn't a real word, but to do that would be to miss the point of the poem.
 
