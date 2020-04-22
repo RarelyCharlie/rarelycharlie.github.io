@@ -782,7 +782,7 @@ So the suggested things to try if you get nothing but hostility in a chat are:
 3. If the message is unexpected and from an account you have never chatted to before, consider hiding the chat and ignoring it.
 4. If you decided to ignore unexpected messages, stick to your decision. The member will not even know you've seen the messages.
 
-|<span style="width: 10.5em;">Member account #1:</span>|F*ck you.
+|<span style="display: inline-block; width: 10.5em;">Member account #1:</span>|F*ck you.
 ||*\[Listener doesn't respond.\]*
 |Member account #2:|F*ck you.
 ||*\[Listener doesn't respond.\]*
