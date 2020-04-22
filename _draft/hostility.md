@@ -3,7 +3,8 @@ title: Hostility
 layout: guide
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-#Part I
+
+# Part I
 {:.part}
 
 This guide is an unofficial training guide for listeners about chats with members who appear hostile.
@@ -64,7 +65,7 @@ from [Our Mission](https://www.7cups.com/forum/GlensNook_84/OurVisionforaBetterW
 
 from [Our Key Values](https://web.archive.org/web/20170710164036/https://www.7cups.com/about/values.php) (archived)
 
-###Limitations
+### Limitations
 However, 7 Cups imposes general limitations on the emotional support its listeners provide. If a member clearly says they are actively and seriously harming themselves or someone else, refer the member to 7 Cups' Crisis page (`[7cups.com/crisis](https://www.7cups.com/crisis)`). It is generally felt at 7 Cups that you cannot continue the chat when this happens.
 
 It is important to be aware that the word “actively” means “taking action”. A thought or fantasy is not an action. Planning to take action is not the same as taking action. For more information on this, there is a spearate guide: [Harm](https://rarelycharlie.github.io/guide/harm)
@@ -144,7 +145,7 @@ After the quiz, the next section is a reminder about active listening.
 {:.quiz}
 
 
-#Brief active listening refresher
+# Brief active listening refresher
 This guide assumes you are still familiar with the initial listener training. Here’s a selection of exact quotes as reminders:
 
 - “Keep in mind that active listening is not counseling or advice giving.”
@@ -327,7 +328,7 @@ After the quiz, the next section looks at the chat censor.
 
 
 
-#The chat censor
+# The chat censor
 Every message in every chat, chatroom and forum at 7 Cups is monitored by software known as the censor. The censor blocks entire messages or posts if they contain certain phrases that could upset some people.
 
 In chats and chatrooms, the censor also blocks certain individual words. In this case the words are replaced by asterisks, ***, but the censor does not block the entire message.
@@ -547,7 +548,7 @@ After the quiz, the next section describes members who have been abused.
 {:.quiz}
 
 
-#Abuse
+# Abuse
 Some members are suffering abuse, or they have suffered abuse in the past. They might feel understandable hosility towards their abuser.
 
 But the member might not be able to express their hostility directly. This might be because they fear retaliation, or because the abuse was in the past and the abuser is no longer available.
@@ -592,7 +593,7 @@ After the quiz, the next section discusses fantasies.
 
 
 
-#Fantasy
+# Fantasy
 
 Some members use 7 Cups to share fantasies with listeners. As a listener, without realizing it at first, you can find yourself cast in a role in a member's imaginary drama.
 
@@ -646,7 +647,7 @@ After the quiz, the next section is about delusions.
 
 
 
-#Delusions
+# Delusions
 
 Sometimes a member has a mental illness that causes delusions, or is under the influence of a drug that causes an altered state of consciousness. Listeners cannot diagnose mental illness, substance abuse, or any other source of delusions.
 
@@ -701,7 +702,7 @@ After the quiz, the next section discusses stalkers.
 
 
 
-#Stalkers
+# Stalkers
 When a member comes to 7 Cups with certain emotional needs, but after a chat their needs have not been met, realistically they have three options.
 
 - They have the option to give up and never return to 7 Cups. This is what some members do.
@@ -754,7 +755,7 @@ After the quiz, the next section concludes this guide.
 
 
 
-#Conclusion
+# Conclusion
 
 You have now completed the guide.
 
