@@ -86,9 +86,9 @@ After the quiz, the next section is a further reminder about caring for yourself
 - The word "actively" means making definite plans to do something.# Actively means taking action.
 - 7 Cups' goal is to meet everyone's need for emotional support.#It's to support everyone to thrive and reach their potential.
 - 7 Cups goal is to support all those people in the world who meet the high standards of our community.# Our goal is to support every person in the world.
-- This guide is for members who need to learn to be less hostile.# This guide is for listeners.
+- This guide is for members who need to learn how to be less hostile.# This guide is for listeners.
 - This guide is in four parts.# It's in two parts.
-- 7 Cups'values have changed since they were first published.#They were rewritten and are now completely different.
+- 7 Cups' values have changed since they were first published.#They were rewritten and are now very different.
 - Members who appear hostile are expressing hostile thoughts.#Their thoughts are hostile, so they appear hostile.
 - Members who appear hostile will eventually become violent.# Expressing hostile thoughts is not a real-world threat.
 - Listeners can transfer chats to other listeners.#Listeners can transfer any chat that makes them very uncomfortable.
@@ -115,7 +115,9 @@ It's OK to be willing to chat to members who appear hostile, or to members who a
 It's OK to be willing to chat with a member when the chat makes you uncomfortable. Some members are very disturbed, severely mentally ill, or experience extreme situations, and it's expected that you will have some level of discomfort in chats with these members. However, it's entirely up to you how much discomfort you are prepared to accept.
 
 ### When your boundaries are crossed
-When a chat goes beyond your personal boundaries, consider handing it over to another listener who has different boundaries. For more information, see: [Transfer a chat to another listener](https://rarelycharlie.github.io/howto/transfer)
+When a chat goes beyond your personal boundaries, consider handing it over to another listener who has different boundaries. This includes when a chat simply makes you very uncomfortable. It's up to you how much discomfort you're prepared to accept.
+
+For more information, see: [Transfer a chat to another listener](https://rarelycharlie.github.io/howto/transfer)
 
 ### After a difficult chat
 After a chat that oversteps your personal boundaries, consider chatting to a peer supporter or a mentor about your own feelings. This is particularly important if your feelings persist or if you find yourself thinking about the chat long afterwards.
@@ -137,7 +139,7 @@ After the quiz, the next section is a reminder about active listening.
 - Listeners should be clear about their personal boundaries.#Listeners are not required to take chats that violate their boundaries.
 - Listeners must not chat to members about any hostile thoughts that members might have.# It's OK for listeners to be willing to chat about any topic without restriction.
 - Listeners must never continue a chat if they become uncomfortable.# It's OK to be willing to chat with a member when the chat makes you uncomfortable.
-- 7 Cups cups requires listeners to put members first at all time.# 7 Cups very strongly encourages listeners to care for themselves as a priority at all times.
+- 7 Cups requires listeners to put members first at all times.# 7 Cups very strongly encourages listeners to care for themselves as a priority at all times.
 - Listeners can take notes and keep them secure at 7 Cups.#Listeners' notes at 7 Cups are secure.
 - A listener can transfer a chat to another listener.#Listeners whose personal boundaries do not allow them to continue a chat can transfer it.
 - Listeners must not tolerate any level of discomfort, because some members are mentally ill.# Listeners must expect a certain amount of discomfort when chatting to severely disturbed members.
@@ -179,6 +181,7 @@ For example, if a member appears hostile because of a threat, repeat back the fe
 
 |Member:|Don't f\*cking give me that cr\*p about not being able to give advice. I f\*cking need to know what to do about my son. Will you tell me or won't you? You'd better watch out if you don't help me with this. I'll come after you and make your life h\*ll.
 |Listener:|Everything depends on finding out what you can do for your son. It's driving you frantic that no one can simply tell you the answer.
+{:.chat}
 
 After the quiz, the next section looks at 7 Cups's chat system.
 
