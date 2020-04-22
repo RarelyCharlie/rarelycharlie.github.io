@@ -209,8 +209,8 @@ The chat system at 7 Cups has some features that help listeners to control the c
 Manage your status (in the website) by clicking on your own profile picture at the top right of almost any page. Choose an appropriate status from the menu:
 
 <style>i.fa-circle {display: inline-block; margin: 0 10px 0 1em;}</style>
-<i class="fa fa-circle" style="color: #5cb85c;"></i>Online: prepared to accept personal requests
-<i class="fa fa-circle" style="color: #d9534f;"></i>Offline: no personal requests
+<i class="fa fa-circle" style="color: #5cb85c;"></i>Online: prepared to accept personal requests\\
+<i class="fa fa-circle" style="color: #d9534f;"></i>Offline: no personal requests\\
 <i class="fa fa-circle" style="color: #ff7900;"></i>Busy: no personal requests
 
 Your status is automatically set to Offline when you are logged out, but it's reset to what it was when you log back in.
