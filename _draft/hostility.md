@@ -486,7 +486,7 @@ Changing this member's words could give the impression that you lack empathy, bu
 
 When a member's language is so far from your own experience of language that you don't understand what they mean, you can ask. But the intention is for members to feel heard, so this is not ideal.
 
-When necessary, you can use urbandictionary.com to look up unfamiliar slang. This will slow down your reply a little, but understanding what the member is trying to communicate is more important:
+When necessary, you can use [Urban Dictionary](https://urbandictionary.com){:target="\_blank"} or similar to look up unfamiliar slang. This will slow down your reply a little, but understanding what the member is trying to communicate is more important:
 
 |Listener:|How was your trip to Florida?
 |Member:|Total woftam
