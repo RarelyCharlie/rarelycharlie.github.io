@@ -341,7 +341,7 @@ After the quiz, the next section looks at the chat censor.
 # The chat censor
 Every message in every chat, chatroom and forum at 7 Cups is monitored by software known as the censor. The censor blocks entire messages or posts if they contain certain phrases that could upset some people.
 
-In chats and chatrooms, the censor also blocks certain individual words. In this case the words are replaced by asterisks, ***, but the censor does not block the entire message.
+In chats and chatrooms, the censor also blocks certain individual words. In this case the words are replaced by asterisks, <span style="font-family: 'Work Sans'; letter-spacing: -.2px;">***</span>, but the censor does not block the entire message.
 
 The censor is badly implemented and erratic, blocking relatively harmless words and phrases while allowing some very offensive language. A member who wants to appear hostile will have no difficulty evading the censor, but a member who genuinely wishes to tell their story and express their feelings may become frustrated. They might feel rejected. They might feel shamed.
 
