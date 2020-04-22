@@ -441,7 +441,7 @@ After the quiz, the next section considers social cues.
 
 - Mark each statement true or false:
 - Experienced listeners can always judge whether a member's hostility is real.# Listeners cannot judge.
-- When a member appears to be threatening, there is no real-world threat.# o one knows who you are, so you cannot really be under threat.
+- When a member appears to be threatening, there is no real-world threat.#No one knows who you are, so you cannot really be under threat.
 - What members say in chats is an indication of their state of mind.#Messages from members reveal their state of mind, which listeners then reflect back.
 - Listeners must take all personal threats extremely seriously.# There is never any real-world threat.
 - Listeners must not validate members' hostile thoughts, because that would be like giving them a "green light".#Listeners should not make members' imaginary hostility seem real.
