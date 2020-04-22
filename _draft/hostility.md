@@ -215,13 +215,13 @@ Manage your status (in the website) by clicking on your own profile picture at t
 
 Your status is automatically set to Offline when you are logged out, but it's reset to what it was when you log back in.
 
-There's effectively no difference between offline and busy. Don't set your status to online unless you really are prepared to accept personal requests.
+There's effectively no difference between offline and busy. Don't set your status to Online unless you really are prepared to accept personal requests.
 
-It's OK to set your status to offline and never change it. You can still chat to members and do everything else.
+It's OK to set your status to Offline and never change it. You can still chat to members and do everything else.
 
-If your status is online and you receive a personal request, you are *expected* to accept the request and chat to the member.
+If your status is Online and you receive a personal request, you are *expected* to accept the request and chat to the member.
 
-If you feel you are at risk from members who appear hostile, never set your status to online, so that you can never get personal requests.
+If you feel you are at risk from members who appear hostile, never set your status to Online, so that you can never get personal requests.
 
 ### Unexpected messages
 On the page where your growth path is shown, a chat list shows the members you have chatted to recently.
