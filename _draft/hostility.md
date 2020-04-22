@@ -402,7 +402,7 @@ After the quiz, Part II of this guide provides examples why members might appear
 # Part II
 {:.part}
 
-Part II of this guide goes into more detail about the kind of members who appear hostile, with brief examples.
+Part II of this guide goes into more detail about some reasons members might appear hostile, with brief examples.
 
 
 
