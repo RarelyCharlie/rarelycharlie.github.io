@@ -373,8 +373,8 @@ In this example the listener was reported, and then retyped the message with an 
 
 In this example the member was blocked the first time, but not the second time, for accurately reporting what was said by someone else:
 
-|Member:|He called me a *** *** ***.
-|Member:|sh*tty g*dd*mn b*st*rd
+|Member:|He called me a \*\*\* \*\*\* \*\*\*.
+|Member:|sh\*tty g\*dd\*mn b\*st\*rd
 |Member:|Then called me a psycho nazi freak.
 {:.chat}
 
