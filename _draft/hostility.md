@@ -106,6 +106,8 @@ Note that the Listener Oath currently contradicts this. However, this guide assu
 ### Boundaries
 You should think about your personal boundaries, and make decisions in advance about the kinds of chats you are personally willing to take. This includes decisions about chats that appear hostile.
 
+![decoration](/assets/hostile/decoe6.png){:.decor}
+
 You have to make these decisions in advance, as far as possible, because a chat that starts out being about one subject can very quickly change to some other subject. You will need to be able to take action to protect yourself immediately there’s a change of subject that goes beyond your personal boundaries.
 
 If you haven’t already done so, take a few minutes right now to list the topics of conversation that lie outside your personal boundaries. You could write the list in your secure [Notes](https://www.7cups.com/notes.php). (The link provided here works for any listener, provided you are logged in to 7 Cups.) Check your list from time to time to remind yourself of it, and also to keep it updated.
@@ -123,6 +125,8 @@ For more information, see: [Transfer a chat to another listener](https://rarelyc
 
 ### After a difficult chat
 After a chat that oversteps your personal boundaries, consider chatting to a peer supporter or a mentor about your own feelings. This is particularly important if your feelings persist or if you find yourself thinking about the chat long afterwards.
+
+![decoration](/assets/hostile/decoe5.png){:.decor}
 
 If a chat affects you emotionally, and this in turn affects your real-life relationships or your ability to live your life normally, do not hesitate to switch to your member account and chat with an experienced listener about what happened and how it affected you.
 
@@ -177,6 +181,8 @@ Realistically, life is not simple or easy. People have both positive and negativ
 
 In response to situations that make people feel threatened, they naturally have negative emotions that can appear hostile. Listeners at 7 Cups allow people’s negative emotions, including their hostility, to be heard.
 
+![decoration](/assets/hostile/decoe7.png){:.decor}
+
 Do not try to suppress members’ negative emotions or supply positive emotions. If you do that, you might neutralize a member’s natural negative emotions in response to the things that threaten them, allowing the threat to continue.
 
 For example, if a member appears hostile because of a threat, repeat back the feeling of threat they have expressed, just like the listener training says. Do not neutralize the threat or change the subject to something positive—doing that risks giving a “green light” to the member's hostile reaction.
@@ -217,6 +223,8 @@ Manage your status (in the website) by clicking on your own profile picture at t
 
 Your status is automatically set to Offline when you are logged out, but it's reset to what it was when you log back in.
 
+![decoration](/assets/hostile/decow0.png){:.decol}
+
 There's effectively no difference between Offline and Busy. Don't set your status to Online unless you really are prepared to accept personal requests.
 
 It's OK to set your status to Offline and never change it. You can still chat to members and do everything else.
@@ -231,6 +239,8 @@ On the page where your growth path is shown, a chat list shows the members you h
 If a member you've never chatted to before sends you an unexpected message while your status is Offline or Busy, a chat starts automatically and the member appears in your chat list. You can go into the chat to read the message but you are not obliged to respond, because you were Offline or Busy when the member sent the message. The member will not know you read the message.
 
 If you decide not to respond to an unexpected message, you can hide the chat by clicking its × symbol in your chat list. If the member sends another message the chat will reappear, and you can hide it again or block the member.
+
+![decoration](/assets/hostile/decom7.png){:.decol}
 
 A member who wants to chat with you in particular should wait until your status is Online, then send you a personal request (by using the Chat Now button in your profile). You do not have to chat to members if you have never chatted to them before and they send you unexpected messages.
 
@@ -314,6 +324,8 @@ But you can also kind of let go of the fact that the words mean hostile things, 
 |Member:|You're a crap listener. I've never had such bad advice.|
 {:.chat}
 
+![decoration](/assets/hostile/decom0.png){:.decol}
+
 You could stop reading when you get to crap and just refuse to read any further, for the simple reason that crap is a hostile word, but to do that would be to miss the point of the message, which is that the member wants you to know they feel the chat has gone very badly.
 
 The lesson from this is that you can read the message and get a sense of what it means by mentally sliding over words like crap. Doing that helps you to reflect the member's feelings and ensure that the member is heard, valued and understood:
@@ -343,6 +355,8 @@ After the quiz, the next section looks at the chat censor.
 # The chat censor
 Every message in every chat, chatroom and forum at 7 Cups is monitored by software known as the censor. The censor blocks entire messages or posts if they contain certain phrases that could upset some people.
 
+![decoration](/assets/hostile/decoe4.png){:.decor}
+
 In chats and chatrooms, the censor also blocks certain individual words. In this case the words are replaced by asterisks, <span style="font-family: 'Work Sans'; letter-spacing: -.2px;">***</span>, but the censor does not block the entire message.
 
 The censor is badly implemented and erratic, blocking relatively harmless words and phrases while allowing some very offensive language. A member who wants to appear hostile will have no difficulty evading the censor, but a member who genuinely wishes to tell their story and express their feelings may become frustrated. They might feel rejected. They might feel shamed.
@@ -358,6 +372,8 @@ When the censor blocks your message, keep a copy of the message and report the i
 
 ### Evading the censor
 The complete lists of censored words and phrases are public but their location is not widely known. The lists are updated from time to time. There is no need for anyone to memorize the lists in order to evade the censor, because it is easy to disguise obvious trigger words. However, some triggers are not obvious.
+
+![decoration](/assets/hostile/decoe2.png){:.decor}
 
 For example, at the time of writing a member cannot say, "My uncle lives in a skyscraper on the 43rd floor." The member will have a hard time figuring out which word to disguise. In fact it's skyscraper, which contains the letters KYS. 7 Cups has decided that KYS might be interpreted to mean "Kill yourself." After a few tries the member might figure out a way to evade the censor:
 
@@ -417,6 +433,8 @@ In this guide the phrase "appear hostile" is used because listeners cannot judge
 
 This seems threatening, but there is no real-world threat. For one thing, at 7 Cups no one knows who you are.
 
+![decoration](/assets/hostile/decom6.png){:.decol}
+
 Even you are one of those rare listeners who uses their real name and photo on 7 Cups, a threat like this is still not a credible risk to your real-world safety.
 
 So this kind of message only tells you something about the member's current state of mind. A listener's task is to provide emotional support by ensuring that the member is heard, valued and understood, and their state of mind is exactly what you should respond to.
@@ -468,6 +486,8 @@ For example, in many social contexts the word fuck is commonplace and completely
 {:.chat}
 
 This member is expressing frustration but not being hostile.
+
+![decoration](/assets/hostile/decom1.png){:.decol}
 
 In a way this is similar to the situation with members who are not writing in their first language, or who are dyslexic, and who might use language in ways you find unusual. Listeners must simply accept this. 7 Cups is not a language school, and 7 Cups is not an academy of social etiquette.
 
@@ -523,6 +543,8 @@ Some members suffer from an anxiety disorder, such as generalized anxiety disord
 
 A common coping mechanism for people who suffer from anxiety is to become controlling. This happens because an anxious person cannot always identify the real source of their anxiety, so they try to eliminate all possible sources of anxiety by controlling them.
 
+![decoration](/assets/hostile/decom5.png){:.decol}
+
 This coping mechanism doesn't actually work, and in fact it often makes things worse, so it's something that therapists help their anxious clients to avoid. But listeners are not therapists, so you cannot help members in that way.
 
 In a chat, a member doesn't quite know how you're going to respond to the things they're telling you. This uncertainty is a possible source of anxiety, so an anxious member might try to control you by giving you tasks.
@@ -572,6 +594,8 @@ Some members are suffering abuse, or they have suffered abuse in the past. They 
 
 But the member might not be able to express their hostility directly. This might be because they fear retaliation, or because the abuse was in the past and the abuser is no longer available.
 
+![decoration](/assets/hostile/decoe0.png){:.decor}
+
 In some cases an unconscious psychological mechanism called [*displacement*](http://changingminds.org/explanations/behaviors/coping/displacement.htm) can become activated in a situation like this. Displacement is when someone is prevented from expressing how they really feel towards someone, so instead they act out the behaviour towards someone else.
 
 Displacement was first described by the psychoanalyst Anna Freud in her 1936 book *The Ego and the Mechanisms of Defence*.
@@ -617,6 +641,8 @@ Some members use 7 Cups to share fantasies with listeners. As a listener, withou
 
 The drama is sometimes pure fantasy, and sometimes it's based on a book, a TV show or a movie. People often have very extensive fantasies, and when they write them down we call those people authors. When they write fantasies based on well-known books, TV shows or movies we call them fan-fiction authors.
 
+![decoration](/assets/hostile/decom2.png){:.decol}
+
 At some level the member who does this is aware that the chat is based on a fantasy, and occasionally, if the fantasy comes to a conclusion or is challenged, the member will admit to it. But often the member refuses to admit to it, and a listener who challenges it will find themselves blocked.
 
 When a member describes far-fetched or impossible situations as if they are real, a listener has to make a choice about whether to question the reality of the member's story. It's more comfortable for the listener to feel that they are listening to members who tell the absolute truth. And 7 Cups is not here so that members can tell themselves stories.
@@ -642,6 +668,8 @@ A lot of published commercial fantasy, and amateur fantasy too, is porn, and a p
 |Member:|You are my slave and you will call me Sir. Otherwise I will rape you and beat you.
 |Listener:|Like you want to feel superior?
 {:.chat}
+
+![decoration](/assets/hostile/decom4.png){:.decol}
 
 This member is apparently hostile and threatening, but there is no real-life threat and the listener can try to reflect the member's feelings without accepting a victim role.
 
@@ -673,6 +701,8 @@ After the quiz, the next section is about delusions.
 Sometimes a member has a mental illness that causes delusions, or is under the influence of a drug that causes an altered state of consciousness. Listeners cannot diagnose mental illness, substance abuse, or any other source of delusions.
 
 For example, in a mental illness that involves psychosis, the member might have episodes in which perceptions similar to nightmares merge with everyday life. The member might or might not have awareness of what is real and what is a nightmare-like delusion.
+
+![decoration](/assets/hostile/decom3.png){:.decol}
 
 And for example, in post-traumatic stress disorder (PTSD) the member might have episodes, known as flashbacks, in which memories of past traumatic events are re-lived as if in the present.
 
@@ -734,6 +764,8 @@ When a member comes to 7 Cups with certain emotional needs, but after a chat the
 - They have the option to persist with the same listener, becoming a stalker. This is what some members do. It's particularly likely if they have cast you to play a victim role in their drama and your attempts to escape become part of the role. Blocking this kind of member *reinforces* their perception of you as a victim, and makes it more likely they will become a stalker.
 
 Unfortunately 7 Cups has always resisted making changes to the chat system that would protect listeners from this kind of stalker. It's not known why this is.
+
+![decoration](/assets/hostile/decoe3.png){:.decor}
 
 A member who wants to make a new member account only requires another e-mail address, and 7 Cups accepts fake addresses and aliases, so a stalker simply doesn't mind being blocked or banned. Persistent stalkers frequently change their account and screen name.
 
