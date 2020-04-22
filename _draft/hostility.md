@@ -70,6 +70,8 @@ from [Our Key Values](https://web.archive.org/web/20170710164036/https://www.7cu
 ### Limitations
 However, 7 Cups imposes general limitations on the emotional support its listeners provide. If a member clearly says they are actively and seriously harming themselves or someone else, refer the member to 7 Cups' Crisis page ([`7cups.com/crisis`](https://www.7cups.com/crisis)). It is generally felt at 7 Cups that you cannot continue the chat when this happens.
 
+![decoration](/assets/hostile/decoe1.png){:.decor}
+
 It is important to be aware that the word “actively” means “taking action”. A thought or fantasy is not an action. Planning to take action is not the same as taking action. For more information on this, there is a spearate guide: [Harm](https://rarelycharlie.github.io/guide/harm)
 
 For example, someone might have thoughts about planting an apple tree and growing their own apples. They might clearly imagine the variety of apple and where they're going to plant it. But these things are not the same as preparing the gound and buying the tree. There’s an essential difference between thoughts and actions.
