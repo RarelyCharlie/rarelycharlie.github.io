@@ -223,7 +223,7 @@ Manage your status (in the website) by clicking on your own profile picture at t
 
 Your status is automatically set to Offline when you are logged out, but it's reset to what it was when you log back in.
 
-![decoration](/assets/hostile/decow0.png){:.decol}
+![decoration](/assets/hostile/decoe0.png){:.decor}
 
 There's effectively no difference between Offline and Busy. Don't set your status to Online unless you really are prepared to accept personal requests.
 
