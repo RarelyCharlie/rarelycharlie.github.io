@@ -490,7 +490,7 @@ When necessary, you can use [Urban Dictionary](https://urbandictionary.com){:tar
 
 |Listener:|How was your trip to Florida?
 |Member:|Total woftam
-||Listener looks it up: "waste of fucking time and money"
+||*Listener looks it up: "waste of fucking time and money"*
 |Listener:|You were so positive about it last time we chatted. What went wrong?
 {:.chat}
 
@@ -512,11 +512,11 @@ After the quiz, the next section describes anxious members.
 - Listeners should generally avoid using slang or abbrevations.#Listeners should use standard language to avoid being misunderstood.
 - A listener can use a swear word in a chat if the member used that word first.#Using the same word demonstrates to the member that they are being heard.
 - Listeners must not tolerate unacceptable language from members,# Listeners must simply accept that members use language in different ways.
-- Listeners' training in active listening ensures that they never misinterpret a member's style of communication.# The training does not cover communication styles, and sometimes members can be misinterpreted.
+- Listeners' training in active listening ensures that they can never misinterpret a member's style of communication.# The training does not cover communication styles, and sometimes members can be misinterpreted.
 {:.quiz}
 
 
-#Anxiety
+# Anxiety
 Some members suffer from an anxiety disorder, such as generalized anxiety disorder. Listeners cannot diagnose this.
 
 A common coping mechanism for people who suffer from anxiety is to become controlling. This happens because an anxious person cannot always identify the real source of their anxiety, so they try to eliminate all possible sources of anxiety by controlling them.
