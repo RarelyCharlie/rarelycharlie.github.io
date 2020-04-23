@@ -245,7 +245,8 @@ On the page where your growth path is shown, a chat list shows the members you h
 
 If a member you've never chatted to before sends you an unexpected message while your status is Offline or Busy, a chat starts automatically and the member appears in your chat list. You can go into the chat to read the message but you are not obliged to respond, because you were Offline or Busy when the member sent the message. The member will not know you read the message.
 
-If you decide not to respond to an unexpected message, you can hide the chat by clicking its × symbol in your chat list. If the member sends another message the chat will reappear, and you can hide it again or block the member.
+<style>.fa-times {height: 14px; width: 14px; display: inline-block; background: #bbb; padding: 4px; color: #fff; font-size: 14px; border-radius: 50%; text-align: center;}</style>
+If you decide not to respond to an unexpected message, you can hide the chat by clicking its <i class="fa fa-times"></i> symbol in your chat list. If the member sends another message the chat will reappear, and you can hide it again or block the member.
 
 A member who wants to chat with you in particular should wait until your status is Online, then send you a personal request (by using the Chat Now button in your profile). You do not have to chat to members if you have never chatted to them before and they send you unexpected messages.
 
