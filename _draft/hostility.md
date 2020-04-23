@@ -422,6 +422,8 @@ After the quiz, Part II of this guide provides examples why members might appear
 
 Part II of this guide goes into more detail about some reasons members might appear hostile, with brief examples.
 
+![decoration](/assets/hostile/decob1.png){:.decoc}
+
 
 
 # Appearances
@@ -823,4 +825,4 @@ Here is some further reading:
 
 - 
 
-![decoration](/assets/hostile/decob0.png){:.decow2}
+![decoration](/assets/hostile/decob0.png){:.decoc}
