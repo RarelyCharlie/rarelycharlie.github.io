@@ -238,8 +238,6 @@ On the page where your growth path is shown, a chat list shows the members you h
 
 If a member you've never chatted to before sends you an unexpected message while your status is Offline or Busy, a chat starts automatically and the member appears in your chat list. You can go into the chat to read the message but you are not obliged to respond, because you were Offline or Busy when the member sent the message. The member will not know you read the message.
 
-![decoration](/assets/hostile/decom7.png){:.decol}
-
 If you decide not to respond to an unexpected message, you can hide the chat by clicking its × symbol in your chat list. If the member sends another message the chat will reappear, and you can hide it again or block the member.
 
 A member who wants to chat with you in particular should wait until your status is Online, then send you a personal request (by using the Chat Now button in your profile). You do not have to chat to members if you have never chatted to them before and they send you unexpected messages.
@@ -250,6 +248,8 @@ If you make a decision never to respond to unexpected messages, it's helpful to 
 
 ### Evidence of inappropriate chats
 7 Cups does not provide a way to record evidence of an inappropriate chat. You're on your own with this.
+
+![decoration](/assets/hostile/decom7.png){:.decol}
 
 Find out how to capture a screenshot (an image of your screen) on your device. When a possibly inappropriate situation arises in a chat, capture a screenshot immediately. If possible, save the screenshot in a secure place where no one else can see it.
 
