@@ -463,10 +463,10 @@ Members can appear hostile for a variety of reasons. The following sections will
 
 Listeners cannot play at being therapists, diagnose mental illness, or make judgements about members' motives, so this guide must not be used to try and diagnose or treat any member.
 
-For example, a listener might privately think, "Hmmm, this listener seems psychotic", and thinking that might be helpful in making sense of the member's messages, but it would never be useful to share that private thought with a member who appears hostile.
+For example, a listener might privately think, "Hmmm, this member seems psychotic", and thinking that might be helpful in making sense of the member's messages, but it would never be useful to share that private thought with a member who appears hostile.
 
-|Member:|I haven't slept well for 12 years. The people in the shadows are always muttering. All night it goes on.
-||*Listener thinks, "Hmmm, this listener seems psychotic."*
+|Member:|I haven't slept well for 12 years. The people in the shadows are always muttering. All night it goes on. You so-called listeners don't know anything. You're f*ck*ng useless.
+||*Listener thinks, "Hmmm, this member seems psychotic."*
 |Listener:|Like you can't hear anything clearly but it keeps you awake anyway.
 {:.chat}
 
