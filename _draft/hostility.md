@@ -466,8 +466,9 @@ Listeners cannot play at being therapists, diagnose mental illness, or make judg
 For example, a listener might privately think, "Hmmm, this listener seems psychotic", and thinking that might be helpful in making sense of the member's messages, but it would never be useful to share that private thought with a member who appears hostile.
 
 |Member:|I haven't slept well for 12 years. The people in the shadows are always muttering. All night it goes on.
-||*\[Listener thinks, "Hmmm, this listener seems psychotic."\]*
+||*Listener thinks, "Hmmm, this listener seems psychotic."*
 |Listener:|Like you can't hear anything clearly but it keeps you awake anyway.
+{:.chat}
 
 Notice that this listener doesn't either agree or disagree that there are people in the shadows muttering all night.
 
