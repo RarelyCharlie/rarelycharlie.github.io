@@ -841,8 +841,8 @@ Here is some further reading:
 - [*Listeners Reading List*](https://rarelycharlie.github.io/books): A list of books that provide more information and background on active listening and related topics.
 - [*Learned Optimism*](https://www.penguinrandomhouse.com/books/163862/learned-optimism-by-martin-e-p-seligman-phd/) by Martin Seligman. Self-help book. Source of the temporary-universal-external technique for recovery after an adverse event.
 - [*Through the Looking Glass*](https://www.gutenberg.org/files/12/12-h/12-h.htm) by Lewis Carroll. A nonsensical tale that kind of makes sense anyway. Source of the poem *Jabberwocky* and Humpty Dumpty's partial explanation.
-- [*The Ego and the Mechanisms of Defence.*](https://books.google.co.uk/books/about/The_Ego_and_the_Mechanisms_of_Defence.html?id=mXcw7gFWS2oC) by Anna Freud. The original psychoanalytic theory behind unconscious defences like displacement.
-- [*Harm*](https://rarelycharlie.github.io/guide/harm): An unofficial guilde to chats about harm.
+- [*The Ego and the Mechanisms of Defence.*](https://books.google.co.uk/books/about/The_Ego_and_the_Mechanisms_of_Defence.html?id=mXcw7gFWS2oC) by Anna Freud. The original psychoanalytic theory behind displacement as an unconscious defence.
+- [*Harm*](https://rarelycharlie.github.io/guide/harm): An unofficial guide to chats about harm.
 - [*Transfer a chat to another listener*](https://rarelycharlie.github.io/howto/transfer) Unofficial how-to guide.
 
 ![decoration](/assets/hostile/decob0.png){:.decoc}
