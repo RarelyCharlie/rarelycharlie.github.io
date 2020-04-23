@@ -379,9 +379,9 @@ There can be consequences for listeners who try to send messages that the censor
 When the censor blocks your message, keep a copy of the message and report the incident immediately by e-mail, from the address that you use to log in as a listener, to: community@7cups.com  Do not include details of the chat, but do include the blocked message (which did not become part of the chat) and explain why you wanted to send it.
 
 ### Evading the censor
-The complete lists of censored words and phrases are public but their location is not widely known. The lists are updated from time to time. There is no need for anyone to memorize the lists in order to evade the censor, because it is easy to disguise obvious trigger words. However, some triggers are not obvious.
-
 ![decoration](/assets/hostile/decoe2.png){:.decor}
+
+The complete lists of censored words and phrases are public but their location is not widely known. The lists are updated from time to time. There is no need for anyone to memorize the lists in order to evade the censor, because it is easy to disguise obvious trigger words. However, some triggers are not obvious.
 
 For example, at the time of writing a member cannot say, "My uncle lives in a skyscraper on the 43rd floor." The member will have a hard time figuring out which word to disguise. In fact it's skyscraper, which contains the letters KYS. 7 Cups has decided that KYS might be interpreted to mean "Kill yourself." After a few tries the member might figure out a way to evade the censor:
 
