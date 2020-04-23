@@ -261,7 +261,7 @@ If you make a decision never to respond to unexpected messages, it's helpful to 
 
 Find out how to capture a screenshot (an image of your screen) on your device. When a possibly inappropriate situation arises in a chat, capture a screenshot immediately. If possible, save the screenshot in a secure place where no one else can see it.
 
-If you need to send a screenshot to 7 Cups as evidence in support of a report, upload the screenshot to [Imgur](https://ingur.com). Ensure that you are not logged in to an Imgur account, so that the upload is anonymous. Provide the screenshot's Imgur URL in your report. This process is not completely secure but it's the best that 7 Cups has come up with.
+If you need to send a screenshot to 7 Cups as evidence in support of a report, upload the screenshot to [Imgur](https://imgur.com). Ensure that you are not logged in to an Imgur account, so that the upload is anonymous. Provide the screenshot's Imgur URL in your report. This process is not completely secure but it's the best that 7 Cups has come up with.
 
 You can use some other image sharing website if it allows anonymous uploads. Do not use a site where you have to log in, because images could be traced back to your account.
 
@@ -289,7 +289,7 @@ After the quiz, the next section explores hostile language.
 - A listener whose status is Online should be prepared to accept personal requests.#That's what Online means.
 - A listener can use a screenshot as evidence of what happened in a chat.#Screenshots are the only evidence 7 Cups uses.
 - Listeners can report members.#Listeners can submit a report when blocking or banning a member, or in other ways.
-- When a member chats to a listener, the member must be prepared to accept the listener's judgement of the situation.#Listeners must not judge.
+- When a member chats to a listener, the member must be prepared to accept the listener's judgement of the situation.# Listeners must not judge.
 - Listeners can assume that when a member becomes hostile during a chat it must be the listener's fault.# Listeners should avoid making assumptions.
 {:.quiz}
 
