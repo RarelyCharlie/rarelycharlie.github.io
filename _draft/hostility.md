@@ -128,16 +128,23 @@ After a chat that oversteps your personal boundaries, consider chatting to a pee
 
 ![decoration](/assets/hostile/decoe5.png){:.decor}
 
-If a chat affects you emotionally, and this in turn affects your real-life relationships or your ability to live your life normally, do not hesitate to switch to your member account and chat with an experienced listener about what happened and how it affected you.
-
-If you have a therapist or someone else in the real world you rely on for emotional support, be open with them about the effect volunteering as a listener at 7 Cups has on you, but do not share any details of any chat.
+If a chat affects you emotionally, and this in turn affects your real-life relationships or your ability to live your life normally, do not hesitate to switch to your member account and chat with an experienced listener about what happened and how it affected you. If you have a therapist or someone else in the real world you rely on for emotional support, be open with them about the effect volunteering as a listener at 7 Cups has on you, but do not share any details of any chat.
 
 ### Breaks
-Take a break from listening any time you feel you need to.
+Take a break from listening any time you feel you need to. Indicate in your profile that you are on a break, or suspend your account completely. It's OK to take a break from 1-to-1 chats but continue to be involved at 7 Cups in other ways.
 
-Indicate in your profile that you are on a break, or suspend you account completely.
+### Recovery
+From time to time you might need to recover from an adverse experience as a listener. Adverse experiences can include being triggered, being wrongly accused, being drawn into a hostile situation, being bullied, and being made to feel you've failed in some way.
 
-It's OK to take a break from 1-to-1 chats but continue to be involved at 7 Cups in other ways.
+The first step to recovery is recognizing that something bad happened to you and you need to recover from it. If you just deny that anything happened, or try to distract yourself from it, then recovery is often more difficult and you might be more vulnerable to further adverse experiences.
+
+It's often useful to take a break from listening, or a partial break, as a way of being kind to yourself. Taking a break does not signal to bullies or accusers that they have won. It signals that you can take care of yourself and they can't stop you.
+
+When you're upset after something bad happened, it's useful to think about evidence for it being *temporary*, *universal* and *external*. Research shows that people who are good at thinking of adverse experiences as temporary, universal and external recover faster and more completely:
+
+- *temporary*: "That was a one-off. Things like that are rare."
+- *universal*: "Things like that can happen to any listener."
+- *external*: "That didn't reflect on me personally. It happened because of someone or something else."
 
 After the quiz, the next section is a reminder about active listening.
 
