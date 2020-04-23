@@ -87,7 +87,7 @@ After the quiz, the next section is a further reminder about caring for yourself
 - At 7 Cups there are no limitations on what members can chat about.# At 7 Cups members cannot chat about seriously harming themselves or other people.
 - The word "actively" means making definite plans to do something.# Actively means taking action.
 - 7 Cups' goal is to meet everyone's need for emotional support.#It's to support everyone to thrive and reach their potential.
-- 7 Cups goal is to support all those people in the world who meet the high standards of our community.# Our goal is to support every person in the world.
+- 7 Cups' goal is to support all those people in the world who meet the high standards of our community.# Our goal is to support every person in the world.
 - This guide is for members who need to learn how to be less hostile.# This guide is for listeners.
 - This guide is in four parts.# It's in two parts.
 - 7 Cups' values have changed since they were first published.#They were rewritten and are now very different.
