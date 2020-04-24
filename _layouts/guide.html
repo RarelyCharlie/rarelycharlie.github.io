@@ -272,6 +272,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	if (review) {
 		$('ul.quiz>li').each(function () {
 			var q = $(this)
+			q.attr('title', q.text().replace(/[^#]+#/, ''))
 			q.text(q.text().replace(/#\s.+/, ' (False)').replace(/#.+/, ' (True)'))
 			})
 		$('#content>*').not('style').show()
