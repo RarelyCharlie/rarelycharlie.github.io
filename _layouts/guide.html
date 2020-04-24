@@ -271,9 +271,10 @@ document.addEventListener('DOMContentLoaded', function () {
 	review = location.search == '?galley'
 	if (review) {
 		$('ul.quiz>li').each(function () {
-			var q = $(this), e = q.text().replace(/[^#]+#/, '')
-			q.html(q.text().replace(/#\s.+/, ' (False)').replace(/#.+/, ' (True)')
-			  + '<br/>' + '<span style="color: #aaa;">' + e + '</span>')
+			var q = $(this),
+			    e = q.is(':first-child')? ''
+				: '<br><span style="color: #787;">' + q.text().replace(/[^#]+#/, '') + '</span>'
+			q.html(q.text().replace(/#\s.+/, ' (False)').replace(/#.+/, ' (True)') + e
 			})
 		$('#content>*').not('style').show()
 		}
