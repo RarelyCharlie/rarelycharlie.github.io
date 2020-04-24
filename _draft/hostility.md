@@ -161,6 +161,8 @@ After the quiz, the next section is a reminder about active listening.
 - At 7 Cups we look down on people who cannot control their hostility.# At 7 Cups we do not look down on anyone. This was one of our original values.
 - Fantasies always end up being acted out in real life.# Fantasies are thoughts, not actions.
 - Listeners are not allowed to block members because members' emotional needs come first.# Listeners can block members who cause them to feel very uncomfortable.
+- Sometimes listeners are wrongly accused, and after this happens they might need to recover.#Being wrongly accused is one of the adverse events that can happen to listeners.
+- Thinking of adverse events as temporary, universal and external helps you recover from them.#Research shows that this way of thinking helps recovery.
 {:.quiz}
 
 
@@ -213,6 +215,7 @@ After the quiz, the next section looks at 7 Cups's chat system.
 - A listener's role is to supply members with positive emotions.# Listeners must not supply positive emotions.
 - A listener's role is to suppress negative emotions, in order to provide good support.# Listeners must not suppress negative emotions.
 - A listener must avoid neutralizing members' natural negative emotions.#Listeners provide emotional support by reflecting members' emotions back to them.
+- Listeners who allow themselves to become victims of bullying can never recover, because they till not be able to support members effectively.#Listeners can recover from any adverse event by taking time and by thinking of it as temporary, universal and external.
 {:.quiz}
 
 
@@ -356,6 +359,7 @@ After the quiz, the next section looks at the chat censor.
 - When a member sends a hostile message, you should follow your first instinct because considering it carefully is never useful.# It can be useful to consider hostile messages carefully.
 - When a member appears hostile, there is always a very real threat of violence.# There is no real-world threat.
 - Words you read create patterns of thought.#That's the way language works.
+- After an adverse event occurs, it is helpful to tell yourself the event was trivial, unimportant and minor.# It is helpful to think of the reasons why it was temporary, universal and external to you.
 {:.quiz}
 
 
@@ -824,6 +828,7 @@ After the quiz, the next section concludes this guide.
 - A listener who is triggered by an apparently hostile chat must take a break from listening.# Being triggered is a normal part of life. Even so, a listener can take a break any time they need to.
 - 7 Cups uses screenshots as evidence of what happened in chats.#Screenshots are the only evidence.
 - 7 Cups allows people to seek help without fear of being judged, except for members who are judged to be hostile towards our listeners.# All members can seek help without fear of being judged.
+- Listeners who feel they have failed can recover by thinking about why their failure was temporary, universal and external to them.#Research shows that this kind of thinking promotes recovery.
 {:.quiz}
 
 
