@@ -272,7 +272,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	if (review) {
 		$('ul.quiz>li').each(function () {
 			var q = $(this), e = q.text().replace(/[^#]+#/, '')
-			q.text(q.text().replace(/#\s.+/, ' (False)').replace(/#.+/, ' (True)'))
+			q.html(q.text().replace(/#\s.+/, ' (False)').replace(/#.+/, ' (True)'))
 			  + '<br/>' + '<span style="color: #aaa;">' + e + '</span>'
 			})
 		$('#content>*').not('style').show()
