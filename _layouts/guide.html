@@ -274,7 +274,7 @@ document.addEventListener('DOMContentLoaded', function () {
 			var q = $(this),
 			    e = q.is(':first-child')? ''
 				: '<br><span style="color: #787;">' + q.text().replace(/[^#]+#/, '') + '</span>'
-			q.html(q.text().replace(/#\s.+/, ' (False)').replace(/#.+/, ' (True)') + e
+			q.html(q.text().replace(/#\s.+/, ' (False)').replace(/#.+/, ' (True)') + e)
 			})
 		$('#content>*').not('style').show()
 		}
