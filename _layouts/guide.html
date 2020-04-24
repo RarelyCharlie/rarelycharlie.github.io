@@ -271,9 +271,9 @@ document.addEventListener('DOMContentLoaded', function () {
 	review = location.search == '?galley'
 	if (review) {
 		$('ul.quiz>li').each(function () {
-			var q = $(this)
-			q.attr('title', q.text().replace(/[^#]+#/, ''))
+			var q = $(this), e = q.text().replace(/[^#]+#/, '')
 			q.text(q.text().replace(/#\s.+/, ' (False)').replace(/#.+/, ' (True)'))
+			  + '<br/>' + '<span style="color: #aaa;">' + e + '</span>'
 			})
 		$('#content>*').not('style').show()
 		}
