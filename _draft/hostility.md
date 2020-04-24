@@ -78,7 +78,7 @@ For example, someone might have thoughts about planting an apple tree and growin
 
 Members who appear hostile are expressing their hostile thoughts. Thoughts of this kind are not actions, and they are not a real-world threat.
 
-Even so, if you become very uncomfortable with a chat because it appears hostile or for any reason, it is strongly recommended that you transfer the member to another listener, or block the member, or both.
+Even so, if you become very uncomfortable with a chat because it appears hostile or for any reason, it is strongly recommended that you transfer the member to another listener, or block the member, or both. In this guide, the phrase "very uncomfortable" means that your discomfort is so great that it crosses some boundary that only you can determine.
 
 After the quiz, the next section is a further reminder about caring for yourself.
 
@@ -113,6 +113,8 @@ You have to make these decisions in advance, as far as possible, because a chat 
 If you haven’t already done so, take a few minutes right now to list the topics of conversation that lie outside your personal boundaries. You could write the list in your secure [Notes](https://www.7cups.com/notes.php). (The link provided here works for any listener, provided you are logged in to 7 Cups.) Check your list from time to time to remind yourself of it, and also to keep it updated.
 
 It’s also OK to be willing to chat about any topic without restriction. In this case you don’t need any list. But you should still make the decision not to have any list thoughtfully and in advance.
+
+One of the boundaries that you have to decide on is how much discomfort you are prepared to accept in a chat. This might depend on how you are feeling generally on the day, and it's not an exact thing. Many chats create a certain tolerable amout of discomfort. In this guide, the phrase "very uncomfortable" means however much discomfort you decide, at the time, makes you unable to continue a chat.
 
 It's OK to be willing to chat to members who appear hostile, or to members who appear hostile in some ways but not others. Appearing hostile is not a real-world threat.
 
