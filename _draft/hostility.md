@@ -897,11 +897,11 @@ After the quiz, the next section concludes this guide.
 - Narcissists are usually happy to discuss their sense of emptiness, because they are seeking solutions to the practical problems it causes.# Narcissists usually feel ashamed by their sense of emptiness.
 - Covert narcissists hide their sense of emptiness behind other problems#They often hide the real problem behind a practical problem.
 - When a listener diagnoses narcissism in a member, the condition can be treated by helping the member to solve their problems, because the problems seem insoluble to the member.# Listeners do not diagnose, treat conditions or solve problems.
-- Members sometimes describe insoluble problems to listeners.#Some members who describe insoluble problems are hiding a different problem, like shame.
+- The problems members describe always have solutions, even when listeners fail to discover them.# Some members describe insoluble problems to hide different problems, like shame.
 - Any listener who finds a member's problem insoluble can ask for solutions in the Listener Support Room.# Listeners do not solve members' problems.
 - Listeners provide emotional support to narcissistic members by reflecting the members’ feelings.#This is how listeners always provide emotional support.
 - Listeners can recover from being set up to fail by a narcissist if they reflect on why their failure was temporary, universal and external to them.#Listeners can recover from any adverse event in this way.
-- Listeners are sometimes blocked unfairly becuase a member feels shame.#Shame can make a member block the conversation.
+- Listeners are sometimes reported unfairly because a member feels shame.#Shame can make a member block the conversation.
 - When a narcissitic member appears threatening, it is not safe to continue the chat.# There is never any real-world threat.
 - Listeners sometimes find that members try to control them.#Members who suffer from anxiety are sometimes controlling.
 - Listeners sometimes find that members expect them to solve insoluble problems.#Members who suffer from covert narcissism sometimes do this.
