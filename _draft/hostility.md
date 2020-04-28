@@ -815,7 +815,7 @@ So the suggested things to try if you get nothing but hostility in a chat are:
 
 Remember, if you become very uncomfortable with a chat for any reason, it is strongly recommended that you transfer the member to another listener, or block the member, or both.
 
-After the quiz, the next section concludes this guide.
+After the quiz, the next section is about narcissistic members.
 
 - Mark each statement true or false:
 - Stalkers on 7 Cups often use multiple accounts.#7 Cups makes it easy for stakers to create new accounts.
@@ -823,9 +823,9 @@ After the quiz, the next section concludes this guide.
 - Members who find their need for emotional support is not met sometimes try again and again with other listeners.#Some members keep trying until they find a listener they feel supports them well.
 - Members who find their need for emotional support is not met sometimes harass or stalk one listener.#Some members harass or stalk listeners.
 - 7 Cups notifies stalkers when you read their messages, so they know they have got to you.# 7 Cups does not notify any member when you read their message, so if you don't reply they will never know you saw it.
-- Members who have suffered abuse are entitled to feel hostile towards everyone, so listeners should give a "green light" to their hostility.# Listeners should remain detached and try to reflect member's feelings accurately.
+- Members who have suffered abuse are entitled to feel hostile towards everyone, so listeners should give a "green light" to their hostility.# Listeners should remain detached and try to reflect members' feelings accurately.
 - Listeners must always respond to members' messages, even if they appear hostile.# Listeners do not need to respond to any unexpected message from a new account that is sent while the listnener if Offline or Busy.
-- Stalkers on 7 Cups are efficiently dealt with and permanently banned for life.# 7 Cups allows stalkers to create unlimited new accounts.
+- Stalkers on 7 Cups are always dealt with efficiently and permanently banned for life.# 7 Cups allows stalkers to create unlimited new accounts.
 - A listener must end the chat immediately at the first signs of discomfort, because otherwise it will only get worse.# A certain amount of discomfort is normal, because some members describe very bad situations.
 - A listener who is triggered by an apparently hostile chat must take a break from listening.# Being triggered is a normal part of life. Even so, a listener can take a break any time they need to.
 - 7 Cups uses screenshots as evidence of what happened in chats.#Screenshots are the only evidence.
@@ -844,13 +844,19 @@ For a narcissist, the feeling of being empty and meaningless is shameful. Theref
 
 Narcissists typically try to hide their sense of emptiness with grandiose and arrogant self-belief. For example, most narcissists would never admit to needing any kind of emotional support. For that reason we never encounter typical narcissists as members at 7 Cups (although we might encounter them as listeners).
 
+### Covert narcissism
+
 However, there's another type of narcissist, known as a covert or closet narcissist, who hides their sense of emptiness by making it other people's responsibility. This type of narcissist might become a member at 7 Cups.
+
+![decoration](/assets/hostile/decoe1.png){:.decor}
 
 In a typical scenario, a narcissistic member feels life is empty and meaningless, but feels shame about how they feel. To avoid shame, the member hides the real problem behind a practical problem.
 
-The member feels their empty and meaningless existence can never be improved, and therefore to represent it accurately, the practical problem needs to be a problem that cannot be solved.
+The member feels their empty and meaningless existence can never be improved, and therefore, to represent it accurately, the practical problem needs to be a problem that cannot be solved.
 
-This leads to listeners being faced with a very wide range of insoluble problems. The most common type simply contains two elements that can't possibly exist together. The final element is to pass the insoluble problem on to the listener to solve:
+### Insoluble problems
+
+This leads to listeners being faced with a very wide range of insoluble problems. The most common type simply contains two elements that can't possibly exist together. The final step is to pass the insoluble problem on to the listener to solve:
 
 |Member:|I hate my job but I can't leave.
 ||Tell me what to do.
@@ -860,7 +866,7 @@ In many cases the insoluble problem is not as obvious as this. In the chat you m
 
 Of course, listeners must not try to solve members' problems. Listeners provide emotional support by reflecting members' feelings. If you detect an insoluble problem, and there's no other feeling to reflect, then the feeling that the problem is insoluble is the best you can do:
 
-|Listener:|You hate it, but leaving is not a solution.
+|Listener:|You hate it, but leaving is not a solution. The problems feels insoluble.
 {:.chat}
 
 If you focus on the job as a literal problem, the member might become hostile because the real problem is their feeling of emptiness:
