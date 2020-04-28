@@ -835,6 +835,72 @@ After the quiz, the next section concludes this guide.
 
 
 
+# Narcissism
+Narcissism is a personality trait that comes from a very deep sense of inner emptiness and meaninglessness. It can range from mild to severe, and people with the most severe narcissism can be diagnosed as having narcissistic personality disorder.
+
+The term personality trait means that narcissism alters the way the sufferer interacts with other people and the way other people think of them. It appears to affect their personality.
+
+For a narcissist, the feeling of being empty and meaningless is shameful. Therefore it has to be hidden. A narcissist will not come right out and say how they really feel.
+
+Narcissists typically try to hide their sense of emptiness with grandiose and arrogant self-belief. For example, most narcissists would never admit to needing any kind of emotional support. For that reason we never encounter typical narcissists as members at 7 Cups (although we might encounter them as listeners).
+
+However, there's another type of narcissist, known as a covert or closet narcissist, who hides their sense of emptiness by making it other people's responsibility. This type of narcissist might become a member at 7 Cups.
+
+In a typical scenario, a narcissistic member feels life is empty and meaningless, but feels shame about how they feel. To avoid shame, the member hides the real problem behind a practical problem.
+
+The member feels their empty and meaningless existence can never be improved, and therefore to represent it accurately, the practical problem needs to be a problem that cannot be solved.
+
+This leads to listeners being faced with a very wide range of insoluble problems. The most common type simply contains two elements that can't possibly exist together. The final element is to pass the insoluble problem on to the listener to solve:
+
+|Member:|I hate my job but I can't leave.
+||Tell me what to do.
+{:.chat}
+
+In many cases the insoluble problem is not as obvious as this. In the chat you might explore the elements of the problem for a long time before the final "Tell me what to do" arrives.
+
+Of course, listeners must not try to solve members' problems. Listeners provide emotional support by reflecting members' feelings. If you detect an insoluble problem, and there's no other feeling to reflect, then the feeling that the problem is insoluble is the best you can do:
+
+|Listener:|You hate it, but leaving is not a solution.
+{:.chat}
+
+If you focus on the job as a literal problem, the member might become hostile because the real problem is their feeling of emptiness:
+
+|Listener:|What is it about the job that you hate the most?
+||*The member can't answer this, because it was never really about the job.*
+|Member:|Aren't you able to understand what I'm telling you in plain language? JUST TELL ME WHAT TO DO YOU IDIOT
+{:.chat}
+
+If you expose the member's feeling of emptiness, the member might become hostile because you caused them to feel shame:
+
+|Listener:|It's like your existence has no meaning because you're trapped in a job you hate.
+||*The member can't tolerate the shame of this.*
+|Member:|What makes you think you can judge me like that? JUST TELL ME WHAT TO DO YOU IDIOT
+{:.chat}
+
+Another possibility is that the member blocks you and reports you for lack of empathy.
+
+From your point of view as a listener, there's no solution to this. A small proportion of members have extreme difficulty communicating directly because of their narcissistic shame. In a chat, this kind of member will set you up to fail one way or another, because they need to see you fail in order for them to feel better about themselves, temporarily.
+
+Remember, if you become very uncomfortable with a chat for any reason, it is strongly recommended that you transfer the member to another listener, or block the member, or both.
+
+After the quiz, the next section concludes this guide.
+
+- Mark each statement true or false:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+{:.quiz}
+
+
 # Conclusion
 
 You have now completed the guide.
