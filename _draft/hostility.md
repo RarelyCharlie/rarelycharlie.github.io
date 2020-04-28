@@ -866,7 +866,7 @@ In many cases the insoluble problem is not as obvious as this. In the chat you m
 
 Of course, listeners must not try to solve members' problems. Listeners provide emotional support by reflecting members' feelings. If you detect an insoluble problem, and there's no other feeling to reflect, then the feeling that the problem is insoluble is the best you can do:
 
-|Listener:|You hate it, but leaving is not a solution. The problems feels insoluble.
+|Listener:|You hate it, but leaving is not a solution. The problem feels insoluble.
 {:.chat}
 
 If you focus on the job as a literal problem, the member might become hostile because the real problem is their feeling of emptiness:
