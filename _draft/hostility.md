@@ -836,7 +836,7 @@ After the quiz, the next section is about narcissistic members.
 
 
 # Narcissism
-Narcissism is a personality trait that comes from a very deep sense of inner emptiness and meaninglessness. It can range from mild to severe, and people with the most severe narcissism can be diagnosed as having narcissistic personality disorder.
+Narcissism is a personality trait that comes from a very deep sense of inner emptiness and meaninglessness. It can range from mild to severe, and people with the most severe narcissism can be diagnosed as having narcissistic personality disorder. Listeners cannot diagnose narcissism or provide therapy for it.
 
 The term personality trait means that narcissism alters the way the sufferer interacts with other people and the way other people think of them. It appears to affect their personality.
 
@@ -892,18 +892,19 @@ Remember, if you become very uncomfortable with a chat for any reason, it is str
 After the quiz, the next section concludes this guide.
 
 - Mark each statement true or false:
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- Narcissism is a severe personality disorder.# It can range from mild to severe, and only the most severe is a personality disorder.
+- Narcissism can alter the way a member interacts with other people.#It appears to affect their personality.
+- Narcissists are usually happy to discuss their sense of emptiness, because they are seeking solutions to the practical problems it causes.# Narcissists usually feel ashamed by their sense of emptiness.
+- Covert narcissists hide their sense of emptiness behind other problems#They often hide the real problem behind a practical problem.
+- When a listener diagnoses narcissism in a member, the condition can be treated by helping the member to solve their problems, because the problems seem insoluble to the member.# Listeners do not diagnose, treat conditions or solve problems.
+- Members sometimes describe insoluble problems to listeners.#Some members who describe insoluble problems are hiding a different problem, like shame.
+- Any listener who finds a member's problem insoluble can ask for solutions in the Listener Support Room.# Listeners do not solve members' problems.
+- Listeners provide emotional support to narcissistic members by reflecting the members’ feelings.#This is how listeners always provide emotional support.
+- Listeners can recover from being set up to fail by a narcissist if they reflect on why their failure was temporary, universal and external to them.#Listeners can recover from any adverse event in this way.
+- Listeners are sometimes blocked unfairly becuase a member feels shame.#Shame can make a member block the conversation.
+- When a narcissitic member appears threatening, it is not safe to continue the chat.# There is never any real-world threat.
+- Listeners sometimes find that members try to control them.#Members who suffer from anxiety are sometimes controlling.
+- Listeners sometimes find that members expect them to solve insoluble problems.#Members who suffer from covert narcissism sometimes do this.
 {:.quiz}
 
 
