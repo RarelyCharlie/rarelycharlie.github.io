@@ -924,5 +924,6 @@ Here is some further reading:
 - [*The Ego and the Mechanisms of Defence.*](https://books.google.co.uk/books/about/The_Ego_and_the_Mechanisms_of_Defence.html?id=mXcw7gFWS2oC) by Anna Freud. The original psychoanalytic theory behind displacement as an unconscious defence.
 - [*Harm*](https://rarelycharlie.github.io/guide/harm): An unofficial guide to chats about harm.
 - [*Transfer a chat to another listener*](https://rarelycharlie.github.io/howto/transfer) Unofficial how-to guide.
+- [All You Should Know about a Covert Narcissist](https://www.psychologytoday.com/us/blog/toxic-relationships/201901/all-you-should-know-about-covert-narcissist) Web page
 
 ![decoration](/assets/hostile/decob0.png){:.decoc}
