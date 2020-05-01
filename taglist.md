@@ -36,7 +36,7 @@ span.found {background: #5df;}
 
 #content p {margin: 1em 0;}
 </style>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
 <script>
 const controldomain = 'https://www.7cups.com'
 const controldir = 'forum'
