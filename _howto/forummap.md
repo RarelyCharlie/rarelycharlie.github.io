@@ -5,7 +5,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css">
 <style>{% include forummap.css %}</style>
-<script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.5.0.min.js" crossorigin="anonymous"></script>
 <script>{% include forumdata.js %}</script>
 <script>{% include forummap.js %}</script>
 <p>This is a list of the public forums at 7 Cups, arranged by <i class="fas fa-user-friends"></i>&nbsp;subcommunity or <i class="far fa-folder"></i>&nbsp;category.</p>
