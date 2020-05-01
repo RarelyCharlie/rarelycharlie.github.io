@@ -4,7 +4,7 @@ layout: howto
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 <style>{% include badgemap.css %}</style>
-<script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.5.0.min.js" crossorigin="anonymous"></script>
 <script>{% include badgedata.js %}</script>
 <script>{% include badgemap.js %}</script>
 
