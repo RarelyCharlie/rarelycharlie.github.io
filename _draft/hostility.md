@@ -202,7 +202,7 @@ For example, if a member appears hostile because of a threat, repeat back the fe
 |Listener:|Everything depends on finding out what you can do for your son. It's driving you frantic that no one can simply tell you the answer.
 {:.chat}
 
-After the quiz, the next section looks at 7 Cups's chat system.
+After the quiz, the next section looks at 7 Cups' chat system.
 
 - Mark each statement true or false:
 - Using active listening ensures that the advice you give a member is correct for that member's individual circumstances.# Listeners do not give advice.
