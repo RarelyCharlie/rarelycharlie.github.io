@@ -441,6 +441,9 @@ A ~~self-help guide~~, or some other guidance published in a ~~forum~~.
 
 ## H
 
+# H
+Heather Nelson, Director of Community Development, whose ~~listener~~ name is @Heather225.
+
 # hashtag
 A ~~tag~~ beginning with a hash symbol, ~~\#/\#-sign~~. Used in ~~feed~~ ~~posts/post~~ to classify the content of the post. Anyone can follow any hashtag at 7cups.com/~whatever-the-tag-is (using a tilde character, ~, in place of the hash character, \#).
 
@@ -519,6 +522,9 @@ Short for KrinkTheMellowUnicorn, the ~~listener~~ name of former ~~7 Cups~~ ~~st
 
 # L
 Abbreviation sometimes used for ~~listener.~~
+
+# Laiba
+Laiba Jalil, an Assistant Community Manager whose ~~listener~~ name is @Hope.
 
 # LaraG
 ~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member and ~~therapist~~ ~~community~~ manager Lara Gregorio, who also has a ~~therapist~~ ~~account~~ named LaraGregorio. Not to be confused with ~~Iara~~.  _See:_ [@LaraG](http://7cups.com/@LaraG), [@LaraGregorio](http://7cups.com/@LaraGregorio)
