@@ -512,7 +512,7 @@ Group Support Community Manager. _See:_ [@Kate](http://7cups.com/@Kate).
 _See:_ ~~Forum Key~~
 
 # Krink
-Short for KrinkTheMellowUnicorn, the ~~listener~~ name of ~~7 Cups~~ ~~staff~~ member Christian (or Xian) Crumlish.  _See:_ [@KrinkTheMellowUnicorn](http://7cups.com/@KrinkTheMellowUnicorn), [Krink's Studio](https://www.7cups.com/forum/Welcome_27/KrinksStudio_542/)
+Short for KrinkTheMellowUnicorn, the ~~listener~~ name of former ~~7 Cups~~ ~~staff~~ member Christian (or Xian) Crumlish, who left the role in 2019.  _See:_ [@KrinkTheMellowUnicorn](http://7cups.com/@KrinkTheMellowUnicorn), [Krink's Studio](https://www.7cups.com/forum/Welcome_27/KrinksStudio_542/)
 
 
 ## L
@@ -524,7 +524,7 @@ Abbreviation sometimes used for ~~listener.~~
 ~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member and ~~therapist~~ ~~community~~ manager Lara Gregorio, who also has a ~~therapist~~ ~~account~~ named LaraGregorio. Not to be confused with ~~Iara~~.  _See:_ [@LaraG](http://7cups.com/@LaraG), [@LaraGregorio](http://7cups.com/@LaraGregorio)
 
 # Laura
-~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member Laura Small. _See:_ [@Laura](http://7cups.com/@Laura), [Laura's Office](https://www.7cups.com/forum/ListenerCommunityampSiteUpdates_38/LaurasOffice_169/)
+~~Listener/listener~~ ~~name~~ of former ~~7 Cups'/7 Cups~~ ~~staff~~ member Laura Small, who left in 2019. _See:_ [@Laura](http://7cups.com/@Laura), [Laura's Office](https://www.7cups.com/forum/ListenerCommunityampSiteUpdates_38/LaurasOffice_169/)
 
 # LDR
 Long Distance Relationship. A relationship, usually online, between people who live far apart so that they can rarely or never meet in person. Not to be confused with ~~LHR~~ or ~~LSR,~~ which are ~~chatrooms./chatroom~~
@@ -668,6 +668,9 @@ An online alert, which may be an ~~announcement~~ or an automatic notification. 
 Second of the 27 groups of ~~listener~~ ~~levels./level~~
 
 ## O
+
+# Obs
+Nickname of Assistant Community Manager Rahul Sinha, whose ~~listener~~ name is @ASilentObserver.
 
 # offline
 A ~~status~~ setting indicating that a ~~listener~~ is not necessarily available to respond to ~~messages/message~~. ~~Listeners/listener~~ who are ~~logged in/log in~~ can respond while offline at their discretion, but they are not required to. For ~~guests/guest~~, ~~members/member~~ and ~~therapists/therapist~~ it indicates that the person is ~~logged out/log out~~.
