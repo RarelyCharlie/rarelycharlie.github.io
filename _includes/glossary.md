@@ -882,6 +882,9 @@ A ~~member~~ who receives long-term support from a ~~sponsor~~.
 # sponsor
 A ~~listener~~ who formally agrees to provide a ~~member~~ with long-term ~~emotional support,~~ working together on weekly structured activities.
 
+# SPOT
+Safety Patrol Outreach Team. A team that assists the Safety Patrol team.
+
 # staff
 Paid employees of ~~7 Cups~~. _See:_ [Our Team](http://www.7cups.com/about/ourteam.php)
 
