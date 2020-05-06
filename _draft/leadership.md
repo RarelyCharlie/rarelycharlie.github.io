@@ -4,6 +4,9 @@ feedback: https://www.7cups.com/@RarelyCharlie
 layout: default
 ---
 *Transcript of the video, [Leadership on 7 Cups](https://youtu.be/Gmy_KiPCWJ8).*
+*Forum thread: [Leadership on 7 Cups (+ a video from our founder)!](https://www.7cups.com/forum/SiteUpdates_100/HsHaven_1970/Leadershipon7Cupsavideofromourfounder_222135/1/)*
+
+---
 
 Everybody!
 
