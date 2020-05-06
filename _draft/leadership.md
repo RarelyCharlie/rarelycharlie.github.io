@@ -40,7 +40,7 @@ We are more of a servant leadership model, where the triangle is at the bottom <
 
 So being a leader is not something like an accolade, or status thing, or something that you can brag about. It's more, "Hey! I'm committing, I'm pouring in, I'm sacrificing, I'm caring, I'm serving." And so that's really what servant leadership is.
 
-The other key things I think is [sic] important about leadership is what I call *HHA*, so: *humility*, *hunger* and *accountability*.
+The other key things I think is *\[sic\]* important about leadership is what I call *HHA*, so: *humility*, *hunger* and *accountability*.
 
 Humility basically says, "Hey, I don't know how everything works. I'm not necessarily an expert. I'm going to figure things out. I'm going to work hard. I'm going to work with others. I'm going to ask for feedback, and I'm going to figure it out." Being humble, that's it. It's super important, super helpful.
 
