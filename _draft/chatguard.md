@@ -4,7 +4,7 @@ layout: howto
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 
-<div style="background: #ffaaaa; padding: 1ex; margin: 1em 0 1em -1ex; border: 1px solid #a00; border-radius: 4px;">
+<div style="background: #fee; color: #a00; padding: 1ex; margin: 1em 0 1em -1ex; border: 1px solid #a00; border-radius: 4px;">
 <b>Under development!</b><br>
 This is a draft description of something that doesn't exist yet!<br>
 Visit this page again for updates. 
