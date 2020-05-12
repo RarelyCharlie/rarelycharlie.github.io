@@ -22,7 +22,7 @@ ChatGuard does not affect messages from other listeners, or from members you cha
 
 Members whose chats are removed by ChatGuard receive no notification. It appears to them that you are ignoring all their messages.
 
-For this reason, when you use ChatGuard you must place a clear warning at the top of your profile saying something like: "**I do not respond to unsolicited messages.**"
+For this reason, when you use ChatGuard you must place a clear warning at the top of your profile saying something like: "I do not respond to unsolicited messages."
 
 To remove chats from members you have replied to in the past, either hide the chat using the (×) button or block the conversation in the normal way.
 
