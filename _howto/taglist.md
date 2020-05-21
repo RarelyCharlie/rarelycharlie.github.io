@@ -30,7 +30,7 @@ A taglist can be viewed on its own web page, but it cannot be changed there. The
 
 ### For owners of taglists
 	
-If you are the owner of a taglist you can give some other commands in its control thread in the forums. Press the Post to Thread button to give a command. Tags must start with @, and if you include more than one tag they must be separated by spaces, in the usual way.
+If you are the owner of a taglist or a 7 Cups admin you can give some other commands in the taglist's control thread in the forums. Press the Post to Thread button to give a command. Tags must start with @, and if you include more than one tag they must be separated by spaces, in the usual way.
 
  - "Please add: " followed by one or more tags `*`
  - "Please remove: " followed by one or more tags
