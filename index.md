@@ -21,7 +21,7 @@ This tool performs time zone conversion between your time zone and 7 Cups' time 
 A alternative training course for new listeners is available as a draft version.
 
 ## [Listeners' reading list](/books 'Go to the reading list')
-A reading list for listeners: background information about the work listeners do at 7 Cups.
+A reading list for listeners: background information about listeners' work.
 
 ## [Chats](/chat/ 'Go to the index of chats')
 Some fictional chats that illustrate some things about active listening.
