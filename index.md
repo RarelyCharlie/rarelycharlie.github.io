@@ -20,6 +20,8 @@ This tool performs time zone conversion between your time zone and 7 Cups' time 
 ## [Listener training](/listen/ 'Go to the listener training')
 A alternative training course for new listeners is available as a draft version.
 
+## [Listeners' reading list](/books 'Go to the reading list')
+
 ## [Chats](/chat/ 'Go to the index of chats')
 Some fictional chats that illustrate some things about active listening.
 
