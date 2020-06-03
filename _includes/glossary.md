@@ -938,7 +938,10 @@ The goal (reached by the beginning of 2017) of sufficient income to make ~~7 Cup
 Abbreviation sometimes used for ~~therapist,~~ or lowercase **t** for ~~teen.~~
 
 # tag
-A reference to an ~~account~~ made by prefixing its ~~name~~ with an @-sign. In ~~feed~~ ~~posts~~ and ~~forum~~ posts this creates an automatic ~~notification~~ to the account that was tagged. Also, a ~~hashtag~~.
+A reference to an ~~account~~ made by prefixing its ~~name~~ with an @-sign. In ~~forum~~ posts this creates an automatic ~~notification~~ to the account that was tagged. Also, a ~~hashtag~~.
+
+# taglist
+A list of ~~tags~~ separated by spaces. Often in white on a white background to make the tags invisible, or in a very small font making them less obtrusive.
 
 # teen
 An ~~account~~ whose owner has registered as being less than 18 years old. The minimum age that anyone can register to use 7 Cups is 13.
