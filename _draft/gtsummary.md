@@ -2,16 +2,14 @@
 title: Get Together (Summary)
 layout: default
 ---
-This is a condensed summary of the book *Get Together*, almost entirely in its own words. It can be printed on two sides of one page. For a wealth of supporting material, see the book's website: [Get Together](https://gettogetherbook.com)
+This is a very condensed summary of the book *Get Together*, almost entirely in its own words. For a wealth of supporting material, see the book's website: [Get Together](https://gettogetherbook.com)
 
 Note that this is a summary of the *book itself*, not the 7 Cups training course derived from the book. The 7 Cups training course omits some information and adds some other information.
 
 **Overview**: *Get Together* is a guide to cultivating a community—people who come together over what they care about. The secret to getting people together is this: build your community *with* people, not for them. There’s an order of operations you can follow to cultivate communities that burn bright. This handbook guides you in doing that.
 
 
-**Getting together**: The first step is to pinpoint people you share a purpose with, do something together, and get them talking. There’s no substitute for a courageous leader who takes this first step. No matter your community-building endeavor, the original leader should start with a clear *who*, then craft a *why* with that *who* in mind.
-
-The *why* might be something your people need more of, a change that they desire, or a problem that they can only solve together. Make a list of names. Send out a signal.
+**Getting together**: The first step is to pinpoint people you share a purpose with, do something together, and get them talking. There’s no substitute for a courageous leader who takes this first step. No matter your community-building endeavor, the original leader should start with a clear *who*, then craft a *why* with that *who* in mind. Make a list of names. Send out a signal.
 
 Continually ask yourself whether your community has an exclusionary identity causing it to lack diversity. Proactively invite and welcome new types of people.
 
@@ -24,15 +22,15 @@ Continually ask yourself whether your community has an exclusionary identity cau
 
 **Attract new folks** A sign of a vibrant community is that new members join because they want to. Instead of a push, create a pull by telling the personal story of how you started the community. Show that the community is bigger than you, and show how someone can get involved.
 
-Attracting others can’t just be your job. Make it clear to members that their active involvement in recruiting by sharing their own stories and other shareable assets is crucial to ensuring the vitality and success of your community. Your job is to put a spotlight on the inspiring people in your community.
+Attracting others can’t just be your job. Make it clear to members that their active involvement in recruiting by sharing their own stories and other shareable assets is crucial. Spotlight the inspiring people in your community.
 
 
-**Cultivate your identity** The little things that members do to express their shared identity will bring them closer together even as the community grows. Allow badges to emerge to enable members to telegraph their affiliation. Develop shared rituals and language unique to your community, to foster bonds between members. As a start, try agreeing on a name for members.
+**Cultivate your identity** Express shared identity. Allow badges to emerge to enable members to telegraph their affiliation. Develop shared rituals and language unique to your community, to foster bonds between members. As a start, try agreeing on a name for members.
 
 
 **Pay attention to who keeps showing up** Collect participation data. Retention is the one metric that matters. You need to dig into *who* keeps showing up and *why*.
 
-Listen, listen, and listen. Numbers are great at explaining how many, but you’ll need to have conversations in order to ask *why?* and discover the root cause of people’s motivations. Keep an open line of communication and consider calling members, emailing questions, setting up interviews, or sending surveys.
+Listen, listen, and listen. Have conversations in order to ask *why?* and discover the root cause of people’s motivations. Keep an open line of communication and consider calling members, emailing questions, setting up interviews, or sending surveys.
 
 Detect your missteps early, take ownership quickly and be transparent to reestablish trust. Remember: when members communicate frustrations to you, it’s a good sign because you can allow that knowledge to inform future decisions.
 
@@ -50,4 +48,4 @@ Define a process for feedback and reviews with leaders. Consistent check-ins lik
 
 **What’s next for your community?** Don’t try to fight change. Build a community that can respond to it. The goal of *Get Together* is to help you foster a supportive, collaborative, and resilient group of human beings. It shows you how to progressively ask less *from* others and do more *with* them.
 
-At each stage, you should have relinquished more of your control and distributed ownership to more and more members. The alternative to that resilience is an organizational bottleneck. Your work isn’t done until your members can thrive independent of your time and resources. So ask yourself: Will my community flourish without me? 
+At each stage, relinquish control and distribute ownership. The alternative to that resilience is an organizational bottleneck. Ask yourself: Will my community flourish without me? 
