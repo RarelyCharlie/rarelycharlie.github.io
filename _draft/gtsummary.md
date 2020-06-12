@@ -2,7 +2,9 @@
 title: Get Together (Summary)
 layout: default
 ---
-This is a condensed summary of the book *Get Together*, almost entirely in its own words. Its ten sections match the chapters in the book. For a wealth of supporting material, see the book's website: [Get Together](https://gettogetherbook.com)
+<style>.box {color: #a9ae; font-size: 150%; font-weight: bold; line-height: 1.15em; margin: 0 1ex; background: #f4f4ff; padding: 1ex; text-align: center; width: 40%; float: right;}</style>
+
+This is a condensed summary of the book *Get Together*, almost entirely in its own words. Its eleven sections match the chapters in the book. For a wealth of supporting material, see the book's website: [Get Together](https://gettogetherbook.com)
 
 Note that this is a summary of the *book itself*, not the 7 Cups training course derived from the book. The 7 Cups training course omits some information and adds some other information.
 
@@ -10,6 +12,9 @@ Note that this is a summary of the *book itself*, not the 7 Cups training course
 
 
 **Getting together**: The first step is to pinpoint people you share a purpose with, do something together, and get them talking. There’s no substitute for a courageous leader who takes this first step. No matter your community-building endeavor, the original leader should start with a clear *who*, then craft a *why* with that *who* in mind.
+
+Communities form around shared activities
+{:.box}
 
 Genuine passion attracts passionate people. If you rally your community because you have a damn good reason to, sincerity will permeate your efforts. Don’t try to fake the feeling. Start with people who bring energy, keen participants. You’ll need to stay invested in these people if you want to bring a community to life.
 
