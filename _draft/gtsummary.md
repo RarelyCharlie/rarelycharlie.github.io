@@ -25,6 +25,9 @@ Continually ask yourself whether your community has an exclusionary identity cau
 
 **Do something together** Communities form around shared activities. Shared activities should be purposeful, participatory and repeatable. You’ll need to design a core activity that you and your people can get together and repeat.
 
+Instead of a push, create a pull
+{.box}
+
 Pay attention to feedback, and try to gauge your people’s interest objectively. If no one wants to repeat this activity with you, that’s a red flag. The inescapable truth is that you’ll have to exceed expectations with your core activity if you want people to show up and keep showing up. Do your best to create an undeniably valuable *shared* experience.
 
 
