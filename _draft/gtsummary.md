@@ -94,6 +94,9 @@ The art of supporting volunteers lies in balancing structure and freedom. With s
 
 **Celebrate together** Use celebrations to revitalize the community by asking everyone tuning in to pause and focus, to mobilize around where to head next, to give everyone's tanks a much-needed refill, and to reflect on all that's been accomplished together.
 
+A supportive, collaborative, and resilient group of human beings
+{:.boxl}
+
 Select a format for each celebration relevant to both your community’s identity and its purpose. The right format is crucial to getting your people to come together, and to fulfilling the intention of your celebration. Your celebrations should have direction and structure, and incorporate your community's identifying badges, rituals and language.
 
 Cap off your event by bringing to life what your collective acts of devotion have added up to. This *why* brought you together in the first place. Your capacity to realize that purpose will continue to bind members together for years to come.
