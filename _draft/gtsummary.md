@@ -63,6 +63,9 @@ Bonds between members are fostered through rituals and language. Develop shared 
 
 Listen, listen, and listen. Numbers are great at explaining how many, but you’ll need to have conversations in order to ask *why?* and discover the root cause of people’s motivations. Keep an open line of communication and consider calling members, emailing questions, setting up interviews, or sending surveys.
 
+It’s about developing leaders
+{:.box}
+
 Use your measurement and listening processes to search for your most passionate community members, the hardcore of the hardcore. They always show up. They consistently invite friends. And most importantly, they’re raising their hands—eagerly contributing time and energy toward taking your community to the next level. Passing the torch to the folks who are raising their hands is how you’ll
 multiply your efforts as a leader and grow together as a community.
 
