@@ -2,7 +2,7 @@
 title: Get Together (Summary)
 layout: default
 ---
-This is a condensed summary of the book *Get Together*, almost entirely in its own words. It can be printed on two sides of one page. For a wealth of supporting material, see the book's website: [Get Together](https://gettogetherbook.com)
+This is a condensed summary of the book *Get Together*, almost entirely in its own words. Its ten sections match the chapters in the book. For a wealth of supporting material, see the book's website: [Get Together](https://gettogetherbook.com)
 
 Note that this is a summary of the *book itself*, not the 7 Cups training course derived from the book. The 7 Cups training course omits some information and adds some other information.
 
@@ -43,7 +43,7 @@ Your job is to put a spotlight on the inspiring people in your community. In cre
 
 **Cultivate your identity** The little things that members do to express their shared identity will bring them closer together even as the community grows.
 
-Equip people with badges that enable members to telegraph their affiliation to your community. Bware that when you meticulously craft badges for members there can be negative consequences and supporters may be left with little space for their own voices to be heard. Instead, allow new badges to emerge in the community itself.
+Equip people with badges that enable members to telegraph their affiliation to your community. Beware that when you meticulously craft badges for members there can be negative consequences and supporters may be left with little space for their own voices to be heard. Instead, allow new badges to emerge from the community itself.
 
 Bonds between members are fostered through rituals and language. Develop shared rituals and language unique to your community. As a start, try agreeing on a name for members.
 
