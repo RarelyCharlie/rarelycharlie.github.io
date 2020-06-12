@@ -26,7 +26,7 @@ Continually ask yourself whether your community has an exclusionary identity cau
 **Do something together** Communities form around shared activities. Shared activities should be purposeful, participatory and repeatable. You’ll need to design a core activity that you and your people can get together and repeat.
 
 Instead of a push, create a pull
-{.box}
+{:.box}
 
 Pay attention to feedback, and try to gauge your people’s interest objectively. If no one wants to repeat this activity with you, that’s a red flag. The inescapable truth is that you’ll have to exceed expectations with your core activity if you want people to show up and keep showing up. Do your best to create an undeniably valuable *shared* experience.
 
@@ -41,6 +41,9 @@ The goal is to focus conversations on the unique ideas that *your* community wan
 **Attract new folks** The missing ingredient in many would-be communities is dedication. A sign of a vibrant community is that new members join because they want to. Aspiring leaders frequently forget the importance of this agency. They plop unknowing people on a list and start calling them a community.
 
 Instead of a push, create a pull. Don’t broadcast a mass message to a faceless audience. Rather, work with your members to collectively send a clear, authentic signal about what your community is all about. To create a pull, tell the personal story of how you started the community. Show that the community is bigger than you, and show how someone can get involved.
+
+Listen, listen, and listen
+{:.box}
 
 Here’s the secret to spreading the word: attracting others can’t just be your job. Make it clear to members that their active involvement in recruiting by sharing their own stories and other shareable assets is crucial to ensuring the vitality and success of your community.
 
