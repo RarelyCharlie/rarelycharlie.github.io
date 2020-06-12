@@ -2,7 +2,8 @@
 title: Get Together (Summary)
 layout: default
 ---
-<style>#content p.box {color: #a9ae; font-size: 150%; font-weight: bold; line-height: 1.33em; margin: 1em 0 1em 1ex; background: #f4f4ff; padding: 1ex; text-align: center; width: 40%; float: right; box-shadow: 4px 4px 12px rgba(0, 0, 0, .2);}</style>
+<style>#content p.boxr {color: #a9ae; font-size: 150%; font-weight: bold; line-height: 1.33em; margin: 1em 0 1em 1ex; background: #f4f4ff; padding: 1ex; text-align: center; width: 40%; float: right; box-shadow: 4px 4px 12px rgba(0, 0, 0, .2);}
+#content p.boxl {color: #a9ae; font-size: 150%; font-weight: bold; line-height: 1.33em; margin: 1em 1ex 1em 0; background: #f4f4ff; padding: 1ex; text-align: center; width: 40%; float: left; box-shadow: 4px 4px 12px rgba(0, 0, 0, .2);}</style>
 
 This is a condensed summary of the book *Get Together*, almost entirely in its own words. Its eleven sections match the chapters in the book. For a wealth of supporting material, see the book's website: [Get Together](https://gettogetherbook.com)
 
@@ -14,7 +15,7 @@ Note that this is a summary of the *book itself*, not the 7 Cups training course
 **Getting together**: The first step is to pinpoint people you share a purpose with, do something together, and get them talking. There’s no substitute for a courageous leader who takes this first step. No matter your community-building endeavor, the original leader should start with a clear *who*, then craft a *why* with that *who* in mind.
 
 Communities form around shared activities
-{:.box}
+{:.boxr}
 
 Genuine passion attracts passionate people. If you rally your community because you have a damn good reason to, sincerity will permeate your efforts. Don’t try to fake the feeling. Start with people who bring energy, keen participants. You’ll need to stay invested in these people if you want to bring a community to life.
 
@@ -26,7 +27,7 @@ Continually ask yourself whether your community has an exclusionary identity cau
 **Do something together** Communities form around shared activities. Shared activities should be purposeful, participatory and repeatable. You’ll need to design a core activity that you and your people can get together and repeat.
 
 Instead of a push, create a pull
-{:.box}
+{:.boxl}
 
 Pay attention to feedback, and try to gauge your people’s interest objectively. If no one wants to repeat this activity with you, that’s a red flag. The inescapable truth is that you’ll have to exceed expectations with your core activity if you want people to show up and keep showing up. Do your best to create an undeniably valuable *shared* experience.
 
@@ -43,7 +44,7 @@ The goal is to focus conversations on the unique ideas that *your* community wan
 Instead of a push, create a pull. Don’t broadcast a mass message to a faceless audience. Rather, work with your members to collectively send a clear, authentic signal about what your community is all about. To create a pull, tell the personal story of how you started the community. Show that the community is bigger than you, and show how someone can get involved.
 
 Listen, listen, and listen
-{:.box}
+{:.boxr}
 
 Here’s the secret to spreading the word: attracting others can’t just be your job. Make it clear to members that their active involvement in recruiting by sharing their own stories and other shareable assets is crucial to ensuring the vitality and success of your community.
 
@@ -63,8 +64,8 @@ Bonds between members are fostered through rituals and language. Develop shared 
 
 Listen, listen, and listen. Numbers are great at explaining how many, but you’ll need to have conversations in order to ask *why?* and discover the root cause of people’s motivations. Keep an open line of communication and consider calling members, emailing questions, setting up interviews, or sending surveys.
 
-It’s about developing leaders
-{:.box}
+Don’t bend to fears of losing control!
+{:.boxl}
 
 Use your measurement and listening processes to search for your most passionate community members, the hardcore of the hardcore. They always show up. They consistently invite friends. And most importantly, they’re raising their hands—eagerly contributing time and energy toward taking your community to the next level. Passing the torch to the folks who are raising their hands is how you’ll
 multiply your efforts as a leader and grow together as a community.
@@ -75,6 +76,9 @@ Take extra time to speak with longtime members and emerging leaders in your comm
 
 
 **Create more leaders** Growing a community isn’t about management. It’s about developing leaders. With their help, your community will affect more people and sustain itself longer than you could have managed on your own. Don’t bend to fears of losing control!
+
+Supercharge valuable activities
+{:.boxr}
 
 Seek genuine and qualified people, but don't be afraid to say goodbye if someone doesn't work out. You can create many leadership roles with varying levels of responsibility.
 
