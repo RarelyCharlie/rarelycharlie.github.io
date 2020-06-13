@@ -2,8 +2,8 @@
 title: Get Together (Summary)
 layout: default
 ---
-<style>#content p.boxr {color: #a9ae; font-size: 150%; font-weight: bold; line-height: 1.33em; margin: 1em 0 1em 1ex; background: #f4f4ff; padding: 1ex; text-align: center; width: 40%; float: right; box-shadow: 4px 4px 12px rgba(0, 0, 0, .2);}
-#content p.boxl {color: #a9ae; font-size: 150%; font-weight: bold; line-height: 1.33em; margin: 1em 1ex 1em 0; background: #f4f4ff; padding: 1ex; text-align: center; width: 40%; float: left; box-shadow: 4px 4px 12px rgba(0, 0, 0, .2);}</style>
+<style>#content p.boxl, #content p.boxr {color: #a9ae; font-size: 150%; font-weight: bold; line-height: 1.33em; margin: 1em 1ex 1em 1ex; background: #f4f4ff; padding: 1ex; text-align: center; width: 40%; float: right; box-shadow: 4px 4px 12px rgba(0, 0, 0, .2);}
+#content p.boxl {margin: 1em 1ex 1em 1ex; float: left;}</style>
 
 This is a condensed summary of the book *Get Together*, almost entirely in its own words. Its eleven sections match the chapters in the book. For a wealth of supporting material, see the book's website: [Get Together](https://gettogetherbook.com)
 
@@ -14,7 +14,7 @@ Note that this is a summary of the *book itself*, not the 7 Cups training course
 
 **Getting together**: The first step is to pinpoint people you share a purpose with, do something together, and get them talking. There’s no substitute for a courageous leader who takes this first step. No matter your community-building endeavor, the original leader should start with a clear *who*, then craft a *why* with that *who* in mind.
 
-Communities form around shared activities
+Start with a clear *who*, then craft a *why*
 {:.boxr}
 
 Genuine passion attracts passionate people. If you rally your community because you have a damn good reason to, sincerity will permeate your efforts. Don’t try to fake the feeling. Start with people who bring energy, keen participants. You’ll need to stay invested in these people if you want to bring a community to life.
@@ -26,7 +26,7 @@ Continually ask yourself whether your community has an exclusionary identity cau
 
 **Do something together** Communities form around shared activities. Shared activities should be purposeful, participatory and repeatable. You’ll need to design a core activity that you and your people can get together and repeat.
 
-Instead of a push, create a pull
+Communities form around shared activities
 {:.boxl}
 
 Pay attention to feedback, and try to gauge your people’s interest objectively. If no one wants to repeat this activity with you, that’s a red flag. The inescapable truth is that you’ll have to exceed expectations with your core activity if you want people to show up and keep showing up. Do your best to create an undeniably valuable *shared* experience.
@@ -43,7 +43,7 @@ The goal is to focus conversations on the unique ideas that *your* community wan
 
 Instead of a push, create a pull. Don’t broadcast a mass message to a faceless audience. Rather, work with your members to collectively send a clear, authentic signal about what your community is all about. To create a pull, tell the personal story of how you started the community. Show that the community is bigger than you, and show how someone can get involved.
 
-Listen, listen, and listen
+Instead of a push, create a pull
 {:.boxr}
 
 Here’s the secret to spreading the word: attracting others can’t just be your job. Make it clear to members that their active involvement in recruiting by sharing their own stories and other shareable assets is crucial to ensuring the vitality and success of your community.
@@ -64,7 +64,7 @@ Bonds between members are fostered through rituals and language. Develop shared 
 
 Listen, listen, and listen. Numbers are great at explaining how many, but you’ll need to have conversations in order to ask *why?* and discover the root cause of people’s motivations. Keep an open line of communication and consider calling members, emailing questions, setting up interviews, or sending surveys.
 
-Don’t bend to fears of losing control!
+Listen, listen, and listen
 {:.boxl}
 
 Use your measurement and listening processes to search for your most passionate community members, the hardcore of the hardcore. They always show up. They consistently invite friends. And most importantly, they’re raising their hands—eagerly contributing time and energy toward taking your community to the next level. Passing the torch to the folks who are raising their hands is how you’ll
@@ -77,7 +77,7 @@ Take extra time to speak with longtime members and emerging leaders in your comm
 
 **Create more leaders** Growing a community isn’t about management. It’s about developing leaders. With their help, your community will affect more people and sustain itself longer than you could have managed on your own. Don’t bend to fears of losing control!
 
-Supercharge valuable activities
+Don’t bend to fears of losing control!
 {:.boxr}
 
 Seek genuine and qualified people, but don't be afraid to say goodbye if someone doesn't work out. You can create many leadership roles with varying levels of responsibility.
@@ -87,15 +87,15 @@ Define a process for feedback and reviews with leaders. Consistent check-ins lik
 It should be clear by now: you can’t build a community on your own. One of the great joys of creating more leaders—finding, vetting, and developing them—will be watching some of them far exceed your expectations.
 
 
-**Supercharge your leaders** Figure out what support is needed by your community leaders, and when. Map out the first steps that leaders take after raising their hands to accept a leadership role, how they are vetted, welcomed, onboarded and acknowledged, what key activities their work involves, and what support they receive. Your support should supercharge valuable activities and minimize or eliminate the others.
+**Supercharge your leaders** Figure out what support is needed by your community leaders, and when. Map out the first steps that leaders take after raising their hands to accept a leadership role, how they are vetted, welcomed, onboarded and acknowledged, what key activities their work involves, and what support they receive.
 
-The art of supporting volunteers lies in balancing structure and freedom. With structure new leaders gain confidence, with freedom they embrace ownership.
+Supercharge valuable activities
+{:.boxl}
+
+Your support should supercharge valuable activities and minimize or eliminate the others. The art of supporting volunteers lies in balancing structure and freedom. With structure new leaders gain confidence, with freedom they embrace ownership.
 
 
 **Celebrate together** Use celebrations to revitalize the community by asking everyone tuning in to pause and focus, to mobilize around where to head next, to give everyone's tanks a much-needed refill, and to reflect on all that's been accomplished together.
-
-A supportive, collaborative, and resilient group of human beings
-{:.boxl}
 
 Select a format for each celebration relevant to both your community’s identity and its purpose. The right format is crucial to getting your people to come together, and to fulfilling the intention of your celebration. Your celebrations should have direction and structure, and incorporate your community's identifying badges, rituals and language.
 
