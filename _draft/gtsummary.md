@@ -3,7 +3,7 @@ title: Get Together (Summary)
 layout: default
 ---
 <style>#content p.boxl, #content p.boxr {color: #a9ae; font-size: 150%; font-weight: bold; line-height: 1.33em; margin: 1em 1ex 1em 1ex; background: #f4f4ff; padding: 1ex; text-align: center; width: 40%; float: right; box-shadow: 4px 4px 12px rgba(0, 0, 0, .2);}
-#content p.boxl {margin: 1em 1ex 1em 1ex; float: left;}</style>
+#content p.boxl {margin: 1em 1.5ex 1em 0; float: left;}</style>
 
 This is a condensed summary of the book *Get Together*, almost entirely in its own words. Its eleven sections match the chapters in the book. For a wealth of supporting material, see the book's website: [Get Together](https://gettogetherbook.com)
 
