@@ -12,10 +12,10 @@ This is a condensed summary of the book *Get Together*, almost entirely in its o
 
 Note that this is a summary of *the book itself*, not the 7 Cups training course derived from the book. The 7 Cups training course omits some information and adds some other information. Reading the actual book is highly recommended because of the many examples of successful communities it describes.
 
-**Overview**: *Get Together* is a guide to cultivating a community—people who come together over what they care about. The secret to getting people together is this: build your community *with* people, not for them. There’s an order of operations you can follow to cultivate communities that burn bright. This handbook guides you in doing that.
+**Overview** *Get Together* is a guide to cultivating a community—people who come together over what they care about. The secret to getting people together is this: build your community *with* people, not for them. There’s an order of operations you can follow to cultivate communities that burn bright. This handbook guides you in doing that.
 
 
-**Getting together**: The first step is to pinpoint people you share a purpose with, do something together, and get them talking. There’s no substitute for a courageous leader who takes this first step. No matter your community-building endeavor, the original leader should start with a clear *who*, then craft a *why* with that *who* in mind.
+**Getting together** The first step is to pinpoint people you share a purpose with, do something together, and get them talking. There’s no substitute for a courageous leader who takes this first step. No matter your community-building endeavor, the original leader should start with a clear *who*, then craft a *why* with that *who* in mind.
 
 Start with a clear *who*, then craft a *why*
 {:.boxr}
