@@ -1,5 +1,6 @@
 ---
 title: Solution Focused Therapy
+info: Unofficial training guide for listeners
 layout: guide
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
