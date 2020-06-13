@@ -1,5 +1,5 @@
 ---
-title: Get Together (Summary)
+title: Get Together
 layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
