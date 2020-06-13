@@ -1,6 +1,6 @@
 ---
 title: Get Together
-info: Condensed summary of the book, 'Get Together'
+info: Condensed summary of the book
 layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
