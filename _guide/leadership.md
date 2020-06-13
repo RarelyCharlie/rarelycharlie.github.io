@@ -1,5 +1,6 @@
 ---
 title: Leadership on 7 Cups
+info: Transcript of a video
 feedback: https://www.7cups.com/@RarelyCharlie
 layout: default
 ---
