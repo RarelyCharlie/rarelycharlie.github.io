@@ -33,7 +33,7 @@ config = {
 
 urlfrag = (elem, id) => (elem? acfi[elem][id] : acfi.corpus[id].head).replace(/\W/g, '') + '_' + id
 
-init = async function () {
+initsearch = async function () {
 	count = document.getElementById('count')
 	
 	var r = await fetch('https://rarelycharlie.github.io/assets/info/acfi.json')
@@ -51,6 +51,7 @@ init = async function () {
 	display = document.getElementById('display')
 	results = document.getElementById('res')
 	}
+initsearch()
 		
 wait = 0
 searchkey = () => {
