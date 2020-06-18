@@ -17,7 +17,7 @@ This experimental and unofficial search engine searches all threads in the *List
 
 Threads with the most upvotes are displayed first, no matter how old they are. Beware outdated information. Some threads date back to 2014.
 
-You can't search for tags
+You can't search for tags.
 
 Results that link to listener-only threads only work if you are logged in to a listener account at 7 Cups.
 
@@ -69,7 +69,7 @@ initsearch()
 wait = 0
 searchkey = () => {
 	if (wait) clearTimeout(wait)
-	wait = setTimeout(search, 1000)
+	wait = setTimeout(search, 600)
 	}
 
 search = () => {
