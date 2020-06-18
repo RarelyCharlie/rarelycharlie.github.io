@@ -73,7 +73,13 @@ searchkey = () => {
 	}
 
 search = () => {
-	var res = idx.search(document.getElementById('words').value, config)
+	var w = document.getElementById('words').value.trim()
+	if (w == '') {
+		count.hidden = true
+		display.hidden = true
+		return
+		}
+	var res = idx.search(w, config)
 
 	var hit = []
 	for (let r of res) hit.push(acfi.corpus[r.ref])
@@ -105,8 +111,9 @@ search = () => {
 		if (++n == 100) break
 		}
 
-	count.hidden = hit.length == 0
-	count.textContent = hit.length == 1? '1 thread found.' : hit.length + ' threads found.'
+	count.hidden = false
+	count.textContent = hit.length == 0? 'No threads found' :
+		('hit.length == 1? '1 thread found.' : hit.length + ' threads found.')
 	
 	display.hidden = hit.length < 100
 	display.textContent = hit.length > 100? 'Displaying first 100.' : ''
