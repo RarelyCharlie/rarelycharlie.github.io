@@ -13,9 +13,15 @@ input {width: 20em;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 
-This experimental and unofficial search engine searches all threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities. Links to listener-only threads only work if you are logged in to a listener account at 7 Cups.
+This experimental and unofficial search engine searches all threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities, excluding archived threads and many checkins.
 
 Threads with the most upvotes are displayed first, no matter how old they are. Beware outdated information. Some threads date back to 2014.
+
+You can't search for tags
+
+Results that link to listener-only threads only work if you are logged in to a listener account at 7 Cups.
+
+The Options button doesn't work yet. Some additional search options may be added later.
 
 <p>Search for all of these words (more words for fewer results):<br>
 <input type="text" id="words" onkeydown="searchkey(this)" placeholder="…words…" autocomplete="off" autofocus> <i class="fa fa-search"></i> <button title="Sorry, not implemented yet!">Options <i class="fa fa-caret-down"></i></button></p>
@@ -71,6 +77,7 @@ search = () => {
 
 	var hit = []
 	for (let r of res) hit.push(acfi.corpus[r.ref])
+	hit = hit.filter(t => t.forum != 1886 && t.forum != 1682) // exclude archive, checkin
 	hit = hit.sort((a, b) => b.up - a.up)
 		
 	var list = '', n = 0
@@ -83,8 +90,10 @@ search = () => {
 		let aa = acfi.author[thread.by].split(','),
 			author = aa[0],
 			avatar = aa[1],
-			profile = author == 'null'? 'unknown' : '<a href="https://www.7cups.com/@' + author + '" target="_blank" '
-		    	+ 'title="' + author + (author.endsWith('s')? '\'' : '\'s') + ' profile">@' + author + '</a>',
+			profile = author == 'null'? 'unknown' :
+				'<a href="https://www.7cups.com/@' + author + '" target="_blank" '
+		    		+ 'title="' + author + (author.endsWith('s')? '\'' : '\'s')
+				+ ' profile">@' + author + '</a>',
 			when = new Date(thread.at * 1000)
 
 		list += '<p><a href="' + url + '" target="_blank" rel="noreferrer noopener">' + thread.head + '</a> '
