@@ -4,13 +4,19 @@ layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 <style>
-p {margin: 0 0 .5ex 0;}
+#res p {margin: 0 0 .5ex 0; font-weight: bold;}
 a {text-decoration: none;}
-small {margin-left: 2em;}
+small {margin-left: 2em; font-weight: normal;}
 button {padding: 2px 4px; border: 1px solid #000; border-radius: 2px; margin-left: 2em;
 	color: #ccc; border-color: #ccc;}
+input {width: 20em;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
+
+This experimental and unofficial search engine searches all threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities. Links to listener-only threads only work if you are logged in to a listener account at 7 Cups.
+
+Threads with the most upvotes are displayed first, no matter how old they are. Beware outdated information. Some threads date back to 2014.
+
 <p>Search for all of these words (more words for fewer results):<br>
 <input type="text" id="words" onkeydown="searchkey(this)" placeholder="…words…" autocomplete="off" autofocus> <i class="fa fa-search"></i> <button title="Sorry, not implemented yet!">Options <i class="fa fa-caret-down"></i></button></p>
 <p><span id="count"><i class="fa fa-spinner fa-spin"></i></span> <span id="display"></span></p>
