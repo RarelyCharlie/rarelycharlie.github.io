@@ -13,7 +13,7 @@ input {width: 20em;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 
-This experimental and unofficial search engine searches all threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities, excluding archived threads and many checkins.
+This experimental and unofficial search engine searches all threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities, excluding some recent threads, archived threads and many checkins.
 
 Threads with the most upvotes are displayed first, no matter how old they are. Beware outdated information. Some threads date back to 2014.
 
