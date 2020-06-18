@@ -31,6 +31,7 @@ config = {
 	bool: 'AND'
 	}
 
+months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 urlfrag = (elem, id) => (elem? acfi[elem][id] : acfi.corpus[id].head).replace(/\W/g, '') + '_' + id
 
 initsearch = async function () {
@@ -77,13 +78,14 @@ search = () => {
 			author = aa[0],
 			avatar = aa[1],
 			profile = author == 'null'? 'unknown' : '<a href="https://www.7cups.com/@' + author + '" target="_blank" '
-		    	+ 'title="' + author + (author.endsWith('s')? '\'' : '\'s') + ' profile">@' + author + '</a>'
+		    	+ 'title="' + author + (author.endsWith('s')? '\'' : '\'s') + ' profile">@' + author + '</a>',
+			when = new Date(thread.at * 1000)
 
 		list += '<p><a href="' + url + '" target="_blank" rel="noreferrer noopener">' + thread.head + '</a> '
 		  + '<br><small>'
 		  + ' <i class="fa fa-arrow-up"></i> ' + thread.up.toLocaleString()
 		  + ' by ' + profile 
-		  + ' in ' + moment.unix(thread.at).format('MMMM YYYY')
+		  + ' in ' + months[when.getMonth()] + ' ' + when.getFullYear()
 		  + '</small></p>\n'
 		if (++n == 100) break
 		}
