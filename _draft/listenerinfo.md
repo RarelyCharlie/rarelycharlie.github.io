@@ -112,8 +112,7 @@ search = () => {
 		}
 
 	count.hidden = false
-	count.textContent = hit.length == 0? 'No threads found' :
-		('hit.length == 1? '1 thread found.' : hit.length + ' threads found.')
+	count.textContent = 'hit.length == 1? '1 thread found.' : hit.length + ' threads found.'
 	
 	display.hidden = hit.length < 100
 	display.textContent = hit.length > 100? 'Displaying first 100.' : ''
