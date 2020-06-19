@@ -12,9 +12,11 @@ a {text-decoration: none;}
 small {margin-left: 2em; font-weight: normal; letter-spacing: 0;}
 button {padding: 2px 4px; border: 1px solid #000; border-radius: 2px; margin-left: 2em;
 	color: #ccc; border-color: #ccc;}
+input {margin-left: 0;}
 input#words {width: 20em;}
 table {border-spacing: 0 4px;}
 td, label {padding-right: 1ex;}
+tr:last-child>td {padding-top: 1ex;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 
