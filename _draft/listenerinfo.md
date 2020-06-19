@@ -43,12 +43,11 @@ The Options button doesn't work yet. Some additional search options may be added
 <label for="archive" onclick="search()"><input type="checkbox" id="archive"> Include archived threads.
 </label>
 
+---
+
 <p><span id="logic">Search for all of these words (more words for fewer results):</span><br>
 <span id="atsign" hidden>@</span><input type="text" id="words" onkeydown="searchkey(this)" placeholder="…words…" autocomplete="off" autofocus> <i class="fa fa-search"></i></p>
 <p><span id="count"><i class="fa fa-spinner fa-spin"></i></span> <span id="display"></span></p>
-
----
-
 <div id="res"></div>
 
 <script>
