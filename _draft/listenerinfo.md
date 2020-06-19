@@ -28,7 +28,7 @@ The Options button doesn't work yet. Some additional search options may be added
 
 ---
 
-<table><tbody>
+<div><table><tbody>
 <tr><td>Search for:</td>
 <td><label for="forall" onclick="search()"><input type="radio" name="searchfor" id="forall" value="0" checked> All of the words (more words for fewer results)</label><td></tr>
 <tr><td></td><td><label for="forany" onclick="search()"><input type="radio" name="searchfor" id="forany" value="0"> <em>Any</em> of the words (more words for more results)</label><td></tr>
@@ -39,7 +39,8 @@ The Options button doesn't work yet. Some additional search options may be added
 <label for="bydate" onclick="search()"><input type="radio" name="sortby" id="bydate" value="1"> Date</label>
 <label for="byrelev" onclick="search()"><input type="radio" name="sortby" id="byrelev" value="2"> Relevance</label>
 </td></tr>
-</tbody></table> 
+</tbody></table>
+</div>
  
 <p><label for="archive" onclick="search()"><input type="checkbox" id="archive"> Include archived threads.
 </label></p>
