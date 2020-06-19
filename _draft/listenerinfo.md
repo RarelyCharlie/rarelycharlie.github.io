@@ -56,10 +56,6 @@ The Options button doesn't work yet. Some additional search options may be added
 acfi = null
 idx = null
 
-count = null
-results = null
-display = null
-
 config = {
 	fields: {
 		head: {boost: 2},
@@ -67,18 +63,25 @@ config = {
 		},
 	bool: 'AND'
 	}
+	
+sorters = [
+	(a, b) => b.up - a.up,
+	(a, b) => b.at - a.at,
+	(a, b) => 0
+	] 
 
 months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 urlfrag = (elem, id) => (elem? acfi[elem][id] : acfi.corpus[id].head).replace(/\W/g, '') + '_' + id
 
+UI = {}
+document.querySelectorAll('[id]').forEach(elem => UI[elem.id] = elem)
+
 initsearch = async function () {
-	count = document.getElementById('count')
-	
+	UI.count.textContent = ''
+
 	var r = await fetch('https://rarelycharlie.github.io/assets/acfi.json')
-	acfi = await r.json()
-	
-	count.textContent = ''
-		
+	acfi = await r.json()	
+
 	acfi.cat = {
 		149: 'Listener Learning & Journey',
 		181: 'Safety & Knowledge at 7 Cups'
@@ -86,8 +89,8 @@ initsearch = async function () {
 	
 	idx = elasticlunr.Index.load(acfi.index)
 
-	display = document.getElementById('display')
-	results = document.getElementById('res')
+	UI.display = document.getElementById('display')
+	UI.results = document.getElementById('res')
 	}
 initsearch()
 		
@@ -98,19 +101,44 @@ searchkey = () => {
 	}
 
 search = () => {
+	if (UI.forany.checked) {
+		config.bool = 'OR'
+		UI.logic.innerHTML = 'Search for <em>any</em> of these words (more words for more results):'
+		UI.words.setAttribute('placeholder', '…words…')
+		UI.words.className = ''
+		UI.atsign.hidden = true
+		}
+	else if (UI.forall.checked) {
+		config.bool = 'AND'
+		UI.logic.innerHTML = 'Search for all these words (more words for fewer results):'
+		UI.words.setAttribute('placeholder', '…words…')
+		UI.words.className = ''
+		UI.atsign.hidden = true
+		}
+	else {
+		UI.logic.innerHTML = 'Search for an author:'
+		UI.words.setAttribute('placeholder', 'authorname')
+		UI.words.className = 'author'
+		UI.atsign.hidden = false
+		}
+
 	var w = document.getElementById('words').value.trim()
 	if (w == '') {
-		count.hidden = true
-		display.hidden = true
-		results.innerHTML = ''
+		UI.count.hidden = true
+		UI.display.hidden = true
+		UI.results.innerHTML = ''
 		return
 		}
-	var res = idx.search(w, config)
+
+	var res = UI.words.className == 'author'? authorsearch(w) : idx.search(w, config)
 
 	var hit = []
 	for (let r of res) hit.push(acfi.corpus[r.ref])
-	hit = hit.filter(t => t.forum != 1886 && t.forum != 1682) // exclude archive, checkin
-	hit = hit.sort((a, b) => b.up - a.up)
+	
+	if (!UI.archive.checked) hit = hit.filter(t => t.forum != 1886) // exclude archive
+	if (!UI.checkins.checked) hit = hit.filter(t => t.forum != 1682) // exclude checkins
+	
+	hit = hit.sort(sorters[document.querySelector('[name=sortby]:checked').value])
 		
 	var list = '', n = 0
 	for (let thread of hit) {
@@ -128,7 +156,7 @@ search = () => {
 				+ ' profile">@' + author + '</a>',
 			when = new Date(thread.at * 1000)
 
-		list += '<p><a href="' + url + '" target="_blank" rel="noreferrer noopener">' + thread.head + '</a> '
+		list += '<p><i class="fa fa-star outline"></i> <a href="' + url + '" target="_blank" rel="noreferrer noopener">' + thread.head + '</a> '
 		  + '<br><small>'
 		  + ' <i class="fa fa-arrow-up"></i> ' + thread.up.toLocaleString()
 		  + ' by ' + profile 
@@ -137,12 +165,31 @@ search = () => {
 		if (++n == 100) break
 		}
 
-	count.hidden = false
-	count.textContent = hit.length == 0? 'No threads found.' : (hit.length == 1? '1 thread found.' : hit.length + ' threads found.')
+	UI.count.hidden = false
+	UI.count.textContent = hit.length == 0? 'No threads found.' : (hit.length == 1? '1 thread found.' : hit.length + ' threads found.')
 	
-	display.hidden = hit.length < 100
-	display.textContent = hit.length > 100? 'Displaying first 100.' : ''
+	UI.display.hidden = hit.length < 100
+	UI.display.textContent = hit.length > 100? 'Displaying first 100.' : ''
 	 	
-	results.innerHTML = list
+	UI.results.innerHTML = list
+	}
+	
+toggle = button => {
+	var div = button.nextElementSibling
+	div.className = div.className.endsWith('open')? 'panel closed' : 'panel open'
+	var i = button.lastElementChild
+	i.className = i.className.endsWith('down')? 'fa fa-caret-up' : 'fa fa-caret-down' 
+	}
+	
+authorsearch = author => {
+	var seek = author.split(' ')[0].replace(/[^A-Za-z0-9]/g, '').toLowerCase() + ','
+	var aid = 0
+	for (let a in acfi.author) {
+		if (acfi.author[a].toLowerCase().startsWith(seek)) aid = a
+		}
+
+	var res = []
+	for (let thread in acfi.corpus) if (acfi.corpus[thread].by == aid) res.push({ref: acfi.corpus[thread].id})
+	return res
 	}
 </script>
