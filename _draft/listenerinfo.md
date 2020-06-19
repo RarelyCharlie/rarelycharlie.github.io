@@ -3,6 +3,8 @@ title: Listener information
 layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
+<p style="color: #a00; font-size: 150%"><b>Under construction:</b> This page might not work at times today, June 19th.</p>
+
 <style>
 #res p {margin: 0 0 .5ex 0; font-weight: bold; letter-spacing: .75px;}
 a {text-decoration: none;}
