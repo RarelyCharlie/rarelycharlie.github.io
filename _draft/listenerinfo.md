@@ -3,8 +3,6 @@ title: Listener information
 layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
-<p style="color: #a00; font-size: 150%"><b>Under construction:</b><br>This page might not work at times today, June 19th.</p>
-
 <style>
 body {overflow-y: scroll;}
 #res p {margin: 0 0 .5ex 0; font-weight: bold; letter-spacing: .75px;}
@@ -23,15 +21,13 @@ tr:last-child>td {padding-top: 1ex;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 
-This experimental and unofficial search engine searches all threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities, excluding some recent threads, archived threads and many checkins.
+This experimental and unofficial search engine searches all threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities, excluding some recent threads, archived threads and some checkins.
 
-Threads with the most upvotes are displayed first, no matter how old they are. Beware outdated information. Some threads date back to 2014.
+Beware outdated information. Some threads date back to 2014.
 
 You can't search for tags.
 
 Results that link to listener-only threads only work if you are logged in to a listener account at 7 Cups.
-
-The Options button doesn't work yet. Some additional search options may be added later.
 
 ---
 
