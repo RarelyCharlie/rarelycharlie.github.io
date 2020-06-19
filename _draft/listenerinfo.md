@@ -51,7 +51,7 @@ urlfrag = (elem, id) => (elem? acfi[elem][id] : acfi.corpus[id].head).replace(/\
 initsearch = async function () {
 	count = document.getElementById('count')
 	
-	var r = await fetch('https://rarelycharlie.github.io/assets/info/acfi.json')
+	var r = await fetch('https://rarelycharlie.github.io/assets/acfi.json')
 	acfi = await r.json()
 	
 	count.textContent = ''
