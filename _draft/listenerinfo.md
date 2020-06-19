@@ -26,10 +26,32 @@ Results that link to listener-only threads only work if you are logged in to a l
 
 The Options button doesn't work yet. Some additional search options may be added later.
 
-<p>Search for all of these words (more words for fewer results):<br>
-<input type="text" id="words" onkeydown="searchkey(this)" placeholder="…words…" autocomplete="off" autofocus> <i class="fa fa-search"></i> <button title="Sorry, not implemented yet!">Options <i class="fa fa-caret-down"></i></button></p>
+---
+
+<table><tbody>
+<tr><td>Search for:</td>
+<td><label for="forall" onclick="search()"><input type="radio" name="searchfor" id="forall" value="0" checked> All of the words (more words for fewer results)</label><td></tr>
+<tr><td></td><td><label for="forany" onclick="search()"><input type="radio" name="searchfor" id="forany" value="0"> <em>Any</em> of the words (more words for more results)</label><td></tr>
+<tr><td></td><td><label for="forauthor" onclick="search()"><input type="radio" name="searchfor" id="forauthor" value="0"> An author</label><td></tr>
+<tr style="height: 2em;"><td>Sort by:</td>
+<td>
+<label for="byupvotes" onclick="search()"><input type="radio" name="sortby" id="byupvotes" value="0" checked> Upvotes</label>
+<label for="bydate" onclick="search()"><input type="radio" name="sortby" id="bydate" value="1"> Date</label>
+<label for="byrelev" onclick="search()"><input type="radio" name="sortby" id="byrelev" value="2"> Relevance</label>
+</td></tr>
+</tbody></table> 
+ 
+<p><label for="archive" onclick="search()"><input type="checkbox" id="archive"> Include archived threads.
+</label></p>
+<p hidden><label for="checkins" onclick="search()"><input type="checkbox" id="checkins"> Include all checkin threads.
+</label></p>
+</div>
+
+<p><span id="logic">Search for all of these words (more words for fewer results):</span><br>
+<span id="atsign" hidden>@</span><input type="text" id="words" onkeydown="searchkey(this)" placeholder="…words…" autocomplete="off" autofocus> <i class="fa fa-search"></i></p>
 <p><span id="count"><i class="fa fa-spinner fa-spin"></i></span> <span id="display"></span></p>
 <div id="res"></div>
+
 <script>
 acfi = null
 idx = null
