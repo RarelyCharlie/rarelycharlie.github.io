@@ -66,7 +66,7 @@ initsearch = async function () {
 	display = document.getElementById('display')
 	results = document.getElementById('res')
 	}
-initsearch()
+addEventListener('DOMContentLoaded', initsearch)
 		
 wait = 0
 searchkey = () => {
