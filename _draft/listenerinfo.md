@@ -28,7 +28,8 @@ The Options button doesn't work yet. Some additional search options may be added
 
 ---
 
-<div><table><tbody>
+<div markdown="0">
+<table><tbody>
 <tr><td>Search for:</td>
 <td><label for="forall" onclick="search()"><input type="radio" name="searchfor" id="forall" value="0" checked> All of the words (more words for fewer results)</label><td></tr>
 <tr><td></td><td><label for="forany" onclick="search()"><input type="radio" name="searchfor" id="forany" value="0"> <em>Any</em> of the words (more words for more results)</label><td></tr>
