@@ -91,7 +91,7 @@ initsearch = async function () {
 	UI.display = document.getElementById('display')
 	UI.results = document.getElementById('res')
 	}
-initsearch()
+setTimeout(initsearch, 0)
 		
 wait = 0
 searchkey = () => {
