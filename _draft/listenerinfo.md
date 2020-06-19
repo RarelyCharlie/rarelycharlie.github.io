@@ -17,7 +17,7 @@ td, label {padding-right: 1ex;}
 tr:last-child>td {padding-top: 1ex;}
 #words {padding: 2px;}
 #words.author {position: relative;left: -1em; padding-left: 16px;}
-#atsign {position: relative; left: 4px; z-index: 1;}
+#atsign {position: relative; left: 2px; bottom: 2px; z-index: 1;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 
