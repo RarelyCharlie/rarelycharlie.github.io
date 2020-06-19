@@ -17,6 +17,9 @@ input#words {width: 20em;}
 table {border-spacing: 0 4px;}
 td, label {padding-right: 1ex;}
 tr:last-child>td {padding-top: 1ex;}
+#words {padding: 2px;}
+#words.author {position: relative;left: -1em; padding-left: 16px;}
+#atsign {position: relative; left: 4px; z-index: 1;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 
@@ -152,7 +155,7 @@ search = () => {
 				+ ' profile">@' + author + '</a>',
 			when = new Date(thread.at * 1000)
 
-		list += '<p><i class="fa fa-star outline"></i> <a href="' + url + '" target="_blank" rel="noreferrer noopener">' + thread.head + '</a> '
+		list += '<p><a href="' + url + '" target="_blank" rel="noreferrer noopener">' + thread.head + '</a> '
 		  + '<br><small>'
 		  + ' <i class="fa fa-arrow-up"></i> ' + thread.up.toLocaleString()
 		  + ' by ' + profile 
