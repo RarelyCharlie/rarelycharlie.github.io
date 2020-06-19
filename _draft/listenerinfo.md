@@ -30,7 +30,7 @@ The Options button doesn't work yet. Some additional search options may be added
 <p><span id="count"><i class="fa fa-spinner fa-spin"></i></span> <span id="display"></span></p>
 <div id="res"></div>
 <script>
-acfi = null
+//acfi = null
 idx = null
 
 count = null
@@ -51,8 +51,8 @@ urlfrag = (elem, id) => (elem? acfi[elem][id] : acfi.corpus[id].head).replace(/\
 initsearch = async function () {
 	count = document.getElementById('count')
 	
-	var r = await fetch('https://rarelycharlie.github.io/assets/info/acfi.json')
-	acfi = await r.json()
+//	var r = await fetch('https://rarelycharlie.github.io/assets/info/acfi.json')
+//	acfi = await r.json()
 	
 	count.textContent = ''
 		
@@ -123,3 +123,4 @@ search = () => {
 	results.innerHTML = list
 	}
 </script>
+<script>acfi = {%- include acfi.json -%} </script>
