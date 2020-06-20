@@ -103,7 +103,7 @@ to choose the print destination and print it to a PDF file or to some other form
 
 If your diary has more than one page, you must keep a copy of each page separately.
 
-{%- if false -}
+{%- if false -%}
 ### Copyright
 
 When you publish anything in your diary, 7 Cups' [terms of service](https://www.7cups.com/Documents/TermsOfService/) mean that 7 Cups owns what you publish. This might be a problem for you if you publish original work like stories, poems or artwork.
@@ -118,7 +118,7 @@ You might also consider posting only low-resolution copies of any artwork in you
 and only the first parts of any stories or poems, so that the full version is only available 
 in a place where you own the copyright.
 
-{%- endif -}
+{%- endif -%}
 
 ### Links
 
