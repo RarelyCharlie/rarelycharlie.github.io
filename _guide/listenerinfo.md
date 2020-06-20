@@ -1,6 +1,7 @@
 ---
 title: Listener information
 layout: default
+class: index
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 <style>
@@ -21,13 +22,13 @@ tr:last-child>td {padding-top: 1ex;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 
-This experimental and unofficial search engine searches all threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities, excluding some recent threads, archived threads and some checkins.
+This experimental and unofficial search engine searches threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities, excluding some recent threads, some checkins, and all archived threads.
 
-Beware outdated information. Some threads date back to 2014.
+Beware outdated information—some threads date back to 2014.
 
 You can't search for tags.
 
-Results that link to listener-only threads only work if you are logged in to a listener account at 7 Cups.
+Results that link to listener-only threads only work if you are logged in to a listener account at 7 Cups. Otherwise 7 Cups lies to you and tells you the item was removed.
 
 ---
 
