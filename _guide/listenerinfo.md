@@ -19,8 +19,11 @@ tr:last-child>td {padding-top: 1ex;}
 #words {padding: 2px;}
 #words.author {position: relative;left: -1em; padding-left: 16px;}
 #atsign {position: relative; left: 2px; bottom: 2px; z-index: 1;}
+div#loading {color: #aaa; font-size: 150%; margin: 1em 0 0 0;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
+
+<p style="color: #a00; font-size: 125%;">Under construction<br>This experimental page might not work at times today, June 21st.</p>
 
 This experimental and unofficial search engine searches threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities, excluding some recent threads, some checkins, and all archived threads.
 
@@ -44,8 +47,8 @@ Results that link to listener-only threads only work if you are logged in to a l
 
 <p><span id="logic">Search for all of these words (more words for fewer results):</span><br>
 <span id="atsign" hidden>@</span><input type="text" id="words" onkeydown="searchkey(this)" placeholder="…words…" autocomplete="off" autofocus> <i class="fa fa-search"></i></p>
-<p><span id="count"><i class="fa fa-spinner fa-spin"></i></span> <span id="display"></span></p>
-<div id="res"></div>
+<p><span id="count"></span> <span id="display"></span></p>
+<div id="results"></div>
 
 <script>
 acfi = null
@@ -72,7 +75,8 @@ UI = {}
 document.querySelectorAll('[id]').forEach(elem => UI[elem.id] = elem)
 
 initsearch = async function () {
-	UI.count.textContent = ''
+	UI.results.innerHTML = '<div id="loading">Initializing… <i class="fa fa-spinner fa-spin"></i></div>'
+	await (new Promise(i => setTimeout(i, 0)))
 
 	var r = await fetch('https://rarelycharlie.github.io/assets/acfi.json')
 	acfi = await r.json()	
@@ -84,10 +88,9 @@ initsearch = async function () {
 	
 	idx = elasticlunr.Index.load(acfi.index)
 
-	UI.display = document.getElementById('display')
-	UI.results = document.getElementById('res')
+	UI.results.innerHTML = ''
 	}
-setTimeout(initsearch, 0)
+addEventListener('DOMContentLoaded', initsearch)
 		
 wait = 0
 searchkey = () => {
