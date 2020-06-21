@@ -6,7 +6,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 ---
 <style>
 body {overflow-y: scroll;}
-#res p {margin: 0 0 .5ex 0; font-weight: bold; letter-spacing: .75px;}
+#results p {margin: 0 0 .5ex 0; font-weight: bold; letter-spacing: .75px;}
 a {text-decoration: none;}
 small {margin-left: 2em; font-weight: normal; letter-spacing: 0;}
 button {padding: 2px 4px; border: 1px solid #000; border-radius: 2px; margin-left: 2em;
