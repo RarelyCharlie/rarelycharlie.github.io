@@ -26,7 +26,7 @@ span.listener {margin: 0;}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
 
-<p style="color: #a00; font-size: 125%;"><b>Under construction</b><br>This experimental page might not work at times today, June 21st.</p>
+<p hidden style="color: #a00; font-size: 125%;"><b>Under construction</b><br>This experimental page might not work at times today, June 21st.</p>
 
 This experimental and unofficial search engine searches threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities, excluding some recent threads, some checkins, and all archived threads.
 
