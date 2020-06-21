@@ -20,12 +20,13 @@ tr:last-child>td {padding-top: 1ex;}
 #words.author {position: relative;left: -1em; padding-left: 16px;}
 #atsign {position: relative; left: 2px; bottom: 2px; z-index: 1;}
 div#loading {color: #aaa; font-size: 150%; margin: 1em 0 0 0;}
-a[href*="/forum/Listener"]::after {content: "L"; color: white; background: #5cb85c; padding: 4px 4px 2px 4px;margin-left: 1ex; border-radius: 25%; font-size: 12px; font-weight: bold; display: inline-block; line-height: 12px;}
+a[href*="/forum/Listener"]::after, span.listener {content: "L"; color: white; background: #5cb85c; padding: 4px 4px 2px 4px;margin-left: 1ex; border-radius: 25%; font-size: 12px; font-weight: bold; display: inline-block; line-height: 12px;}
+span.listener {margin: 0;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
 
-<p hidden style="color: #a00; font-size: 125%;"><b>Under construction</b><br>This experimental page might not work at times today, June 21st.</p>
+<p style="color: #a00; font-size: 125%;"><b>Under construction</b><br>This experimental page might not work at times today, June 21st.</p>
 
 This experimental and unofficial search engine searches threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities, excluding some recent threads, some checkins, and all archived threads.
 
@@ -44,6 +45,8 @@ Results that link to listener-only threads only work if you are logged in to a l
  
 <label for="archive" onclick="search()"><input type="checkbox" id="archive"> Include archived threads.
 </label>
+
+<label for="listen" onclick="search()"><input type="checkbox" id="listen" checked> Include listener-only threads: <span class="listener">L</span></label>
 
 ---
 
@@ -137,6 +140,7 @@ search = () => {
 	for (let r of res) hit.push(acfi.corpus[r.ref])
 	
 	if (!UI.archive.checked) hit = hit.filter(t => t.forum != 1886) // exclude archive
+	if (!UI.listen.checked) hit = hit.filter(t => ![38, 149].includes(t.cat)) // exclude listener-only
 	hit = hit.filter(t => t.forum != 1682) // always exclude checkins
 	
 	hit = hit.sort(sorters[document.querySelector('[name=sortby]:checked').value])
