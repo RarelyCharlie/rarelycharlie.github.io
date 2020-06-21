@@ -44,8 +44,7 @@ Results that link to listener-only threads only work if you are logged in to a l
 |Sort by:|<label for="byupvotes" onclick="search()"><input type="radio" name="sortby" id="byupvotes" value="0" checked> Upvotes</label> <label for="bydate" onclick="search()"><input type="radio" name="sortby" id="bydate" value="1"> Date</label> <label for="byrelev" onclick="search()"><input type="radio" name="sortby" id="byrelev" value="2"> Relevance</label>|
  
 <label for="archive" onclick="search()"><input type="checkbox" id="archive"> Include archived threads.
-</label>
-
+</label>\\
 <label for="listen" onclick="search()"><input type="checkbox" id="listen" checked> Include listener-only threads: <span class="listener">L</span></label>
 
 ---
