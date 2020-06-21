@@ -23,7 +23,7 @@ div#loading {color: #aaa; font-size: 150%; margin: 1em 0 0 0;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 
-<p style="color: #a00; font-size: 125%;">Under construction<br>This experimental page might not work at times today, June 21st.</p>
+<p style="color: #a00; font-size: 125%;"><b>Under construction</b><br>This experimental page might not work at times today, June 21st.</p>
 
 This experimental and unofficial search engine searches threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities, excluding some recent threads, some checkins, and all archived threads.
 
