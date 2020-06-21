@@ -20,6 +20,7 @@ tr:last-child>td {padding-top: 1ex;}
 #words.author {position: relative;left: -1em; padding-left: 16px;}
 #atsign {position: relative; left: 2px; bottom: 2px; z-index: 1;}
 div#loading {color: #aaa; font-size: 150%; margin: 1em 0 0 0;}
+a[href*="/forum/Listener"]::after {content: "L"; color: white; background: #5cb85c; padding: 4px 4px 2px 4px;margin-left: 1ex; border-radius: 25%; font-size: 12px; font-weight: bold; display: inline-block; line-height: 12px;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
