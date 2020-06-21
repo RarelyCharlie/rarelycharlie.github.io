@@ -22,6 +22,7 @@ tr:last-child>td {padding-top: 1ex;}
 div#loading {color: #aaa; font-size: 150%; margin: 1em 0 0 0;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
 
 <p style="color: #a00; font-size: 125%;"><b>Under construction</b><br>This experimental page might not work at times today, June 21st.</p>
 
@@ -78,8 +79,9 @@ initsearch = async function () {
 	UI.results.innerHTML = '<div id="loading">Initializing… <i class="fa fa-spinner fa-spin"></i></div>'
 	await (new Promise(i => setTimeout(i, 0)))
 
-	var r = await fetch('https://rarelycharlie.github.io/assets/acfi.json')
-	acfi = await r.json()	
+	var r = await fetch('/assets/acfi.jslz')
+	r = await r.text()
+	acfi = JSON.parse(LZString.decompressFromEncodedURIComponent(r))
 
 	acfi.cat = {
 		149: 'Listener Learning & Journey',
