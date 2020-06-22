@@ -132,3 +132,8 @@ In this scenario the listener is triggered by the phrase "seeing my own blood", 
 *Member:* I'm in crisis because the hockey team I support is in financial trouble. I feel like my whole life is collapsing.
 {:.chat}
 
+**Scenario 20**: Completed suicide, no crisis
+
+*Member:* I'm using my sister's account because I don't know any other way to contact you. I know my sister valued chatting to you here at 7 Cups. I wanted to let you know that she unexpectedly took her own life last week. I'm sorry to be the bearer of this bad news. No one can think of any reason for her to do a thing like that. Thank you for being a friend to her.
+{:.chat}
+
