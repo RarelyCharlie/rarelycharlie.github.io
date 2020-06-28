@@ -47,11 +47,15 @@ You cannot usually edit your diary yourself.
 
 If you need something to be changed for an important reason, send a message to any moderator or mentor
 in the subcommunity where you put your diary, or ask any of the subcommunity leaders to find out who 
-can make the change. You can also ask for your entire diary to be deleted.
+can make the change.
+
+You can also ask for your entire diary to be deleted, but deleting your diary without warning might alarm your subscribers.
 
 [General Support Leaders](https://www.7cups.com/home/generalsupport/#leaders)
 
 [Trauma Support Leaders](https://www.7cups.com/home/trauma/#leaders)
+
+[Personality Disorders Support Leaders](https://www.7cups.com/home/personalitydisorders/#leaders)
 
 [Listener Mentors](https://www.7cups.com/listener/listenerMentors.php)
 
@@ -61,8 +65,7 @@ You can also e-mail [forum@7cups.com](mailto:forum@7cups.com) if things go badly
 
 Everyone on the Internet can see your diary, unless it's in a listener-only forum.
 
-If you plan to post secrets in your diary that you don't want certain people to see, then you must remember
-never to post any details that could identify you. Don't let anyone know you have a diary at all, unless you completely trust them. If they know you have a diary, they might go looking for it.
+If you plan to post secrets in your diary that you don't want certain people to see, then you must remember never to post any details that could identify you. Don't let anyone outside 7 Cups know you have a diary at all, unless you completely trust them. If they know you have a diary, they might go looking for it.
 
 ### Staying anonymous
 
