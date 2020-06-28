@@ -12,7 +12,7 @@ If what you want is a place to keep secret notes that only you can see, do not u
 
 ### Where to put your diary
 
-You can put your personal diary anywhere in the forum, but there are two places specially
+You can put your personal diary anywhere in the forum, but there are three places specially
 set aside for diaries:
 
 [Diary Entries & Connections](https://www.7cups.com/forum/GeneralSupport_28/DiaryEntriesConnections_1597/) in General Support\\
@@ -20,6 +20,9 @@ This is intended to be used for most diaries.
 
 [My Diary](https://www.7cups.com/forum/TraumaSupport_60/MyDiary_1301/) in Trauma Support\\
 This is intended to be used for diaries of trauma survivors.
+
+[Journals](https://www.7cups.com/forum/PersonalityDisordersSupport_81/Journals_2096/) in Personality Disorders Support\\
+This is intended to be used for journals by people diagnosed with personality disorders and their loved ones.
 
 There is no special place for listeners' diaries, but if you are a listener and you want to
 keep a diary about listening that only listeners can read, you could put it in:
@@ -30,13 +33,13 @@ keep a diary about listening that only listeners can read, you could put it in:
 
 You can use your diary to post anything you like, except that all the [Forum Guidelines](https://www.7cups.com/about/communityGuidelines.php#forum) apply.
 
-In Trauma Support, [additional guidelines](https://www.7cups.com/home/trauma/#guidelines) apply.
+Additional [Trauma Support guidelines](https://www.7cups.com/home/trauma/#guidelines) and [Personality Disorders Support guidelines](https://www.7cups.com/home/personalitydisorders/#guidelines) apply in those subcommunities.
 
 For information about posting images, see: [Add an image to a post](https://rarelycharlie.github.io/howto/image) 
 
 7 Cups does not support embedded audio or video. You can only provide links to audio and video
 on other websites, and they must not be websites where you can be contacted. 
-(This is Rule 4 in the guidelines.)
+(This is Rule 4 in the community guidelines.)
 
 ### How to change your diary
 
