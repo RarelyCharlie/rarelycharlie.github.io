@@ -28,7 +28,7 @@ span.listener {margin: 0;}
 
 <p hidden style="color: #a00; font-size: 125%;"><b>Under construction</b><br>This experimental page might not work at times today, June 21st.</p>
 
-This experimental and unofficial search engine searches threads in the *Listener Learning & Journey* and *Safety & Knowledge at 7 Cups* communities, excluding some recent threads, some checkins, and all archived threads.
+This fast but unofficial search engine searches forum threads in four communities, excluding recent threads and some checkins.
 
 Beware outdated information—some threads date back to 2014.
 
@@ -87,10 +87,10 @@ initsearch = async function () {
 	acfi = JSON.parse(LZString.decompressFromEncodedURIComponent(r))
 
 	acfi.cat = {
-		38: 'listenercommunitycenter',
-		100: 'siteupdates',
-		149: 'listenerjourney',
-		181: 'safe7cups'
+		38: 'ListenerCommunityCenter',
+		100: 'SiteUpdates',
+		149: 'ListenerLearningJourney',
+		181: 'SafetyKnowledgeat7Cups'
 		}
 	
 	idx = elasticlunr.Index.load(acfi.index)
