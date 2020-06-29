@@ -82,13 +82,15 @@ initsearch = async function () {
 	UI.results.innerHTML = '<div id="loading">Initializing… <i class="fa fa-spinner fa-spin"></i></div>'
 	await (new Promise(i => setTimeout(i, 0)))
 
-	var r = await fetch('/assets/acfi.jslz')
+	var r = await fetch('/assets/acfi.jslz?build=4')
 	r = await r.text()
 	acfi = JSON.parse(LZString.decompressFromEncodedURIComponent(r))
 
 	acfi.cat = {
-		149: 'Listener Learning & Journey',
-		181: 'Safety & Knowledge at 7 Cups'
+		38: 'listenercommunitycenter',
+		100: 'siteupdates',
+		149: 'listenerjourney',
+		181: 'safe7cups'
 		}
 	
 	idx = elasticlunr.Index.load(acfi.index)
