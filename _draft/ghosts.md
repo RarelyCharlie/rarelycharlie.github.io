@@ -6,7 +6,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 <style>
 #content {counter-reset: prop;}
 strong {display: inline-block;}
-strong::after {content: counter(prop) ": ";}
+strong::after {counter-increment: prop; content: " " counter(prop) " ";}
 </style>
 Here are some practical proposals to mitigate the problem of ghosting in chats.
 
