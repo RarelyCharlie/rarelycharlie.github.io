@@ -7,6 +7,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 #content {counter-reset: prop;}
 strong {display: inline-block; margin-right: 1ex;}
 strong::after {counter-increment: prop; content: " " counter(prop) " ";}
+img {display: block;}
 .caption {text-align: center;}
 </style>
 Here are some practical proposals to mitigate the problem of ghosting in chats.
