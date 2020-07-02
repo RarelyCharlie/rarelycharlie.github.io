@@ -182,7 +182,7 @@ Status indicators in chat list, using shape
 
 *Problem:* The system doesn't reliably know whether a chat is live or offline. As a result, chatters don't reliably know what's expected of them. To help set expectations, the proposed solution is:
 
-**Proposal** A chat is live if both chatters' status is Online or Busy and either the chat is new (no messages at all) or both chatters have sent messages in the last 8 minutes. The chat's current mode (live or offline) is clearly dispplayed to the chatters.
+**Proposal** A chat is live if both chatters' status is Online or Busy and either the chat is new (no messages at all) or both chatters have sent messages in the last 8 minutes. The chat's current mode (live or offline) is clearly displayed to the chatters.
 
 ![Screenshot](/assets/ghosts/filler.png)
 Top of live chat showing the mode
