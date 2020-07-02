@@ -52,7 +52,7 @@ To help set expectations, the proposed solution is:
 
 The *other* chatter (the one who *didn't* press the End Live Chat button) must send at least one further message within the 8 minutes. Otherwise the system will mark the chat abandoned by that other chatter.
 
-![Screenshot](/assets/ghosts/filler.png)
+![Screenshot](/assets/ghosts/ss01.png)
 Listener ending live chat normally
 {:.caption}
 
