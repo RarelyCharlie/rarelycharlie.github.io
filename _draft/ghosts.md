@@ -54,6 +54,9 @@ To help set expectations and allow the system to identify abandoned chats, the p
 
 The *other* chatter (the one who *didn't* press the End Live Chat button) must send at least one further message within the 8 minutes. Otherwise the system will mark the chat abandoned by that other chatter.
 
+When a conversation switches between the two modes, live and messages, the messages are never cleared because either chatter might want to continue sending messages.
+
+
 ![Screenshot](/assets/ghosts/ss01.png)
 Listener ending live chat normally
 {:.caption}
@@ -68,15 +71,11 @@ Listener ending abandoned chat
 
 In this example, the member has abandoned the chat. The listener presses the End Live Chat button (1:20 PM) but there is no response from the member. When the chat times out and switches to messages mode (1:28 PM), the system knows that the chat was abandoned because the member didn't respond.
 
-If the person who pressed the End Live Chat button sends a message more than 5 minutes into the ending period, the ending period is cancelled and the chat is resumed.
-
-The conversation header now says Live <i class="fa fa-comments-o"></i> and the message timer is running.
-
 ![Screenshot](/assets/ghosts/ss03.png)
 Live chat resumed
 {:.caption}
 
-When the live chat ends it switches to messages mode. The messages are not cleared, because either chatter might want to continue sending messages in offline mode.
+In this example the person who pressed the End Live Chat button sends a message more than 5 minutes into the ending period. The ending period is cancelled and the chat is resumed. The conversation header now says Live <i class="fa fa-comments-o"></i> and the message timer is running.
 
 
 ### Supporting proposals to provide clarity and set expectations
