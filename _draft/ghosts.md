@@ -85,7 +85,7 @@ In this example the person who pressed the End Live Chat button sends a message 
 **Proposal** A timer displays the time since the last message in a live chat, but it's disabled in messages mode. There is information about what it's for.
 
 ![Screenshot](/assets/ghosts/ss04.png)
-Each chat has its own independent timer
+Message timer information
 {:.caption}
 
 *Problem:* It's not clear to chatters whether a chat is live or offline. Members sometimes send "Are you there?" messages to listeners who are offline or logged out. To help set expectations, the proposed solution is:
