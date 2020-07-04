@@ -28,17 +28,19 @@ It is not OK for a listener to take a chat and then say nothing.
 
 I suggest taking steps to limit the impact on members, encourage reporting of listeners, and to make reporting more effective.
 
-To handle these situations appropriately, the system needs to be able to determine when a chat is abandoned. This requires greater clarity in the system about when a chat is live and when it's offline, and greater clarity about the meaning of listener status (Online/Busy/Offline).
+To handle these situations appropriately, the system needs to be able to determine reliably when a chat is abandoned. This requires greater clarity in the system about when a chat is live and when it's offline, and because this is related to status (Online/Busy/Offline) it requires greater clarity about that too.
 
 ### Proposals
 
 In summary, I propose one big change and a bunch of simpler supporting changes. The big change provides a way for the system to know when a chat has been abandoned. This involves a change in the way the End Live Chat button works.
 
-Seven of the supporting changes are designed to limit the impact of unwanted behaviour.
+1-to-1 chats have always operated in two modes. In a *live chat* both chatters should respond quickly to keep the conversation going. In what is currently called an *offline chat* response time is less critical.
 
-Six more supporting changes are designed to provide members and listeners with clearer information, helping to set expectations more clearly.
+I notice that the term "offline chat" is easily confused with offline status. For clarity, I propose using the term *messages mode" instead. This is also better aligned with the use of the abbreviation PM to mean personal message.
 
-I think these proposals can be implemented pretty much independently one at a time. The order of implemention probably doesn't matter a whole lot.
+About half of the proposed supporting changes are designed to provide members and listeners with clearer information, helping to set expectations more clearly. The other half of the supporting changes are designed to limit the impact of unwanted behaviour.
+
+I think these proposals can be implemented pretty much independently one at a time. I haven't thought much about the best order of implementation.
 
 ### Proposal to identify abandoned chats
 
@@ -46,9 +48,9 @@ I think these proposals can be implemented pretty much independently one at a ti
 
 Note that the system currently has no way of "expecting" the listener to stop responding, therefore it has no way to determine whether the listener stopped "unexpectedly" or not.
 
-To help set expectations, the proposed solution is:
+To help set expectations and allow the system to identify abandoned chats, the proposed solution is:
 
-**Proposal** Change way the the End Live Chat button works. It will now inform the system and both chatters that the live chat is *expected* to end within an ending period of 8 minutes.
+**Proposal** Change way the the End Live Chat button works. It will now inform the system and both chatters that the live chat is *expected* to end. The proposed ending period is 8 minutes.
 
 The *other* chatter (the one who *didn't* press the End Live Chat button) must send at least one further message within the 8 minutes. Otherwise the system will mark the chat abandoned by that other chatter.
 
@@ -56,13 +58,98 @@ The *other* chatter (the one who *didn't* press the End Live Chat button) must s
 Listener ending live chat normally
 {:.caption}
 
+In this example, member and listener are both online. The listener presses the End Live Chat button (1:04 PM), telling the system the chat is expected to end. The system immediately informs the chatters (1:04 PM). The chatters can exchange messages briefly. 
+
+8 minutes after the End Live Chat button was pressed, the live chat ends and the conversation switches to messages mode (1:12 PM). The conversation header now says Messages <i class="fa fa-pencil"></i> and the message timer (bottom right) is disabled.
+
+![Screenshot](/assets/ghosts/ss02.png)
+Listener ending abandoned chat
+{:.caption}
+
+In this example, the member has abandoned the chat. The listener presses the End Live Chat button (1:20 PM) but there is no response from the member. When the chat times out and switches to messages mode (1:28 PM), the system knows that the chat was abandoned because the member didn't respond.
+
 If the person who pressed the End Live Chat button sends a message more than 5 minutes into the ending period, the ending period is cancelled and the chat is resumed.
 
-![Screenshot](/assets/ghosts/filler.png)
+The conversation header now says Live <i class="fa fa-comments-o"></i> and the message timer is running.
+
+![Screenshot](/assets/ghosts/ss03.png)
 Live chat resumed
 {:.caption}
 
-When the live chat ends it becomes an offline chat. The messages are not cleared, because either chatter might want to continue sending messages in offline mode.
+When the live chat ends it switches to messages mode. The messages are not cleared, because either chatter might want to continue sending messages in offline mode.
+
+
+### Supporting proposals to provide clarity and set expectations
+
+*Problem:* It's not easy for chatters to keep track of time, and they might not always realize that they have taken a long time to respond in a live chat. To help set expectations, the proposed solution is:
+
+**Proposal** A timer displays the time since the last message in a live chat, but it's disabled in messages mode. There is information about what it's for.
+
+![Screenshot](/assets/ghosts/ss04.png)
+Each chat has its own independent timer
+{:.caption}
+
+*Problem:* It's not clear to chatters whether a chat is live or offline. Members sometimes send "Are you there?" messages to listeners who are offline or logged out. To help set expectations, the proposed solution is:
+
+**Proposal** The chat mode (live or offline) is shown at the top of the chat, together with further explanation.
+
+![Screenshot](/assets/ghosts/ss05.png)
+Top of chat showing the mode
+{:.caption}
+
+*Problem:* It's not clear to everyone what the listener and member status indicators mean, and they're completely meaningless to people who have the most common (red-green) form of colour vision deficiency. To help set expectations, the proposed solution is:
+
+**Proposal** Change the status indicators so they use either text (if possible), or shape, in addition to colour. Improve the colour contrast for better clarity without colour vision. Add information explaining what the status means.
+
+![Screenshot](/assets/ghosts/ss06.png)
+Status indicator in Browse Listeners, using text
+{:.caption}
+
+![Screenshot](/assets/ghosts/ss07.png)
+Status indicator in forum, using text
+{:.caption}
+
+![Screenshot](/assets/ghosts/ss08.png)
+Status indicators in chat list, using shape
+{:.caption}
+
+*Problem:* The system doesn't reliably know whether a chat is live or offline. As a result, chatters don't reliably know what's expected of them. To help set expectations, the proposed solution is:
+
+**Proposal** A chat is live if both chatters' status is Online or Busy and either the chat is new (no messages at all) or both chatters have sent messages in the last 8 minutes. The chat's current mode (Live or Messages) is clearly displayed to the chatters.
+
+![Screenshot](/assets/ghosts/ss09.png)
+Top of live chat showing the mode
+{:.caption}
+
+As soon as conversation in messages mode satisfies this condition, it immediately goes live and the chatters are notified.
+
+![Screenshot](/assets/ghosts/ss10.png)
+Chat just went live
+{:.caption}
+
+However if a chatter goes offline, nothing changes immediately. This is because people sometimes get disconnected for short periods and soon return. The 8-minute timeout described above still applies.
+
+*Problem:* Listeners whose star ratings are poor, or become poor, can still be verified. This gives a misleading impression to members. To help set members' expectations, the proposed solution is:
+
+**Proposal** Make a 4-star or better rating a requirement for becoming and remaining verified. If a listener's rating drops below 4-stars, they become unverified and must reapply when they meet the requirement again.
+
+![Screenshot](/assets/ghosts/ss11.png)
+Requirements to become and remain verified
+{:.caption}
+
+![Screenshot](/assets/ghosts/ss12.png)
+Notification of star rating change and becoming unverified
+{:.caption}
+
+*Problem:* When a member starts a chat with a listener who is busy or offline, the chat is in messages mode, but the member doesn't always know what this means. Members sometimes feel abandoned when there was in fact no live chat. To help set members' expectations, the proposed solution is:
+
+**Proposal** After a member sends the first message in messages mode, the system reminds the member that the listener might not be able to respond quickly.
+
+(In fact the listener might be on a long break or have left 7 Cups altogether, and it might be good to adjust the wording of the reminder to reflect this.)
+
+![Screenshot](/assets/ghosts/ss13.png)
+Reminder in new message mopde conversation
+{:.caption}
 
 
 ### Supporting proposals to limit impact
@@ -79,23 +166,23 @@ To limit the impact on members when listeners say inappropriate things, and to e
 
 Note that the member said nothing, so there is nothing confidential in the listener's messages.
 
-![Screenshot](/assets/ghosts/filler.png)
+![Screenshot](/assets/ghosts/ss14.png)
 Confirmation that a chat will be reported automatically
 {:.caption}
 
 *Problem:* When a member abandons a chat, the listener is left waiting indefinitely. To provide clarity and limit the impact, the proposed solution is:
 
-**Proposal** A live chat times out after 8 minutes if no one has sent a message in that time. The system warns both chatters after 5 minutes. After a further 3 minutes the chat becomes an offline chat and the system notifies both chatters. The messages are not cleared.
+**Proposal** A live chat times out if either one of the chatters hasn't sent a message or typed anything in the last 8 minutes. The system warns that chatter after 5 minutes. After a further 3 minutes the chat switches to messages mode and the system notifies both chatters. The messages are not cleared.
 
 If the listener sent the last message, it's the member who must have abandoned the chat. This is OK.
 
-![Screenshot](/assets/ghosts/filler.png)
+![Screenshot](/assets/ghosts/ss15.png)
 Chat timing out
 {:.caption}
 
 **Proposal** If the member sent the last message, it's the listener who must have abandoned the chat. To encourage effective reporting, the system asks the member whether they want to report the listener.
 
-![Screenshot](/assets/ghosts/filler.png)
+![Screenshot](/assets/ghosts/ss16.png)
 Chat abandoned by listener
 {:.caption}
 
@@ -105,7 +192,7 @@ Chat abandoned by listener
 
 Note that this does not prevent a member from chatting to many listeners at the same time, if they are listeners the member has chatted to previously. It would be possible to limit the number of simultaneous live chats, but I'm not proposing that here.
 
-![Screenshot](/assets/ghosts/filler.png)
+![Screenshot](/assets/ghosts/ss17.png)
 Notification that new chats are not possible when a chat is live
 {:.caption}
 
@@ -117,7 +204,7 @@ This reflects the assumption if the member is experienced or the listener is wea
 
 Note that this does not prevent the member from chatting with any listeners they've chatted to previously.
 
-![Screenshot](/assets/ghosts/filler.png)
+![Screenshot](/assets/ghosts/ss18.png)
 Confirmation of 20-minute waiting period
 {:.caption}
 
@@ -133,90 +220,18 @@ For example, an appropriate algorithm would be that the new star rating is the a
 
 Note that this will probably mean that even the very best listeners' 5-star ratings will be less stable.
 
-![Screenshot](/assets/ghosts/filler.png)
+![Screenshot](/assets/ghosts/ss19.png)
 Notification of star rating changes
 {:.caption}
 
 *Problem:* It is not OK for a listener to take a chat and then say nothing. To limit the impact on members and to encourage effective reporting, the proposed solution is:
 
-**Proposal** When a new live chat times out (becoming an offline chat after 8 muinutes), and there is at least one message from the member but none from the listener, the system asks the member whether they want to report the listener.
+**Proposal** When a new live chat times out (switching to messages mode after 8 minutes), and there is at least one message from the member but none from the listener, the system asks the member whether they want to report the listener.
 
-![Screenshot](/assets/ghosts/filler.png)
-Asking a member whether they want to report a listener.
+![Screenshot](/assets/ghosts/ss20.png)
+Asking a member whether they want to report a listener
 {:.caption}
 
-
-### Supporting proposals to provide clarity and set expectations
-
-*Problem:* It's not easy for chatters to keep track of time, and they might not always realize that they have taken a long time to respond. To help set expectations, the proposed solution is:
-
-**Proposal** A timer displays the time since the last message in the chat. There is information about what it's for.
-
-![Screenshot](/assets/ghosts/filler.png)
-Each chat has its own independent timer
-{:.caption}
-
-*Problem:* It's not clear to chatters whether a chat is live or offline. Members sometimes send "Are you there?" messages to listeners who are offline or logged out. To help set expectations, the proposed solution is:
-
-**Proposal** The chat mode (live or offline) is shown at the top of the chat, together with further explanation.
-
-![Screenshot](/assets/ghosts/filler.png)
-Top of chat showing the mode
-{:.caption}
-
-*Problem:* It's not clear to everyone what the listener and member status indicators mean, and they're completely meaningless to people who have the most common (red-green) form of colour vision deficiency. To help set expectations, the proposed solution is:
-
-**Proposal** Change the status indicators so they use either text (if possible), or shape, in addition to colour. Improve the colour contrast. Add information explaining what the status means.
-
-![Screenshot](/assets/ghosts/filler.png)
-Status indicator in Browse Listeners, using text
-{:.caption}
-
-![Screenshot](/assets/ghosts/filler.png)
-Status indicator in forum, using text
-{:.caption}
-
-![Screenshot](/assets/ghosts/filler.png)
-Status indicators in chat list, using shape
-{:.caption}
-
-*Problem:* The system doesn't reliably know whether a chat is live or offline. As a result, chatters don't reliably know what's expected of them. To help set expectations, the proposed solution is:
-
-**Proposal** A chat is live if both chatters' status is Online or Busy and either the chat is new (no messages at all) or both chatters have sent messages in the last 8 minutes. The chat's current mode (live or offline) is clearly displayed to the chatters.
-
-![Screenshot](/assets/ghosts/filler.png)
-Top of live chat showing the mode
-{:.caption}
-
-As soon as an offline chat satisfies this condition, it immediately goes live and the chatters are notified.
-
-![Screenshot](/assets/ghosts/filler.png)
-Chat just went live
-{:.caption}
-
-However if a chatter goes offline, nothing changes immediately. This is because people sometimes get disconnected for short periods and soon return. The 8-minute timeout described above still applies.
-
-*Problem:* Listeners whose star ratings are poor, or become poor, can still be verified. This gives a misleading impression to members. To help set members' expectations, the proposed solution is:
-
-**Proposal** Make a 4-star or better rating a requirement for becoming and remaining verified. If a listener's rating drops below 4-stars, they become unverified and must reapply when they meet the requirement again.
-
-![Screenshot](/assets/ghosts/filler.png)
-Requirements to become and remain verified
-{:.caption}
-
-![Screenshot](/assets/ghosts/filler.png)
-Notification of star rating change and becoming unverified
-{:.caption}
-
-*Problem:* When a member starts a chat with a listener who is busy or offline, the chat is an offline chat, but the member doesn't always know what this means. Members sometimes feel abandoned when there was in fact no live chat. To help set members' expectations, the proposed solution is:
-
-**Proposal** After a member sends the first message in a new offline chat, the system reminds the member that the chat is offline and the listener might not be able to respond quickly.
-
-(In fact the listener might be on a long break or have left 7 Cups altogether, and it might be good to adjust the wording of the reminder to reflect this.)
-
-![Screenshot](/assets/ghosts/filler.png)
-Notification in new offline chat
-{:.caption}
 
 ### Notes
 
@@ -224,4 +239,4 @@ Notification in new offline chat
 
  - Listener-listener chats are proposed to be always in offline mode.
 
- - Listeners sometimes abandon offline chats. The member should report the listener in the normal way. No change to this is being proposed.
+ - Listeners sometimes abandon conversations in messages mode. No change in relation to this is being proposed. The member should report the listener in the normal way.
