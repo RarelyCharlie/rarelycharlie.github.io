@@ -93,7 +93,7 @@ Message timer information
 **Proposal** The chat mode (live or offline) is shown at the top of the chat, together with further explanation.
 
 ![Screenshot](/assets/ghosts/ss05.png)
-Top of chat showing the mode
+Top of chat showing the mode information
 {:.caption}
 
 *Problem:* It's not clear to everyone what the listener and member status indicators mean, and they're completely meaningless to people who have the most common (red-green) form of colour vision deficiency. To help set expectations, the proposed solution is:
