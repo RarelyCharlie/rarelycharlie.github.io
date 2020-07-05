@@ -8,6 +8,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 strong {display: inline-block; margin-right: 1ex;}
 strong::after {counter-increment: prop; content: " " counter(prop) " ";}
 img {display: block; margin: 0 auto; width: 640px;}
+img.auto {width: auto;}
 .caption {text-align: center;}
 </style>
 Here are some practical proposals to mitigate the problem of ghosting in chats.
@@ -108,8 +109,8 @@ Status indicator in Browse Listeners, using text
 Status indicator in forum, using text
 {:.caption}
 
-![Screenshot](/assets/ghosts/ss08.png)
-Status indicators in chat list, using shape
+![Screenshot](/assets/ghosts/ss08.png){:.auto}
+Status indicators in chat list, using shape and text
 {:.caption}
 
 *Problem:* The system doesn't reliably know whether a chat is live or offline. As a result, chatters don't reliably know what's expected of them. To help set expectations, the proposed solution is:
