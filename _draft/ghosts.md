@@ -9,7 +9,7 @@ strong {display: inline-block; margin-right: 1ex;}
 strong::after {counter-increment: prop; content: " " counter(prop) " ";}
 img {display: block; margin: 0 auto; width: 640px;}
 img.auto {width: auto;}
-.caption {text-align: center;}
+.caption {text-align: center; font-size: 80%;}
 </style>
 Here are some practical proposals to mitigate the problem of ghosting in chats.
 
@@ -117,13 +117,9 @@ Status indicators in chat list, using shape and text
 
 **Proposal** A chat is live if both chatters' status is Online or Busy and either the chat is new (no messages at all) or both chatters have sent messages in the last 8 minutes. The chat's current mode (Live or Messages) is clearly displayed to the chatters.
 
-![Screenshot](/assets/ghosts/ss09.png)
-Top of live chat showing the mode
-{:.caption}
-
 As soon as conversation in messages mode satisfies this condition, it immediately goes live and the chatters are notified.
 
-![Screenshot](/assets/ghosts/ss10.png)
+![Screenshot](/assets/ghosts/ss09.png)
 Chat just went live
 {:.caption}
 
@@ -133,11 +129,11 @@ However if a chatter goes offline, nothing changes immediately. This is because 
 
 **Proposal** Make a 4-star or better rating a requirement for becoming and remaining verified. If a listener's rating drops below 4-stars, they become unverified and must reapply when they meet the requirement again.
 
-![Screenshot](/assets/ghosts/ss11.png)
+![Screenshot](/assets/ghosts/ss10.png)
 Requirements to become and remain verified
 {:.caption}
 
-![Screenshot](/assets/ghosts/ss12.png)
+![Screenshot](/assets/ghosts/ss11.png)
 Notification of star rating change and becoming unverified
 {:.caption}
 
@@ -147,7 +143,7 @@ Notification of star rating change and becoming unverified
 
 (In fact the listener might be on a long break or have left 7 Cups altogether, and it might be good to adjust the wording of the reminder to reflect this.)
 
-![Screenshot](/assets/ghosts/ss13.png)
+![Screenshot](/assets/ghosts/ss12.png)
 Reminder in new message mopde conversation
 {:.caption}
 
@@ -166,7 +162,7 @@ To limit the impact on members when listeners say inappropriate things, and to e
 
 Note that the member said nothing, so there is nothing confidential in the listener's messages.
 
-![Screenshot](/assets/ghosts/ss14.png)
+![Screenshot](/assets/ghosts/ss13.png)
 Confirmation that a chat will be reported automatically
 {:.caption}
 
@@ -176,13 +172,13 @@ Confirmation that a chat will be reported automatically
 
 If the listener sent the last message, it's the member who must have abandoned the chat. This is OK.
 
-![Screenshot](/assets/ghosts/ss15.png)
+![Screenshot](/assets/ghosts/ss14.png)
 Chat timing out
 {:.caption}
 
 **Proposal** If the member sent the last message, it's the listener who must have abandoned the chat. To encourage effective reporting, the system asks the member whether they want to report the listener.
 
-![Screenshot](/assets/ghosts/ss16.png)
+![Screenshot](/assets/ghosts/ss15.png)
 Chat abandoned by listener
 {:.caption}
 
@@ -192,7 +188,7 @@ Chat abandoned by listener
 
 Note that this does not prevent a member from chatting to many listeners at the same time, if they are listeners the member has chatted to previously. It would be possible to limit the number of simultaneous live chats, but I'm not proposing that here.
 
-![Screenshot](/assets/ghosts/ss17.png)
+![Screenshot](/assets/ghosts/ss16.png)
 Notification that new chats are not possible when a chat is live
 {:.caption}
 
@@ -204,7 +200,7 @@ This reflects the assumption if the member is experienced or the listener is wea
 
 Note that this does not prevent the member from chatting with any listeners they've chatted to previously.
 
-![Screenshot](/assets/ghosts/ss18.png)
+![Screenshot](/assets/ghosts/ss17.png)
 Confirmation of 20-minute waiting period
 {:.caption}
 
@@ -220,7 +216,7 @@ For example, an appropriate algorithm would be that the new star rating is the a
 
 Note that this will probably mean that even the very best listeners' 5-star ratings will be less stable.
 
-![Screenshot](/assets/ghosts/ss19.png)
+![Screenshot](/assets/ghosts/ss18.png)
 Notification of star rating changes
 {:.caption}
 
@@ -228,7 +224,7 @@ Notification of star rating changes
 
 **Proposal** When a new live chat times out (switching to messages mode after 8 minutes), and there is at least one message from the member but none from the listener, the system asks the member whether they want to report the listener.
 
-![Screenshot](/assets/ghosts/ss20.png)
+![Screenshot](/assets/ghosts/ss19.png)
 Asking a member whether they want to report a listener
 {:.caption}
 
