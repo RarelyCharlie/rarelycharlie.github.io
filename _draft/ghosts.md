@@ -57,6 +57,7 @@ The *other* chatter (the one who *didn't* press the End Live Chat button) must s
 
 When a conversation switches between the two modes, live and messages, the messages are never cleared because either chatter might want to continue sending messages.
 
+The following mockup shows a listener ending a live chat normally:
 
 ![Screenshot](/assets/ghosts/ss01.png)
 Listener ending live chat normally
@@ -66,11 +67,15 @@ In this example, member and listener are both online. The listener presses the E
 
 8 minutes after the End Live Chat button was pressed, the live chat ends and the conversation switches to messages mode (1:12 PM). The conversation header now says Messages <i class="fa fa-pencil"></i> and the message timer (bottom right) is disabled.
 
+The following mockup shows a listener ending a chat that the member abandoned:
+
 ![Screenshot](/assets/ghosts/ss02.png)
 Listener ending abandoned chat
 {:.caption}
 
 In this example, the member has abandoned the chat. The listener presses the End Live Chat button (1:20 PM) but there is no response from the member. When the chat times out and switches to messages mode (1:28 PM), the system knows that the chat was abandoned because the member didn't respond.
+
+The following mockup shows a chat that seems to be about to end, but is then resumed:
 
 ![Screenshot](/assets/ghosts/ss03.png)
 Live chat resumed
@@ -89,12 +94,12 @@ In this example the person who pressed the End Live Chat button sends a message 
 Message timer information
 {:.caption}
 
-*Problem:* It's not clear to chatters whether a chat is live or offline. Members sometimes send "Are you there?" messages to listeners who are offline or logged out. To help set expectations, the proposed solution is:
+*Problem:* It's not clear to chatters whether a chat is live or in messages mode. Members sometimes send "Are you there?" messages to listeners who are offline or logged out. To help set expectations, the proposed solution is:
 
 **Proposal** The chat mode (live or offline) is shown at the top of the chat, together with further explanation.
 
 ![Screenshot](/assets/ghosts/ss05.png)
-Top of chat showing the mode information
+Top of chat showing information about each mode
 {:.caption}
 
 *Problem:* It's not clear to everyone what the listener and member status indicators mean, and they're completely meaningless to people who have the most common (red-green) form of colour vision deficiency. To help set expectations, the proposed solution is:
@@ -102,20 +107,20 @@ Top of chat showing the mode information
 **Proposal** Change the status indicators so they use either text (if possible), or shape, in addition to colour. Improve the colour contrast for better clarity without colour vision. Add information explaining what the status means.
 
 ![Screenshot](/assets/ghosts/ss06.png)
-Status indicator in Browse Listeners, using text
+Status indicator in Browse Listeners, using colour and text
 {:.caption}
 
 ![Screenshot](/assets/ghosts/ss07.png)
-Status indicator in forum, using text
+Status indicator in forum, using colour and text
 {:.caption}
 
 ![Screenshot](/assets/ghosts/ss08.png){:.auto}
-Status indicators in chat list, using shape and text
+Status indicators in chat list, using colour, shape and text
 {:.caption}
 
-*Problem:* The system doesn't reliably know whether a chat is live or offline. As a result, chatters don't reliably know what's expected of them. To help set expectations, the proposed solution is:
+*Problem:* The system doesn't reliably know whether a chat is live or in messages mode. As a result, chatters don't reliably know what's expected of them. To help set expectations, the proposed solution is:
 
-**Proposal** A chat is live if both chatters' status is Online or Busy and either the chat is new (no messages at all) or both chatters have sent messages in the last 8 minutes. The chat's current mode (Live or Messages) is clearly displayed to the chatters.
+**Proposal** A chat is live either if the chat is new (no messages at all) and both chatters' status is Online, or if both chatters have sent messages in the last 8 minutes and both chatters' status is Online or Busy. The chat's current mode (Live or Messages) is clearly displayed to the chatters.
 
 As soon as conversation in messages mode satisfies this condition, it immediately goes live and the chatters are notified.
 
@@ -123,17 +128,23 @@ As soon as conversation in messages mode satisfies this condition, it immediatel
 Chat just went live
 {:.caption}
 
-However if a chatter goes offline, nothing changes immediately. This is because people sometimes get disconnected for short periods and soon return. The 8-minute timeout described above still applies.
+However if a chatter goes offline, the chat mode doesn't immediately change. This is because people sometimes get disconnected for short periods and soon return. The 8-minute timeout described above still applies.
 
-*Problem:* Listeners whose star ratings are poor, or become poor, can still be verified. This gives a misleading impression to members. To help set members' expectations, the proposed solution is:
+*Problem:* Listeners whose star ratings are poor, or become poor, can still be verified. This gives a misleading impression to members. Star ratings are important, both to help set members' expectations and because a further proposal (below) makes use of star ratings to help limit the impact of ghosting.
+
+The proposed solution is:
 
 **Proposal** Make a 4-star or better rating a requirement for becoming and remaining verified. If a listener's rating drops below 4-stars, they become unverified and must reapply when they meet the requirement again.
+
+The following mockup shows the proposed new requirements. Note that there's an error in the graphic that I have not corrected (Categories are not a requirement):
 
 ![Screenshot](/assets/ghosts/ss10.png)
 Requirements to become and remain verified
 {:.caption}
 
-![Screenshot](/assets/ghosts/ss11.png)
+The following mockup shows a notification:
+
+![Screenshot](/assets/ghosts/ss11.png){:.auto}
 Notification of star rating change and becoming unverified
 {:.caption}
 
@@ -148,7 +159,7 @@ Reminder in new messages mode conversation
 
 ### Supporting proposals to limit impact
 
-*Problem:* A member can end a chat or block it immediately, without ever saying anything, then go on to make further chat requests and end or block them too.
+*Problem:* A member can end a chat or block it immediately, without ever saying anything, then go on to make further chat requests and end or block them too. Multiple listeners experience being ghosted.
 
 A neat solution is impossible. Blocking a chat is genuinely necessary if the listener's first messages are inappropriate, but the system doesn't understand what bad things the listener might have said.
 
@@ -156,7 +167,7 @@ To approach a solution, let's assume that only weak (less than 4-star) listeners
 
 To limit the impact on members when listeners say inappropriate things, and to encourage effective reporting, the proposed solution is:
 
-**Proposal** When a member ends or blocks a chat without saying anything in the chat, but the listener did say something, then if the member agrees, the chat is automatically reported, and the report automatically quotes the listener's messages.
+**Proposal** When a member ends or blocks a chat, or a live chat times out, without the member saying anything in the chat, but the listener did say something, then if the member agrees, the chat is automatically reported, and the report automatically quotes the listener's messages.
 
 Note that the member said nothing, so there is nothing confidential in the listener's messages.
 
@@ -231,6 +242,9 @@ Asking a member whether they want to report a listener
 
  - Chatrooms should not be affected by any of this.
 
- - Listener-listener chats are proposed to be always in offline mode.
+ - Listener-listener chats are proposed to be always in messages mode.
 
  - Listeners sometimes abandon conversations in messages mode. No change in relation to this is being proposed. The member should report the listener in the normal way.
+
+ - Implications for listener training and support are a story for another day.
+
