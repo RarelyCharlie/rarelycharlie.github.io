@@ -33,15 +33,15 @@ To handle these situations appropriately, the system needs to be able to determi
 
 ### Proposals
 
-In summary, I propose one big change and a bunch of simpler supporting changes. The big change provides a way for the system to know when a chat has been abandoned. This involves a change in the way the End Live Chat button works.
+I propose one big change and a bunch of simpler supporting changes. The big change provides a way for the system to know when a chat has been abandoned. This involves a change in the way the End Live Chat button works.
 
 1-to-1 chats have always operated in two modes. In a *live chat* both chatters should respond quickly to keep the conversation going. In what is currently called an *offline chat* response time is less critical.
 
-I notice that the term "offline chat" is easily confused with offline status. For clarity, I propose using the term *messages mode" instead. This is also better aligned with the use of the abbreviation PM to mean personal message.
+The term "offline chat" is easily confused with offline status, but they are not the same. For clarity, I propose using the term *messages mode" instead. This is also better aligned with the common use of the abbreviation PM to mean personal message.
 
 About half of the proposed supporting changes are designed to provide members and listeners with clearer information, helping to set expectations more clearly. The other half of the supporting changes are designed to limit the impact of unwanted behaviour.
 
-I think these proposals can be implemented pretty much independently one at a time. I haven't thought much about the best order of implementation.
+I think many of these proposals can be implemented independently one at a time. I haven't thought much about the best order of implementation.
 
 ### Proposal to identify abandoned chats
 
@@ -139,12 +139,10 @@ Notification of star rating change and becoming unverified
 
 *Problem:* When a member starts a chat with a listener who is busy or offline, the chat is in messages mode, but the member doesn't always know what this means. Members sometimes feel abandoned when there was in fact no live chat. To help set members' expectations, the proposed solution is:
 
-**Proposal** After a member sends the first message in messages mode, the system reminds the member that the listener might not be able to respond quickly.
-
-(In fact the listener might be on a long break or have left 7 Cups altogether, and it might be good to adjust the wording of the reminder to reflect this.)
+**Proposal** After a member sends the first message in messages mode, the system reminds the member that the listener might not be able to respond quickly. (In fact the listener might be on a long break or have left 7 Cups altogether, but this is difficult to deal with.)
 
 ![Screenshot](/assets/ghosts/ss12.png)
-Reminder in new message mopde conversation
+Reminder in new messages mode conversation
 {:.caption}
 
 
