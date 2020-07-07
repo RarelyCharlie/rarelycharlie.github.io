@@ -17,6 +17,8 @@ Ghosting means when someone stops communication without warning. I'll call chats
 
 This is a complex problem, unfortunately, and my proposal is complex too. I don't believe it is possible to prevent abandoned chats entirely, but I do believe they can be managed better.
 
+I think many of the proposals in this paper can be implemented independently one at a time. I haven't thought much about the best order of implementation.
+
 ### Analysis
 
 It's OK for a member to request a chat but say nothing. The member might be too nervous, or too upset, or they don't really have anything to say and they just wanted reassurance that 7 Cups really does connect them with a listener. They might try again another time, and this is OK too.
@@ -27,21 +29,33 @@ Because it's not possible to prevent members from abandoning chats, I suggest ta
 
 It is not OK for a listener to take a chat and then say nothing.
 
-I suggest taking steps to limit the impact on members, encourage reporting of listeners, and to make reporting more effective.
+I suggest taking steps to limit the impact on members, to encourage reporting of listeners, and to make reporting more effective.
 
-To handle these situations appropriately, the system needs to be able to determine reliably when a chat is abandoned. This requires greater clarity in the system about when a chat is live and when it's offline, and because this is related to status (Online/Busy/Offline) it requires greater clarity about that too.
+To handle these situations appropriately, the system needs to be able to determine reliably when a chat is abandoned. This requires greater clarity in the system about when a chat is live and when it's not, and because this is closely related to members' and listeners' status (Online/Busy/Offline) it requires greater clarity about that too.
+
+Additionally, if there are preventable situations that tend to result in members or listeners abandoning chats, then we should do whatever we can to reduce the occurrence of those situations. However, this requires a wider discussion, probably resulting in changes to listener training and support, and therefore is beyond the scope of this paper.
+
 
 ### Proposals
 
-I propose one big change and a bunch of simpler supporting changes. The big change provides a way for the system to know when a chat has been abandoned. This involves a change in the way the End Live Chat button works.
+In summary, I suggest four approaches.
+
+*Change the chat system so it can reliably determine when a chat is abandoned.* This involves a significant change to the way the End Live Chat button works.
+
+It's a big deal, because it will involve asking members and listeners to change the way they end chats. There will have to be a pre-announcement, a period of discussion and clarification, a change in the software platform, follow-up information, and perhaps a transition period before the new way of ending chats becomes mandatory.
+
+*Enhance the user interface so that it provides greater clarity.* There are three parts to this: chat mode, Online/Busy/Offline status and response time. All the proposals are easy, involving changes to the software platform that should be self-explanatory to members and listeners.
 
 1-to-1 chats have always operated in two modes. In a *live chat* both chatters should respond quickly to keep the conversation going. In what is currently called an *offline chat* response time is less critical.
 
-The term "offline chat" is easily confused with offline status, but they are not the same. For clarity, I propose using the term *messages mode" instead. This is also better aligned with the common use of the abbreviation PM to mean personal message.
+The term "offline chat" is easily confused with offline status, but they are not the same. For clarity, I propose using the term *messages mode* instead. This is also better aligned with our well established use of the abbreviation PM to mean personal message.
 
-About half of the proposed supporting changes are designed to provide members and listeners with clearer information, helping to set expectations more clearly. The other half of the supporting changes are designed to limit the impact of unwanted behaviour.
+Online/Busy/Offline status currently lacks clarity. Some new members, and even some new listeners, seem to be unaware of what it means. Members and listeners who suffer from the commonest (red/green) colour vision deficiency may be unable to interpret the status indicators at all.
 
-I think many of these proposals can be implemented independently one at a time. I haven't thought much about the best order of implementation.
+There's a lack of clear information, both for listeners and members, about expected response times.
+
+*Limit the impact of abandoned chats on members and listeners.* Accepting that abandoned chats can't be eliminated completely, some things can be done to limit their impact in particular cases.
+
 
 ### Proposal to identify abandoned chats
 
