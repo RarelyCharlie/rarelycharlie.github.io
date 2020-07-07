@@ -36,7 +36,7 @@ To handle these situations appropriately, the system needs to be able to determi
 Additionally, if there are preventable situations that tend to result in members or listeners abandoning chats, then we should do whatever we can to reduce the occurrence of those situations. However, this requires a wider discussion, probably resulting in changes to listener training and support, and therefore is beyond the scope of this paper.
 
 
-### Proposals
+### Approach
 
 In summary, I suggest four approaches.
 
@@ -156,12 +156,6 @@ The following mockup shows the proposed new requirements. Note that there's an e
 Requirements to become and remain verified
 {:.caption}
 
-The following mockup shows a notification:
-
-![Screenshot](/assets/ghosts/ss11.png){:.auto}
-Notification of star rating change and becoming unverified
-{:.caption}
-
 *Problem:* When a member starts a chat with a listener who is busy or offline, the chat is in messages mode, but the member doesn't always know what this means. Members sometimes feel abandoned when there was in fact no live chat. To help set members' expectations, the proposed solution is:
 
 **Proposal** After a member sends the first message in messages mode, the system reminds the member that the listener might not be able to respond quickly. (In fact the listener might be on a long break or have left 7 Cups altogether, but this is difficult to deal with.)
@@ -195,25 +189,13 @@ Confirmation that a chat will be reported automatically
 
 If the listener sent the last message, it's the member who must have abandoned the chat. This is OK.
 
-![Screenshot](/assets/ghosts/ss14.png)
-Chat timing out
-{:.caption}
-
 **Proposal** If the member sent the last message, it's the listener who must have abandoned the chat. To encourage effective reporting, the system asks the member whether they want to report the listener.
-
-![Screenshot](/assets/ghosts/ss15.png)
-Chat abandoned by listener
-{:.caption}
 
 *Problem:* A member can make multiple chat requests, abandoning them all and leaving many listeners waiting. To limit the impact on listeners, the proposed solution is:
 
 **Proposal** When a chat is currently live, the member cannot make a chat request (general or personal). Attempting to make a chat request just returns the member to the current live chat (or one of them), and notifies the member what happened.
 
 Note that this does not prevent a member from chatting to many listeners at the same time, if they are listeners the member has chatted to previously. It would be possible to limit the number of simultaneous live chats, but I'm not proposing that here.
-
-![Screenshot](/assets/ghosts/ss16.png)
-Notification that new chats are not possible when a chat is live
-{:.caption}
 
 To limit the impact on listeners when a member ends or blocks multiple chats, the proposed solution is:
 
@@ -222,10 +204,6 @@ To limit the impact on listeners when a member ends or blocks multiple chats, th
 This reflects the assumption if the member is experienced or the listener is weak, the block is more likely to be genuine.
 
 Note that this does not prevent the member from chatting with any listeners they've chatted to previously.
-
-![Screenshot](/assets/ghosts/ss17.png)
-Confirmation of 20-minute waiting period
-{:.caption}
 
 *Problem:* Giving a listener a bad rating doesn't always affect the listener's stars, so that some listeners who have 4 or 5 stars behave inappropriately, and members abandon chats with them.
 
@@ -239,17 +217,13 @@ For example, an appropriate algorithm would be that the new star rating is the a
 
 Note that this will probably mean that even the very best listeners' 5-star ratings will be less stable.
 
-![Screenshot](/assets/ghosts/ss18.png)
+![Screenshot](/assets/ghosts/ss11.png)
 Notification of star rating changes
 {:.caption}
 
 *Problem:* It is not OK for a listener to take a chat and then say nothing. To limit the impact on members and to encourage effective reporting, the proposed solution is:
 
 **Proposal** When a new live chat times out (switching to messages mode after 8 minutes), and there is at least one message from the member but none from the listener, the system asks the member whether they want to report the listener.
-
-![Screenshot](/assets/ghosts/ss19.png)
-Asking a member whether they want to report a listener
-{:.caption}
 
 
 ### Notes
