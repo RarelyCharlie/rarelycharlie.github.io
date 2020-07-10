@@ -57,6 +57,7 @@ Results that link to listener-only threads only work if you are logged in to a l
 <script>
 acfi = null
 idx = null
+limit = 100
 
 config = {
 	fields: {
@@ -169,7 +170,7 @@ search = () => {
 		  + ' by ' + profile 
 		  + ' in ' + months[when.getMonth()] + ' ' + when.getFullYear()
 		  + '</small></p>\n'
-		if (++n == 100) break
+		if (++n == limit) break
 		}
 
 	UI.count.hidden = false
