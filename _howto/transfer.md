@@ -22,7 +22,7 @@ Also consider handing the chat over to another listener when the member feels yo
 You need the member's consent and also the other listener's consent for this.
 Unfortunately 7 Cups' chat system does not directly support transferring chats, so there are many steps:
 
-1. Tell the member that you are unable to chat about this subject.
+1. If your personal boundaries were crossed, tell the member that you are unable to chat about this subject.
 2. Tell the member that another listener might be available.
 3. If the member agrees, go to the Listener Support Room (the question mark button 
 <span style="display: inline-block; width: 1.2em; height: 1.2em; text-align: center; border: 1px solid #555; border-radius: .6em; color: #555; font-weight: bold;" title="Get help in listener support room">?</span> 
