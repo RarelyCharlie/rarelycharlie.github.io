@@ -14,8 +14,11 @@ Check your list from time to time to remind yourself of it, and also to keep it 
 It's also OK to be willing to chat about any topic without restriction. In this case you don't need any list. 
 But you should still make the decision not to have any list thoughtfully and in advance.
 
-### When your boundaries are crossed
-When a chat goes beyond your personal boundaries, consider handing it over to another listener who has different boundaries. 
+### When you need to transfer a chat
+When a chat goes beyond your personal boundaries, consider handing it over to another listener who has different boundaries.
+
+Also consider handing the chat over to another listener when the member feels you are not the right listener to help them.
+
 You need the member's consent and also the other listener's consent for this.
 Unfortunately 7 Cups' chat system does not directly support transferring chats, so there are many steps:
 
@@ -25,19 +28,16 @@ Unfortunately 7 Cups' chat system does not directly support transferring chats, 
 <span style="display: inline-block; width: 1.2em; height: 1.2em; text-align: center; border: 1px solid #555; border-radius: .6em; color: #555; font-weight: bold;" title="Get help in listener support room">?</span> 
 at the top right of the chat).
 4. In five words or less, tell the room why you need to hand over the chat. 
-Do not share any more details of the chat, not even if asked.
-5. When you have identified another listener, provide the member with a link to the other listener's profile. 
-In a chat this looks like `7cups.com/@NameOfListener`
-6. Tell the member to press the Leave Message or Chat Now button in the listener's profile.
+Do not share the member's name or any more details of the chat, not even if asked.
+5. When you have identified another listener, message that listener to tell them the member's name.
+6. Tell the member the other listener's name, and explain that they can expect a message.
 7. End the chat.
 8. Do not discuss the member with the other listener (or with anyone else) at any time.
 
-At step 3, if the member does not agree, tell the member that you have to end the chat, and end the chat 
+At step 3, if the member does not agree, and your personal boundaries were crossed, tell the member that you have to end the chat, and end the chat 
 without further discussion.
 
-At step 5, if you cannot find any other listener, ask the member to message a suitable listener from the
-Browse Listeners page. Provide the link: `7cups.com/BrowseListeners` 
-Explain that the page has a More Filters button at the top, which is useful for finding appropriate listeners.
+At step 5, if you cannot find any other listener, ask the member to post in the [Members Classifieds](https://www.7cups.com/forum/GeneralSupport_28/MembersClassifieds_360/) area of the forum describing the kind of listener they feel they need.
 
 There is normally no need to block the member. They might want to chat with you about some other topic in the future.
 
