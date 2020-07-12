@@ -38,7 +38,7 @@ Additionally, if there are preventable situations that tend to result in members
 
 ### Approach
 
-In summary, I suggest four approaches.
+In summary, I suggest four approaches and elaborate on three of them in this paper.
 
 *Change the chat system so it can reliably determine when a chat is abandoned.* This involves a significant change to the way the End Live Chat button works.
 
@@ -55,6 +55,8 @@ Online/Busy/Offline status currently lacks clarity. Some new members, and even s
 There's a lack of clear information, both for listeners and members, about expected response times.
 
 *Limit the impact of abandoned chats on members and listeners.* Accepting that abandoned chats can't be eliminated completely, some things can be done to limit their impact in particular cases.
+
+*Reduce preventable situations that tend to result in abandoned chats.* Not discussed further at this time.
 
 
 ### Proposal to identify abandoned chats
