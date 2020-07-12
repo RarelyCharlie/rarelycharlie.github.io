@@ -6,7 +6,7 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 ---
 7 Cups does not provide an easy and reliable way to link to threads or posts in the forum.
 
-For information on how to link manually, see: [Link to forums](/forumlink)
+For information on how to link manually, see: [Link to forums](./forumlink)
 
 This guide tells you how to link to forums easily using the *Forum Links* script.
 
