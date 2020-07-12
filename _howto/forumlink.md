@@ -54,13 +54,13 @@ from your browser's address bar and add a page number if necessary, as described
 
 Go to the post and right-click the top part of it to get a context menu. Choose Inspect from the menu.
 In the list of elements, scroll up a few lines until you see something like `id="forum-post-1234567"`.
-Copy the id that you see between the quotes. At the end of the URL, type a `#`-sign and paste the id.
+Copy the number part of the id that you see between the quotes. At the end of the URL, type a `#`-sign and paste the number.
 
 *Example:*
 
 A complete post link URL looks like:
 
-`https://www.7cups.com/forum/Subcommunity_123/Subforum_456/Thread_789012/1/#forum-post-1234567`
+`https://www.7cups.com/forum/Subcommunity_123/Subforum_456/Thread_789012/1/#1234567`
 
 Test the URL before you put it in a link.
 
