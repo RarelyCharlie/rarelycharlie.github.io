@@ -32,7 +32,7 @@ To customize sounds, go to your My Settings page (by logging in to 7 Cups, click
 
 ![Settings](/assets/soundpref.png){:style="margin: 0 auto; display: block;"}
 
-Specify sound file URLs to override a 7 Cups sound with custom sounds.
+Specify sound file URLs to override 7 Cups sounds with custom sounds.
 
 Check the box "Mute general request alerts" if you only want to hear alerts for personal requests.
 
