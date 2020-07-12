@@ -28,20 +28,18 @@ To use Listener Sound Options, you need to install two things in this order:
 To install each of these in turn, click the relevant link and follow the instructions.
 
 ### Settings
-To customize sounds, go to your My Settings page (by logging in to 7 Cups, clicking on your own profile image at the top right, and choosing My Settings from the menu).
+To customize sounds, go to your My Settings page (by logging in to 7 Cups, clicking on your own profile image at the top right, and choosing My Settings from the menu). Listener Sound Options adds additional settings in the Sound Preferences section of the page:
 
-Listener Sound Options adds a **Listener Sound Options Theme** section to the page:
+![Settings](/assets/soundpref.png){:style="margin: 0 auto; display: block;"}
 
-![Settings](/assets/soundpref.png)
-
-Specify a sound file URL to override a 7 Cups sound with a custom sound.
+Specify sound file URLs to override a 7 Cups sound with custom sounds.
 
 Check the box "Mute general request alerts" if you only want to hear alerts for personal requests.
 
 ### Known issues
  - You cannot specify different custom sounds for general and personal request alerts.
 
- - In some browsers you cannot use local sound files as alerts. This is a securoty feature.
+ - In some browsers you cannot use local sound files as alerts. This is a security feature.
 
 ### Removing Listener Sound Options
 If you want to remove Listener Sound Options, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
