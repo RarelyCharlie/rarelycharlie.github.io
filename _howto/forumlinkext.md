@@ -43,11 +43,11 @@ To link to a post, copy the link shown at the top right of the post:
 ![Link at top right of post](/assets/forumlink1.png)
 
 ### Linked posts
-Forum Links fixes a 7 Cups bug that hides the top of a linked post underneath the navigation bar at the top of the page.
+Forum Links fixes a 7 Cups bug that hides the top of a linked post underneath the blue navigation bar at the top of the page.
 
 ### Known issues
 
- - None
+ - A separate 7 Cups bug hides the top of a linked post underneath the blue navigation bar at the top of the page when you click In Reply To at the bottom of a reply. Forum Links does not fix this bug.
 
 ### Removing Forum Links
 If you want to remove Forum Links, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
