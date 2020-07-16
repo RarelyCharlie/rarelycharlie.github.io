@@ -98,7 +98,7 @@ initsearch = async function () {
 	idx = elasticlunr.Index.load(acfi.index)
 
 	UI.results.innerHTML = ''
-	UI.build.textContent = 'Indexed on ' + (new Date(acfi.on).toDateString()))
+	UI.build.textContent = 'Indexed on ' + (new Date(acfi.on)).toDateString()
 	UI.words.focus()
 	}
 addEventListener('DOMContentLoaded', initsearch)
