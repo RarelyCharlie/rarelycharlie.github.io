@@ -1,5 +1,5 @@
 ---
-title: Anxiety
+title: Stress
 info: A chat about implied feelings
 layout: chat
 feedback: https://www.7cups.com/@RarelyCharlie
@@ -29,9 +29,9 @@ Remember to press the blue Send button to send each message.
 - 2M I have an exam tomorrow and I am so stressed about it.
 - 0I Now we know roughly what's going on. Let's find out more.
 - 0Q Which reply accurately reflects the member's feelings?
-  - What are you most worried about?
-  - Oh, that has to be very tough!
-  - What's causing you the most stress?
+  - 28 What are you most worried about?
+  - 32 Oh, that has to be very tough!
+  - 0 What's causing you the most stress?
 - 2M It's a very tough exam, Quantitative Economics, and I am not feeling prepared for it at all. I do not know how will I do. Its scores can impact my overall grades, you know!
 - 0I There are several feelings there. Let's try to summarize all of them.
 - 0Q Which reply accurately summarizes all the member's feelings?
