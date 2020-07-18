@@ -22,6 +22,7 @@ tr:last-child>td {padding-top: 1ex;}
 div#loading {color: #aaa; font-size: 150%; margin: 1em 0 0 0;}
 a[href*="/forum/Listener"]::after, span.listener {content: "L"; color: white; background: #5cb85c; padding: 4px 4px 2px 4px;margin-left: 1ex; border-radius: 25%; font-size: 12px; font-weight: bold; display: inline-block; line-height: 12px;}
 span.listener {margin: 0;}
+#build {color: gray; font-size: 80%; float: right;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
@@ -51,7 +52,7 @@ Results that link to listener-only threads only work if you are logged in to a l
 
 <p><span id="logic">Search for all of these words (more words for fewer results):</span><br>
 <span id="atsign" hidden>@</span><input type="text" id="words" onkeydown="searchkey(this)" placeholder="…words…" autocomplete="off" autofocus> <i class="fa fa-search"></i></p>
-<p><span id="count"></span> <span id="display"></span></p>
+<p><span id="count"></span> <span id="display"></span><span id="build"></span></p>
 <div id="results"></div>
 
 <script>
@@ -97,6 +98,7 @@ initsearch = async function () {
 	idx = elasticlunr.Index.load(acfi.index)
 
 	UI.results.innerHTML = ''
+	UI.build.textContent = 'Indexed on ' + (new Date(acfi.on)).toDateString()
 	UI.words.focus()
 	}
 addEventListener('DOMContentLoaded', initsearch)
