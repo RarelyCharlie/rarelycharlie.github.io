@@ -39,10 +39,10 @@ Remember to press the blue Send button to send each message.
   - 0 You're feeling unprepared for it, which means you're not certain how well you'll do, and the score in this exam can affect your final grades.
   - 26 You need to take your mind off the exam by doing some things you enjoy, things that will keep you calm tomorrow.
 - 2M Yes you are right. I find it really hard to cope with it because a lot of thoughts keep going in mind and makes me anxious. Though I try to do some breathing, journaling, listening to music or self-talk.
-- 0I Now Kris is moving on from talking about stress to planning how to cope.
+- 1I Now Kris is moving on from talking about stress to planning how to cope.
 - 0I This suggests we're nearly done.
 - 0Q Which reply accurately reflects the member's feelings?
-  - 0 Your thoughts make you anxious, and it's hard to cope with that, but feel you can rely on techniques you've used before like breathing, journaling, music and self-talk.
+  - 0 Your thoughts make you anxious, and it's hard to cope with that, but feel you can rely on techniques you've used before.
   - 33 Those are great ways to cope with feelings and de-stress! I'm glad to hear there's some things you enjoy doing to keep your mind off things. What do you think would help you feel more calmed for tomorrow?
   - 28 You're anxious that breathing, journaling, listening to music and self-talk might not work this time because Quantitative Economics is very tough.
 - 2M Thank you for your encouragement. I appreciate it. I guess I will try them but not 100% sure how things will go. I guess it became part of every exam
@@ -53,8 +53,10 @@ Remember to press the blue Send button to send each message.
   - 0 You've used these techniques before because anxiety has become part of every exam, and it's still uncertain how tomorrow's will go. It's a tough one.
 - 2M You're right, it's still uncertain and I'm still not feeling prepared, but I feel better after telling you about it.
 - 0M I am sorry but I need to go for now. Thank you for listening to me.
-- 0I So we're done for now.
-- 0L That's alright! I wish you the best of luck for tomorrow! Please do let me know how it went! If you can it would also be very helpful for me if you left a review and a comment on how the chat went today so I can know where to improve.
+- 0I So we're done for now. Invite follow-up.
+- 0L That's alright! I wish you the best of luck for tomorrow! Please do let me know how it went!
+- 0I And encourage the member to submit a review.
+- 0L If you can it would also be very helpful for me if you left a review and a comment on how the chat went today so I can know where to improve.
 - 2M Thank you. I would like that. I will share my feedback.
 - 0Q Bring it to a close.
   - 28 Have a good night!
@@ -63,4 +65,4 @@ Remember to press the blue Send button to send each message.
 
 7 Cups is designed for emotional support, but members often use the language of problem-solving to describe their situation, saying that they need help when really it's their state of mind that has brought them here.
 
-Accurately reflecting people's feeling is what shows them they are being heard and understood. That's why reflection is at the heart of active listening.
+Accurately reflecting people's feelings is what shows them they are being heard and understood. That's why reflection is at the heart of active listening.
