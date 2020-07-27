@@ -109,6 +109,7 @@ searchkey = () => {
 	wait = setTimeout(search, 600)
 	}
 
+hit = []
 search = () => {
 	if (UI.forany.checked) {
 		config.bool = 'OR'
@@ -141,7 +142,7 @@ search = () => {
 
 	var res = UI.words.className == 'author'? authorsearch(w) : idx.search(w, config)
 
-	var hit = []
+	hit = []
 	for (let r of res) hit.push(acfi.corpus[r.ref])
 	
 	if (!UI.archive.checked) hit = hit.filter(t => t.forum != 1886) // exclude archive
@@ -149,9 +150,21 @@ search = () => {
 	hit = hit.filter(t => t.forum != 1682) // always exclude checkins
 	
 	hit = hit.sort(sorters[document.querySelector('[name=sortby]:checked').value])
-		
+
+	UI.count.hidden = false
+	UI.count.textContent = hit.length == 0? 'No threads found.' : (hit.length == 1? '1 thread found.' : hit.length + ' threads found.')
+
+	UI.display.hidden = hit.length < 100
+	UI.display.textContent = hit.length > 100? 'Displaying first 100.' : ''
+	
+	UI.results.innerHTML = ''
+	display()
+	}
+
+display = () => {
 	var list = '', n = 0
 	for (let thread of hit) {
+		if (!thread.id) continue
 		let url = 'https://www.7cups.com/forum/'
 		  + urlfrag('cat', thread.cat) + '/'
 		  + urlfrag('forum', thread.forum) + '/'
@@ -172,16 +185,11 @@ search = () => {
 		  + ' by ' + profile 
 		  + ' in ' + months[when.getMonth()] + ' ' + when.getFullYear()
 		  + '</small></p>\n'
+		thread.id = ''
 		if (++n == limit) break
 		}
 
-	UI.count.hidden = false
-	UI.count.textContent = hit.length == 0? 'No threads found.' : (hit.length == 1? '1 thread found.' : hit.length + ' threads found.')
-	
-	UI.display.hidden = hit.length < 100
-	UI.display.textContent = hit.length > 100? 'Displaying first 100.' : ''
-	 	
-	UI.results.innerHTML = list
+	UI.results.innerHTML += list
 	}
 	
 toggle = button => {
