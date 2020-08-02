@@ -10,7 +10,7 @@ It is not necessary to have any knowledge or experience of the subject when you 
 
 Knowledge and personal experience can sometimes help you when you are chatting with a member who finds it difficult to express their emotions. If you have knowledge of situations similar to theirs, or if you have experienced similar situations yourself, you might be more sensitive to the member's emotions and better able to support them.
 
-But your knowledge and personal experience can lead to you assume that members' experiences are the same as yours. You might become confused between their emotions and your own emotions.
+But your knowledge and personal experience can lead you to assume that members' experiences are the same as yours. You might become confused between their emotions and your own emotions.
 
 In your profile you can list some topics you are familiar with, and a member might choose you to chat to because of this. Or you might choose a member from the general request queue because they indicated they want to talk about a topic you are familiar with.
 
