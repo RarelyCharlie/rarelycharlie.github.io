@@ -4,7 +4,7 @@ title: "What listeners do: Listen"
 class: section
 serial: 6
 ---
-The first thing you must do is listen. This might seem pretty obvious, but in an online chat it  takes some skill. There will be more about this skill this later in the course.
+The first thing you must do is listen. This might seem pretty obvious, but in an online chat it  takes some skill. There will be more about this skill later in the course.
 
 Listening means paying close attention to what a member tells you, and demonstrating to the member that you are paying attention. For this reason, chatting with more than one member at a time is difficult and it is not recommended (even though the system allows it).
 
