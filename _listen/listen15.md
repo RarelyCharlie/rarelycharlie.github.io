@@ -13,7 +13,7 @@ There are three settings:
 - Busy
 - Online
 
-Your status controls whether the system will allow members to send you personal requests for chats, and it tells members how quickly they can to expect a response when they send you a message.
+Your status controls whether the system will allow members to send you personal requests for chats, and it tells members how quickly they can expect a response when they send you a message.
 
 You can take part in chats regardless of your status, even when your status is set to offline, but it is less confusing for members if you set your status to busy whenever you are active on the site.
 
