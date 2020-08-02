@@ -18,7 +18,7 @@ Listener: *“Yes, when I was about 13 a similar thing happened to me a few time
 
 Some members will ask you questions about yourself, and if you self-disclose they will follow up with more questions so that you effectively switch places and they become the listener. To avoid switching places, it is very important to bring the conversation back to the member.
 
-After the quiz, we'll look at some some things that can get in the way of emotional support.
+After the quiz, we'll look at some things that can get in the way of emotional support.
 
 A member says:
 {: data-n="6" data-opt="Yes,No"}
