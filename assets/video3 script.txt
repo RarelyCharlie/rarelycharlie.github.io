@@ -1,0 +1,115 @@
+// Video 3 - Introducing Citri and Bleu
+// Key:
+//		T - title
+//		A - audio (C - Citri, listener, B - Bleu, mentor) 
+//		S - screenshot (M - member or L - listener, followed by delay in minutes)
+
+script = {
+	T01: "Getting Unstuck",
+	T02: "an unofficial simulated chat on 7 Cups",	
+	
+	A01: "C Hello everybody! I'm Citri, a new listener on 7 Cups. It's good to have you with me here this morning as I chat with John, a member. John just messaged me and I'm not sure how to respond. But my cat, Bleu, knows all about how things work at 7 Cups, and she's going to help me. Bleu? Bleu? Are you there?",
+	
+	S01: "M0 Hey, I'm John. Can you help me? I need some advice.",
+	
+	A02: "B Yes, I'm here!",
+
+	A03: "C What can I say to John? I know we're not allowed to give advice.",
+	
+	A04: "B You're right. Listeners are not allowed to give advice. But John didn't say give. He said need. Is it OK for him to need advice, do you think?",
+	
+	A05: "C Yes, I think I get it. It's OK for him to need advice.",
+	
+	A06: "B So you can tell him it's OK, right?",
+	
+	A07: "C Right! I'll tell him.",
+	
+	A08: "B And make sure you repeat some of his exact words, to prove you read what he wrote.",
+	
+	A09: "C Right, I'll do that too.",
+	
+	S02: "L1 You need advice. That's OK :)",
+	
+	A10: "B Good. The smiley was a nice touch! And do you think you can help him?",
+	
+	A11: "C I'm not sure. Maybe.",
+	
+	A12: "B So you could say that too.",
+	
+	A13: "C OK",
+	
+	S03: "L0 Maybe I can help you, John. I'm not sure.",
+	
+	A14: "B I like the way you repeated his name there, too. Let's wait and see what he says.",
+	
+	A15: "C No response and it's been two minutes. What do I do now?",
+	
+	A16: "B Maybe ask a question? Questions beginning with 'what' or 'how' are good. Open questions, they're called.",
+	
+	A17: "OK",
+	
+	S04: "What do you need advice about?",
+	
+	A18: "B That was good. I liked the way you repeated John's words 'need' and 'advice'.",
+	
+	S05: "M3 I've done a terrible thing. I feel so bad about it. What can I do?",
+	
+	A19: "C I've no idea what he can do! What can I possibly say?",
+	
+	A20: "B Well, what do you want to say to him?",
+	
+	A21: "C I want to tell him whatever he did can't have been so terrible and he shouldn't feel bad.",
+	
+	A22: "B You want to deny the validity of everything he just told you? That would be a really bad idea! How about you just confirm that you read what John just wrote, without trying to fix it?",
+	
+	A23: "C Just confirm that I read it, and nothing else?",
+	
+	A24: "B Yes, just confirm that you read it, and nothing else.",
+	
+	S06: "L1 You did a terrible thing and you feel bad about it. You're wondering what to do now.",
+	
+	S07: "M1 Yeah.",
+	
+	A25: "B So now you can ask an open question again.",
+	
+	S08: "L1 What was the terrible thing you did?",
+	
+	A26: "C Was that OK?",
+	
+	A27: "B That was perfect. You started with 'what' and you repeated John's exact words again.",
+	
+	A28: "C But John hasn't replied and it's been two minutes again. This feels really uncomfortable.",
+	
+	A29: "B Maybe it's too difficult for him to answer right now. When that happens it can be worth trying a closed question so he can simply answer 'yes' or 'no'. But be careful not to change the subject just because you feel uncomfortable.",
+	
+	S09: "L3 Are you able to tell me about what you did?",
+	
+	A30: "C How was that?",
+	
+	A31: "B That was perfect again. Your closed question makes it easy for him to reply.",
+	
+	S10: "M2 I'm too ashamed.",
+	
+	A32: "C Can I tell him not to feel ashamed? Or I'm proud of him for opening up? I suppose I can't say things like that.",
+	
+	A33: "B You're getting the idea. Don't invalidate John's feeling of shame, and don't change the subject to avoid it.",
+	
+	S11: "L1 It makes you ashamed to think you did it.",
+	
+	A34: "Good reflection! Showing you read and understood what John wrote, and you're managing your own discomfort so it doesn't interfere with John's chat.",
+	
+	S12: "M1 Yeah. It's not like me to do anything like that. I'm normally",
+	
+	S13: "M1 Normally very careful about what I say.",
+	
+	A35: "C I'm thinking the terrible thing John did was something he said.",
+	
+	A36: "B I agree. You could tell him exactly that.",
+	
+	S14: "L1 I'm thinking the terrible thing you did was something you said.",
+	
+	S15: "M1 Yeah. My mom had a total meltdown.",
+	
+	// to be continued...
+	
+	}
