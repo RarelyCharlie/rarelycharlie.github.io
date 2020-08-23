@@ -235,6 +235,7 @@ prepare = async () => {
 		let c = w.charAt(0).toLowerCase()
 		if (!'0123456789abcdefghijklmnopqrstuvwxyz'.includes(c)) continue
 		if (acfi.index.index.body.root[c] === null) {
+			acfi.index.index.body.root[c] = {}
 			let r = await fetch('/assets/info/i_' + c + '.jslz?build=' + build)
 			r = await r.text()
 			r = JSON.parse(LZString.decompressFromEncodedURIComponent(r))
