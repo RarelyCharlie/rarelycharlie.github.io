@@ -23,6 +23,7 @@ div#loading {color: #aaa; font-size: 150%; margin: 1em 0 0 0;}
 a[href*="/forum/Listener"]::after, span.listener {content: "L"; color: white; background: #5cb85c; padding: 4px 4px 2px 4px;margin-left: 1ex; border-radius: 25%; font-size: 12px; font-weight: bold; display: inline-block; line-height: 12px;}
 span.listener {margin: 0;}
 #build {color: gray; font-size: 80%; float: right;}
+#more {margin: 1em 0 0 0; color: #fff; background: #29f; padding: 1ex 1em; border-radius: 4px;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
@@ -54,10 +55,15 @@ Results that link to listener-only threads only work if you are logged in to a l
 <span id="atsign" hidden>@</span><input type="text" id="words" onkeydown="searchkey(this)" placeholder="…words…" autocomplete="off" autofocus> <i class="fa fa-search"></i></p>
 <p><span id="count"></span> <span id="display"></span><span id="build"></span></p>
 <div id="results"></div>
+<p><button hidden id="more" onclick="more()">Show More Results</button></p>
 
 <script>
+build = 7
+
 acfi = null
 idx = null
+
+chunk = 100
 limit = 100
 
 config = {
@@ -84,7 +90,7 @@ initsearch = async function () {
 	UI.results.innerHTML = '<div id="loading">Initializing… <i class="fa fa-spinner fa-spin"></i></div>'
 	await (new Promise(i => setTimeout(i, 0)))
 
-	var r = await fetch('/assets/acfi.jslz?build=4')
+	var r = await fetch('/assets/info/acfi.jslz?build=' + build)
 	r = await r.text()
 	acfi = JSON.parse(LZString.decompressFromEncodedURIComponent(r))
 
@@ -104,9 +110,10 @@ initsearch = async function () {
 addEventListener('DOMContentLoaded', initsearch)
 		
 wait = 0
-searchkey = () => {
+searchkey = async () => {
 	if (wait) clearTimeout(wait)
 	wait = setTimeout(search, 600)
+	await prepare()
 	}
 
 hit = []
@@ -137,6 +144,7 @@ search = () => {
 		UI.count.hidden = true
 		UI.display.hidden = true
 		UI.results.innerHTML = ''
+		UI.more.hidden = true
 		return
 		}
 
@@ -154,17 +162,14 @@ search = () => {
 	UI.count.hidden = false
 	UI.count.textContent = hit.length == 0? 'No threads found.' : (hit.length == 1? '1 thread found.' : hit.length + ' threads found.')
 
-	UI.display.hidden = hit.length < 100
-	UI.display.textContent = hit.length > 100? 'Displaying first 100.' : ''
-	
 	UI.results.innerHTML = ''
+	limit = chunk
 	display()
 	}
 
 display = () => {
 	var list = '', n = 0
 	for (let thread of hit) {
-		if (!thread.id) continue
 		let url = 'https://www.7cups.com/forum/'
 		  + urlfrag('cat', thread.cat) + '/'
 		  + urlfrag('forum', thread.forum) + '/'
@@ -185,11 +190,23 @@ display = () => {
 		  + ' by ' + profile 
 		  + ' in ' + months[when.getMonth()] + ' ' + when.getFullYear()
 		  + '</small></p>\n'
-		thread.id = ''
 		if (++n == limit) break
 		}
 
 	UI.results.innerHTML += list
+
+	UI.display.hidden = hit.length < limit
+	UI.display.textContent = hit.length > limit? 'Displaying first ' + Math.min(hit.length, limit) + '.' : ''
+
+	UI.more.hidden = hit.length <= limit
+	}
+
+more = () => {
+	var y = scrollY
+	limit += chunk
+	UI.results.innerHTML = ''
+	display()
+	scrollTo(0, y)
 	}
 	
 toggle = button => {
@@ -209,5 +226,21 @@ authorsearch = author => {
 	var res = []
 	for (let thread in acfi.corpus) if (acfi.corpus[thread].by == aid) res.push({ref: acfi.corpus[thread].id})
 	return res
+	}
+
+prepare = async () => {
+	var ww = document.getElementById('words').value.trim().split(' ')
+	for (let w of ww) {
+		if (w == '') continue
+		let c = w.charAt(0).toLowerCase()
+		if (!'0123456789abcdefghijklmnopqrstuvwxyz'.includes(c)) continue
+		if (acfi.index.index.body.root[c] === null) {
+			let r = await fetch('/assets/info/i_' + c + '.jslz?build=' + build)
+			r = await r.text()
+			r = JSON.parse(LZString.decompressFromEncodedURIComponent(r))
+			acfi.index.index.head.root[c] = r.head
+			acfi.index.index.body.root[c] = r.body
+			}
+		}
 	}
 </script>
