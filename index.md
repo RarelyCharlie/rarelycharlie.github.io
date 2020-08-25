@@ -17,8 +17,8 @@ to find out what they all mean.
 ## [7 Cups Date & Time](https://rarelycharlie.github.io/7cupstime)
 This tool performs time zone conversion between your time zone and 7 Cups' time zone.
 
-## [Listener training](/listen/ 'Go to the listener training')
-A alternative training course for new listeners is available as a draft version.
+## [Listener information](/guide/listenerinfo 'Search listener information')
+A fast search engine for finding information in 7 Cups' forums, mainly for listeners
 
 ## [Listeners' reading list](/books 'Go to the reading list')
 A reading list for listeners: background information about listeners' work.
@@ -31,6 +31,9 @@ Some general guides.
 
 ## [How-to guides](/howto/ 'Go to the index of how-to guides')
 Some guides that tell you how to do specific things.
+
+## [Listener training](/listen/ 'Go to the listener training')
+A alternative training course for new listeners (partly out of date)
 
 ## [Cuddles](/cuddle 'Go to Burt's Cuddle Button')
 Wise old bear Burt provides cuddles that you can send to anyone at 7 Cups.
