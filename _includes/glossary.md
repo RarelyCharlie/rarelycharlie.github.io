@@ -410,7 +410,7 @@ A regular record of the things you are grateful for, often kept privately in you
 A ~~chatroom,~~ or the chatrooms in general.
 
 # group chat
-A ~~chat~~ in a ~~chatroom~~.
+A ~~chat~~ in a ~~chatroom~~. When counting group chats, 7 Cups counts 25 messages sent as one chat.
 
 # group support
 The ~~chatrooms/chatroom~~ as a whole.
