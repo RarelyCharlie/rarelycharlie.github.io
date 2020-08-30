@@ -3,6 +3,11 @@ title: Create a custom index
 layout: howto
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
+<script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/idb-keyval@3/dist/idb-keyval-iife.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 This page builds a custom index for the [Listener information](/guide/listenerinfo) search engine.
 
 A custom index can be useful if you want to index more forum categories, if you need a more up-to-date index than the one provided, or if your Internet connection is slow.
@@ -15,13 +20,13 @@ To include more categories (or subcommunities) you will need index files for the
 To build index files yourself you need to install these two tools in your web browser, in this order. Not all web browsers support this:
 
 1. [Tampermonkey](https://www.tampermonkey.net/)
-2. [Forum category indexer]https://greasyfork.org/en/scripts/410169-7-cups-forum-category-indexer
+2. [Forum category indexer](https://greasyfork.org/en/scripts/410169-7-cups-forum-category-indexer)
 
 On 7 Cups, go to a forum category (or subcommunity). Press the
 <span style="display: inline-block; padding: 2px 4px; color: #fff; background: #4c4; border: 1px solid #3b3; border-radius: 4px; font-size: 80%;">Build Index</span>
 button near the top left of the page. This builds an index for the category. It's intentionally slow in order to prevent undue load on 7 Cups' server.
 
-When the index is built, a download icon <i style="color: blue;" class="fa fa-download"></i> appears. Click it to download the index to your computer. Remember where you put it! Now you can import the index as described above.
+When the index is built, a download icon <i style="color: blue;" class="fa fa-download"></i> appears. Click it to download the index to your computer. Remember where you put it! Now you can import the index as described below.
 
 ### Your custom index
 
