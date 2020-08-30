@@ -6,7 +6,21 @@ feedback: https://www.7cups.com/@RarelyCharlie
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/idb-keyval@3/dist/idb-keyval-iife.min.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
+#catlist {border: 1px solid #000; min-height: 6em; width: 40em; margin: 0 0 .5ex 0; font-size: 12px;}
+#catlist tr {height: 18px;}
+#catlist th, #catlist td {border-bottom: 1px dotted #ccc; text-align: right;}
+#catlist th:first-child, #catlist td:first-child {text-align: left; min-width: 12em;}
+#threadcount {font-size: 12px; width: 40em; text-align: right; margin: 0;}
+button, #file {font-size: 14px; font-family: inherit; display: block; margin: 0 0 1ex 0; background: #6fc; border: 1px solid #4da;
+  border-radius: 2px; padding: 2px 6px; cursor: pointer;}
+button:hover, #file:hover {background: #4da;}
+button:disabled, #file[disabled] {background: #e4e4e4; color: #b4b4b4; border-color: #ccc; cursor: default;}
+button:disabled:hover, #file:hover {background: #cec;}
+#file {display: inline-block;}
+progress {display: block; width: 400px; margin-top: -1ex;}
+</style>
 
 This page builds a custom index for the [Listener information](/guide/listenerinfo) search engine.
 
