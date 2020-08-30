@@ -23,7 +23,7 @@ progress {display: block; width: 400px; margin-top: -1ex;}
 #nodb {color: #a00; font-weight: bold; letter-spacing: .5px;}
 </style>
 
-This page builds a custom index for the [Listener information](/guide/listenerinfo) search engine.
+This page builds a custom index for the [Listener information](/guide/listenerinfo) search engine, and stores it in your browser profile on this device.
 
 <p id="nodb" hidden>This browser does not support custom index.</p>
 
