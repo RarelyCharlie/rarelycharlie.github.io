@@ -7,6 +7,24 @@ This page builds a custom index for the [Listener information](/guide/listenerin
 
 A custom index can be useful if you want to index more forum categories, if you need a more up-to-date index than the one provided, or if your Internet connection is slow.
 
+To build a custom index it's best (but optional) to start by importing the standard index, which contains four forum categories.
+
+To include more categories (or subcommunities) you will need index files for them. You might be able to build index files yourself, or you might be able to use an index file someone else built and you downloaded from a file-sharing site (for example, Google Drive).
+
+### Building index files
+To build index files yourself you need to install these two tools in your web browser, in this order. Not all web browsers support this:
+
+1. [Tampermonkey](https://www.tampermonkey.net/)
+2. [Forum category indexer]https://greasyfork.org/en/scripts/410169-7-cups-forum-category-indexer
+
+On 7 Cups, go to a forum category (or subcommunity). Press the
+<span style="display: inline-block; padding: 2px 4px; color: #fff; background: #4c4; border: 1px solid #3b3; border-radius: 4px; font-size: 80%;">Build Index</span>
+button near the top left of the page. This builds an index for the category. It's intentionally slow in order to prevent undue load on 7 Cups' server.
+
+When the index is built, a download icon <i style="color: blue;" class="fa fa-download"></i> appears. Click it to download the index to your computer. Remember where you put it! Now you can import the index as described above.
+
+### Your custom index
+
 Your custom index contains these forum categories: &nbsp; <i id="initspin"></i>
 
 <table id="catlist"><tbody>
@@ -21,12 +39,12 @@ Your custom index contains these forum categories: &nbsp; <i id="initspin"></i>
 <p id="threadcount">0 threads</p>
 <button id="clearcustom" disabled onclick="clearcustom()">Clear custom index</button>
 
-To build a custom index it's best (but optional) to start by importing the standard index, which contains four forum categories. Importing the standard index removes all other forum categories from your custom index. Press the button to import or reimport the standard index:
+Importing the standard index removes all other forum categories from your custom index. Press the button to import or reimport the standard index:
 
 <p><button id="importstandard" disabled onclick="importstandard()">Import standard index</button></p> 
 <progress id="standardprogress" value="0" max="1"></progress>
 
-Import or reimport an index file for each forum category you want to add. You might be able to build index files yourself—see below for details. Or you might be able to use an index file someone else built and you downloaded from a file-sharing site (for example, Google Drive). To import an index file, choose the file on your computer. The file name must be like <code>acf<i>nnn</i>.jslz</code>, where <code><i>nnn</i></code> is the ID of the forum category.
+Import or reimport an index file for each forum category you want to add.  To import an index file, choose the file on your computer. The file name must be like <code>acf<i>nnn</i>.jslz</code>, where <code><i>nnn</i></code> is the ID of the forum category.
 
 <p><label id="file" disabled><input id="filechosen" type="file" accept=".jslz" hidden onchange="filechosen(this)">Choose a file</label> <span id="filename"></span></p>
 <progress id="importprogress" value="0" max="1"></progress>
@@ -35,19 +53,8 @@ You can import multiple index files, but how many you're allowed might depend on
 
 To update a forum category you imported previously, you don't have to start again. Just import a new index file for that category.
 
-There's nothing else to do. The categories you see in the list above are automatically available in the Listener Information search engine.
+There's nothing else to do. The forum categories you see in the list above are automatically available in the Listener Information search engine.
 
-### Building index files
-To build index files yourself you need to install these two tools in your web browser, in this order. Not all web browsers support this:
-
-1. [Tampermonkey](https://www.tampermonkey.net/)
-2. [Forum category indexer]https://greasyfork.org/en/scripts/410169-7-cups-forum-category-indexer
-
-On 7 Cups, go to a forum category (or subcommunity). Press the
-<span style="display: inline-block; padding: 2px 4px; color: #fff; background: #4c4; border: 1px solid #3b3; border-radius: 4px; font-size: 80%;">Build Index</span>
-button near the top left of the page. This builds an index for the category. It's intentionally slow in order to prevent undue load on 7 Cups' server.
-
-When the index is built, a download icon <i style="color: blue;" class="fa fa-download"></i> appears. Click it to download the index to your computer. Remember where you put it! Now you can import the index as described above.
 
 <script>
 UI = {}
