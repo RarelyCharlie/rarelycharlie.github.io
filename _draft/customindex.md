@@ -75,7 +75,7 @@ You can import multiple index files, but how many you're allowed might depend on
 
 To update a forum category you imported previously, you don't have to start again. Just import a new index file for that category.
 
-There's nothing else to do. The forum categories you see in the list above are automatically available in the Listener Information search engine.
+There's nothing else to do. The forum categories you see in the list above are automatically available when you use the Listener Information search engine in this broswer.
 
 
 <script>
