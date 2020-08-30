@@ -20,9 +20,12 @@ button:disabled, #file[disabled] {background: #e4e4e4; color: #b4b4b4; border-co
 button:disabled:hover, #file:hover {background: #cec;}
 #file {display: inline-block;}
 progress {display: block; width: 400px; margin-top: -1ex;}
+#nodb {color: #a00; font-weight: bold; letter-spacing: .5px;}
 </style>
 
 This page builds a custom index for the [Listener information](/guide/listenerinfo) search engine.
+
+<p id="nodb" hidden>This browser does not support custom index.</p>
 
 A custom index can be useful if you want to index more forum categories, if you need a more up-to-date index than the one provided, or if your Internet connection is slow.
 
@@ -93,6 +96,10 @@ idx = elasticlunr(function () {
 	})
 
 ixinit = async () => {
+	if (!window.indexedDB) {
+		UI.nodb.hidden = false
+		return
+		}
 	var k = await idbKeyval.keys()
 	if (k.includes('acfi')) {
 		UI.initspin.className = 'fa fa-spinner fa-spin'
