@@ -27,6 +27,7 @@ span.listener {margin: 0;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/idb-keyval@3/dist/idb-keyval-iife.min.js"></script>
 
 <p hidden style="color: #a00; font-size: 125%;"><b>Under construction</b><br>This experimental page might not work at times today, June 21st.</p>
 
