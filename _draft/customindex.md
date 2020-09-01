@@ -171,6 +171,7 @@ importstandard = async () => {
 
 clearcustom = async () => {
 	acfi = {}
+	catlist = {}
 	UI.catlist.firstChild.innerHTML = '<tr><th>Category</th><th>ID</th><th>Date</th></tr>' 
 	  + '<tr><td></td><td></td><td></td></tr>'.repeat(6)
 	UI.threadcount.textContent = '0 threads'
