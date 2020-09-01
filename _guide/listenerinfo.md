@@ -89,22 +89,33 @@ document.querySelectorAll('[id]').forEach(elem => UI[elem.id] = elem)
 initsearch = async function () {
 	UI.results.innerHTML = '<div id="loading">Initializing… <i class="fa fa-spinner fa-spin"></i></div>'
 	await (new Promise(i => setTimeout(i, 0)))
-
-	var r = await fetch('/assets/info/acfi.jslz?build=' + build)
-	r = await r.text()
-	acfi = JSON.parse(LZString.decompressFromEncodedURIComponent(r))
-
-	acfi.cat = {
-		38: 'ListenerCommunityCenter',
-		100: 'SiteUpdates',
-		149: 'ListenerLearningJourney',
-		181: 'SafetyKnowledgeat7Cups'
+		
+	var k = await idbKeyval.keys(), date = ''
+	if (k.includes('acfi')) {
+		acfi = await idbKeyval.get('acfi')
+		for (let id in acfi.cat) {
+			acfi.cat[id] = acfi.cat[id]
+				.replace(/ \d+$/, '')
+				.replace(/\W/g, '')
+			}
 		}
-	
+	else {
+		var r = await fetch('/assets/info/acfi.jslz?build=' + build)
+		r = await r.text()
+		acfi = JSON.parse(LZString.decompressFromEncodedURIComponent(r))
+		acfi.cat = {
+			38: 'ListenerCommunityCenter',
+			100: 'SiteUpdates',
+			149: 'ListenerLearningJourney',
+			181: 'SafetyKnowledge7Cups'
+			}
+		date = (new Date(acfi.on)).toDateString()
+		}
+
 	idx = elasticlunr.Index.load(acfi.index)
 
 	UI.results.innerHTML = ''
-	UI.build.textContent = 'Indexed on ' + (new Date(acfi.on)).toDateString()
+	UI.build.textContent = date? 'Indexed on ' + date : 'Custom index'
 	UI.words.focus()
 	}
 addEventListener('DOMContentLoaded', initsearch)
