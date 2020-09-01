@@ -169,12 +169,12 @@ importstandard = async () => {
 	for (let id in acfi.cat) showcat(id, acfi.cat[id])
 	}
 
-clearcustom = () => {
+clearcustom = async () => {
 	acfi = {}
 	UI.catlist.firstChild.innerHTML = '<tr><th>Category</th><th>ID</th><th>Date</th></tr>' 
 	  + '<tr><td></td><td></td><td></td></tr>'.repeat(6)
 	UI.threadcount.textContent = '0 threads'
-	idbKeyval.del('acfi')
+	await idbKeyval.del('acfi')
 	UI.importstandard.disabled = false
 	UI.standardprogress.value = 0
 	}
