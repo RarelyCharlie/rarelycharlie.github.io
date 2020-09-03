@@ -46,9 +46,10 @@ Results that link to listener-only threads only work if you are logged in to a l
 ||<label for="forauthor" onclick="search()"><input type="radio" name="searchfor" id="forauthor" value="0"> An author</label>|
 |Sort by:|<label for="byupvotes" onclick="search()"><input type="radio" name="sortby" id="byupvotes" value="0" checked> Upvotes</label> <label for="bydate" onclick="search()"><input type="radio" name="sortby" id="bydate" value="1"> Date</label> <label for="byrelev" onclick="search()"><input type="radio" name="sortby" id="byrelev" value="2"> Relevance</label>|
  
-<label for="archive" onclick="search()"><input type="checkbox" id="archive"> Include archived threads.
-</label>\\
-<label for="listen" onclick="search()"><input type="checkbox" id="listen" checked> Include listener-only threads: <span class="listener">L</span></label>
+<p><label for="archive" onclick="search()"><input type="checkbox" id="archive" /> Include archived threads.
+</label><br />
+<label for="listen" onclick="search()"><input type="checkbox" id="listen" checked="" /> Include listener-only threads: <span class="listener">L</span></label><br />
+<label for="listen" onclick="search()" hidden><input type="checkbox" id="listen" checked="" /> Include restricted threads: <span class="restricted">R</span></label></p>
 
 ---
 
@@ -66,6 +67,9 @@ idx = null
 
 chunk = 100
 limit = 100
+
+onlyL = [38, 149]
+onlyR = [167, 183]
 
 config = {
 	fields: {
@@ -196,7 +200,10 @@ display = () => {
 				+ ' profile">@' + author + '</a>',
 			when = new Date(thread.at * 1000)
 
-		list += '<p><a href="' + url + '" target="_blank" rel="noreferrer noopener">' + thread.head + '</a> '
+		list += '<p><a href="' + url + '" target="_blank" rel="noreferrer noopener"'
+		  + (onlyL.includes(parseInt(thread.cat))? ' class="onlyL" title="Listener-only"' : '')
+		  + (onlyR.includes(parseInt(thread.cat))? ' class="onlyR" title="Restricted"' : '')
+		  + '>' + thread.head + '</a> '
 		  + '<br><small>'
 		  + ' <i class="fa fa-arrow-up"></i> ' + thread.up.toLocaleString()
 		  + ' by ' + profile 
