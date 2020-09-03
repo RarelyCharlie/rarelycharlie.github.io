@@ -166,6 +166,7 @@ importstandard = async () => {
 	await idbKeyval.set('acfi', acfi)
 	prog.value = 40
 
+	catlist = {}
 	for (let id in acfi.cat) showcat(id, acfi.cat[id])
 	}
 
