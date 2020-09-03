@@ -95,7 +95,7 @@ idx = elasticlunr(function () {
 	this.saveDocument(false)
 	})
 
-init = async () => {
+ixinit = async () => {
 	var k = await idbKeyval.keys()
 	if (k.includes('acfi')) {
 		UI.initspin.className = 'fa fa-spinner fa-spin'
@@ -106,7 +106,7 @@ init = async () => {
 		}
 	UI.importstandard.disabled = false, UI.file.removeAttribute('disabled')
 	}
-init()
+ixinit()
 
 catlist = {}
 showcat = (id, cat) => {
