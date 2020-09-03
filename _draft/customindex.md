@@ -95,11 +95,7 @@ idx = elasticlunr(function () {
 	this.saveDocument(false)
 	})
 
-ixinit = async () => {
-	if (!window.indexedDB) {
-		UI.nodb.hidden = false
-		return
-		}
+init = async () => {
 	var k = await idbKeyval.keys()
 	if (k.includes('acfi')) {
 		UI.initspin.className = 'fa fa-spinner fa-spin'
@@ -110,7 +106,7 @@ ixinit = async () => {
 		}
 	UI.importstandard.disabled = false, UI.file.removeAttribute('disabled')
 	}
-ixinit()
+init()
 
 catlist = {}
 showcat = (id, cat) => {
@@ -170,13 +166,13 @@ importstandard = async () => {
 	for (let id in acfi.cat) showcat(id, acfi.cat[id])
 	}
 
-clearcustom = async () => {
+clearcustom = () => {
 	acfi = {}
 	catlist = {}
 	UI.catlist.firstChild.innerHTML = '<tr><th>Category</th><th>ID</th><th>Date</th></tr>' 
 	  + '<tr><td></td><td></td><td></td></tr>'.repeat(6)
 	UI.threadcount.textContent = '0 threads'
-	await idbKeyval.del('acfi')
+	idbKeyval.del('acfi')
 	UI.importstandard.disabled = false
 	UI.standardprogress.value = 0
 	}
