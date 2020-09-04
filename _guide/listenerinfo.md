@@ -52,7 +52,7 @@ span.listener {margin: 0;}
 <p><label for="archive" onclick="search()"><input type="checkbox" id="archive" /> Include archived threads.
 </label><br />
 <label for="listen" onclick="search()"><input type="checkbox" id="listen" checked="" /> Include listener-only threads: <span class="listener">L</span></label><br />
-<label for="listen" onclick="search()" hidden><input type="checkbox" id="listen" checked="" /> Include restricted threads: <span class="restricted">R</span></label></p>
+<label for="restricted" onclick="search()" hidden><input type="checkbox" id="restricted" checked="" /> Include restricted threads: <span class="restricted">R</span></label></p>
 
 ---
 
@@ -173,7 +173,7 @@ search = () => {
 	for (let r of res) hit.push(acfi.corpus[r.ref])
 	
 	if (!UI.archive.checked) hit = hit.filter(t => t.forum != 1886) // exclude archive
-	if (!UI.listen.checked) hit = hit.filter(t => !onlyL.includes(parseInt(t.cat))) // exclude listener-only
+	if (!UI.listen.checked) hit = hit.filter(t => !onlyL.includes(t.cat)) // exclude listener-only
 	hit = hit.filter(t => t.forum != 1682) // always exclude checkins
 	
 	hit = hit.sort(sorters[document.querySelector('[name=sortby]:checked').value])
