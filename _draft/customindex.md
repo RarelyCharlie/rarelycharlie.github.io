@@ -19,7 +19,7 @@ button:hover, #file:hover {background: #4da;}
 button:disabled, #file[disabled] {background: #e4e4e4; color: #b4b4b4; border-color: #ccc; cursor: default;}
 button:disabled:hover, #file:hover {background: #cec;}
 #file {display: inline-block;}
-progress {display: block; width: 400px; margin-top: -1ex;}
+progress {display: block; width: 400px; margin: -1ex 0 1em 0;}
 #nodb {color: #a00; font-weight: bold; letter-spacing: .5px;}
 </style>
 
