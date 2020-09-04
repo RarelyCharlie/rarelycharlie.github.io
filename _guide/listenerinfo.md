@@ -71,8 +71,8 @@ idx = null
 chunk = 100
 limit = 100
 
-onlyL = [38, 149]
-onlyR = [167, 183]
+onlyL = [38, 149, 167] // Community, Learning, Interns
+onlyR = [183] // Bubble
 
 config = {
 	fields: {
