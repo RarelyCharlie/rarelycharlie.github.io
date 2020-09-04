@@ -173,7 +173,7 @@ search = () => {
 	for (let r of res) hit.push(acfi.corpus[r.ref])
 	
 	if (!UI.archive.checked) hit = hit.filter(t => t.forum != 1886) // exclude archive
-	if (!UI.listen.checked) hit = hit.filter(t => ![38, 149].includes(t.cat)) // exclude listener-only
+	if (!UI.listen.checked) hit = hit.filter(t => !onlyL.includes(parseInt(t.cat))) // exclude listener-only
 	hit = hit.filter(t => t.forum != 1682) // always exclude checkins
 	
 	hit = hit.sort(sorters[document.querySelector('[name=sortby]:checked').value])

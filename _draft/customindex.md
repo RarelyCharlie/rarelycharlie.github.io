@@ -140,6 +140,7 @@ importstandard = async () => {
 	var r = await fetch('https://rarelycharlie.github.io/assets/info/acfi.jslz')
 	r = await r.text()
 	acfi = JSON.parse(LZString.decompressFromEncodedURIComponent(r))
+	idx = elasticlunr.Index.load(acfi.index)
 	prog.value = 3
 
 	var cc = '0123456789abcdefghijklmnopqrstuvwxyz'.split('')
@@ -148,8 +149,8 @@ importstandard = async () => {
 		r = await r.text()
 		r = JSON.parse(LZString.decompressFromEncodedURIComponent(r))
 		{++prog.value}
-		acfi.index.index.head.root[c] = r.head
-		acfi.index.index.body.root[c] = r.body
+		idx.index.head.root[c] = r.head
+		idx.index.body.root[c] = r.body
 		}
 
 	acfi.cat = {
@@ -159,6 +160,7 @@ importstandard = async () => {
 		181: 'Safety & Knowledge at 7 Cups ' + acfi.on,
 		}
 
+	acfi.index = idx.toJSON()
 	await idbKeyval.set('acfi', acfi)
 	prog.value = 40
 
