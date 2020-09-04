@@ -86,7 +86,7 @@ acfi = {
 	author: {},
 	corpus: {},
 	forum: {},
-	index: null
+	index: null // idx.toJSON()
 	}
 idx = elasticlunr(function () {
 	this.addField('head')
@@ -149,8 +149,8 @@ importstandard = async () => {
 		r = await r.text()
 		r = JSON.parse(LZString.decompressFromEncodedURIComponent(r))
 		{++prog.value}
-		idx.index.head.root[c] = r.head
-		idx.index.body.root[c] = r.body
+		acfi.index.index.head.root[c] = r.head
+		acfi.index.index.body.root[c] = r.body
 		}
 
 	acfi.cat = {
@@ -160,7 +160,6 @@ importstandard = async () => {
 		181: 'Safety & Knowledge at 7 Cups ' + acfi.on,
 		}
 
-	acfi.index = idx.toJSON()
 	await idbKeyval.set('acfi', acfi)
 	prog.value = 40
 
@@ -168,13 +167,13 @@ importstandard = async () => {
 	for (let id in acfi.cat) showcat(id, acfi.cat[id])
 	}
 
-clearcustom = () => {
+clearcustom = async () => {
 	acfi = {}
 	catlist = {}
+	await idbKeyval.del('acfi')
 	UI.catlist.firstChild.innerHTML = '<tr><th>Category</th><th>ID</th><th>Date</th></tr>' 
 	  + '<tr><td></td><td></td><td></td></tr>'.repeat(6)
 	UI.threadcount.textContent = '0 threads'
-	idbKeyval.del('acfi')
 	UI.importstandard.disabled = false
 	UI.standardprogress.value = 0
 	}
