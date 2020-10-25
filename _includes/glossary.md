@@ -23,7 +23,7 @@ In a ~~feed~~ ~~post,/post~~ a prefix that turns a word into a ~~hashtag~~.
 ## A
 
 # A&G
-The Appreciation and Gratitude ~~subcomminity.~~
+The Appreciation and Gratitude ~~subcommunity.~~
 
 # Accomplished
 11th of the 18 levels in the listener ~~certification~~ program.
