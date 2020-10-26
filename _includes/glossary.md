@@ -4,6 +4,9 @@ A private ~~chat~~. At least one of the people in a 1-to-1 chat must be a ~~list
 <h1 id="7-cups">7 Cups</h1>
 A business enterprise based in the United States of America and operating online worldwide to develop and deliver an innovative model of healthcare known as ~~weCare~~. Also, the online service provided by 7 Cups on its ~~website~~ and by means of its ~~app~~. _See also:_ ~~mission,/mission~~ ~~values~~
 
+<h1 id="7-cups">7CupsCommunity</h1>
+A special ~~account~~ sometimes used by ~~admins/~~ to answer questions in the ~~forum~~ anonymously.
+
 <h1 id="7-cups-for-the-searching-soul">7 Cups for the Searching Soul</h1>
 A book that explains the philosophy underlying ~~7 Cups~~. Also published as a ~~self-help guide~~.
 _See:_ _7 Cups for the Searching Soul_ [Amazon Kindle](https://www.amazon.com/7-Cups-Searching-Soul-7Cups-ebook/dp/B01BFWMCXY/), [Smashwords e-book formats](https://www.smashwords.com/books/view/611898), [Self-help guide](http://www.7cups.com/7cups-for-the-searching-soul/)
@@ -22,16 +25,15 @@ In a ~~feed~~ ~~post,/post~~ a prefix that turns a word into a ~~hashtag~~.
 
 ## A
 
-# A&G
-The Appreciation and Gratitude ~~subcommunity.~~
-
-# Accomplished
+### Accomplished
 11th of the 18 levels in the listener ~~certification~~ program.
 
 # account
 A persistent Internet identity and ~~name~~ used to access 7 Cups.
 
-There are four types of account. A ~~member,/member~~ ~~listener~~ or ~~therapist~~ account is password-protected and persists across devices and browser profiles. A ~~guest~~ account has no password, and it persists only on one device and browser profile.
+There are three types of account. A ~~member,/member~~ ~~listener~~ or ~~therapist~~ account is password-protected and persists across devices and browser profiles.
+
+An obsolete fourth type, a ~~guest~~ account had no password, and it persisted only on one device and browser profile.
 
 Each person who uses 7 Cups can have one of each type of account, in practice, but should not have more than one of any type. The ~~rule~~ about this is unclear.
 
@@ -62,14 +64,11 @@ Information or suggestions intended to solve or alleviate a problem. Whether or 
 # alert
 A ~~notification.~~
 
-# AMA
-"Ask Me Anything" A ~~forum~~ ~~thread~~ in which someone invites questions and answers them.
-
 # Ambassador
 The highest level of leadership role in the ~~community~~.
 
 # Amelia
-~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member and assistant ~~community~~ manager Amelia Winsby. _See:_ [@Amelia](http://7cups.com/@Amelia)
+~~Listener/listener~~ ~~name~~ of former ~~7 Cups'/7 Cups~~ ~~staff~~ member and assistant ~~community~~ manager, the late Amelia Winsby.
 
 # Animal Cohort
 A group of ~~member,~~ ~~listener,~~ and ~~therapist~~ accounts that were registered (or, in some cases, reinstated after a break) in the same calendar month, regardless of the year. Represented by an icon that represents a creature, not necessarily an animal. See: ~~Dolphin,~~ ~~Penguin,~~ ~~Horse,~~ ~~Camel,~~ ~~Elephant,~~ ~~Kangaroo,~~ ~~Starfish,~~ ~~Fish,~~ ~~Bunny,~~ ~~Eagle,~~ ~~Butterfly,~~ ~~Turtle~~.
@@ -77,33 +76,37 @@ A group of ~~member,~~ ~~listener,~~ and ~~therapist~~ accounts that were regist
 # announcement
 A ~~notification~~ sent manually to the ~~community~~ or to part of the community (as opposed to an automatic notification).
 
-# Announcements
+### Announcements
 A page on the ~~website~~ where ~~announcements/announcement~~ are listed, even after you canceled the ~~notifications./notification~~
 
 # anonymity
-Used within ~~7 Cups~~ to mean that there is no public connection between the ~~name~~ of a 7 Cups ~~guest,/guest~~ ~~member~~ or ~~listener~~ ~~account~~ and the real-life owner of the account. (Member and listener accounts have associated e-mail addresses, but they are not known to the ~~community~~ as a whole, only to ~~admins/admin~~.)
+Used within ~~7 Cups~~ to mean that there is no public connection between the ~~name~~ of a 7 Cups ~~account~~ and the real-life owner of the account. (Accounts have associated e-mail addresses, but they are not known to the ~~community~~ as a whole, only to ~~admins/admin~~.)
 
 No accounts are truly anonymous. ~~Deactivated/deactivate~~ accounts all have the name ~~Unknown~~.
+
+# anonymous evaluation	
+Evaluation of listeners by other listeners who use secret member accounts to request chats, with the aim of increasing listener quality. See also: ~~mock chat~~
 
 # app
 The ~~7 Cups~~ application for iOS and Android devices (as opposed to the ~~website).~~
 
 # appreciation token
-A token awarded to a ~~listener~~ on progressing beyond the last ~~level~~ in a group into the next group. For example, a listener who is in the 5th group, Apprentice, has appreciation tokens for the four lower groups: Newbie, Novice, Beginner and Helper. The tokens are only shown on a listener's ~~impact~~ page.
+A token awarded to a ~~listener~~ on progressing beyond the last ~~level~~ in a group into the next group. For example, a listener who is in the 5th group, Apprentice, has appreciation tokens for the four lower groups: Newbie, Novice, Beginner and Helper. The tokens are only shown on a listener's ~~impact~~ page and have no purpose.
 
 # Apprentice
 5th of the 27 groups of ~~listener~~ ~~levels./level~~
 
-# article
+### article
 A document in the ~~wiki.~~
 
 # ATL
 Abbreviation sometimes used for "adult teen listener" (a ~~teen and adult~~ listener).
 
+
 ## B
 
 # badge
-A token awarded to a ~~member~~ or ~~listener~~. Each type of badge is awarded for a specific reason, and there are more than 350 types of badge in all. Some are awarded automatically and some manually. Member badges and listener badges are different.
+A token awarded to a ~~member~~ or ~~listener~~. Each type of badge is awarded for a specific reason, and there are more than 600 types of badge in all. Some are awarded automatically and some manually. Member badges and listener badges are different.
 
 Each type of badge is color-coded bronze, silver, gold, platinum or diamond, but this has little real significance.
 
@@ -115,16 +118,22 @@ or one of a certain set of badges.
 A setting that prevents an ~~account~~ from using ~~7 Cups~~. Used to protect the ~~community~~ after some ~~rule~~ has been broken.
 
 # bat call
-An e-mail alert sent to designated ~~listeners/listener~~ when there are many ~~general requests/general request~~ waiting to be taken
+An e-mail alert sent to designated ~~listeners/listener~~ when there are many ~~general requests/general request~~ waiting to be taken.
 
 # Beginner
 Third of the 27 groups of ~~listener~~ ~~levels./level~~
 
+# behavior point	
+Point assigned to a ~~listener~~ or ~~member~~ for unwanted behavior.
+
 # Big Steps
 12th of the twenty groups of ~~member~~ ~~levels./level~~
 
+# bio
+The owner-supplied part of the information in a ~~profile~~, short for biography, even though the information is not usually biographical.
+
 # bio design
-The design of the owner-supplied part of the information in a ~~profile~~. Also a team of people who help others in the ~~community,/community~~ especially ~~listeners/listener~~, to create fancy designs for their profiles. (The term “bio” comes from “biography”.)
+The design of the owner-supplied part of the information in a ~~profile~~. Also a team of people who help others in the ~~community,/community~~ especially ~~listeners/listener~~, to create fancy designs for their profiles. 
 
 # block
 A setting that prevents a pair of ~~accounts/account~~ from having any contact with each other. Used to protect people from unwanted ~~chats/chat~~ or ~~messages/message~~.
@@ -132,7 +141,7 @@ A setting that prevents a pair of ~~accounts/account~~ from having any contact w
 # blog
 A series of ~~posts/post~~ published by 7 Cups, similar to a ~~feed~~ but intended for public readership.
 
-# Bookworm
+### Bookworm
 6th of the 18 levels in the listener ~~certification~~ program.
 
 # bot
@@ -141,14 +150,14 @@ A computer program that behaves in some way like a person. The only bots on 7 Cu
 # boundary
 A personal rule (as opposed to a ~~community rule/rule~~).
 
-# Brains
+### Brains
 12th of the 18 levels in the listener ~~certification~~ program.
 
 # break
 A period of time when someone deliberately stops using 7 Cups, or parts of 7 Cups.
 
-# bridge
-No longer in use. At one time a phone bridge system provided for anonymous phone calls between ~~listeners/~~ and ~~members./~~
+### bridge
+At one time a phone bridge system provided for anonymous phone calls between ~~listeners/~~ and ~~members./~~
 
 # bubble
 A private area of the ~~forums/~~ for ~~Subcommunity~~ leaders.
@@ -181,16 +190,13 @@ Also one of subdivisions of the ~~forum.~~ Some categories in the forum match ~~
 
 Also a group of ~~articles/~~ in the ~~wiki.~~
 
-# CCM
-Community Centered Moderation. The system of appointing ~~forum~~ ~~mods/~~ according to the ~~subcommunity~~ the forum is in.
-
 # censor
 An automatic system intended to prevent the use of certain words or phrases. Also, to edit certain words and phrases after they have been used to make it look as if they were not used, or to delete information after it has been published to make it look as if it was not published.
 
 # certification
-An 18-level program that entitles ~~listeners/listener~~ to receive certificates based on how much they have participated in a variety of ways at ~~7 Cups.~~
+A program that entitles ~~listeners/listener~~ to receive certificates based on how much they have participated in a variety of ways at ~~7 Cups.~~
 
-# chapter
+### chapter
 A student-led mental health awareness and support group in a school, based on the ~~values~~ and online ~~emotional support~~ that ~~7 Cups~~ provides. _See:_ [7 Cups Chapters](https://www.7cups.com/chapters/)
 
 # chat
@@ -203,7 +209,7 @@ A system designed to allow many people to ~~chat~~ to each other at the same tim
 A ~~listener~~ who is a ~~mod~~ in the ~~chatrooms/chatroom~~ of a ~~subcommunity.~~
 
 # chatter
-Informal term for a ~~member~~ or ~~guest~~ who takes part in ~~chats/chat~~ for support, as opposed to a ~~listener.~~
+Informal term for a ~~member~~ who takes part in ~~chats/chat~~ for support, as opposed to a ~~listener.~~
 
 # check in
 A ~~forum~~ ~~thread~~ intended for people who have some common interest (for example, people coping with anxiety) to keep in touch regularly.
@@ -211,8 +217,8 @@ A ~~forum~~ ~~thread~~ intended for people who have some common interest (for ex
 # cheer
 A point awarded for activity on ~~7 Cups~~. Cheers accumulate and form part of the system of ~~reputation~~. Some people have accumulated more than a million cheers. _See also:_ ~~compassion heart~~
 
-# CM
-Community Manager. A ~~staff~~ member whose job is ~~community~~ management.
+# coaching email	
+An email notifying a listener of a negative review by a member, but without giving any details of the review or providing any coaching.
 
 # community
 All the people involved in ~~7 Cups~~. (Sometimes used informally to mean a ~~subcommunity.~~)
@@ -222,8 +228,8 @@ All the people involved in ~~7 Cups~~. (Sometimes used informally to mean a ~~su
 
 _See:_ [Community Guidelines](https://docs.google.com/document/d/18gttZ4jy6oDFEtOlQkcYdel29OsJkolwEu46II5GfLE/edit), [Listener Community Guidelines](http://www.7cups.com/listener/communityGuidelinesForListeners.php)
 
-# Community Liaison
-A special ~~account~~ for answering questions about ~~7 Cups~~ that any ~~member~~ or ~~listener~~ may need to ask. The account is configured to look like a ~~listener~~ but it does not normally take chats and the questions are answered by a team of listeners. _See:_ [Community Liaison](https://www.7cups.com/@CommunityLiaison)
+### Community Liaison
+See: ~~7CupsCommunity~~
 
 # Community Mentor
 Someone who combines leading ~~discussions/discussion~~ with ~~moderating/mod~~ ~~forums~~ in a ~~subcommunity.~~
@@ -270,6 +276,7 @@ A ~~member~~ or ~~listener~~ designated as having a special role in the ~~commun
 # Cultural Connection
 A ~~subcommunity~~ that contains ~~forums/forum~~ for various countries around the world. _See:_ [Cultural Connection](https://www.7cups.com/forum/CulturalConnection_87/)
 
+
 ## D
 
 # deactivate
@@ -284,7 +291,7 @@ A ~~listener~~ ~~name~~ reserved for use by ~~7 Cups'~~ development team.
 # directory
 A listing of ~~therapists/~~ at ~~7 Cups~~ who provide online ~~therapy~~ or ~~counseling~~ for a fee.
 
-# Disciplined Learner
+### Disciplined Learner
 10th of the 18 levels in the listener ~~certification~~ program.
 
 # Discoverer
@@ -338,25 +345,25 @@ Eastern Standard Time, the local time on the Eastern coast of the United States,
 # Explorer
 8th of the 27 groups of ~~listener~~ ~~levels./level~~
 
-# Ezra
-Ezra Morse, ~~7 Cups'/7 Cups~~ ~~staff~~ member and software engineeer. _See also:_ [@ezraBC](http://www.7cups.com/@EzraBC)
+### Ezra
+Ezra Morse, former ~~7 Cups'/7 Cups~~ ~~staff~~ member and software engineeer.
 
 
 ## F
 
-# feed
-A sequence of ~~posts/post~~, which are personal statements by the owner of the feed. ~~Members/member~~, ~~listeners/listener~~ and ~~therapists/therapist~~ can have feeds, but not all use them. Also, the ~~7 Cups~~ site feed.
+### feed
+A sequence of ~~posts/post~~, which are personal statements by the owner of the feed. ~~Members/member~~, ~~listeners/listener~~ and ~~therapists/therapist~~ can have feeds, but not all use them. Also, the ~~7 Cups~~ site feed. Removed on November 4th, 2019.
 
 # Fish
 ![Fish](https://www.7cups.com/cloudfront/img/zodiac/icon-08.png) The ~~animal cohort~~ for the month of August.
 
-# FJB
-"Feeling judged because" Sometimes used as a ~~hashtag~~ #FJB.
-
 # flag
 A reporting system for inappropriate content in ~~forum~~ ~~posts/post~~.
 
-# follow
+# flagging team
+A team of ~~listeners/listener~~ who process flags and other reports.
+
+### follow
 A way to read all the future ~~posts/post~~ in someone's ~~feed~~. The posts of all the people you follow appear in your own feed.
 
 # forum
@@ -364,7 +371,7 @@ A way to read all the future ~~posts/post~~ in someone's ~~feed~~. The posts of 
 
 (Sometimes used to mean a ~~subforum.~~)
 
-# Forum Friend
+### Forum Friend
 Former term for a ~~forum~~ ~~supporter.~~
 
 # Forum Key
@@ -385,26 +392,26 @@ A ~~subscriber/subscription~~ in a ~~subcommunity.~~
 
 ## G
 
-# G
+### G
 Abbreviation sometimes used for ~~guest.~~
 
 # general request
-A request for a ~~1-to-1 chat~~ made by a ~~guest~~ or ~~member~~. Any ~~listener~~ can respond to the request, and responding starts a 1-to-1 chat.
+A request for a ~~1-to-1 chat~~ made by a ~~member~~. Any ~~listener~~ can respond to the request, and responding starts a 1-to-1 chat.
 
 # general request queue
-The queue of all ~~general requests/general request~~ waiting for a response.
+The queue of all ~~general requests/general request~~ waiting for responses.
 
 # Genius
 22nd of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # ghost
-A ~~guest~~ or member who requests a ~~1-to-1 chat~~ but who does not respond when a ~~listener~~ starts the ~~chat~~.
+A ~~guest~~ or member who requests a ~~1-to-1 chat~~ but who does not respond when a ~~listener~~ starts the ~~chat~~, or anyone who stops responding unexpectedly in a chat. Also used as a verb, to ghost.
 
 # GlenM
 ~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ founder and CEO Glen Moriarty. _See:_ [@GlenM](http://7cups.com/@GlenM), [Glen's Nook](http://www.7cups.com/forum/GlensNook_84)
 
 # gratitude journal
-A regular record of the things you are grateful for, often kept privately in your ~~notes,~~ or publicly in your ~~feed~~ using the ~~hashtag~~ #gratitude.
+A regular record of the things you are grateful for, often kept privately in your ~~notes.
 
 # group
 A ~~chatroom,~~ or the chatrooms in general.
@@ -423,31 +430,26 @@ There is not necessarily any actual growth involved. The steps do not become mor
 # growth point
 A ~~cheer~~.
 
-# GS
-Guest Support. A ~~chatroom~~. The only chatroom that ~~guests/guest~~ can use.
-
 # guest
 A person whose ~~account~~ at 7 Cups was created automatically, without any password. Guest accounts have restricted access to ~~7 Cups'/7 Cups~~ features. Intended only for people needing ~~emotional support~~ who do not have a ~~member~~ account.
 
-# Guest Support
-A ~~chatroom~~. The only chatroom that ~~guests/guest~~ can use.
+### Guest Support
+A ~~chatroom~~. The only chatroom that ~~guests/guest~~ could use.
 
 # guide
 A ~~self-help guide~~, or some other guidance published in a ~~forum~~.
 
-
 # Guru
 18th of the 27 groups of ~~listener~~ ~~levels./level~~
+
 
 ## H
 
 # H
-Heather Nelson, Director of Community Development, whose ~~listener~~ name is @Heather225.
+Nickname of Heather Nelson, Director of Community Development, whose ~~listener~~ name is @Heather225.
 
-# hashtag
-A ~~tag~~ beginning with a hash symbol, ~~\#/\#-sign~~. Used in ~~feed~~ ~~posts/post~~ to classify the content of the post. Anyone can follow any hashtag at 7cups.com/~whatever-the-tag-is (using a tilde character, ~, in place of the hash character, \#).
-
-Also used in the ~~wiki~~ to classify ~~articles/~~ (separately from feed posts). Look up a hshtag in the wiki at 7cups.com/wiki/~whatever-the-tag-is
+### hashtag
+A ~~tag~~ beginning with a hash symbol, ~~\#/\#-sign~~. Used in ~~feed~~ ~~posts/post~~ to classify the content of the post. Also used in the ~~wiki~~ to classify ~~articles./~~
 
 # heart
 A ~~compassion heart~~, or a sign of approval for a ~~message~~ in a ~~1-to-1 chat~~ or ~~chatroom~~, or in a ~~feed~~ ~~post~~. Also a heart-shaped ~~smiley~~.
@@ -458,8 +460,8 @@ A ~~compassion heart~~, or a sign of approval for a ~~message~~ in a ~~1-to-1 ch
 # helpfulness
 One of the qualities used to rate ~~listeners/listener~~ during or after a ~~chat~~. Not further defined. In particular, opinions may differ on whether it is helpful or not for listeners to give ~~advice~~.
 
-# Hope Newsletter
-A source of information for everyone in the ~~community,~~ published for the first time in November 2016. _See:_ [Hope Newsletter](https://www.7cups.com/forum/Welcome_27/HopeNewsletter_923/)
+### Hope Newsletter
+A source of information for everyone in the ~~community,~~ published for the first time in November 2016 but not currently being updated. _See:_ [Hope Newsletter](https://www.7cups.com/forum/Welcome_27/HopeNewsletter_923/)
 
 # Hopeful Heart
 Third of the twenty groups of ~~member~~ ~~levels./level~~
@@ -470,16 +472,16 @@ Third of the twenty groups of ~~member~~ ~~levels./level~~
 
 ## I
 
-# Iara
+### Iara
 ~~Listener/listener~~ ~~name~~ of former ~~7 Cups'/7 Cups~~ ~~staff~~ member and ~~teen~~ ~~community~~ manager Sheenarai Oquendo. Not to be confused with ~~LaraG.~~ _See:_ [@Iara (archived in August 2016)](https://web.archive.org/web/20160809175005/https://7cups.com/@Iara)
 
 # impact
 A private page giving information about a ~~listener's/listener~~ activity on ~~7 Cups~~ (as opposed to the public information in the listener's ~~profile~~).
 
-# Incapsula
-A cloud-based system used to provide faster response times and better security for ~~7 Cups~~. Only visible when something goes wrong and the name Incapsula can be seen in the error message.
+### Incapsula
+A cloud-based system once used to provide faster response times and better security for ~~7 Cups~~. Only visible when something went wrong and the name Incapsula could be seen in the error message.
 
-# Innovator
+### Innovator
 15th of the 18 levels in the listener ~~certification~~ program.
 
 # Intermediate
@@ -488,7 +490,7 @@ A cloud-based system used to provide faster response times and better security f
 # intern
 A ~~listener~~ at ~~7 Cups~~ for a limited period of time on a program designed for student placements (although people who are not students can also join the program). _See:_ [7 Cups of Tea Internship Program](https://www.7cups.com/about/internships.php)
 
-# internmod
+### internmod
 A paid intern providing support and backup ~~moderation~~, especially in ~~chatrooms./chatroom~~
 
 
@@ -497,25 +499,26 @@ A paid intern providing support and backup ~~moderation~~, especially in ~~chatr
 # Junior Community Mentor
 Someone in a ~~subcommunity~~ who combines leading ~~discussions/discussion~~ with community activities in the ~~forums.~~
 
-# Junior Pupil
+### Junior Pupil
 7th of the 18 levels in the listener ~~certification~~ program.
 
-# Junior Student
+### Junior Student
 4th of the 18 levels in the listener ~~certification~~ program.
+
 
 ## K
 
 # Kangaroo 
 ![](https://www.7cups.com/cloudfront/img/zodiac/icon-06.png) The ~~animal cohort~~ for the month of June.
 
-# Kate
-Group Support Community Manager. _See:_ [@Kate](http://7cups.com/@Kate).
+### Kate
+Former Group Support Community Manager, Kate Mallow.
 
 # key
 _See:_ ~~Forum Key~~
 
-# Krink
-Short for KrinkTheMellowUnicorn, the ~~listener~~ name of former ~~7 Cups~~ ~~staff~~ member Christian (or Xian) Crumlish, who left the role in 2019.  _See:_ [@KrinkTheMellowUnicorn](http://7cups.com/@KrinkTheMellowUnicorn), [Krink's Studio](https://www.7cups.com/forum/Welcome_27/KrinksStudio_542/)
+### Krink
+Short for KrinkTheMellowUnicorn, the ~~listener~~ name of former ~~7 Cups~~ ~~staff~~ member Christian (or Xian) Crumlish, who left the role in 2019.
 
 
 ## L
@@ -527,18 +530,15 @@ Abbreviation sometimes used for ~~listener.~~
 Laiba Jalil, an Assistant Community Manager whose ~~listener~~ name is @Hope.
 
 # LaraG
-~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member and ~~therapist~~ ~~community~~ manager Lara Gregorio, who also has a ~~therapist~~ ~~account~~ named LaraGregorio. Not to be confused with ~~Iara~~.  _See:_ [@LaraG](http://7cups.com/@LaraG), [@LaraGregorio](http://7cups.com/@LaraGregorio)
+~~Listener/listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member and ~~therapist~~ ~~community~~ manager Lara Gregorio, who also has a ~~therapist~~ ~~account~~ named LaraGregorio.   _See:_ [@LaraG](http://7cups.com/@LaraG), [@LaraGregorio](http://7cups.com/@LaraGregorio)
 
-# Laura
-~~Listener/listener~~ ~~name~~ of former ~~7 Cups'/7 Cups~~ ~~staff~~ member Laura Small, who left in 2019. _See:_ [@Laura](http://7cups.com/@Laura), [Laura's Office](https://www.7cups.com/forum/ListenerCommunityampSiteUpdates_38/LaurasOffice_169/)
-
-# LDR
-Long Distance Relationship. A relationship, usually online, between people who live far apart so that they can rarely or never meet in person. Not to be confused with ~~LHR~~ or ~~LSR,~~ which are ~~chatrooms./chatroom~~
+### Laura
+~~Listener/listener~~ ~~name~~ of former ~~7 Cups'/7 Cups~~ ~~staff~~ member Laura Small, who left in 2019.
 
 # Leader
 A leadership role in the ~~community~~, below ~~Ambassador~~.
 
-# Learner
+### Learner
 9th of the 18 levels in the listener ~~certification~~ program.
 
 # level
@@ -546,17 +546,14 @@ A title awarded automatically to a ~~member~~ or ~~listener~~ according to the n
 
 Progress from each level to the next level requires a generally increasing number of cheers, but the rate of increase is erratic.
 
-# LHR
-Listener Hangout Room. A ~~room~~ where ~~listeners/listener~~ can go to meet other listeners and hang out together.
-
-# liaison
-~~Community Liaison~~
+### liaison
+~~Community Liaison~~ See: ~~7CupsCommunity~~
 
 # listener
 A person using a type of ~~account~~ intended for providing ~~emotional support,~~ and who has completed the training in ~~active listening.~~ A listener account is password-protected, and it persists across devices and browser sessions.
 
 # listener quality
-The overall rating of ~~listeners/listener~~, calculated from individual ratings given by ~~guests/guest~~ and ~~members/member~~ during or after ~~chats/chat~~.
+The overall rating of ~~listeners/listener~~, calculated from individual ratings given by ~~members/member~~ during or after ~~chats/chat~~.
 
 # listener twin
 A listener who has a mutually supportive association with another listener.
@@ -565,16 +562,13 @@ A listener who has a mutually supportive association with another listener.
 Second of the twenty groups of ~~member~~ ~~levels./level~~
 
 # log in
-To activate an ~~account~~ in the ~~website~~ or ~~app~~ by specifying a ~~name~~ and password, except for ~~guest~~ accounts, which are logged in automatically with a name set by the system and no password. The account's ~~status~~ is set to ~~online~~, except for ~~listener~~ accounts, whose status is set manually by the listener.
+To activate an ~~account~~ in the ~~website~~ or ~~app~~ by specifying a ~~name~~ and password. The account's ~~status~~ is set to ~~online~~, except for ~~listener~~ accounts, whose status is set manually by the listener.
 
 # log out
 To temporarily deactivate an ~~account~~. The account continues to receive ~~messages/message~~ and ~~notifications/notification~~. Its ~~status~~ is set to ~~offline~~.
 
-# lovelyllama13
-~~Listener~~ name used by [@Kate](https://www.7cups.com/@Kate) before she became Group Support Community Manager (and for a short time after).
-
-# LSR
-Listener support room. A ~~room~~ where ~~listeners/listener~~ can go to get support with ~~chats/chat~~, even in the middle of a chat.
+### lovelyllama13
+~~Listener~~ name used by ~~Kate~~ before she became Group Support Community Manager (and for a short time after).
 
 
 ## M
@@ -619,7 +613,7 @@ A short communication sent to a person or to a ~~room~~. It is part of a ~~chat~
 ~~7 Cups'/7 Cups~~ mission is to deliver online community healthcare. See: [Our Mission](http://www.7cups.com/forum/GlensNook_84/OurVisionforaBetterWorld_334/OurMission_18219/1/)
 
 # mock chat
-A ~~1-to-1 chat~~ between ~~listeners/listener~~ in which one listener plays the role of a ~~member~~ or ~~guest~~.
+A ~~1-to-1 chat~~ between ~~listeners/listener~~ in which one listener plays the role of a ~~member.~~. See also: ~~anonymous evaluation~~
 
 # mod
 Short for moderator. A ~~member,/~~ ~~listener~~ or paid intern designated as having a special role in supporting the ~~community~~, and having powers to enforce ~~rules./rule~~
@@ -633,9 +627,6 @@ The task of enforcing ~~rules./rule~~ and maintaining a helpful environment in ~
 # Moving Swiftly
 14th of the twenty groups of ~~member~~ ~~levels./level~~
 
-# MST
-Motivational Support Team. A team of ~~listeners~~ and ~~members~~ who help people who need motivation. Their ~~forum~~ ~~category~~ is [Motivation & Self Help](https://www.7cups.com/forum/MotivationSelfHelp_147/). Also the corresponding ~~hashtag~~ #MST. (Not to be confused with the member [@MsT](https://www.7cups.com/@MsT).)
-
 # mute
 A setting that prevents someone from participating in a ~~chatroom~~. Used to protect the room after some ~~rule~~ has been broken.
 
@@ -645,24 +636,17 @@ A setting that prevents someone from participating in a ~~chatroom~~. Used to pr
 # name
 A screen name associated with an ~~account~~. Not usually the owner of the account's real name, so as to provide so-called ~~anonymity~~, except in the case of ~~therapist~~ accounts.
 
-# NAMI
-The [National Alliance on Mental Illness](https://www.nami.org/), a US mental health organization.
-
 # New Horizon
 16th of the twenty groups of ~~member~~ ~~levels./level~~
 
 # Newbie
 First of the 27 groups of ~~listener~~ ~~levels./level~~ Also a ~~badge~~ that identifies listeners in their first month.
 
-# Newcomer
+### Newcomer
 2nd of the 18 levels in the listener ~~certification~~ program.
 
-# newsletter
-_See:_ ~~Hope Newsletter~~
-
 # Noni
-A ~~bot~~ that engages in limited ~~conversation~~ with ~~guests/guest~~ and ~~members/member~~ who are waiting in the ~~general request queue~~, and that can also take part in ~~1-to-1 chats/1-to-1 chat~~ or lead a ~~chatroom~~ ~~discussion~~. Noni is usually referred to as she or her, as if female.
-_See:_ [Who is Noni?](https://www.7cups.com/about/whoisnoni.php)
+A ~~bot~~ that engages in limited ~~conversation~~ with ~~guests/guest~~ and ~~members/member~~ who are waiting in the ~~general request queue~~, and that can also take part in ~~1-to-1 chats/1-to-1 chat~~ or lead a ~~chatroom~~ ~~discussion~~. Noni is usually referred to as she or her, as if female. _See:_ [Who is Noni?](https://www.7cups.com/about/whoisnoni.php)
 
 # notes
 A system that ~~members,/member~~ ~~listeners/listener~~ or ~~therapists/therapist~~ can use for recording information confidentially within ~~7 Cups~~. Often used to provide continuity between ~~chats/chat~~ or to keep a ~~gratitude journal.~~
@@ -672,6 +656,7 @@ An online alert, which may be an ~~announcement~~ or an automatic notification. 
 
 # Novice
 Second of the 27 groups of ~~listener~~ ~~levels./level~~
+
 
 ## O
 
@@ -690,9 +675,6 @@ The process of welcoming people "on board" ~~7 Cups,~~ or the parts of the ~~web
 # online
 A ~~status~~ setting indicating that a ~~listener~~ is active on ~~7 Cups~~ and available for new ~~chats/chat~~. For ~~guests/guest~~, ~~members/member~~ and therapists it indicates that the account is ~~logged in/log in~~.
 
-# OP
-Original Poster. In a ~~forum~~ ~~thread,~~ the person who started the thread.
-
 
 ## P
 
@@ -702,7 +684,7 @@ Original Poster. In a ~~forum~~ ~~thread,~~ the person who started the thread.
 # Paragon
 24th of the 27 groups of ~~listener~~ ~~levels./level~~
 
-# partner
+# partner organization
 An organization that collaborates with ~~7 Cups~~.
 
 # path
@@ -729,8 +711,8 @@ _See:_ ~~PM./pm~~
 # personal request
 A request for a ~~1-to-1 chat~~ made to one particular ~~listener~~. Listeners should normally respond to personal requests, but they are not forced to.
 
-# phone bridge
-No longer in use. At one time a phone bridge system provided for anonymous phone calls between ~~listeners/~~ and ~~members./~~
+### phone bridge
+At one time a phone bridge system provided for anonymous phone calls between ~~listeners/~~ and ~~members./~~
 
 # Pinnacle
 26th of the 27 groups of ~~listener~~ ~~levels./level~~
@@ -738,13 +720,16 @@ No longer in use. At one time a phone bridge system provided for anonymous phone
 # PM
 Personal Message. A ~~message~~, particularly a message that is not sent in the course of a ~~chat~~ (for example, a message sent to a ~~listener~~ who is ~~offline~~). 7 Cups does not have a separate system for personal messages. The chat system is used for all messages.
 
-# post
-A statement made in a personal ~~feed,~~ or in a ~~thread~~ in a ~~subforum~~.
+# popup chatroom
+A ~~chatroom~~ opened on a single occasion for a specific purpose.
 
-# Professional
+# post
+A statement made in a ~~thread~~ in a ~~subforum~~.
+
+### Professional
 16th of the 18 levels in the listener ~~certification~~ program.
 
-# Professional with Honors
+### Professional with Honors
 17th of the 18 levels in the listener ~~certification~~ program.
 
 # professionalism
@@ -754,7 +739,7 @@ One of the qualities used to rate ~~listeners/listener~~ during or after a ~~cha
 17th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # profile
-A public page containing information about a ~~member,/member~~ ~~listener~~ or ~~therapist~~ ~~account~~, or the owner-supplied part of the information on that page. ~~Guest/guest~~ accounts do not have profiles. Some of the information is supplied by the owner of the account and some by the system.
+A public page containing information about a ~~member,/member~~ ~~listener~~ or ~~therapist~~ ~~account~~, or the owner-supplied part of the information on that page. Some of the information is supplied by the owner of the account and some by the system.
 
 If you know the ~~name~~ of an account, and it has not been ~~deactivated/deactivate~~ you can see its profile at 7cups.com/@whatever-the-name-is
 
@@ -767,22 +752,14 @@ The accumulation of ~~cheers/cheer~~ or of ~~steps/step~~ on a ~~growth path~~.
 # project agent
 A ~~listener~~ designated as having a special role in the ~~community~~ as a member of a team that undertakes some activity, or anyone with a special role in projects within a ~~subcommunity.~~
 
-# PS
-~~Peer support.~~
-
 # psychologist
 A category of ~~therapist~~, usually but not exclusively tending to have specialist knowledge of the way people perceive, think, feel and behave. 
 
-# Pupil
+### Pupil
 8th of the 18 levels in the listener ~~certification~~ program.
 
 
 ## Q
-
-# QFIF
-Questions, Feedback, Ideas & Fun! A ~~category~~ in the ~~forums./forum~~
-
-_See:_ [Questions, Feedback, Ideas & Fun!](https://www.7cups.com/forum/QuestionsFeedbackIdeasFun_33/)
 
 # quality
 ~~Listener quality/listener quality~~.
@@ -803,16 +780,13 @@ To end a ~~chat~~ by recommending another ~~listener~~. Also to recommend anothe
 A link to ~~7 Cups~~ from another website. The link contains a code number that credits the owner of the referral link every time it is clicked, but no one (except the 7 Cups system, and possibly ~~admins/admin~~) can identify the owner from the code number.
 
 # reflection
-The basic technique of ~~active listening~~, in which a ~~listener~~ demonstrates that whatever a ~~guest~~ or ~~member~~ said has been heard by repeating it back to the guest or member, like reflecting it in a mirror.
+The basic technique of ~~active listening~~, in which a ~~listener~~ demonstrates that whatever a ~~member~~ said has been heard by repeating it back to the guest or member, like reflecting it in a mirror.
 
 # reply
 A ~~post~~ in a ~~forum~~ ~~thread~~ that is made in response to a previous post.
 
 # report
 A complaint about someone.
-
-# repost
-To copy a ~~post~~ from a ~~feed~~ into your own feed, which brings it to the attention of people who ~~follow~~ your feed.
 
 # reputation
 A cumulative record of an ~~account's/account~~ activity at ~~7 Cups~~, particularly the number of ~~cheers/cheer~~, which the system represents as a ~~level~~.
@@ -823,7 +797,7 @@ One of the qualities used to rate ~~listeners/listener~~ during or after a ~~cha
 # review
 A comment made as part of a ~~rating~~ during or after a ~~1-to-1 chat~~. Those comments that are thought to be positive are published in the ~~listener's/listener~~ ~~profile~~.
 
-# Rookie
+### Rookie
 The lowest of the 18 levels in the listener ~~certification~~ program.
 
 # room
@@ -834,6 +808,9 @@ One of the rules in the ~~Community Guidelines~~, or one of the rules in the ~~t
 
 
 ## S
+
+# safety patrol
+A team of ~~listeners/~~ who check profiles to ensure they are appropriate.
 
 # Sage
 20th of the 27 groups of ~~listener~~ ~~levels./level~~
@@ -847,8 +824,8 @@ A 1-to-1 ~~chat~~ that starts at a pre-arranged time.
 # Scholar
 11th of the 27 groups of ~~listener~~ ~~levels./level~~
 
-# scrum
-The system development methodology used by ~~7 Cups~~. Also a type of regular progress meeting held as part of the methodology. Also a ~~hashtag~~ that identifies ~~feed~~ ~~posts/post~~ resulting from such meetings.
+### scrum
+The system development methodology once used by ~~7 Cups~~.
 
 # Seeking Light
 4th of the twenty groups of ~~member~~ ~~levels./level~~
@@ -862,17 +839,17 @@ Taking care of one's own needs, particularly used to remind ~~listeners/listener
 # self-help guide
 One of a collection of topic-based guides published by ~~7 Cups~~.
 
-# Senior Listener
+### Senior Listener
 14th of the 18 levels in the listener ~~certification~~ program.
 
 # settings
 A page in the ~~website~~ or ~~app~~ where you can specify details about your ~~account~~.
 
+# sharing circle
+A ~~chatroom~~ with a designated host, who organizes the discussion in a formal way to allow every participant to share something about themselves.
+
 # smiley
 A symbol expressing emotion in a ~~message~~ or ~~post~~, so called because the most common symbol is a smiling face. Different parts of ~~7 Cups~~ support different sets of smileys.
-
-# SnugglyNarwhal
-~~Listener~~ name of development team apprentice Christina Sheldon. *See:* [@SnugglyNarwhal](https://www.7cups.com/@SnugglyNarwhal)
 
 # Soaring Heights
 15th of the twenty groups of ~~member~~ ~~levels./level~~
@@ -883,16 +860,11 @@ A ~~bot~~ that engages in a limited ~~conversation~~ with ~~members/member~~ who
 # Specialist
 12th of the 27 groups of ~~listener~~ ~~levels./level~~
 
-# sponsee
-A ~~member~~ who receives long-term support from a ~~sponsor~~.
+### sponsee
+A ~~member~~ who received long-term support from a ~~sponsor~~. (Derived from addiction programs like Alcoholics Anonymous.)
 
-(The more usual term would be _protégé_. The word _sponsee_ is not in most dictionaries, but it is commonly used in addiction programs like Alcoholics Anonymous.)
-
-# sponsor
-A ~~listener~~ who formally agrees to provide a ~~member~~ with long-term ~~emotional support,~~ working together on weekly structured activities.
-
-# SPOT
-Safety Patrol Outreach Team. A team that assists the Safety Patrol team.
+### sponsor
+A ~~listener~~ who formally agreed to provide a ~~member~~ with long-term ~~emotional support,~~ working together on weekly structured activities.
 
 # staff
 Paid employees of ~~7 Cups~~. _See:_ [Our Team](http://www.7cups.com/about/ourteam.php)
@@ -906,14 +878,13 @@ An indicator that shows whether an ~~account~~ is ~~online~~, ~~offline~~ or (on
 # step
 A step on a ~~growth path~~ associated with some activity that must be completed in order to move to the next step.
 
-# Student
+### Student
 5th of the 18 levels in the listener ~~certification~~ program.
 
 # subcommunity
-A subdivision of the ~~7 Cups~~ ~~community~~, with its own ~~category~~ in the forum and other features. Sometimes hyphenated: sub-community
+A subdivision of the ~~7 Cups~~ ~~community~~, with its own ~~category~~ in the forum and other features. Sometimes hyphenated, "sub-community", or abbreviated to "subcom".
 
 # subforum
-
 A subdivision of a ~~category~~ in the forum. A subforum contains ~~threads/~~.
 
 # subscription
@@ -928,7 +899,7 @@ Someone with a role in leading events in the ~~chatrooms/chatroom~~ of a ~~subco
 # Support Team Leader
 Someone responsble for all the ~~discussions/discussion~~ in a ~~subcommunity.~~
 
-# sustainability
+### sustainability
 The goal (reached by the beginning of 2017) of sufficient income to make ~~7 Cups~~ financially sustainable in the long term.
 
 
@@ -938,7 +909,7 @@ The goal (reached by the beginning of 2017) of sufficient income to make ~~7 Cup
 Abbreviation sometimes used for ~~therapist,~~ or lowercase **t** for ~~teen.~~
 
 # tag
-A reference to an ~~account~~ made by prefixing its ~~name~~ with an @-sign. In ~~forum~~ posts this creates an automatic ~~notification~~ to the account that was tagged. Also, a ~~hashtag~~.
+A reference to an ~~account~~ made by prefixing its ~~name~~ with an @-sign. In ~~forum~~ posts this creates an automatic ~~notification~~ to the account that was tagged.
 
 # taglist
 A list of ~~tags~~ separated by spaces. Often in white on a white background to make the tags invisible, or in a very small font making them less obtrusive.
@@ -974,7 +945,7 @@ A ~~chatroom~~ for ~~Teen Stars,/Teen Star~~ ~~Support Team Leaders/Support Team
 A ~~chatroom~~ for ~~Teen Stars./Teen Star~~
 
 # terms of service
-A set of terms and conditions that each person using ~~7 Cups~~ agrees to. The terms of service for each type of ~~account~~ are different.
+A set of terms and conditions that each person using ~~7 Cups~~ agrees to.
 
 # therapist
 A professional who is qualified and licensed to practise ~~psychotherapy/therapy~~ or ~~counseling~~ in the part of the world where they work, and who is using an ~~account~~ intended for that purpose. A therapist account is password-protected, and it persists across devices and browser sessions. Therapists can optionally register to be included in a ~~directory~~ at ~~7 Cups~~ so that they can provide online therapy for a fee.
@@ -982,10 +953,10 @@ A professional who is qualified and licensed to practise ~~psychotherapy/therapy
 # therapy
 Any of various professional methodologies for helping people with mental or emotional difficulties, particularly, but not exclusively, for mental illness as opposed to the ordinary difficulties of life. Also known as psychotherapy to distinguish it from physical therapies. _See also:_ ~~counseling~~
 
-# Thinking Mind
+### Thinking Mind
 13th of the 18 levels in the listener ~~certification~~ program.
 
-# Thinking Space
+### Thinking Space
 A ~~chatroom~~ where certain topics that are not allowed in other chatrooms can be discussed. 
 
 # thread
@@ -994,26 +965,20 @@ A ~~discussion~~ about a particular topic in a ~~subforum~~. A thread contains ~
 # time zone
 The system for managing the way clocks around the world reflect local time. The time zone of ~~7 Cups~~ is standardized as local time on the East coast of the US, for example in New York.
 
+# toast
+A type of popup notification with a green background in the website, so-called because of the software package used to generate it: [toastr](https://codeseven.github.io/toastr/)
+
 # track
 An area of specialization encompassing more than one specific role in the ~~community,~~ a ~~subcommunity,~~ or a team. For example, someone in a team might specialize in ~~posting/post~~ in the ~~forums/forum~~ where their specific role is to find resources on other websites and link to them. All of the forum-related roles in that team might be described as a track.
 
-# Trainee
+### Trainee
 3rd of the 18 levels in the listener ~~certification~~ program.
 
 # training module
 One of a collection of topic-based guides for ~~listeners/listener~~ published by ~~7 Cups~~. Some training modules are identical to ~~self-help guides~~.
 
-# trending
-The most commonly occurring ~~hashtags/hashtag~~ in recent ~~feed~~ ~~posts~~.
-
 # troll
 Informal and sometimes deprecated term for someone who communicates in a way that causes bad feeing, used to suggest that the person's way of communicating is deliberate (as opposed to being the result of hidden distress or mental illness).
-
-# TS
-Either ~~Thinking Space~~ or ~~Teen Star.~~
-
-# TSEBI
-Teen Self-Estemm & Body Image, a ~~community.~~
 
 # Turtle 
 ![](https://www.7cups.com/cloudfront/img/zodiac/icon-12.png) The ~~animal cohort~~ for the month of December.
@@ -1021,8 +986,8 @@ Teen Self-Estemm & Body Image, a ~~community.~~
 # twin
 ~~Listener twin/listener twin~~.
 
-# Twish
-~~Listener~~ ~~name~~ of ~~7 Cups'/7 Cups~~ ~~staff~~ member and director of operations, Twisha Anand. _See:_ [@Twish](http://7cups.com/@Twish) (Not to be confused with the ~~member~~ named [@Twisha](http://7cups.com/@Twisha).)
+### Twish
+~~Listener~~ ~~name~~ of former ~~7 Cups'/7 Cups~~ ~~staff~~ member and director of operations, Twisha Anand.
 
 
 ## U
@@ -1031,7 +996,7 @@ Teen Self-Estemm & Body Image, a ~~community.~~
 The ~~name~~ assigned to all ~~deactivated/deactivate~~ ~~accounts/account~~.
 
 # upload
-To copy something between computers or devices. For example, to copy an image from a personal device to a web site. 7 Cups does not permit uploads, except for the image in a ~~profile~~ (which is uploaded to Amazon Cloudfront, not to 7 Cups). To use an image in a ~~forum~~ or ~~feed~~ it must first be uploaded to some other website.
+To copy something between computers or devices. For example, to copy an image from a personal device to a web site. 7 Cups does not permit uploads, except for the image in a ~~profile~~ (which is uploaded to Amazon Cloudfront, not to 7 Cups). To use an image in a ~~forum~~ it must first be uploaded to some other website.
 
 # upvote
 A sign of approval for a ~~post~~ in a ~~forum~~ ~~thread~~.
@@ -1045,26 +1010,26 @@ The underlying values intended to inform people's behavior at ~~7 Cups~~, as set
 # verified
 A ~~badge~~ awarded to ~~listeners/listener~~ who have a minimum level of experience and who have been recommended by a more experienced listener following a ~~mock chat~~.
 
-
 # Veteran
 19th of the 27 groups of ~~listener~~ ~~levels./level~~
 
 # Virtuoso
 21st of the 27 groups of ~~listener~~ ~~levels./level~~
 
+
 ## W
 
 # website
 The web site at 7cups.com (as opposed to the ~~app~~).
 
-# weCare
+### weCare
 ~~7 Cups'/7 Cups~~ online community healthcare methodology.
 
 # widget
 Code that can be inserted in other websites so that users of those websites can choose and link to ~~listeners/listener~~ who are available to ~~chat~~ at ~~7 Cups~~.
 
-# wiki
-Part of the ~~website~~ containing a library of ~~articles/~~ maintained by the ~~community.~~
+### wiki
+Part of the ~~website~~ containing a library of ~~articles/~~ once maintained by the ~~community~~ but now mostly unused.
 
-# World Changer
+### World Changer
 The highest of the 18 levels in the listener ~~certification~~ program.
