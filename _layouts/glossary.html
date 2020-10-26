@@ -67,8 +67,7 @@ gloss = function (term) {
 	if ('ontouchstart' in window) inp.blur()
 	var f = term? term : normalize(inp.value)
 	if (f == '') return
-	var h = f.length == 1? 'h2' : 'h1'
-	var tt = document.getElementsByTagName(h)
+	var tt = document.querySelectorAll(f.length == 1? 'h2,h3' : 'h1')
 	for (let i = 0; i < tt.length; ++i) {
 		let t = tt.item(i)
 		let c = t.id || normalize(t.innerHTML)

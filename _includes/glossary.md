@@ -15,12 +15,12 @@ _See:_ _7 Cups for the Searching Soul_ [Amazon Kindle](https://www.amazon.com/7-
 The original full name of ~~7 Cups~~. The Internet domain 7cupsoftea.com redirects to 7cups.com. Also the title of a Chinese poem, part of which is quoted at the start of the book ~~7 Cups for the Searching Soul~~.
 
 <h1 id="at-sign">@-sign</h1>
-In a ~~feed~~ ~~post~~ or ~~forum~~ post, a prefix that turns the ~~name~~ of a ~~member,/member~~ ~~listener~~ or ~~therapist~~ into a ~~tag~~. For example, @Boris tags the ~~account~~ named Boris.
+In a ~~forum~~ post, a prefix that turns the ~~name~~ of a ~~member,/member~~ ~~listener~~ or ~~therapist~~ into a ~~tag~~. For example, @Boris would tag an ~~account~~ named Boris.
 
 The account tagged will receive a ~~notification~~ containing a link to the feed or ~~thread~~. Logically, the notification should link to the post but this is not implemented.
 
-<h1 id="hash-sign">#-sign</h1>
-In a ~~feed~~ ~~post,/post~~ a prefix that turns a word into a ~~hashtag~~.
+<h3 id="hash-sign">#-sign</h3>
+In a ~~feed~~ ~~post,/post~~ a prefix that turned a word into a ~~hashtag~~.
 
 
 ## A
