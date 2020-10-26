@@ -2,5 +2,6 @@
 Yep.....indeed
 <div style="transform: scale(.4);">{% include anchorage.svg %}</div>
 
-### heading {:.testing}
+### heading
+{:.testing}
 paragraph
