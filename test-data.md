@@ -2,7 +2,6 @@
 Yep.....indeed
 <div style="transform: scale(.4);">{% include anchorage.svg %}</div>
 
-### heading
 {:.testing}
-
+### H3
 paragraph
