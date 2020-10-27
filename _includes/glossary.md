@@ -25,9 +25,6 @@ In a ~~feed~~ ~~post,/post~~ a prefix that turned a word into a ~~hashtag~~.
 
 ## A
 
-### Accomplished
-11th of the 18 levels in the listener ~~certification~~ program.
-
 # account
 A persistent Internet identity and ~~name~~ used to access 7 Cups.
 
@@ -141,17 +138,11 @@ A setting that prevents a pair of ~~accounts/account~~ from having any contact w
 # blog
 A series of ~~posts/post~~ published by 7 Cups, similar to a ~~feed~~ but intended for public readership.
 
-### Bookworm
-6th of the 18 levels in the listener ~~certification~~ program.
-
 # bot
 A computer program that behaves in some way like a person. The only bots on 7 Cups, as far as we know, are ~~Noni~~ and ~~Sophia~~. (Originally short for robot.)
 
 # boundary
 A personal rule (as opposed to a ~~community rule/rule~~).
-
-### Brains
-12th of the 18 levels in the listener ~~certification~~ program.
 
 # break
 A period of time when someone deliberately stops using 7 Cups, or parts of 7 Cups.
@@ -290,9 +281,6 @@ A ~~listener~~ ~~name~~ reserved for use by ~~7 Cups'~~ development team.
 
 # directory
 A listing of ~~therapists/~~ at ~~7 Cups~~ who provide online ~~therapy~~ or ~~counseling~~ for a fee.
-
-### Disciplined Learner
-10th of the 18 levels in the listener ~~certification~~ program.
 
 # Discoverer
 9th of the 27 groups of ~~listener~~ ~~levels./level~~
@@ -481,9 +469,6 @@ A private page giving information about a ~~listener's/listener~~ activity on ~~
 ### Incapsula
 A cloud-based system once used to provide faster response times and better security for ~~7 Cups~~. Only visible when something went wrong and the name Incapsula could be seen in the error message.
 
-### Innovator
-15th of the 18 levels in the listener ~~certification~~ program.
-
 # Intermediate
 7th of the 27 groups of ~~listener~~ ~~levels./level~~
 
@@ -498,12 +483,6 @@ A paid intern providing support and backup ~~moderation~~, especially in ~~chatr
 
 # Junior Community Mentor
 Someone in a ~~subcommunity~~ who combines leading ~~discussions/discussion~~ with community activities in the ~~forums.~~
-
-### Junior Pupil
-7th of the 18 levels in the listener ~~certification~~ program.
-
-### Junior Student
-4th of the 18 levels in the listener ~~certification~~ program.
 
 
 ## K
@@ -537,9 +516,6 @@ Laiba Jalil, an Assistant Community Manager whose ~~listener~~ name is @Hope.
 
 # Leader
 A leadership role in the ~~community~~, below ~~Ambassador~~.
-
-### Learner
-9th of the 18 levels in the listener ~~certification~~ program.
 
 # level
 A title awarded automatically to a ~~member~~ or ~~listener~~ according to the number of ~~cheers/cheer~~ they have. Levels are arranged in groups and numbered within a group. A level with just a group name and no number is effectively level zero in that group. _For example:_ ~~Epitome 5/Epitome~~
@@ -642,9 +618,6 @@ A screen name associated with an ~~account~~. Not usually the owner of the accou
 # Newbie
 First of the 27 groups of ~~listener~~ ~~levels./level~~ Also a ~~badge~~ that identifies listeners in their first month.
 
-### Newcomer
-2nd of the 18 levels in the listener ~~certification~~ program.
-
 # Noni
 A ~~bot~~ that engages in limited ~~conversation~~ with ~~guests/guest~~ and ~~members/member~~ who are waiting in the ~~general request queue~~, and that can also take part in ~~1-to-1 chats/1-to-1 chat~~ or lead a ~~chatroom~~ ~~discussion~~. Noni is usually referred to as she or her, as if female. _See:_ [Who is Noni?](https://www.7cups.com/about/whoisnoni.php)
 
@@ -726,12 +699,6 @@ A ~~chatroom~~ opened on a single occasion for a specific purpose.
 # post
 A statement made in a ~~thread~~ in a ~~subforum~~.
 
-### Professional
-16th of the 18 levels in the listener ~~certification~~ program.
-
-### Professional with Honors
-17th of the 18 levels in the listener ~~certification~~ program.
-
 # professionalism
 One of the qualities used to rate ~~listeners/listener~~ during or after a ~~chat~~. Not further defined. In particular, opinions may differ on whether it is professional or not for a listener to appear warm and human.
 
@@ -754,9 +721,6 @@ A ~~listener~~ designated as having a special role in the ~~community~~ as a mem
 
 # psychologist
 A category of ~~therapist~~, usually but not exclusively tending to have specialist knowledge of the way people perceive, think, feel and behave. 
-
-### Pupil
-8th of the 18 levels in the listener ~~certification~~ program.
 
 
 ## Q
@@ -797,9 +761,6 @@ One of the qualities used to rate ~~listeners/listener~~ during or after a ~~cha
 # review
 A comment made as part of a ~~rating~~ during or after a ~~1-to-1 chat~~. Those comments that are thought to be positive are published in the ~~listener's/listener~~ ~~profile~~.
 
-### Rookie
-The lowest of the 18 levels in the listener ~~certification~~ program.
-
 # room
 A ~~chatroom.~~
 
@@ -839,9 +800,6 @@ Taking care of one's own needs, particularly used to remind ~~listeners/listener
 # self-help guide
 One of a collection of topic-based guides published by ~~7 Cups~~.
 
-### Senior Listener
-14th of the 18 levels in the listener ~~certification~~ program.
-
 # settings
 A page in the ~~website~~ or ~~app~~ where you can specify details about your ~~account~~.
 
@@ -877,9 +835,6 @@ An indicator that shows whether an ~~account~~ is ~~online~~, ~~offline~~ or (on
 
 # step
 A step on a ~~growth path~~ associated with some activity that must be completed in order to move to the next step.
-
-### Student
-5th of the 18 levels in the listener ~~certification~~ program.
 
 # subcommunity
 A subdivision of the ~~7 Cups~~ ~~community~~, with its own ~~category~~ in the forum and other features. Sometimes hyphenated, "sub-community", or abbreviated to "subcom".
@@ -953,9 +908,6 @@ A professional who is qualified and licensed to practise ~~psychotherapy/therapy
 # therapy
 Any of various professional methodologies for helping people with mental or emotional difficulties, particularly, but not exclusively, for mental illness as opposed to the ordinary difficulties of life. Also known as psychotherapy to distinguish it from physical therapies. _See also:_ ~~counseling~~
 
-### Thinking Mind
-13th of the 18 levels in the listener ~~certification~~ program.
-
 ### Thinking Space
 A ~~chatroom~~ where certain topics that are not allowed in other chatrooms can be discussed. 
 
@@ -970,9 +922,6 @@ A type of popup notification with a green background in the website, so-called b
 
 # track
 An area of specialization encompassing more than one specific role in the ~~community,~~ a ~~subcommunity,~~ or a team. For example, someone in a team might specialize in ~~posting/post~~ in the ~~forums/forum~~ where their specific role is to find resources on other websites and link to them. All of the forum-related roles in that team might be described as a track.
-
-### Trainee
-3rd of the 18 levels in the listener ~~certification~~ program.
 
 # training module
 One of a collection of topic-based guides for ~~listeners/listener~~ published by ~~7 Cups~~. Some training modules are identical to ~~self-help guides~~.
@@ -1031,5 +980,3 @@ Code that can be inserted in other websites so that users of those websites can 
 ### wiki
 Part of the ~~website~~ containing a library of ~~articles/~~ once maintained by the ~~community~~ but now mostly unused.
 
-### World Changer
-The highest of the 18 levels in the listener ~~certification~~ program.
