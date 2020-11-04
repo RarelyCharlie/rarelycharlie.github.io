@@ -633,6 +633,9 @@ Second of the 27 groups of ~~listener~~ ~~levels./level~~
 
 ## O
 
+# oath
+One of several statments of intent that listeners and members may be asked to commit to by ~~posting/post~~ in the ~~forum.~~
+
 # Obs
 Nickname of Assistant Community Manager Rahul Sinha, whose ~~listener~~ name is @ASilentObserver.
 
@@ -774,7 +777,7 @@ One of the rules in the ~~Community Guidelines~~, or one of the rules in the ~~t
 A team of ~~listeners/~~ who check profiles to ensure they are appropriate.
 
 # Sage
-20th of the 27 groups of ~~listener~~ ~~levels./level~~
+20th of the 27 groups of ~~listener~~ ~~levels./level~~ Also an unrelated listener ~~badge~~ awarded for a ~~post~~ that receives 25 ~~upvotes.~~
 
 # Scaling Summit
 18th of the twenty groups of ~~member~~ ~~levels./level~~
