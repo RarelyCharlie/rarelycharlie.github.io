@@ -407,7 +407,7 @@ datal = [{id: "l179", name: "Active Listening", desc: "For completion of the Moc
 {id: "l499", name: "musicalMagic", desc: "For spreading kindness in the listener rooms.", n: 6},
 {id: "l363", name: "NAMI Messenger", desc: "For people to share how they told someone at 7 Cups about the NAMI community and/or NAMI resources", n: 148},
 {id: "l356", name: "NAMI Oath", desc: "For taking the NAMI Community Oath and dedicating yourself to the NAMI community on 7 Cups", n: 782},
-{id: "l476", name: "Needs Reply Team", desc: "For forum team members focused on "Needs Reply" queue", n: 22},
+{id: "l476", name: "Needs Reply Team", desc: "For forum team members focused on \"Needs Reply\" queue", n: 22},
 {id: "l461", name: "New Mom Support Group", desc: "For members of the new Mom Support Group", n: 0},
 {id: "l312", name: "Olympic Rings", desc: "For participating in an Olympic Challenge", n: 1},
 {id: "l342", name: "Online Therapy", desc: "For Therapists that provide online therapy on 7 Cups", n: 356},
