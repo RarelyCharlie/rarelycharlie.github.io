@@ -358,7 +358,7 @@ datal = [{id: "l179", name: "Active Listening", desc: "For completion of the Moc
 {id: "l186", name: "Community Builder", desc: "For leading 24+ chat room discussions", n: 196},
 {id: "l333", name: "Connection Corner", desc: "For listeners & therapists who want to share & build community together", n: 827},
 {id: "l184", name: "Conversationalist", desc: "For leading 4+ chat room discussions", n: 222},
-{id: "l478", name: "COVID-19 Support", desc: "For dedication to supporting the "COVID-19 Room"", n: 0},
+{id: "l478", name: "COVID-19 Support", desc: "For dedication to supporting the \"COVID-19 Room\"", n: 0},
 {id: "l473", name: "Cupsmas 2019", desc: "For participating in Cupsmas 2019 Events", n: 24},
 {id: "l225", name: "Disability Support", desc: "For dedication to supporting those in the 7 Cups Disability Community", n: 15},
 {id: "l471", name: "DJ Team", desc: "For being on the Music Therapy team", n: 28},
