@@ -9,6 +9,6 @@ Citri, a new listener, is helped by the more experienced Eunice.
 
 &nbsp;
 
-Eunice character ♡ CC-BY-SA Nina Paley — mimiandeunice.com
+Eunice character **♡** CC-BY-SA Nina Paley · [Mimi and Eunice](https://mimiandeunice.com)
 
-Voice synthesis by IBM Watson TTS — ibm.com/cloud/watson-text-to-speech
+Voice synthesis by IBM Watson · [Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech)
