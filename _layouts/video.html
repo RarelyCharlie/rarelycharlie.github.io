@@ -24,9 +24,10 @@ init = () => {
 
 onmessage = () => {
 	if (event.data != 'play') return
+	if (!video || video.host != 'Y') return
 	var ifr = document.querySelector('iframe')
 	ifr.removeAttribute('srcdoc')
-	ifr.setAttribute('src', 'https://www.youtube.com/embed/h2VVCAP6WOc?autoplay=1&rel=0&modestbranding=1&vq=hd720')	
+	ifr.setAttribute('src', 'https://www.youtube.com/embed/' + video.id + '?autoplay=1&rel=0&modestbranding=1')	
 	}
 </script>
 
