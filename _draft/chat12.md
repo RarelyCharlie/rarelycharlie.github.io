@@ -1,5 +1,5 @@
 ---
-title: Managing Emotions
+title: Getting Unstuck
 layout: video
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
@@ -9,6 +9,5 @@ Citri, a new listener, is helped by the more experienced Eunice.
 
 &nbsp;
 
-Eunice character **♡** CC-BY-SA Nina Paley · [Mimi and Eunice](https://mimiandeunice.com)
-
-Voice synthesis by IBM Watson · [Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech)
+Eunice character **♡** CC-BY-SA Nina Paley • [Mimi and Eunice](https://mimiandeunice.com)\\
+Voice synthesis by IBM Watson • [Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech)
