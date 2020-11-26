@@ -1,6 +1,7 @@
 ---
 title: Getting Unstuck
 layout: video
+info: A video chat with commentary
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 <script>video = {host: 'Y', id: 'wUCZVQL2VKE'}</script>
