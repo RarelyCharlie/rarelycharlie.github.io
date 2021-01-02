@@ -64,7 +64,7 @@ span.listener {margin: 0;}
 <p><button hidden id="more" onclick="more()">Show More Results</button></p>
 
 <script>
-build = 7
+build = 10
 
 acfi = null
 idx = null
