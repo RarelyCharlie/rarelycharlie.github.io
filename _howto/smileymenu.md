@@ -7,6 +7,8 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 <style>img {box-shadow: 4px 4px 12px #aaa;}</style>
 This page describes how you might be able to enhance chats with a popup menu for inserting smileys in your messages.
 
+<div style="border: 1px solid #a00; padding: 1ex; margin: 0 0 0 -1ex; color: #a00;"><b>Update pending</b><br>Some of the information on this page is out of date. It is due to be updated by Monday, February 8th, 2021.</div>
+
 The 15 smileys in the menu are supported by 7 Cups. When you use them, everyone sees the same smileys.
 
 If you insert other smileys in your messages, some people might not see them in the same way you do, and some 
