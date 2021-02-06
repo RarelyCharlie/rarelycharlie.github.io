@@ -9,7 +9,7 @@ This page describes how you might be able to enhance chats with a popup menu for
 
 <div style="border: 1px solid #a00; padding: 1ex; margin: 0 0 1em -1ex; color: #a00;"><b>Update pending</b><br>Some of the information on this page is out of date. It is due to be updated by Monday, February 8th, 2021.</div>
 
-The 15 emoji in the menu include 14 that are supported by 7 Cups, and an extra one. This is because 7 Cups originally supported 15, but one of them was never implemented and was later withdrawn.
+The 15 emoji in the menu include 14 that are supported by 7 Cups, and an extra one. This is because 7 Cups originally supported 15, but one of them was never properly implemented and was later withdrawn.
 
 The 14 supported emoji can also be inserted by typing text emoticons like `:)` for a smiling face. These are listed in [Type smileys in chats](https://rarelycharlie.github.io/howto/smileys).
 
@@ -29,8 +29,7 @@ To use the smiley menu, you need to install two things in this order:
 
 1. First install [Tampermonkey](http://tampermonkey.net/) in your web browser.
 
-   If your web browser is not compatible with Tampermonkey, then you cannot proceed with the next step
-   (but you might be able to use the method for Apple iOS instead).
+   If your web browser is not compatible with Tampermonkey, then you cannot proceed with the next step.
 
 2. Next, install the [7 Cups - Chat smiley menu](https://greasyfork.org/en/scripts/396512-7-cups-chat-smiley-menu) script.
 
