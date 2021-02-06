@@ -7,8 +7,6 @@ feedback: "https://www.7cups.com/@RarelyCharlie"
 <style>img {box-shadow: 4px 4px 12px #aaa;}</style>
 This page describes how you might be able to enhance chats with a popup menu for inserting smileys (emoji) in your messages.
 
-<div style="border: 1px solid #a00; padding: 1ex; margin: 0 0 1em -1ex; color: #a00;"><b>Update pending</b><br>Some of the information on this page is out of date. It is due to be updated by Monday, February 8th, 2021.</div>
-
 The 15 emoji in the menu include 14 that are supported by 7 Cups, and an extra one. This is because 7 Cups originally supported 15, but one of them was never properly implemented and was later withdrawn.
 
 The 14 supported emoji can also be inserted by typing text emoticons like `:)` for a smiling face. These are listed in [Type smileys in chats](https://rarelycharlie.github.io/howto/smileys).
