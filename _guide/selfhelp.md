@@ -28,6 +28,8 @@ span.listener {margin: 0;}
 
 #results p.hit {color: #999; font-size: 14px; font-weight: normal; margin-left: 2em; text-indent: -2em; line-height:1.2em; margin-bottom: 1.2ex;}
 #results p.hit a {font-weight: bold; text-indent: 0;}
+a.onlyL::after, span.listener {content: "L"; color: white; background: #5cb85c; padding: 4px 4px 2px 4px;margin-left: 1ex;
+	border-radius: 25%; font-size: 12px; font-weight: bold; display: inline-block; line-height: 12px;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
