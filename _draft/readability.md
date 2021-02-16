@@ -16,7 +16,7 @@ button {display: inline-block; margin: 0 1em 0 0; padding: 4px 12px; background:
   border: 1px solid #4a4; border-radius: 4px;}
 button:hover {background: #beb; color: #000;}
 button:disabled {background: #eee; color: #aaa; border-color: #aaa;}
-#notes {margin: 4em 0 0 0; font-size: 75%; color: #aaa;}
+#notes {margin: 8em 0 0 0; font-size: 75%; color: #aaa;}
 </style>
 
 <textarea id="text" spellcheck="false"></textarea>
@@ -26,7 +26,8 @@ button:disabled {background: #eee; color: #aaa; border-color: #aaa;}
 <span id="result"></span>
 </p>
 
-<p id="notes">Readability by [Simo Ahava](https://github.com/sahava?tab=repositories).<br>CoffeeScript by [Jeremy Ashkenas](https://github.com/jashkenas).</p>
+<p id="notes">Readability calculation by <a href="https://github.com/sahava?tab=repositories">Simo Ahava</a><br>
+CoffeeScript by <a href="https://github.com/jashkenas">Jeremy Ashkenas</a>.</p>
 
 <script type="text/coffeescript">
 UI = {}
