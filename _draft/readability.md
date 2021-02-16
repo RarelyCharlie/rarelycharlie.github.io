@@ -2,9 +2,9 @@
 title: Measure readability
 layout: howto
 ---
-This page measures the readability of a passage of English text.
+This page measures the readability of a passage of English text as an estimated US grade level.
 
-Note that most people in the US read below their grade level, and over half of US adults read at 6th grade level or below.
+Note that most people in the US read below their grade level, and over half of US adults read at the level of 6th grade or below.
 
 <script src="/assets/coffeescript.js"></script>
 <script src="/assets/readability.js"></script>
