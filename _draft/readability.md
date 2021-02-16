@@ -16,7 +16,7 @@ button {display: inline-block; margin: 0 1em 0 0; padding: 4px 12px; background:
   border: 1px solid #4a4; border-radius: 4px;}
 button:hover {background: #beb; color: #000;}
 button:disabled {background: #eee; color: #aaa; border-color: #aaa;}
-#notes {font-size: 80%; color: #aaa;}
+#notes {margin: 4em 0 0 0; font-size: 75%; color: #aaa;}
 </style>
 
 <textarea id="text" spellcheck="false"></textarea>
