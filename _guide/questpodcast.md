@@ -6,13 +6,13 @@ layout: default
 ---
 <style>em {color: #44a;} i {color: #000;}</style>
 
-*Transcript of a podcast by the founder and CEO of 7 Cups: [Glen Moriarty: 7 Cups of Tea](https://justin.quest/episodes/glen-moriarty-v2vLRbK0).*
+<i>Transcript of a podcast by the founder and CEO of 7 Cups: [Glen Moriarty: 7 Cups of Tea](https://justin.quest/episodes/glen-moriarty-v2vLRbK0).</i>
 
-*Forum thread: [7 Cups Podcast with Glen! Listen and Share!](https://www.7cups.com/forum/SiteUpdates_100/HsHangout_1970/7CupsPodcastwithGlenListenandShare_243576/1/)*
+<i>Forum thread: [7 Cups Podcast with Glen! Listen and Share!](https://www.7cups.com/forum/SiteUpdates_100/HsHangout_1970/7CupsPodcastwithGlenListenandShare_243576/1/)</i>
 
 ---
 
-*\[music\]*
+<i>\[music\]</i>
 
 *What's up, guys? It's Justin Kan, and you are listening to The Quest.*
 
