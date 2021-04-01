@@ -546,12 +546,12 @@ Hey, thanks for this awesome conversation. It was really good, uh, talking with 
 
 …freedom, humility, uh, and, and, uh, courage.
 
-Thanks, Glen, and thank you for, for being here and being so open with me. That's a lot of fun. This was awesome.
+*Thanks, Glen, and thank you for, for being here and being so open with me. That's a lot of fun. This was awesome.*
 
-Okay, that was my conversation with Glen Moriarty. I hope you guys liked it.
+*Okay, that was my conversation with Glen Moriarty. I hope you guys liked it.*
 
-One of the things I really loved about our conversation was how mission mission-driven Glen is in building something impactful for people in the world. It's really a fundamental human need to be listened to, and something that we've all experienced. And, I, personally, am really fascinated by ways that we can use what we've learned in building technology, especially apps that can help people with wellness and positive behavior change on a daily basis. This is something that I'm really interested in. I think there's this huge opportunity to improve human life through tech on an unprecedented scale today, but really only if we focus on it, and so I'd love to encourage more entrepreneurs out there to do so.
+*One of the things I really loved about our conversation was how mission mission-driven Glen is in building something impactful for people in the world. It's really a fundamental human need to be listened to, and something that we've all experienced. And, I, personally, am really fascinated by ways that we can use what we've learned in building technology, especially apps that can help people with wellness and positive behavior change on a daily basis. This is something that I'm really interested in. I think there's this huge opportunity to improve human life through tech on an unprecedented scale today, but really only if we focus on it, and so I'd love to encourage more entrepreneurs out there to do so.*
 
-So I hope you guys enjoyed the podcast. If you like it, you know the drill. Rate us 5 stars on iTunes and you can hit me back [@justinkan](https://twitter.com/justinkan) on twitter with feedback or comments, or just say "Hey, I appreciated this!"
+*So I hope you guys enjoyed the podcast. If you like it, you know the drill. Rate us 5 stars on iTunes and you can hit me back [@justinkan](https://twitter.com/justinkan) on twitter with feedback or comments, or just say "Hey, I appreciated this!"*
 
-Love you all, and I will see you next week.
+*Love you all, and I will see you next week.*
