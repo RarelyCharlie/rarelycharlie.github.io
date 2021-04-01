@@ -4,15 +4,15 @@ info: Transcript of a podcast
 feedback: https://www.7cups.com/@RarelyCharlie
 layout: default
 ---
-<style>em {color: #44a;} i {color: #000;}</style>
+<style>em {color: #22a;} strong {font-weight: normal; font-style: italic; color: #000;}</style>
 
-<i>Transcript of a podcast by the founder and CEO of 7 Cups: [Glen Moriarty: 7 Cups of Tea](https://justin.quest/episodes/glen-moriarty-v2vLRbK0).</i>
+**Transcript of a podcast by the founder and CEO of 7 Cups: [Glen Moriarty: 7 Cups of Tea](https://justin.quest/episodes/glen-moriarty-v2vLRbK0).**
 
-<i>Forum thread: [7 Cups Podcast with Glen! Listen and Share!](https://www.7cups.com/forum/SiteUpdates_100/HsHangout_1970/7CupsPodcastwithGlenListenandShare_243576/1/)</i>
+**Forum thread: [7 Cups Podcast with Glen! Listen and Share!](https://www.7cups.com/forum/SiteUpdates_100/HsHangout_1970/7CupsPodcastwithGlenListenandShare_243576/1/)**
 
 ---
 
-<i>\[music\]</i>
+**\[music\]**
 
 *What's up, guys? It's Justin Kan, and you are listening to The Quest.*
 
@@ -26,7 +26,7 @@ layout: default
 
 *So, here is my conversation with Glen.*
 
-*\[music\]*
+**\[music\]**
 
 *So I want to, I want to start off with the origin story of Glen, and how you got to the place where you were starting 7 Cups of Tea. Zooming backwards, like, how did you get up to the point where you were, you know, you were starting the company?*
 
@@ -542,7 +542,7 @@ Yeah, it can't hurt, yeah. Yeah, and it doesn't, it seems pretty low risk.
 
 Hey, thanks for this awesome conversation. It was really good, uh, talking with you. Thanks for taking the time. Thanks for telling, helping me tell, my story. Thanks for telling your story, and for continuing to do this so that other people can hear stories that, uh, I think provide a map, permission…
 
-*\[music\]*
+**\[music\]**
 
 …freedom, humility, uh, and, and, uh, courage.
 
