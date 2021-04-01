@@ -4,6 +4,8 @@ info: Transcript of a podcast
 feedback: https://www.7cups.com/@RarelyCharlie
 layout: default
 ---
+<style>em {color: #44a;} i {color: #000;}</style>
+
 *Transcript of a podcast by the founder and CEO of 7 Cups: [Glen Moriarty: 7 Cups of Tea](https://justin.quest/episodes/glen-moriarty-v2vLRbK0).*
 
 *Forum thread: [7 Cups Podcast with Glen! Listen and Share!](https://www.7cups.com/forum/SiteUpdates_100/HsHangout_1970/7CupsPodcastwithGlenListenandShare_243576/1/)*
@@ -14,7 +16,7 @@ layout: default
 
 *What's up, guys? It's Justin Kan, and you are listening to The Quest.*
 
-*Today's podcast is with Glen Moriarty. Glen is a psyChologist and the founder of 7 Cups of Tea.*
+*Today's podcast is with Glen Moriarty. Glen is a psychologist and the founder of 7 Cups of Tea.*
  
 *7 Cups of Tea is an app that provides online therapy and free support, and since Glen founded the company back in 2013 they've trained over 440,000 listeners around the world and helped over 50 million people.*
 
@@ -42,7 +44,7 @@ Yeah, it's self-torture. And in, enormous drive. And perseverance and grit, and 
 
 *Somebody's heard that! That's that's an amazing one!*
 
-It's, that's what it's like, right? It's like, brutal. So anyways, um, so for me, um, I was, you know, I, I became a psyChologist to learn how to better help people, you know, that's, that's really what I wanted to do. And being a psyChologist is, you know, it's, uh, it's a lot of work. You go through a ton of it, and then you can, like, help one person at a time, really. And, and the way you scale it is you do group therapy. So you have like eight people in a room, and that's really powerful. 
+It's, that's what it's like, right? It's like, brutal. So anyways, um, so for me, um, I was, you know, I, I became a psychologist to learn how to better help people, you know, that's, that's really what I wanted to do. And being a psychologist is, you know, it's, uh, it's a lot of work. You go through a ton of it, and then you can, like, help one person at a time, really. And, and the way you scale it is you do group therapy. So you have like eight people in a room, and that's really powerful. 
 
 I mean there's there's a ton that can be done with groups and I think we can get smart and figure that out in a whole bunch of ways that we that we haven't yet, um, but, um, I have another company too. It's a, it's a learning, an online learning company. And that got me, you know, lifestyle business, and, you know, being okay financially and everything else. But I was studying, uh, offline behavior that hadn't yet moved online.
 
@@ -76,7 +78,7 @@ I was the first listener. My my wife was the second. I could never get enough li
 
 *So the original model was, people we just could come on this app and find someone who would listen to them and talk about whatever they wanted.*
 
-Yeah, what's, what's funny is like so as a psyChologist, you know, you you meet face to face, right? So it's like you… It wasn't until a long time into this that I, like, realized how how difficult we were making seeking mental health support. So like from an Internet funnel perspective, right, it's like: less clicks, less threatening, the better. Mental health is, like, 27 steps, super hard steps, and very threatening. Like, come meet with a stranger, fill out all this paperwork, you know, do a deep dive in all the things you don't want to talk about, uh. 
+Yeah, what's, what's funny is like so as a psychologist, you know, you you meet face to face, right? So it's like you… It wasn't until a long time into this that I, like, realized how how difficult we were making seeking mental health support. So like from an Internet funnel perspective, right, it's like: less clicks, less threatening, the better. Mental health is, like, 27 steps, super hard steps, and very threatening. Like, come meet with a stranger, fill out all this paperwork, you know, do a deep dive in all the things you don't want to talk about, uh. 
 
 You know, call a person, drive there, it's really, really tough. So then below that is video conferencing. Still intimate but but less threatening, more convenient. Below that is voice. Phone calls. And then below that is anonymous messaging. And so we launched with voice, which I already thought was way less threatening than all the other stuff. And so we used a thing called, um, Plivo which was like a Twilio, um, thing where the, the person seeking help would call. We'd ring all the listeners, yeah, we had like I don't know, 40, 50 at the time. Whoever picked up the call would get connected, and it was voice.
 
@@ -90,11 +92,11 @@ It was still, it was like, uuuuggghhh, still much too much, you know, emotion, p
 
 Yeah, and that's food.  Like, "Hey, I need some food!" It's not like, you know, "Hey, this is secret that I've never told anybody and I just need to get it off my chest."
 
-*I'm curious, did you get pushback from the community of, you know, professional community of therapists and psyChologists who are saying that this is, you know, too easy or, you know, it's, in a way, it's disruptive to the idea of traditional mental health help?*
+*I'm curious, did you get pushback from the community of, you know, professional community of therapists and psychologists who are saying that this is, you know, too easy or, you know, it's, in a way, it's disruptive to the idea of traditional mental health help?*
 
 Yeah, so fortunately, um, we were, you know, really under the radar for a long time. And in 2013 that was really deliberate on my part because the idea then that you could train a regular person to care for another person was, was seen as radical. Now it's not at all. Now the scene is, like, very obvious. Like, yeah, of course, why not. Like, just listening like this isn't hard. Anybody can do this. It's not hard. Like we have all kinds of problems. We should be doing this, um. 
 
-But we ended up adding therapists. So we, we love therapists. I'm a psyChologist, I was nervous. We have over 100 clinicians on the platform. So, we see it like a treatment team where you, you know there are there, are volunteer listeners, there are licensed professionals, and there there are even chat bots. And, and together that combination of people can best help people. 
+But we ended up adding therapists. So we, we love therapists. I'm a psychologist, I was nervous. We have over 100 clinicians on the platform. So, we see it like a treatment team where you, you know there are there, are volunteer listeners, there are licensed professionals, and there there are even chat bots. And, and together that combination of people can best help people. 
 
 So it's, it's not like like the Uber, where it's like "Hey, we want to kill taxi cabs." Um, it's more like, "Hey, we need you but you're super talented, so you should be helping the people that really need it, whereas like, if somebody else just has like a minor boyfriend-girlfriend or, you know, minor work stress problem, you know, we don't want to clog you up with with these kind of minor issues where you could be, you know, you could be really helping somebody who's experiencing more depression. And so that triage process that, that's how we see it so now, now we get no pushback at all, um, and we, you know, we, we have a bunch of people, you know, in the company that are licensed people. And I think that that'll get smarter and better where it's like, right now the, the therapists don't yet work with the volunteer listeners in that kind of way or with chat bots in that kind of way. But I think in the future it'll be much more streamlined and, you know, and we'll be able to help people, you know, significantly better because that that team will be tighter.
 
@@ -466,7 +468,7 @@ So in the, in the value set of a startup design, to do social good in that way, 
 
 I do too. And I think the problem you're trying to solve, like, for me in mental health, I don't think you can solve it, but I don't, I don't think you're gonna make an enormously big mental health company by being revenue first, because I think a lot of what you're focusing on is helping people that are suffering. Human suffering. It's a, I don't think the route is, you know, like, like, there's a lot of online therapy companies, which are great, and we do online therapy too. But like, we're not gonna, there, there's not enough clinicians in the world to, to solve all the challenges. 
 
-Uh, there's, there's just, there's too much demand. And there's not enough people that that want to become psyChologists, or social workers, or therapists, or counselors, to do that. So you have to work with a, you know, a very big volunteer, you have to train regular folks to help one another out in order to do that. 
+Uh, there's, there's just, there's too much demand. And there's not enough people that that want to become psychologists, or social workers, or therapists, or counselors, to do that. So you have to work with a, you know, a very big volunteer, you have to train regular folks to help one another out in order to do that. 
 
 So I, I think there's ways to justify that and say, if you want to make a really significant impact in the world, and have a big organization, or a big company, you have to do those things in different ways. So, like, Chesky… The first Airbnb I stayed at was at yC. Awesome lady her name was Carol, um, she had a little house in Mountain View. She was a single mom.
 
