@@ -6,7 +6,7 @@ layout: default
 ---
 <style>em {color: #22a;} strong {font-weight: normal; font-style: italic; color: #000;} h3 {color: #999;}</style>
 
-**Transcript of a Justion Kan podcast at The Quest: [Glen Moriarty: 7 Cups of Tea](https://justin.quest/episodes/glen-moriarty-v2vLRbK0).**
+**Transcript of a Justin Kan podcast at The Quest: [Glen Moriarty: 7 Cups of Tea](https://justin.quest/episodes/glen-moriarty-v2vLRbK0).**
 
 **Forum thread: [7 Cups Podcast with Glen! Listen and Share!](https://www.7cups.com/forum/SiteUpdates_100/HsHangout_1970/7CupsPodcastwithGlenListenandShare_243576/1/)**
 
@@ -108,7 +108,7 @@ So it's, it's not like like the Uber, where it's like "Hey, we want to kill taxi
 
 *So, when you launched the company, what happened? How did it go? Was it immediately, you know, was the, was the audience immediately receptive? Did, was it viral? Or, you know, did you kind of have to go through the long dark night of nobody using it to figure out how to get users?*
 
-It's really funny. So, my first meeting with PB, um, I was so excited. And, you know, I'd been working on the home side, and you know because we were gonna, we were gonna help first, we were gonna help, uh, parents with special needs kids. That was the original hypothesis, um, and, uh, and they were gonna help veterans, um, and we didn't build any of that technology to connect people. And I'm trying to show him the website, and he's like, "Did did you launch this yet?"
+It's really funny. So, my first meeting with PB, um, I was so excited. And, you know, I'd been working on the home side, and you know because we were gonna, we were gonna help first, we were gonna help, uh, parents with special needs kids. That was the original hypothesis, um, and, uh, and they were gonna help veterans, um, and we didn't build any of that technology to connect people. And I'm trying to show him the website, and he's like, "Did you launch this yet?"
 
 And I'm like, "No, no, no, not yet." And you know that fear, right, like, was probably not going to work, right, like that's like, I don't know if this is going to work. It, and it's yeah, it's basically like, "Okay we're done. Thanks for coming in. Launch it and then come back next week." And…
 
