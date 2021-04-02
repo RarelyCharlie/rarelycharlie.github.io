@@ -4,11 +4,13 @@ info: Transcript of a podcast
 feedback: https://www.7cups.com/@RarelYCharlie
 layout: default
 ---
-<style>em {color: #22a;} strong {font-weight: normal; font-style: italic; color: #000;}</style>
+<style>em {color: #22a;} strong {font-weight: normal; font-style: italic; color: #000;} h3 {color: #999;}</style>
 
 **Transcript of a Justion Kan podcast at The Quest: [Glen Moriarty: 7 Cups of Tea](https://justin.quest/episodes/glen-moriarty-v2vLRbK0).**
 
 **Forum thread: [7 Cups Podcast with Glen! Listen and Share!](https://www.7cups.com/forum/SiteUpdates_100/HsHangout_1970/7CupsPodcastwithGlenListenandShare_243576/1/)**
+
+**Subheadings added**
 
 ---
 
@@ -40,7 +42,7 @@ Yeah.
 
 *You know, I just wanted the approval that I didn't feel that I got when I was a kid, you know, from my peers. Maybe from family members. And so, um, I mean, I had a pretty nice childhood growing up in a lot of ways, but, but that was a major driving force in, of, Justin, you know, in everything I did, and that manifested itself. And for better for worse, right? Like, you know, it served me for, for a long time to be successful in, in some ways, but I was also a mechanism of self-torture.*
 
-Yeah, it's self-torture. And in, enormous drive. And perseverance and grit, and I mean all of those kind of core.. I mean, what's that statement somebody says "Running a startup is like getting punched in the face repeatedly, and then somebody else throws a cookie at you every once in a while and you just gotta look for the cookies."
+Yeah, it's self-torture. And in, enormous drive. And perseverance and grit, and I mean all of those kind of core… I mean, what's that statement somebody says "Running a startup is like getting punched in the face repeatedly, and then somebody else throws a cookie at you every once in a while and you just gotta look for the cookies."
 
 *Somebody's heard that! That's that's an amazing one!*
 
@@ -62,9 +64,11 @@ Yes.
 
 It's much harder, and that's real learning. That's like real life learning, which people hate. Pain, right? 
 
-It's like that. I saw that you had the, uh, the Ray Dalio Principles book, uh, his thing that, uh, progress equals, where pain plus reflection equals progress, right? Yeah, it's like nobody likes pain, but that's how we learn. But but even, you know, book learning is hard. It's like, "Hey focus. Neuronal connections. Thinking. You know, imagining." Like, so, so I was trying to think of something that wasn't so arduous for humans to do. Um, that was universal human impulse and studying all these different things. 
+It's like that. I saw that you had the, uh, the Ray Dalio [Principles](https://www.principles.com/) book, uh, his thing that, uh, progress equals, where pain plus reflection equals progress, right? Yeah, it's like nobody likes pain, but that's how we learn. But but even, you know, book learning is hard. It's like, "Hey focus. Neuronal connections. Thinking. You know, imagining." Like, so, so I was trying to think of something that wasn't so arduous for humans to do. Um, that was universal human impulse and studying all these different things. 
 
 And then, she's, my wife's listening to me and it was, like, the, you know, the clouds parted and it was like, this is it, the need to talk to somebody. This is the universal human behavior that's offline that hasn't yet moved online. Then we should try to figure this out.
+
+### Y Combinator (5:59)
 
 And, uh, so then I submitted the YC and I was older. I was 36. Um, I did not think there was a chance I would get in at all. I stayed up late, I did the, you know, the little one minute video thing. I could barely keep my eyes open, uh, and, uh, Paul Buchheit read the application and was like "this is a great idea". And then I did the whole, I chose the, um, the last interview slot and I and I had a I had a thought like if it goes long I will think I've got good odds but if it doesn't go long I'll think I just blew it. And it ended up going like 17 minutes instead of the 10 minutes it was supposed to go. And I felt really good about it and I, uh, I just went downtown, down, and then PB called and said "Hey, we want to offer you a slot." I was like "Oh my God I can't believe it." Um, so uh, yeah, I did, yeah. 
 
@@ -91,6 +95,8 @@ It was still, it was like, uuuuggghhh, still much too much, you know, emotion, p
 *Makes sense. Like, nobody wants to call a restaurant, right. Everybody wants to text it now. Everybody wants to order everything online, and kind of it lowers the friction to human interaction.*
 
 Yeah, and that's food.  Like, "Hey, I need some food!" It's not like, you know, "Hey, this is secret that I've never told anybody and I just need to get it off my chest."
+
+### Therapists (9:50)
 
 *I'm curious, did you get pushback from the community of, you know, professional community of therapists and psychologists who are saying that this is, you know, too easy or, you know, it's, in a way, it's disruptive to the idea of traditional mental health help?*
 
@@ -119,13 +125,15 @@ Um, and…
 
 They were mostly just, like, chatting, and you know some of them were chatting in chat rooms some people were talking on subreddits. There's, you know, it was like a lot of mental health subreddits, um, different, there were different, um, like mental health, uh, social networks, um, those were really the broad, you know, the kind of the, the kind of general solutions.
 
+### Launch (14:52)
+
 Um, and then I just started inviting some of those folks, um, and then we started getting some…, we finally launched. And, uh, we got a lot of press and because there was like, no, there really wasn't like it, it was not a solution on the Internet to provide emotional support to people, and it was like a novel thing. So then, like, you know, it, we got a lot of press and then, like, a lot of people came and, and then that was when the demand was, was so high and I could never get in front of it. I was like super stressed out. 
 
-And this guy, his name's Robin Stepdo, I will be forever in gratitude to him, he's an old English guy, was at the… So I called. I also, at the same time, I called like 200 non-profits, uh, in, in the Bay area. None of them were at all interested in working with me, but, but one was.
+And this guy, his name's Robin Stepdo, I will be forever in gratitude to him, he's an old English guy, was at the… So I called. I also, at the same time, I called like 200 non-profits, uh, in, in the Bay Area. None of them were at all interested in working with me, but, but one was.
 
 *Yeah.*
 
-And it was the Santa Clara NAMI. Uh, and this lady Kathy Forward, and she agreed to meet me for breakfast and so I, I went and I met with her for breakfast, and she said, "This sounds like a really good idea. I like it. Why don't you meet my my team of, uh, you know, peers that provide support for people struggling with substance use, and families, and all this other stuff?"
+And it was the Santa Clara NAMI. Uh, and this lady [Kathy Forward](https://namisantaclara.org/dt_team/1-forward-kathy/), and she agreed to meet me for breakfast and so I, I went and I met with her for breakfast, and she said, "This sounds like a really good idea. I like it. Why don't you meet my my team of, uh, you know, peers that provide support for people struggling with substance use, and families, and all this other stuff?"
 
 So I was like, "Okay, awesome!" And then they became our first listeners, okay. And this guy said, you know, you know, and especially that time it's like really all of 7 Cups. It's always been like a, "Hey, we're all in this together. How are we going to figure this out?" And he said, "You know, why don't you put a little…"—we at that time, we had this rotating banner at the top of the the chat—and he said, "Why don't you put up a banner that says one of the best ways to help yourself is to help somebody else?" And so we did that, and then all of a sudden we started getting people to sign up, you know, that, that had received help.
 
@@ -147,13 +155,15 @@ Uh, then that kept crashing because it was growing too big, and then, so, then w
 
 And then we build out forums, and more chat rooms, and eventually all the other kind of things that we've got.
 
+### The impact so far (17:45)
+
 *And so what's been the impact so far? You guys have helped a lot of people.*
 
 Yeah. So we've reached, we just updated this for the birthday, so we now have like 427,000 trained volunteer listeners, 189 countries, providing support in 140 languages. So it's like, and we we didn't do… Sometimes people say what was your internal internationalization strategy, and we had none. It's just that people around the world need help and support and some percentage of those folks sign up to be listeners, so we have this enormous international volunteer workforce, um, so that's the, that's, that's, stat we've, we've sent about 1.3 billion little over that like 1.3 billion supportive messages, um, and, um, we've reached about 53 million people.
 
 And so in a lot of parts of the world you know we we've already reached somewhere between one to five percent of the population. And so, there's this very cool—I, I like to think about like community capacity—so, like, in these in these ABLE companies as they evolve, I think a part of it will be, um, real accountability around, like, things we want to make an impact on. Like, we really want to help this population, or we really want to tackle this group. And I think eventually we'll see, like, shared dashboards on a regional basis and then people, listeners, from those regions driving the gains across those. Listeners and leaders driving the gains you know across those, uh, those things, we're trying to make a dent, a dent in.
 
-*That's pretty incredible. It's 53 million people around the world.
+*That's pretty incredible. It's 53 million people around the world.*
 
 Yeah.
 
@@ -180,6 +190,8 @@ Um, and then we work together to help you get real outcomes in your life so you'
 *Is that, kind of, the primary north star for the company to reduce suffering in the world?*
 
 It is, yeah, it really is. We're trying it. We're trying to decrease suffering in whatever way we can.
+
+### Creating 7 Cups (22:59)
 
 *That's a great goal. So how's the process of, of starting this company? It's been seven years. Seven years in, which is… Once, well, I once heard that, you know, eight years is kind of the average time it takes to get some sort of outcome for a founder. That's actually exactly how long it took us to go from streaming camera on our head to you know Twitch exit. Uh, like what have you, how's the experience been of starting this company, and this, you know, over this time, like, what's it been like for you?*
 
@@ -214,6 +226,8 @@ Yeah.
 
 Yeah, exactly. It will loom so large, it's the only thing you can see, and it is, but that's where you grow. I mean, that's where the, that's where the, person is made, right? Even then you don't, but you don't wanna. It's never fun going through it.
 
+### The problem is the path (28:26)
+
 *So the lesson for anybody out there who's starting a company or, or, um, maybe considering starting a company. What's the seven years encapsulated down into, like the one thing for them?*
 
 I think it really is that stoic idea that the problem is the path. It's like, you, you know, I, I, the problem, the problem is, your friends. You don't want the problem. You know there's, there's a type of therapy called acceptance and commitment therapy. It's really powerful. You'd probably really like it. It's interesting. So it's, it's basically this idea that, um, problems happen in life and they they have a metaphor for the problem. It's called Aunt Maggie. And Aunt Maggie is your annoying, uh, you know, you're, you're in your house and you know she's… *[knock, knock, knock, knock, knock]* 
@@ -237,6 +251,8 @@ Yeah.
 *And then, once you do that then figure out the next one. And, and in that way, you know, kind of build up momentum for yourself in tackling things that can be ultimately very difficult challenges.*
 
 Yeah. I think that's really well said, and you build the muscles. It's like you don't, they can be just like these enormous things but yeah, if you can break them down it's like, "Well, I can do that, and I can do that. I can do that." And then eventually, maybe, it's, you know, mostly solved.
+
+### Kids (32:53)
 
 You don't have any kids right?
 
@@ -268,9 +284,11 @@ Yeah, it's, it's, it's the, it's, it's really interesting when you said the, the
 
 *Yeah. It's, it's an accelerated journey from what most people get to experience. You know, most people experience, um, stressful situations and painful, experience situations. they just don't experience them every day or every week, and so you have this accelerated journey which which does put you on a path that I think can be incredibly, um, meaningful, you know, and, and where you, where you can learn a tremendous amount that you wouldn't be able to. But it, you know, once you're on the roller coaster it's really hard to get off.*
 
-Yeah. So, so that's like I, I think the secondary question then would be like, like, "Hey, you're going to grow in, and excel. Your, your personal growth, your, your overall growth, but your personal growth is gonna go through this accelerator. You're gonna, you're gonna live lifetimes in years." If you and I think that's a nice way of saying it, like, the number of stressful scenarios, like if you have a normal nine-to-five job, you know, you're not getting nailed frequently, hopefully. But then, startup, you're getting nailed frequently. So, so then, what do you say to help Julius through that? 
+Yeah. So, so that's like I, I think the secondary question then would be like, like, "Hey, you're going to grow in, and excel. Your, your personal growth, your, your overall growth, but your personal growth is gonna go through this accelerator. You're gonna, you're gonna live lifetimes in years." If you and I think that's a nice way of saying it, like, the number of stressful scenarios, like if you have a normal nine-to-five job, you know, you're not getting nailed frequently, hopefully. But then, startup, you're getting nailed frequently. So, so then, what do you say to help Julius through that?
 
-*Well, to some extent, on one hand, you know one of my favorite books is this book Siddhartha. Um, and in the book, I don't know if you've read it, it follows the life of Siddhartha as he goes, you know, through life. And my favorite part in it, in the book, is eventually, you know, he has a kid, and he, uh, becomes a, at the end of his life, he's like a river, like a ferryman. He, like, ferries people back and forth across the river. And he has a friend who's a ferryman. And this kid is now starting to experience life and becoming an adult, and making all these mistakes, and he said, Siddhartha asks his friend, he's like, "How can I prevent my kid from making mistakes, these mistakes?" And this, his friend, is like "That's part of the process. You know, he has to. You can't prevent him. You have to go out there, and he has to go learn for himself."*
+### Siddhartha (37:17)
+
+*Well, to some extent, on one hand, you know one of my favorite books is this book [Siddhartha](http://www.huzheng.org/geniusreligion/Siddhartha.pdf). Um, and in the book, I don't know if you've read it, it follows the life of Siddhartha as he goes, you know, through life. And my favorite part in it, in the book, is eventually, you know, he has a kid, and he, uh, becomes a, at the end of his life, he's like a river, like a ferryman. He, like, ferries people back and forth across the river. And he has a friend who's a ferryman. And this kid is now starting to experience life and becoming an adult, and making all these mistakes, and he said, Siddhartha asks his friend, he's like, "How can I prevent my kid from making mistakes, these mistakes?" And this, his friend, is like "That's part of the process. You know, he has to. You can't prevent him. You have to go out there, and he has to go learn for himself."*
 
 *And, I think, in a way, that's kind of how I feel about startups, you know. Whether it's my own son or not he will have to learn himself. That's kind of the point of the startup. But it really applies to anything you do in life, in your your entire journey. And so there's nothing really I can do to ease it. Um, at the same time, you know, I think that what I would tell him is probably what I've been talking about a lot, uh, publicly, recently. Which is that, you know, just having a healthy base of, um, personal wellness behaviors will allow you to have, be anti-fragile enough to tackle on the these problems, and have these emotional swings, and experience these, like, ups and downs that you, that you have when you're tackling any sort of heart problem. Whether it's the startup or not. And so those are things, you know, like meditation and exercise and diet which help you, um, be grounded in yourself, and, I think, avoid the worst outcomes of like, the compulsive, compulsive behaviors and addictions of being a human being.*
 
@@ -298,6 +316,8 @@ Because you're gonna…
 
 Yeah. Yeah, definitely.
 
+### Stress (40:42)
+
 *Yeah, we find ourselves in these situations where we're so stressed, um, in, in daily life and we're so busy and we think, "Oh, I don't have time to meditate. I don't have time to eat healthy. I just need to eat something quickly. I, I don't have time to exercise."*
 
 *And there's some truth to that. People are very busy, and the modern modern life keeps us super busy, and keeps us on this treadmill. But I think of those things as an investment, you know. If you're investing even just five minutes a day of exercise you, you're going to get that five minutes back. I guarantee it, right? Um, yeah. If you invest five minutes in meditation, you're gonna get those five minutes back, you know. You're gonna get the value, you're gonna. And you're gonna see that value. And so, uh, you know, I think that, that's just part of a real, a really important part of being grounded, and well, in your own experience.*
@@ -320,7 +340,9 @@ I think that window of tolerance is a cool idea, too. It's like, in, and I think
 
 *Yeah.*
 
-And it's like, "How do you, how do you get back?" And that, that Scott Belski idea of the messy middle, have you seen that? 
+### The messy middle (44:32)
+
+And it's like, "How do you, how do you get back?" And that, that Scott Belski idea of [The Messy Middle](https://medium.com/positiveslope/navigating-the-messy-middle-7ca6fff11966), have you seen that? 
 
 *No.*
 
@@ -351,6 +373,8 @@ Yeah.
 Yeah, I think that's 100% right, man.
 
 And yeah it's not just this thing. It's, it's not even really just the social skill development. It's like, we're talking about, it's like all those systems that are, we just don't have the space to, to connect in a lot of ways. And, and we don't have the scaffolding, or the skills to do it either.
+
+### Surpluses (47:30)
 
 *Yeah. I want to double click on that, actually. Like, how do you think that happens? Like, how do we? Why? Where do, are we lacking the space to connect with the people around us?*
 
@@ -387,6 +411,8 @@ Um, I think there's all, like, the… I was just talking to the friend, Ryan. He
 *Well, in a way the Internet is kind of like that, right? The Internet is that connectivity layer that has allowed all of these marketplaces for various surpluses to get, to create liquidity around the surpluses. Like eBay is an example where people can, you know, have a bunch of stuff [in] their attic, they can sell it. Other people who want it can buy it, and that was a marketplace that never existed before.*
 
 100%, I think, that's, I think, it's exactly right. And it's like, so the, so the, um, the, the goods or the services that are free and really helpful to solving other people's problems. I think in terms of these new systems, I think that's the liquidity that we need to open up, uh…
+
+### The DDOS attack (53:07)
 
 *Right, and we're in the process of discovering new marketplaces to release, unlock, liquidity.*
 
@@ -426,6 +452,8 @@ Right!
 
 *Natural evolution of human beings.*
 
+### ABLE organizations (57:40)
+
 Right, right, exactly. So, so that, so that's the, so to get to your point, like, why are we struggling with our connection? I, I think it's because there's, like, I think we're under like some, you know, intentional, unintentional… It's a multi-variable problem. It's… But we're under like a sort of DDOS attack. And then, I think we have to like, begin to figure out systems. Like, can in, like, 7 Cups, like, others that, that are different that, that provide new ways of, kind of, combating that, and growing more healthy responses. And so my my acronym for that is ABLE. ABLE organization. So they're "Aware". So, like, we're not in denial about our problems.
 
 *Yup.*
@@ -458,11 +486,13 @@ They're amoral!
 
 *And like it's an amoral, it's just a framework. And, uh, people forget that they tie the startup framework with maybe some of the negative outcomes they see. But, when, really, it's, you know, the startup framework can be applied to any value set, starting value set, or problem space that you're, you're trying to tackle.*
 
+### The money thing (1:03:09)
+
 100%. So if you've, and that's where I think that, that's where I think, like, the money thing can get a little complicated. If, if, if the drive is towards constant shareholder growth, for more and more money, greater and greater revenue in terms of the, you know, these idea of ABLE companies, these new ways of unlocking liquidity, uh, with people that have got it, I don't know if revenue first can be the driver.
 
 So in the, in the value set of a startup design, to do social good in that way, I don't know if revenue first, that's a, that's a strong anchor. And there's in, that is, the, you know, there's an ocean, there are several oceans behind that. So, so to design it differently, I don't think that could be the first thing in that process. So it's weird. It's like, it's like a startup vehicle that's not revenue first.
 
-*Right, I was, I was actually talking to Brian Chesky from Airbnb about this a couple, maybe a couple months ago, where he was very interested in "Are there new ways to design a corporation, where you are putting other stakeholders first, you know?" Or maybe not first, but like, even considering the needs of other stakeholders?*
+*Right, I was, I was actually talking to [Brian Chesky](https://news.airbnb.com/about-us/leadership/brian-chesky/) from Airbnb about this a couple, maybe a couple months ago, where he was very interested in "Are there new ways to design a corporation, where you are putting other stakeholders first, you know?" Or maybe not first, but like, even considering the needs of other stakeholders?*
 
 *Right now, it's your fiduciary responsibility as a, you know, executive of a company, CEO of a company, to try to increase stake…, shareholder value as much as possible. That's your job, and you're actually obligated to do it. And so, um, his question was kind of at a corporate level. Was there, were there ways to, uh, I guess, right, and bake into the charter of the company that you are going to, um, consider different stakeholders. And I think that's a really interesting question.*
 
@@ -473,6 +503,8 @@ Uh, there's, there's just, there's too much demand. And there's not enough peopl
 So I, I think there's ways to justify that and say, if you want to make a really significant impact in the world, and have a big organization, or a big company, you have to do those things in different ways. So, like, Chesky… The first Airbnb I stayed at was at YC. Awesome lady her name was Carol, um, she had a little house in Mountain View. She was a single mom.
 
 It was, it was like completely unusual to me. Like I'd never done it before. She wasn't home when I got there, you know. And it was great the next morning. We got up to, she had breakfast and it was like, it, you could see immediately this was a lady who was struggling to make ends meet. And here was a, you know, she had an extra bedroom, and she was able to, like… So I don't know. I, I think in his model there are a lot of people that he's, that he's helping where they're helping. You know, it's a giant, I know it's a giant company now that they're helping that could be… You could probably make a relationship between "This is how I'm helping all these individuals" and "This is how it's also good for the bottom line."
+
+### The customer value ethos (1:06:44)
 
 *Right, right. So do you think, um, then I would ask, like, do you think it, you have to enshrine it in a corporate document? Or does it, is it sufficient that you have values as an organization that, uh, you know, put certain stakeholders first, right? Like one of the big values in YC companies is like talk to your customers, right? Like, they build for your customers. That's something that, uh, Paul Graham, when he started YC was, you know, kind of enshrined in, like, you beat the drum of, like, talk to your customers to every YC company. And that's really part of ethos now. And many of you know almost all YC companies that are successful start by really trying to provide a lot of value to their customer base. Um, do you think that's sufficient, or do you need something else, right? To make an ABLE company, do you need to do some other set of things in the beginning?*
 
@@ -492,9 +524,11 @@ I think that's a great metaphor. Yeah, and then you, you end up, yeah, and then 
 
 *The kid metaphor is probably right, because, I think a lot of parents, you know, want to do their best, but they're so busy with the, you know, day-to-day working at your job and trying to make ends meet that it's easy to maybe do things that are short-term, you know, good. Like give your kid the iPad, or something, to, like, entertain themselves, when you wouldn't if you had more time and space. You might not want to make those choices, that might lead to, like, downstream consequences when the kid is 5, 8, 10 years old, or an adult. So how can you help people make those trade-offs differently? Like, when you're, you know, especially in a startup, you know, you're, you're, you might want to have, think about your values, but you might be too worried about, like, are you going to be able to make payroll next month?*
 
+### Imagine your funeral (1:11:52)
+
 Yeah. There's an interesting exercise you can do with individuals. Have you ever done this end-of-life exercise, where you imagine yourself at your funeral? Have you ever done this?
 
-*Oh, I have. I don't know if it's a… I've done it. Not necessarily. I didn't hear about the exercise from anyone else, but about a year ago I thought about my, I actually read this book by Frank Ostasassky called, um, oh man!, I'm blanking on the name of the book, but he was a, um, ran the SF Zen Hospice for 20 years, and sat with like over a thousand people dying. And then, this was all the things he learned from the dying.*
+*Oh, I have. I don't know if it's a… I've done it. Not necessarily. I didn't hear about the exercise from anyone else, but about a year ago I thought about my, I actually read this book by [Frank Ostasesky](https://fiveinvitations.com/the-book/) called, um, oh man!, I'm blanking on the name of the book, but he was a, um, ran the SF Zen Hospice for 20 years, and sat with like over a thousand people dying. And then, this was all the things he learned from the dying.*
 
 *Um, I read the book, and I was very moved by the book. And I, it made me think about, like, what would I, what would I think of when I was dying? What would I, who would I want to see? And what would I tell them? And I actually went through the process of writing it out. And I went, and, to most of those people and I just said, "Hey this is what I, I was thinking about my own death, eventually, and what I would say, and who would, who do I want to see, and what I would want to say to them, and, uh, you were on the list, and here's here's what I want to tell you."*
 
