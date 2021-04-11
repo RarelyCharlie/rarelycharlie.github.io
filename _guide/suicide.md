@@ -870,7 +870,7 @@ As a listener, there is really no defense against being told fantasies. You can 
 
 |Member:|My father is about to go to work, so I'll probably make a suicide attempt soon.
 |Listener:|You feel your death is necessary?
-|Member:|Just an attempt! I don't intend to die ![wink](https://www.7cups.com/cloudfront/img/emoticons/wink.png)
+|Member:|Just an attempt! I don't intend to die.
 |Listener:|You'll just pretend.
 |Member:|Yes, just to make sure he's thinking of me.
 |Listener:|You want to be sure your father is thinking of you.

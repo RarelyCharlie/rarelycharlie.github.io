@@ -335,7 +335,7 @@ Suggestibility causes people to incorporate information that they see or hear in
 	
 Listeners must not sneak suggestions into chats, because some members are vulnerable to suggestion. Of course, if it's just the color of a car it's not very important. If the chat is about some form of harm it can be very important.
 
-|Listener:|*Your car makes you feel good ![:)](https://d37v7cqg82mgxu.cloudfront.net/img/emoticons/smile.png)*{:.ok}
+|Listener:|*Your car makes you feel good ![:)](/assets/smile.png)*{:.ok}
 {:.chat}
 
 ### Confabulation
