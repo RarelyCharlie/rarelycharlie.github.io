@@ -1,6 +1,7 @@
 ---
 title: Find effective therapy
 layout: howto
+feedback:  https://www.7cups.com/@RarelyCharlie
 ---
 This guide contains some personal opinions about CBT therapy, based partly on speaking to therapists (in real life, not at 7 Cups) and partly on Internet research.
 
@@ -55,10 +56,9 @@ Therapists' qualifications do not always tell you what kind of treatment they sp
 
 I only know of one professional organization that checks therapists' ability to provide CBT using a formulation and treatment plan. That is the [Academy of Cognitive & Behavioral Therapies](https://www.academyofct.org/). It's based in the US, but it has a few therapists in other countries.
 
-A second organization is developing something similar, but at the time of writing it doesn't seem to have a directory of therapists. It's the [Beck Institute for Cognitive Behavior Therapy](https://beckinstitute.org/).
+A second organization is developing something similar, but at the time of writing it doesn't seem to have a directory of therapists yet. It's the [Beck Institute for Cognitive Behavior Therapy](https://beckinstitute.org/).
 
-
-
+To chat about how any of the above might apply in your individual circumstances, use the Feedback link below. (You must be logged in to your 7 Cups member account.)
 
 
 
