@@ -1,6 +1,6 @@
 ---
 title: Listening styles
-layout: guide
+layout: default
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 Here are some thoughts about a scheme for describing different styles of listening. In this scheme there are two dimensions: reflective focus, and point of view.
