@@ -17,19 +17,16 @@ The reflective focus dimension has five styles.
 **Mental**
 
 - Focus on thoughts or mental processes when possible.
-
 - Avoids specifically mentioning feelings or emotions.
 
 **Behavioral**
 
 - Focus on behaviors or actions when possible.
-
 - Avoids specifically mentioning feelings or thoughts.
 
 **Objective**
 
 - Focus on objects, abstract ideas, generalizations, or other people, when possible.
-
 - Avoids specifically mentioning anything personal to the member.
 
 **Robotic**
