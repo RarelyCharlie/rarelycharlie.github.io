@@ -32,7 +32,11 @@ The editor is the part of 7 Cups where you type posts in the forums.
 
 This page describes how you might be able to enhance the editor with more features. The features include lists, quotes, tables, and extra smileys.
 
-Some of the other features in the enhanced editor are permanently experimental, and some of them might not work. The enhanced editor is only supported on a best efforts basis without any guarantees. The current version is 0.18.
+Some of the other features in the enhanced editor are permanently experimental, and some of them might not work. The enhanced editor is only supported on a best efforts basis without any guarantees. The current version is 0.19.
+
+<p style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">In May 2021, 7 Cups suddenly banned some formatting possibilities in the forum. As a result, many features of the enhanced editor that rely on formatting no longer work.</p>
+
+
 
 ### Who can enhance the editor
 
