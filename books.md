@@ -99,7 +99,7 @@ A somewhat confused explanation of the reasons for 7 Cups' existence, by its fou
 [Smashwords](https://www.smashwords.com/books/view/611898) &bull; [7 Cups Guide](https://www.7cups.com/7cups-for-the-searching-soul/)
 {:.links}
 
-#### Charles Duhigg (2016) _Smarter Faster Better: The Secrets of Being Productive in Life and Business
+#### Charles Duhigg (2016) _Smarter Faster Better: The Secrets of Being Productive in Life and Business_
 
 A collection of well-researched and revealing personal stories about what works in life and in organizations. Of interest to those listeners who like to give advice, and who want to ensure that their advice is actually good advice. Also of interest to listeners who take leadership roles at 7 Cups, and who want know how to to be effective.
 
