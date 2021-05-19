@@ -1,12 +1,13 @@
 $(function () {
-  const base = 'https://www.7cups.com'
+  const base = 'https://www.7cups.com', onlyL = ['listener', 'interns']
   let h = ''
   data.sort((a, b) => a.title.localeCompare(b.title))
   for (let c of data) {
-    let td = 'style="transition-duration: ' + (40 * c.forums.length) + 'ms" '
+    let td = 'style="transition-duration: ' + (40 * c.forums.length) + 'ms" ',
+    	isL = onlyL.some(w => c.url.toLowerCase().includes(w))? ' title="Listener-only"' : ''
     h += '<h3><button class="caret"' + td + '><i class="fas fa-caret-right" '
       + 'title="Expand: ' + c.forums.length + ' forums"></i></button>'
-      + '<a href="' + base + c.url + '">' + c.title + '</a> '
+      + '<a href="' + base + c.url + '"' + isL + '>' + c.title + '</a> '
       + '<i class="' + (c.url.includes('/home/')? 'fas fa-user-friends' : 'far fa-folder') + '" '
       + 'title="' + (c.url.includes('/home/')? 'Subcommunity' : 'Forum category') + '"></i>'
       + ' <span class="count">(' + c.forums.length + ' forums)</span>'
@@ -19,7 +20,7 @@ $(function () {
       return db - da
       } : (a, b) => a.title.localeCompare(b.title))
     for (let f of c.forums) {
-      h += '<h4><a href="' + base + f.url + '">' + f.title + '</a></h4>'
+      h += '<h4><a href="' + base + f.url + '"' + isL + '>' + f.title + '</a></h4>'
       if (f.strap) h += '<p>' + f.strap + '</p>'
       }
     h += '</div>'
