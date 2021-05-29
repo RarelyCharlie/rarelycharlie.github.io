@@ -35,6 +35,7 @@ If you are the owner of a taglist or a 7 Cups admin you can give some other comm
  - "Please add: " followed by one or more tags `*`
  - "Please remove: " followed by one or more tags
  - "Please remove everyone."
+ - "Please transfer this taglist to " followed by one tag. This changes the taglist's owner.
  
 `*` When adding a lot of tags, take care to ensure that they are all correct. The service does not validate them. Extra spaces, other unexpected characters, or missing @-signs can prevent the update from being processed in the way you expect. Using the separate [Clean up a taglist](https://rarelycharlie.github.io/howto/taglist-cleanup) service before adding a lot of tags is *very strongly recommended*.
 
