@@ -115,6 +115,14 @@ Relevant because the model of society that 7 Cups has tried to implement, with s
 [Basic Books](https://www.basicbooks.com/titles/yuval-levin/the-fractured-republic/9781478944638/) &bull; [Google Books](https://books.google.com/books?id=FXCQDQAAQBAJ)
 {:.links}
 
+#### Antonio García Martí­nez (2018) _Chaos Monkeys_
+
+Another insider view of the Silicon Valley culture where 7 Cups grew up, this time by an ex-Wall Street startup founder who became a Facebook product manager when his tiny startup was bought by Twitter. Told as a fast-paced and unpredictable adventure story, but if you pause occasionally to reflect, you can find telling parallels with 7 Cups throughout.
+
+[Antonio García Martí­nez](https://antoniogarciamartinez.com/chaos-monkeys/) &bull; [Google Books](https://www.google.co.uk/books/edition/_/Gp5TtAEACAAJ?hl=en&sa=X&ved=2ahUKEwiPi9meoLrxAhXOEcAKHSwoDCgQ7_IDMBV6BAgGEAI)
+{:.links}
+
+
 # Individual stories
 
 Biography and fiction describing mental illness.
