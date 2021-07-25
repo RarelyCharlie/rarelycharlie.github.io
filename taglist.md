@@ -366,7 +366,7 @@ init = function () {
 	}
 </script>
 
-<p style="display:  block; color: #a00; border:  1px solid #a00; padding: 1ex; margin-left: -1ex; border-radius: 1ex;"><strong>Maintenance: Sunday, July 25th</strong><br>The taglist service will be stopped or operate inconsistently at times on Sunday, July 25 because of a planned server upgrade. When the upgrade is complete, this notice will be removed.</p>
+<!-- p style="display:  block; color: #a00; border:  1px solid #a00; padding: 1ex; margin-left: -1ex; border-radius: 1ex;"><strong>Maintenance: Sunday, July 25th</strong><br>The taglist service will be stopped or operate inconsistently at times on Sunday, July 25 because of a planned server upgrade. When the upgrade is complete, this notice will be removed.</p -->
 
 ## Taglist service {#init}
 Welcome to the taglist service.
