@@ -34,7 +34,7 @@ This page describes how you might be able to enhance the editor with more featur
 
 Some of the other features in the enhanced editor are permanently experimental, and some of them might not work. The enhanced editor is only supported on a best efforts basis without any guarantees. The current version is 0.19.
 
-<p style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">In May 2021, 7 Cups suddenly banned some formatting possibilities in the forum. As a result, many features of the enhanced editor that rely on formatting no longer work.</p>
+<p style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">In May 2021, 7 Cups suddenly banned some formatting possibilities in the forum. As a result, many features of the enhanced editor that rely on formatting no longer work.<br><br>In September 2021, 7 Cups suddenly changed its editor. Version 3 of the enhanced editor is compatible with this latest change. Note that this article has not yet been updated for version 3, and some of what you read below no longer works.</p>
 
 
 
