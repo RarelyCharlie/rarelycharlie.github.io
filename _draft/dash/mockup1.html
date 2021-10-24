@@ -1,0 +1,61 @@
+---
+---
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Dash mockup 1</title>
+<style>
+body {margin: 0; padding: 0; overflow-x: hidden;}
+
+header {width: 100%; min-height: 28px; padding: 8px 16px;
+	background: linear-gradient(to right, #0079e6 0%, #0059a9 100%);
+	}
+
+footer {width: 100%; min-height: 160px;
+	background: linear-gradient(to bottom, #2f4e7a 0%, #181a30 100%);
+	}
+
+main {width: 100vw; max-width: 1140px; margin: 0 auto;
+	background: #eee;
+	}
+
+#wrapper {display: inline-block; width: 73.3333%;
+	background: #bbb;
+	}
+	
+.column {text-align: center;}
+#column1 {background: #66f; width: 63.6364%; height: 600px;}
+#column2 {background: #6f6; width: 36.3636%; height: 400px;}
+#column3 {background: #f66; width: 26.6667%; height: 500px;}
+
+@media only screen and (max-width:768px) {
+	#wrapper {display: block; direction: ltr; width: 100%;}
+	#column1, #column2, #column3 {display: block; width: 100%; margin: 0 auto;}
+	}
+
+@media only screen and (min-width:769px) and (max-width:1024px) {
+	#wrapper {display: block; direction: ltr; width: 100%;}
+	#column1, #column2 {display: inline-block;}
+	#column3 {display: block; width: 36.3636%; margin: 0 auto;}
+	}
+
+@media only screen and (min-width:1025px) {
+	#wrapper {direction: rtl;}
+	#column1, #column2, #column3 {display: inline-block;}
+	}
+
+</style>
+<script>
+</script>
+</head>
+<body>
+<header></header>
+<main><div
+  id="wrapper"><div
+    class="column" id="column1">One</div><div
+    class="column" id="column2">Two</div></div><div
+  class="column" id="column3">Three</div></main>
+<footer></footer>
+</body>
+</html>
