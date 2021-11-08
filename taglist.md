@@ -114,6 +114,7 @@ Taglist = {
 
 	control: async function () { // set the control URL...
 		var v = $('#setup-url').val().trim()
+		v = v.replace(/#.*$/, '').replace(/\/\d\/$/, '/')
 		var [status, text] = await this.api('control', {key: this.key, url: v})
 		if (status == 200) {
 			this.section('setup', false)
