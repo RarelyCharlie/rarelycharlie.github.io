@@ -10,6 +10,6 @@
 #results {display: none;}
 .cat {color: #999;}
 .caret {border: none; background: transparent; font-size: inherit; padding: 0; outline: none; transform-origin: center left;}
-a[href*=listener]::after, a[href*=Listener]::after, a[href*=interns]::after, a[href*=Interns]::after {content: "L";
+a[href*=listener]::after, a[href*=Listener]::after, a[href*=interns]::after, a[href*=Interns]::after, a[href*=qlp]::after {content: "L";
   color: white; background: #5cb85c; padding: 4px 4px 2px 4px;margin-left: 1ex; border-radius: 25%; font-size: 12px;
   font-weight: bold; display: inline-block; line-height: 12px;}

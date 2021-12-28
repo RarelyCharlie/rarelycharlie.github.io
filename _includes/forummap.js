@@ -1,5 +1,5 @@
 $(function () {
-  const base = 'https://www.7cups.com', onlyL = ['listener', 'interns']
+  const base = 'https://www.7cups.com', onlyL = ['listener', 'interns', 'qlp']
   let h = ''
   data.sort((a, b) => a.title.localeCompare(b.title))
   for (let c of data) {
