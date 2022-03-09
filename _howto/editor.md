@@ -32,10 +32,9 @@ The editor is the part of 7 Cups where you type posts in the forums.
 
 This page describes how you might be able to enhance the editor with more features. The features include lists, quotes, tables, and extra smileys.
 
-Some of the other features in the enhanced editor are permanently experimental, and some of them might not work. The enhanced editor is only supported on a best efforts basis without any guarantees. The current version is 0.19.
+Some of the other features in the enhanced editor are permanently experimental, and some of them might not work. The enhanced editor is only supported on a best efforts basis without any guarantees. The current version is 4.0.
 
-<p style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">In May 2021, 7 Cups suddenly banned some formatting possibilities in the forum. As a result, many features of the enhanced editor that rely on formatting no longer work.<br><br>In September 2021, 7 Cups suddenly changed its editor. Version 3 of the enhanced editor is compatible with this latest change. Note that this article has not yet been updated for version 3, and some of what you read below no longer works.</p>
-
+<p style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">In May 2021, 7 Cups suddenly banned some formatting possibilities in the forum. As a result, many features of the enhanced editor that rely on formatting no longer work.</p>
 
 
 ### Who can enhance the editor
@@ -100,58 +99,6 @@ When replying in a forum thread, you can scroll up and down the thread, and you 
 
 However, if you switch to another page in a long thread you lose the reply you are typing. To copy text from another page, open it in a new browser tab or window.
 
-### Example
-This example shows a reply in a forum:
-
-![Editor example](/assets/editor.png){:style="width:616px;height:299px;"}
-
-To create a table like this press the Table button (on the bottom row, 4th from the right). In the dialog that pops up the number of rows is already 3. Change the number of columns to 8, the width to 100%, and press OK.
-
-Type the text in the table now or leave it for later.
-
-Select the top row and press the Bold button.
-
-Select the bottom two rows, right-click to get a context menu, choose Cell – Cell Properties, and set the background color (to `#ffddbb` in this example—[color names](https://www.w3schools.com/colors/colors_names.asp) and all the other standard ways to specify colors also work).
-
-### Emoji
-A button in the toolbar provides more than 120 built-in emoji. You can also copy and paste emoji from various web pages. The built-in emoji are from a set of 2,841 emoji you can copy and paste from [Twem*❤️*ji](https://twemoji.maxcdn.com/2/test/preview.html).
-{:.twemoji}
-
-In chats, 7 Cups supports 15 smileys. You type them as text, like `:)` and 7 Cups converts them to images later. For convenience, similar (but not identical) text smileys are supported in the editor.
-
-Many of these smileys have alternative forms, like `:-)` for `:)`. Most of these alternatives are also supported.
-
-Here's the list, showing only the shortest text forms, not the alternatives:
-
-|`o.O`|![](https://twemoji.maxcdn.com/2/72x72/1f615.png)|Confused
-|`:'(`|![](https://twemoji.maxcdn.com/2/72x72/1f622.png)|Crying
-|`3:)`|![](https://twemoji.maxcdn.com/2/72x72/1f608.png)|Smiling with horns
-|`>:(`|![](https://twemoji.maxcdn.com/2/72x72/1f620.png)|Angry
-|`>:O`|![](https://twemoji.maxcdn.com/2/72x72/1f628.png)|Fearful
-|`:(`|![](https://twemoji.maxcdn.com/2/72x72/2639.png)|Frowning
-|`:O`|![](https://twemoji.maxcdn.com/2/72x72/1f632.png)|Astonished
-|`8-)`|![](https://twemoji.maxcdn.com/2/72x72/1f913.png)|Nerd
-|`:D`|![](https://twemoji.maxcdn.com/2/72x72/1f600.png)|Grinning
-|`<3`|![](https://twemoji.maxcdn.com/2/72x72/2764.png)|Red heart
-|`:*`|![](https://twemoji.maxcdn.com/2/72x72/1f618.png)|Blowing a kiss
-|`:)`|![](https://twemoji.maxcdn.com/2/72x72/1f642.png)|Slightly smiling
-|`8|`|![](https://twemoji.maxcdn.com/2/72x72/1f60e.png)|Sunglasses
-|`:P`|![](https://twemoji.maxcdn.com/2/72x72/1f61b.png)|Tongue
-|`:/`|![](https://twemoji.maxcdn.com/2/72x72/1f61f.png)|Worried
-|`;)`|![](https://twemoji.maxcdn.com/2/72x72/1f609.png)|Winking
-
-The editor automatically converts any text smileys to emoji when you send the post, or when you click somewhere else on the page. (But the conversion is disabled if you are editing someone else's post.)
-
-### Links
-
-The editor automatically converts complete URLs and 7 Cups e-mail addresses to links.
-
-Note that incomplete URLs like `nami.org/About-NAMI` are not converted, even though this incomplete URL would get you to the web page. Only the complete URL, `https://nami.org/About-NAMI` is converted.
-
-Only e-mail addresses that end in `@7cups.com` are converted.
-
-The conversion happens when you send the post, or when you click somewhere else on the page. (But the conversion is disabled if you are editing someone else's post.)
-
 ### Signature
 
 To add a plain text signature to your posts, go to your My Settings page in 7 Cups. Specify your signature below your screen name (for listeners) or in the Display Settings section (for members). Your signature is saved automatically as you type. There is no need to save all of your settings.
@@ -162,77 +109,9 @@ If more than one 7 Cups account uses the computer, then each account has a separ
 
 To turn the signature off, go back to your My Settings page and remove the signature.
 
-### Spelling checker
-
-The enhanced editor contains a spelling checker, and there's a button in the toolbar to manage it. When it finds a misspelled word, right-click the word for suggestions and other options.
-
-You can use your web browser's built-in spelling checker instead. To do this, go to your your My Settings page in 7 Cups and in the Display Preferences section check the box "Use browser's spellchecker".
-
-When your web browser's built-in spelling checker finds a misspelled word, for suggestions and other options hold down the Ctrl key on your keyboard while you right-click the word.
-
-### Fonts
-The enhanced editor supports five font choices, but limitations in web browsers mean that many other forum users will not see your choice of font. Do not rely on font effects to convey important information.
-
-**7 Cups** is the normal font used in 7 Cups forums (and on the page you are reading now). This normally appears identical on every device.
-
-<table><tbody>
-<tr><td>On this device:</td><td style="font-family:Raleway,sans-serif;">Fix problem quickly with galvanized jets!</td></tr>
-</tbody></table>
-
-All the other font choices may appear slightly different on different devices. The shape of the characters is the important feature, not the size or weight.
-
-**Serif** is the default serif font on the device displaying the forum. A serif font has slightly fancier letter shapes that are sometimes said to be faster to read.
-
-<table><tbody>
-<tr><td>Similar to:</td><td class="serif sample">Fix problem quickly with galvanized jets!</td></tr>
-<tr><td>On this device:</td><td style="font-family:serif;">Fix problem quickly with galvanized jets!</td></tr>
-</tbody></table>
-
-**Typewriter** is the default monospaced font on the device displaying the forum. In a monospaced font every character is the same width, like typewritten text.
-
-<table><tbody>
-<tr><td>Similar to:</td><td class="typewriter sample">Fix problem quickly with galvanized jets!</td></tr>
-<tr><td>On this device:</td><td style="font-family:monospace;">Fix problem quickly with galvanized jets!</td></tr>
-</tbody></table>
-
-**Cursive** is the default cursive font on the device displaying the forum. In a cursive font the letters join up, like formal joined-up handwriting.
-
-<table><tbody>
-<tr><td>Similar to:</td><td class="cursive sample">Fix problem quickly with galvanized jets!</td></tr>
-<tr><td>On this device:</td><td style="font-family:cursive;">Fix problem quickly with galvanized jets!</td></tr>
-</tbody></table>
-
-**Novelty** is the default fantasy font on the device displaying the forum. It is often an informal handwriting font with separated characters.
-
-<table><tbody>
-<tr><td>Similar to:</td><td class="novelty sample">Fix problem quickly with galvanized jets!</td></tr>
-<tr><td>On this device:</td><td style="font-family:fantasy;">Fix problem quickly with galvanized jets!</td></tr>
-</tbody></table>
-
-If serif and typewriter don't work on your device, you can almost always fix this by changing the font settings in your web browser or in your operating system.
-
-If cursive and novelty don't work on your device, you might sometimes be able to fix this by changing the font settings in your web browser or in your operating system.
-
-If you cannot fix the cursive and novelty fonts by changing font settings, then you can use the enhanced editor to fix them. Log in to 7 Cups and go to your My Settings page. In the Display Preferences section, check the box: Load extra fonts in forums  There is no need to save the settings, because the change takes effect immediately. If you have member and listener accounts, it affects both.
-
-### Captured style
-
-If you always prefer to write in a particular color or font size, you can capture this style so it becomes the default in all of your posts and replies.
-
-To do this, type some text and set its color, background and font size the way you like them. Right-click the text and from the menu choose Capture style.
-
-To return to the default color, background and font size, right click any text and from the menu choose Release style.
-
-A captured style only applies to a particular username on a particular device. If you have more than one account, or if more than one person shares a computer, then any captured style does not affect other accounts.
-
-Note that some styles are not easy for other people to read, especially if they use 7 Cups on a different kind of device or if their eyesight is different from yours. For example, a pale color on a white background might be unreadable.
-
 ### Known issues
-Known issues in version 0.18:
 
-- Some URLs are not made into links correctly. Please provide feedback if you find an example of this.
-- The toolbar occasionally appears in the wrong place. When this happens, click somewhere outside the editor to hide the toolbar, then click in the editor to display the toolbar again.
-- The toolbar very occasionally fails to appear at all. This is caused when the server where the coloured icons are stored is not responding. This is usually temporary. When it happens, wait a while and try again.
+- Some formatting is blocked by 7 Cups.
 
 ### Removing the enhancement
 If you want to remove the enhancement, you can temporarily disable the script or you can delete it. You can also disable or delete Tampermonkey.
@@ -244,7 +123,3 @@ Alternatively go to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie) and s
 
 7 Cups does not provide any support for the enhanced editor. Please do not contact 7 Cups support about it, because no one at 7 Cups can help. Instead, provide feedback to the author.
 
-### Acknowledgments
-The smiley icons are provided by [Twem<span style="color:red">❤</span>ji](https://twemoji.maxcdn.com/) and delivered by [StackPath](https://www.stackpath.com/)
-
-The fonts on this page are provided by [Google Fonts](https://fonts.google.com/): Raleway ("7 Cups"), Source Serif Pro ("serif"), Source Code Pro ("typewriter") and Shadows Into Light ("novelty"). Source Code Pro and Shadows Into Light are also loaded by the enhanced editor when required.
