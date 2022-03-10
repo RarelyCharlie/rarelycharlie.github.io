@@ -372,6 +372,8 @@ init = function () {
 ## Taglist service {#init}
 Welcome to the taglist service.
 
+<p style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">Changes to the forum made by 7 Cups in March 2022 are preventing many taglists from updating. The affected taglists are those with more than one page in the control thread. This is being worked on.</p>
+
 The service is starting. This can take around 15 seconds...<span id="start-spin" class="spinner"></span>
 {:#start}
 
