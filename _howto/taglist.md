@@ -5,7 +5,7 @@ layout: howto
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 
-<p style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">Changes to the forum made by 7 Cups in March 2022 are preventing many taglists from updating. The affected taglists are those with more than one page in the control thread. This is being worked on.</p>
+<p style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">Changes to the forum made by 7 Cups in March 2022 are currently preventing taglists from updating. This is being worked on.</p>
 
 The Taglist Service here provides a secure and easy way to create auto-updating taglists for 7 Cups.
 
