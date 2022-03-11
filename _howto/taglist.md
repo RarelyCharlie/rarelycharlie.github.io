@@ -19,7 +19,7 @@ Each taglist is controlled by a public thread in a 7 Cups forum. This thread is 
 
 To add yourself to any taglist, go to its control thread in the forums, press the Reply button at the top and write *the exact words* "Please add me."
 
-To remove yourself from any taglist, go to its control thread in the forums, press the Post to Thread button at the top and write *the exact words* "Please remove me."
+To remove yourself from any taglist, go to its control thread in the forums, press the Reply button at the top and write *the exact words* "Please remove me."
 
 The taglist uses these phrases to auto-update.
 
@@ -33,7 +33,7 @@ A taglist can be viewed on its own web page, but it cannot be changed there. The
 
 ### For owners of taglists
 	
-If you are the owner of a taglist or a 7 Cups admin you can give some other commands in the taglist's control thread in the forums. Press the Post to Thread button to give a command. Tags must start with @, and if you include more than one tag they must be separated by spaces, in the usual way.
+If you are the owner of a taglist or a 7 Cups admin you can give some other commands in the taglist's control thread in the forums. Press the Reply button at the top to give a command. Tags must start with @, and if you include more than one tag they must be separated by spaces, in the usual way.
 
  - "Please add: " followed by one or more tags `*`
  - "Please remove: " followed by one or more tags
