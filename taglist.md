@@ -409,7 +409,7 @@ Copy and paste the following instructions into the first post in the thread:
  >
  >To add yourself to this taglist, press the Reply button in this post and write <i>the exact words</i> "Please add me."
  >
- >To remove yourself from this taglist, press the Post to Thread button above and write <i>the exact words</i>, "Please remove me."
+ >To remove yourself from this taglist, press the Reply button in this post and write <i>the exact words</i>, "Please remove me."
 
 Add any other information you like. For example, explain how the taglist will be used.
 
