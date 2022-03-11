@@ -367,7 +367,7 @@ init = function () {
 	}
 </script>
 
-<p style="display:  block; color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex; border-radius: 1ex;"><strong>March 2022</strong>: Changes to the forum made by 7 Cups are currently preventing taglists from updating. This is being worked on.</p>
+<!-- p style="display:  block; color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex; border-radius: 1ex;"><strong>March 2022</strong>: Changes to the forum made by 7 Cups are currently preventing taglists from updating. This is being worked on.</p -->
 
 ## Taglist service {#init}
 Welcome to the taglist service.
@@ -407,7 +407,7 @@ Copy and paste the following instructions into the first post in the thread:
 
  >This thread controls an auto-updating taglist. To see the current list, go to <a  class="listname" href=""></a>.
  >
- >To add yourself to this taglist, press the Post to Thread button above and write <i>the exact words</i> "Please add me."
+ >To add yourself to this taglist, press the Reply button in this post and write <i>the exact words</i> "Please add me."
  >
  >To remove yourself from this taglist, press the Post to Thread button above and write <i>the exact words</i>, "Please remove me."
 

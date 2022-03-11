@@ -5,7 +5,7 @@ layout: howto
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 
-<p style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">Changes to the forum made by 7 Cups in March 2022 are currently preventing taglists from updating. This is being worked on.</p>
+<!-- p style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">Changes to the forum made by 7 Cups in March 2022 are currently preventing taglists from updating. This is being worked on.</p -->
 
 The Taglist Service here provides a secure and easy way to create auto-updating taglists for 7 Cups.
 
@@ -49,4 +49,3 @@ For any other maintenance requirements, to suggest a new feature, or to report a
  
  - When a taglist owner adds tags, there is no check that the tags are valid. (But when someone adds themselves, the tag is guaranteed to be valid at that time.)
  
- - In the event that this service runs into unforseen problems for any reason, taglist owners will be informed.
