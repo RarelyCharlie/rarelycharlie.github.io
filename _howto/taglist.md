@@ -17,7 +17,7 @@ To create a new taglist using this service, click here: [Create Taglist](/taglis
 
 Each taglist is controlled by a public thread in a 7 Cups forum. This thread is the taglist's control thread. The person who creates the control thread (the original poster) owns the taglist.
 
-To add yourself to any taglist, go to its control thread in the forums, press the Post to Thread button at the top and write *the exact words* "Please add me."
+To add yourself to any taglist, go to its control thread in the forums, press the Reply button at the top and write *the exact words* "Please add me."
 
 To remove yourself from any taglist, go to its control thread in the forums, press the Post to Thread button at the top and write *the exact words* "Please remove me."
 
