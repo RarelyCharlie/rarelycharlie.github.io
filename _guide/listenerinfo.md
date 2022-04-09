@@ -113,10 +113,10 @@ initsearch = async function () {
 		r = await r.text()
 		acfi = JSON.parse(LZString.decompressFromEncodedURIComponent(r))
 		acfi.cat = {
-			38: 'ListenerCommunityCenter',
 			100: 'SiteUpdates',
 			149: 'ListenerLearningJourney',
-			181: 'SafetyKnowledge7Cups'
+			181: 'SafetyKnowledge7Cups',
+			184: 'CommunityProjectsEvents'
 			}
 		date = (new Date(acfi.on)).toDateString()
 		}
