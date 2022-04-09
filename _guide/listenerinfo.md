@@ -48,7 +48,7 @@ span.listener {margin: 0;}
 |Search for:|<label for="forall" onclick="search()"><input type="radio" name="searchfor" id="forall" value="0" checked> All of the words (more words for fewer results)</label>|
 ||<label for="forany" onclick="search()"><input type="radio" name="searchfor" id="forany" value="0"> <em>Any</em> of the words (more words for more results)</label>|
 ||<label for="forauthor" onclick="search()"><input type="radio" name="searchfor" id="forauthor" value="0"> An author</label>|
-|Sort by:|<label for="byupvotes" onclick="search()"><input type="radio" name="sortby" id="byupvotes" value="0" checked> Upvotes</label> <label for="bydate" onclick="search()"><input type="radio" name="sortby" id="bydate" value="1"> Date</label> <label for="byrelev" onclick="search()"><input type="radio" name="sortby" id="byrelev" value="2"> Relevance</label>|
+|Sort by:|<label for="byhearts" onclick="search()"><input type="radio" name="sortby" id="byhearts" value="0" checked> Hearts</label> <label for="bydate" onclick="search()"><input type="radio" name="sortby" id="bydate" value="1"> Date</label> <label for="byrelev" onclick="search()"><input type="radio" name="sortby" id="byrelev" value="2"> Relevance</label>|
  
 <p><label for="archive" onclick="search()"><input type="checkbox" id="archive" /> Include archived threads.
 </label><br />
@@ -84,7 +84,7 @@ config = {
 	}
 	
 sorters = [
-	(a, b) => b.up - a.up,
+	(a, b) => b.heart - a.heart,
 	(a, b) => b.at - a.at,
 	(a, b) => 0
 	] 
@@ -209,7 +209,7 @@ display = () => {
 		  + (onlyR.includes(parseInt(thread.cat))? ' class="onlyR" title="Restricted"' : '')
 		  + '>' + thread.head + '</a> '
 		  + '<br><small>'
-		  + ' <i class="fa fa-arrow-up"></i> ' + thread.up.toLocaleString()
+		  + ' <i class="fa fa-heart"></i> ' + parseInt(thread.heart).toLocaleString()
 		  + ' by ' + profile 
 		  + ' in ' + months[when.getMonth()] + ' ' + when.getFullYear()
 		  + '</small></p>\n'
