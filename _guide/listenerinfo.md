@@ -25,6 +25,7 @@ span.listener {margin: 0;}
 #build {color: gray; font-size: 80%; float: right;}
 #more {margin: 1em 0 0 0; color: #fff; background: #29f; padding: 1ex 1em; border-radius: 4px;}
 #content summary + p {margin-top: 1em;}
+.fa-heart {color: #29f; font-size: smaller;}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
