@@ -541,5 +541,4 @@ data = [{"url":"/home/35plus/","title":"35 & Over Community","strap":"Our aim is
 {"last":"1645936053","url":"/forum/YoungPeopleofColor_129/WeeklyQuotes_2215/","title":"Weekly Quotes ","strap":"Get inspired and join in our discussions"},
 {"last":"1643668837","url":"/forum/YoungPeopleofColor_129/WelcomesandIntroductions_1548/","title":"Welcomes and Introductions","strap":"Stop by, say hi and introduce yourself to the People of Color Support community."},
 {"last":"1635829492","url":"/forum/YoungPeopleofColor_129/WhatsNewYPOCCommunityUpdates_2002/","title":"What's New?: YPOC Community Updates","strap":"Updates and Announcements related to projects, support sessions and forums."},
-{"last":"1628021113","url":"/forum/YoungPeopleofColor_129/YPOCForumActivities_701/","title":"YPOC Forum Activities ","strap":"This is a section dedicated to providing information about upcoming discussions and related forum activity"}]},
-{"url":"/forum/GriefLossCommunity_61/","title":"Grief & Loss Community","strap":"","forums":[]}]
+{"last":"1628021113","url":"/forum/YoungPeopleofColor_129/YPOCForumActivities_701/","title":"YPOC Forum Activities ","strap":"This is a section dedicated to providing information about upcoming discussions and related forum activity"}]}]
