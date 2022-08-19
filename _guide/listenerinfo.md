@@ -73,7 +73,7 @@ idx = null
 chunk = 100
 limit = 100
 
-onlyL = [38, 149, 167] // Community, Learning, Interns
+onlyL = ['149', '167', '207'] // Learning, Interns, Quality
 onlyR = [183] // Bubble
 
 config = {
@@ -117,7 +117,8 @@ initsearch = async function () {
 			100: 'SiteUpdates',
 			149: 'ListenerLearningJourney',
 			181: 'SafetyKnowledge7Cups',
-			184: 'CommunityProjectsEvents'
+			184: 'CommunityProjectsEvents',
+			207: 'QualityListeningProgram'
 			}
 		date = (new Date(acfi.on)).toDateString()
 		}
