@@ -367,7 +367,10 @@ init = function () {
 	}
 </script>
 
-<!-- p style="display:  block; color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex; border-radius: 1ex;"><strong>March 2022</strong>: Changes to the forum made by 7 Cups are currently preventing taglists from updating. This is being worked on.</p -->
+<div style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">
+<h2>End of service</h2>
+<p>This service will end on or before Sunday, November 27th, 2022. Please check the forum for further announcements: <a href="https://www.7cups.com/forum/SiteUpdates_100/SuggestionsandProblemSolving_383/Maintainingtaglistsanexperiment_177703/?post=3124537">End of service notification</a></p>
+</div>
 
 ## Taglist service {#init}
 Welcome to the taglist service.
