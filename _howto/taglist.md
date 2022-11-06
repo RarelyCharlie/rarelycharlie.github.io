@@ -7,7 +7,7 @@ feedback: https://www.7cups.com/@RarelyCharlie
 
 <div style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">
 <h2>End of service</h2>
-<p>This service will end on or before Sunday, November 27th, 2022. Please check the forum for further announcements: [End of service notification](https://www.7cups.com/forum/SiteUpdates_100/SuggestionsandProblemSolving_383/Maintainingtaglistsanexperiment_177703/?post=3124537)</p>
+<p>This service will end on or before Sunday, November 27th, 2022. Please check the forum for further announcements: <a href="https://www.7cups.com/forum/SiteUpdates_100/SuggestionsandProblemSolving_383/Maintainingtaglistsanexperiment_177703/?post=3124537">End of service notification</a></p>
 </div>
 
 The Taglist Service here provides a secure and easy way to create auto-updating taglists for 7 Cups.
