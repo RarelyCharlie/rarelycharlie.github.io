@@ -8,7 +8,9 @@ feedback: https://www.7cups.com/@RarelyCharlie
 
 Tea & Cake is a collection of enhancements and bug fixes for 7 Cups' website. (In the current version of Tea & Cake, there is only one enhancement. Others are planned.)
 
-### Installation{: style="clear: both;"}
+### Installation
+{: style="clear: both;"}
+
 To install Tea & Cake, first install [Tampermonkey](https://www.tampermonkey.net/). Most desktop and laptop browsers can install Tampermonkey, and some Android browsers also can (for example, [Kiwi](https://kiwibrowser.com/)). Apps and Apple iOS devices do not support it.
 
 Next, install the [7 Cups - Tea & Cake](https://greasyfork.org/en/scripts/454925-7-cups-tea-cake) script. (If Tampermonkey is working, you should see a green Install button there.)
