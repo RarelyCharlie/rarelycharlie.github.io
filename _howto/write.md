@@ -39,13 +39,13 @@ _Example:_ You are a therapist and a member asks you a question only a psychiatr
 
 Although you are writing becuase you have professional expertise, providing links to current authoritative sources helps to establish your own knowledge and authority.
 
-_Example:_ You want to tell your readers what bipolar disorder is. You can provide a link to the World Health Organization's [definition in ICD-10](https://icd.who.int/browse10/2010/en#F31).
+_Example:_ You want to tell your readers what bipolar disorder is. You can provide a link to the World Health Organization's [definition in ICD-11](https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f613065957).
 
 ### Sources of facts should be current
 
 Ensure that the sources of information you rely on are not obsolete, because some readers will have up-to-date information.
 
-_Example:_ Instead of linking to a quote from the obsolete DSM-IV, link to a quote from the current DSM-5. ICD-10 is even better, because it applies internationally and you can link to it directly. However, do not rely on the newer ICD-11 draft before it has come into effect.
+_Example:_ Instead of linking to a quote from the obsolete DSM-IV, link to a quote from the current DSM-5-TR. ICD-11 is even better, because it applies internationally and you can link to it directly.
 
 ### Sources of facts should be public
 
@@ -88,7 +88,7 @@ _Example:_ Instead of advising that a certain medication is available but requir
 
 _Example:_ Avoid referring to medication by brand name, such as Tylenol or Xanax, because brand names differ between countries. A brand you are familiar with might not exist another country, or it might exist but contain different ingredients. You can use a generic name instead, but if the generic name also differs from country to country (like acetaminophen/paracetamol and dosulepin/dothiepin), mention all the variants.
 
-_Example:_ Instead of referring to licensed therapists, refer to qualified therapists, because licencing has no legal meaning in some parts of the world.
+_Example:_ Instead of referring to licensed therapists, refer to qualified therapists, because licencing has no meaning in some parts of the world.
 
 _Example:_ When you mention a law that applies to you (for example, HIPAA in the US), make it clear that other places have different laws.  
 
@@ -124,7 +124,7 @@ If you wrote something that turned out later to be mistaken, or if people misund
 
 Repeating yourself, however, and providing exactly the same information a second time in different words, is pointless and looks bad.
 
-_Example:_ You mistakenly write that OCD is an anxiety disorder, forgetting that neither DSM-5 nor ICD-10 classifies it that way (although the obsolete DSM-IV did). You either correct the text or add a note that provides the correct information.
+_Example:_ You mistakenly write that OCD is an anxiety disorder, forgetting that neither DSM-5-TR nor ICD-11 classifies it that way (although the obsolete DSM-IV did). You either correct the text or add a note that provides the correct information.
 
 ### Do not feed the trolls
 
