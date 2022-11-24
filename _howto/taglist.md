@@ -35,13 +35,12 @@ The title of the control thread must contain the word "taglist" or the phrase "t
 The top post should explain how the taglist works. For example, you could write:
 
 <blockquote>
-This thread controls an auto-updating taglist.
+<p>This thread controls an auto-updating taglist.</p>
+<p>To add yourself to this taglist, press the Reply button below and write the exact words: <b>Please add me</b></p>
 
-To add yourself to this taglist, press the Post to Thread button below and write the exact words: **Please add me**
+<p>To remove yourself from this taglist, press the Reply button below and write the exact words: <b>Please remove me</b></p>
 
-To remove yourself from this taglist, press the Post to Thread button below and write the exact words: **Please remove me.**
-
-To compile and use the list, see: [Tea & Cake — Compiling taglists]()
+<p>To compile and use the list, see: [Tea & Cake — Compiling taglists]()</p>
 </blockquote>
 
 Whoever creates the control thread will be the taglist's owner.
