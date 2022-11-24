@@ -5,16 +5,14 @@ layout: howto
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 
-<div style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">
+<!-- div style="color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">
 <h2>End of service</h2>
 <p>This service will end on or before Sunday, November 27th, 2022. Please check the forum for further announcements: <a href="https://www.7cups.com/forum/SiteUpdates_100/SuggestionsandProblemSolving_383/Maintainingtaglistsanexperiment_177703/?post=3124537">End of service notification</a></p>
-</div>
+</div -->
 
-The Taglist Service here provides a secure and easy way to create auto-updating taglists for 7 Cups.
+This article describes provides a secure and easy way to create auto-updating taglists for 7 Cups.
 
 You don't need a Google account or any special privilege at 7 Cups. There is no possibility of offsite contact.
-
-To create a new taglist using this service, click here: [Create Taglist](/taglist). Follow the instructions.
 
 ### How it works
 
@@ -26,13 +24,27 @@ To remove yourself from any taglist, go to its control thread in the forums, pre
 
 The taglist uses these phrases to auto-update.
 
-### Security
+### Creating a new taglist
 
-A taglist that uses this service is secure because it can only be updated from its registered forum thread. People can only add or remove themselves, not anyone else. Any attempt to add or remove someone else is simply ignored.
+To create a new taglist, create a forum thread in the usual way. This will be the control thread.
 
-The ability to add or remove other people is restricted to the taglist's owner (normally the original poster of the forum thread), to 7 Cups admins, and to the owner of the service.
+The control thread can be anywhere in the forum. If you post it in a private area of the forum, then the taglist will be private—for example, listener-only or teen-only.
 
-A taglist can be viewed on its own web page, but it cannot be changed there. The service stores taglists on a completely separate secure database server.
+The title of the control thread must contain the word "taglist" or the phrase "tag list".
+
+The top post should explain how the taglist works. For example, you could write:
+
+<blockquote>
+This thread controls an auto-updating taglist.
+
+To add yourself to this taglist, press the Post to Thread button below and write the exact words: **Please add me**
+
+To remove yourself from this taglist, press the Post to Thread button below and write the exact words: **Please remove me.**
+
+To compile and use the list, see: [Tea & Cake — Compiling taglists]()
+</blockquote>
+
+Whoever creates the control thread will be the taglist's owner.
 
 ### For owners of taglists
 	
@@ -41,14 +53,9 @@ If you are the owner of a taglist or a 7 Cups admin you can give some other comm
  - "Please add: " followed by one or more tags `*`
  - "Please remove: " followed by one or more tags
  - "Please remove everyone."
- - "Please transfer this taglist to " followed by one tag. This changes the taglist's owner.
+ - "New owner " followed by one tag. This changes the taglist's owner.
  
 `*` When adding a lot of tags, take care to ensure that they are all correct. The service does not validate them. Extra spaces, other unexpected characters, or missing @-signs can prevent the update from being processed in the way you expect. Using the separate [Clean up a taglist](https://rarelycharlie.github.io/howto/taglist-cleanup) service before adding a lot of tags is *very strongly recommended*.
 
-For any other maintenance requirements, to suggest a new feature, or to report a problem, please send a message (PM) to the service owner, [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).
-
-**Notes:**
- - Only public control threads are supported. Control threads in private areas of the forums do not work. (For example, control threads in the listener and therapist areas do not work.)
- 
- - When a taglist owner adds tags, there is no check that the tags are valid. (But when someone adds themselves, the tag is guaranteed to be valid at that time.)
+For any other maintenance requirements, to suggest a new feature, or to report a problem, please send a message (PM) to [@RarelyCharlie](https://www.7cups.com/@RarelyCharlie).
  
