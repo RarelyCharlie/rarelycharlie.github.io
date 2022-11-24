@@ -40,7 +40,7 @@ The top post should explain how the taglist works. For example, you could write:
 
 <p>To remove yourself from this taglist, press the Reply button below and write the exact words: <b>Please remove me</b></p>
 
-<p>To compile and use the list, see: [Tea & Cake — Compiling taglists]()</p>
+<p>To compile and use the list, see: <a href="https://www.7cups.com/forum/SiteUpdatesInformationFortheCommunity_100/SuggestionsandProblemSolving_383/TeaCakeCompilingautomatedtaglists_291762/">Tea & Cake — Compiling taglists</a></p>
 </blockquote>
 
 Whoever creates the control thread will be the taglist's owner.
