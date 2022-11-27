@@ -1,7 +1,7 @@
 ---
 prefix: Unofficial 7 Cups support
 title: Taglist service
-layout: default
+layout: plain
 feedback: https://www.7cups.com/@RarelyCharlie
 ---
 <style>
