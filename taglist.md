@@ -40,5 +40,6 @@ span.found {background: #5df;}
 <div style="display: block !important; color: #a00; border: 1px solid #a00; padding: 1ex; margin-left: -1ex;">
 <h2>Service ended</h2>
 <p>This service ended on Sunday, November 27th, 2022.</p>
+<p>To compile a taglist so you can use it, see the new instructions: [Tea & Cake — Compiling automated taglists](https://www.7cups.com/forum/SiteUpdates_100/SuggestionsandProblemSolving_383/TeaCakeCompilingautomatedtaglists_291762/).</p>
 <p>For more information about auto-updating taglists, see the <a title="Taglist documentation" href="/howto/taglist">Howto guide</a>.</p>
 </div>
