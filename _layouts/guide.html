@@ -419,7 +419,7 @@ init = function () {
 </head>
 <body onload="init()">
 <div id="header"><span>{{ layout.prefix }}</span><h2>{{ page.title }}</h2>
-<p style="border: 1px solid #a00; margin: 0 auto; background: white; width: 20em; color: #a00; box-shadow: #444 0 0 14px;">These pages are no longer maintained.<br>Some information might be obsolete.</p>
+<p onmouseover="this.hidden = true" style="border: 1px solid #a00; margin: 0 auto; background: white; width: 20em; color: #a00; box-shadow: #444 0 0 14px;">These pages are no longer maintained.<br>Some information might be obsolete.</p>
 </div>
 <div id="content">
 {{ content }}
